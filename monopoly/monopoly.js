@@ -1,4 +1,4 @@
-ar dice=document.getElementById("node");
+var dice=document.getElementById("node");
 
 function plum() {
 var one=document.getElementById("oneB");
