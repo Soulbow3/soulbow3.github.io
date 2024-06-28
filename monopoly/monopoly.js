@@ -676,7 +676,7 @@ jailOne.innerHTML="";
 jailO.innerHTML="One";}
 if (jailTwo.innerHTML==="Two") {
 jailTwo.innerHTML="";
-jailT.innerHTML="";}}
+jailT.innerHTML="Two";}}
 
 function playerOne() {
 var one=document.getElementById("oneA");
