@@ -361,7 +361,7 @@ element.innerHTML="";
 golda.innerHTML="One";}
 else if (element.innerHTML==="Two" && card.innerHTML==="Advance To Gold") {
 goldb.innerHTML="Two";
-element.innerHTML="";}
+element.innerHTML="";}}
 
 function cardOne() {
 var acc=document.getElementById("cardAcc");
