@@ -331,7 +331,7 @@ back.style.background="red";}}
 
 function red() {
 var one=document.getElementById("oneV");
-var three=document.getElementById("re");
+var three=document.getElementById("redOne");
 var back=document.getElementById("redBack");
 var two=document.getElementById("twoV");
 if (back.style.background==="red" && two.innerHTML==="Two") {
@@ -411,7 +411,7 @@ back.style.background="red";}}
 
 function gold() {
 var one=document.getElementById("fone");
-var three=document.getElementById("gol");
+var three=document.getElementById("goldOne");
 var back=document.getElementById("goldBack");
 var two=document.getElementById("ftwo");
 if (back.style.background==="red" && two.innerHTML==="Two") {
