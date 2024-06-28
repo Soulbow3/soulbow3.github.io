@@ -1160,7 +1160,7 @@ thirty.innerHTML="One";
 twentyfive.innerHTML="";}
 else if (twentyfive.innerHTML==="One" && dice.innerHTML==="6") {
 thirtyone.innerHTML="One";
-one.innerHTML="";}
+twentyfive.innerHTML="";}
 else if (twentysix.innerHTML==="One" && dice.innerHTML==="1") {
 twentyseven.innerHTML="One";
 twentysix.innerHTML="";}
@@ -1770,7 +1770,7 @@ thirty.innerHTML="Two";
 twentyfive.innerHTML="";}
 else if (twentyfive.innerHTML==="Two" && dice.innerHTML==="6") {
 thirtyone.innerHTML="Two";
-two.innerHTML="";}
+twentyfive.innerHTML="";}
 else if (twentysix.innerHTML==="Two" && dice.innerHTML==="1") {
 twentyseven.innerHTML="Two";
 twentysix.innerHTML="";}
