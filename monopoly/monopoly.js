@@ -381,7 +381,7 @@ element.innerHTML="";
 back3a.innerHTML="One";}
 else if (tile4a.innerHTML==="One") {
 element.innerHTML="";
-back4a.innerHTML="One"}
+back4a.innerHTML="One";}
 else if (tile5b.innerHTML="Two") {
 element.innerHTML="";
 back1b.innerHTML="Two";}
@@ -393,7 +393,7 @@ element.innerHTML="";
 back3b.innerHTML="Two";}
 else if (tile8b.innerHTML==="Two") {
 element.innerHTML="";
-back4b.innerHTML="Two"}}
+back4b.innerHTML="Two";}}
 
 function cardOne() {
 var acc=document.getElementById("cardAcc");
@@ -584,7 +584,7 @@ else if (
 acc.innerHTML==="Advance To Go" && tile5b.innerHTML==="Two") {
 acc.innerHTML="Nothing";}
 else if (
-acc.innerHTML==="Nothing" && tile5b.innerHTML==="One") {
+acc.innerHTML==="Nothing" && tile5b.innerHTML==="Two") {
 acc.innerHTML="Jail";}
 else if (
 acc.innerHTML==="Jail" && tile5b.innerHTML==="Two") {
