@@ -347,6 +347,14 @@ else if (element.innerHTML==="One") {
 element.innerHTML="Two";}}
 
 function cardMovement(element) {
+var move1=document.getElementByID("oneD");
+var move2=document.getElementByID("twoD");
+var move3=document.getElementByID("oneU");
+var move4=document.getElementByID("twoU");
+var move5=document.getElementByID("bone");
+var move6=document.getElementByID("btwo");
+var move7=document.getElementByID("done");
+var move8=document.getElementByID("dtwo");
 var two=document.getElementById("twoH");
 var one=document.getElementById("oneH");
 var card=document.getElementById("cardAcc");
@@ -354,12 +362,152 @@ var go1=document.getElementById("oneA");
 var go2=document.getElementById("twoA");
 var goldb=document.getElementById("ftwo");
 var golda=document.getElementById("fone");
-if (element.innerHTML==="One" && card.innerHTML==="Jail") {
+if (move1.innerHTML==="One" && card.innerHTML==="Jail") {
 one.innerHTML="One";
-element.innerHTML="";}
-else  if (element.innerHTML==="Two" && card.innerHTML==="Jail") {
+move1.innerHTML="";}
+else if  (move1.innerHTML==="Two" && card.innerHTML==="Jail") {
+one.innerHTML="Two";
+move1.innerHTML="";}
+else if (move1.innerHTML==="One" && card.innerHTML==="Jail") {
+two.innerHTML="One";
+move1.innerHTML="";}
+else if  (move1.innerHTML==="Two" && card.innerHTML==="Jail") {
 two.innerHTML="Two";
-element.innerHTML="";}
+move1.innerHTML="";}
+else  if (move2.innerHTML==="Two" && card.innerHTML==="Jail") {
+one.innerHTML="Two";
+move2.innerHTML="";}
+else if  (move2.innerHTML==="One" && card.innerHTML==="Jail") {
+one.innerHTML="One";
+move2.innerHTML="";}
+else  if (move2.innerHTML==="Two" && card.innerHTML==="Jail") {
+two.innerHTML="Two";
+move2.innerHTML="";}
+else if  (move2.innerHTML==="One" && card.innerHTML==="Jail") {
+two.innerHTML="One";
+move2.innerHTML="";}
+else if (move3.innerHTML==="One" && card.innerHTML==="Jail") {
+one.innerHTML="One";
+move3.innerHTML="";}
+else if  (move2.innerHTML==="One" && card.innerHTML==="Jail") {
+two.innerHTML="One";
+move2.innerHTML="";}
+else if (move3.innerHTML==="One" && card.innerHTML==="Jail") {
+two.innerHTML="One";
+move3.innerHTML="";}
+else if  (move3.innerHTML==="Two" && card.innerHTML==="Jail") {
+one.innerHTML="Two";
+move3.innerHTML="";}
+else if (move4.innerHTML==="Two" && card.innerHTML==="Jail") {
+one.innerHTML="Two";
+move4.innerHTML="";}
+else if  (move4.innerHTML==="One" && card.innerHTML==="Jail") {
+one.innerHTML="One";
+move4.innerHTML="";}
+else if (move4.innerHTML==="Two" && card.innerHTML==="Jail") {
+two.innerHTML="Two";
+move4.innerHTML="";}
+else if  (move4.innerHTML==="One" && card.innerHTML==="Jail") {
+two.innerHTML="One";
+move4.innerHTML="";}
+else if (move5.innerHTML==="One" && card.innerHTML==="Jail") {
+one.innerHTML="One";
+move5.innerHTML="";}
+else if  (move5.innerHTML==="Two" && card.innerHTML==="Jail") {
+one.innerHTML="Two";
+move5.innerHTML="";}
+else if (move5.innerHTML==="One" && card.innerHTML==="Jail") {
+two.innerHTML="One";
+move5.innerHTML="";}
+else if  (move5.innerHTML==="Two" && card.innerHTML==="Jail") {
+two.innerHTML="Two";
+move5.innerHTML="";}
+else  if (move6.innerHTML==="Two" && card.innerHTML==="Jail") {
+one.innerHTML="Two";
+move6.innerHTML="";}
+else if  (move6.innerHTML==="One" && card.innerHTML==="Jail") {
+one.innerHTML="One";
+move6.innerHTML="";}
+else  if (move6.innerHTML==="Two" && card.innerHTML==="Jail") {
+two.innerHTML="Two";
+move6.innerHTML="";}
+else if  (move6.innerHTML==="One" && card.innerHTML==="Jail") {
+two.innerHTML="One";
+move6.innerHTML="";}
+else if (move7.innerHTML==="One" && card.innerHTML==="Jail") {
+one.innerHTML="One";
+move7.innerHTML="";}
+else if  (move7.innerHTML==="Two" && card.innerHTML==="Jail") {
+one.innerHTML="Two";
+move7.innerHTML="";}
+else if (move7.innerHTML==="One" && card.innerHTML==="Jail") {
+two.innerHTML="One";
+move7.innerHTML="";}
+else if  (move7.innerHTML==="Two" && card.innerHTML==="Jail") {
+two.innerHTML="Two";
+move7.innerHTML="";}
+else  if (move8.innerHTML==="Two" && card.innerHTML==="Jail") {
+one.innerHTML="Two";
+move8.innerHTML="";}
+else if  (move8.innerHTML==="One" && card.innerHTML==="Jail") {
+one.innerHTML="One";
+move8.innerHTML="";}
+else  if (move8.innerHTML==="Two" && card.innerHTML==="Jail") {
+two.innerHTML="Two";
+move8.innerHTML="";}
+else if  (move8.innerHTML==="One" && card.innerHTML==="Jail") {
+two.innerHTML="One";
+move8.innerHTML="";}
+  
+else if (move1.innerHTML==="One" && card.innerHTML==="Advance To Go") {
+one.innerHTML="One";
+move1.innerHTML="";}
+else if  (move1.innerHTML==="Two" && card.innerHTML==="Advance To Go") {
+one.innerHTML="Two";
+move1.innerHTML="";}
+else  if (move2.innerHTML==="Two" && card.innerHTML==="Advance To Go") {
+one.innerHTML="Two";
+move2.innerHTML="";}
+else if  (move2.innerHTML==="One" && card.innerHTML==="Advance To Go") {
+one.innerHTML="One";
+move2.innerHTML="";}
+else if (move3.innerHTML==="One" && card.innerHTML==="Advance To Go") {
+one.innerHTML="One";
+move3.innerHTML="";}
+else if  (move3.innerHTML==="Two" && card.innerHTML==="Advance To Go") {
+one.innerHTML="Two";
+move3.innerHTML="";}
+else if (move4.innerHTML==="Two" && card.innerHTML==="Advance To Go") {
+one.innerHTML="Two";
+move4.innerHTML="";}
+else if  (move4.innerHTML==="One" && card.innerHTML==="Advance To Go") {
+one.innerHTML="One";
+move4.innerHTML="";}
+else if (move5.innerHTML==="One" && card.innerHTML==="Advance To Go") {
+one.innerHTML="One";
+move5.innerHTML="";}
+else if  (move5.innerHTML==="Two" && card.innerHTML==="Advance To Go") {
+one.innerHTML="Two";
+move5.innerHTML="";}
+else  if (move6.innerHTML==="Two" && card.innerHTML==="Advance To Go") {
+one.innerHTML="Two";
+move6.innerHTML="";}
+else if  (move6.innerHTML==="One" && card.innerHTML==="Advance To Go") {
+one.innerHTML="One";
+move6.innerHTML="";}
+else if (move7.innerHTML==="One" && card.innerHTML==="Advance To Go") {
+one.innerHTML="One";
+move7.innerHTML="";}
+else if  (move7.innerHTML==="Two" && card.innerHTML==="Advance To Go") {
+one.innerHTML="Two";
+move7.innerHTML="";}
+else  if (move8.innerHTML==="Two" && card.innerHTML==="Advance To Go") {
+one.innerHTML="Two";
+move8.innerHTML="";}
+else if  (move8.innerHTML==="One" && card.innerHTML==="Advance To Go") {
+one.innerHTML="One";
+move8.innerHTML="";}
+  
 else if (element.innerHTML==="One" && card.innerHTML==="Advance To Go") {
 go1.innerHTML="One";
 element.innerHTML="";}
