@@ -1271,22 +1271,22 @@ five.innerHTML="One";
 thirtyone.innerHTML="";}
 else if (thirtytwo.innerHTML==="One" && dice.innerHTML==="1") { 
 one.innerHTML="One";
-thirtytwo.style.background="";}
+thirtytwo.innerHTML"";}
 else if (thirtytwo.innerHTML==="One" && dice.innerHTML==="2") { 
 two.innerHTML="One";
-thirtytwo.style.background="";}
+thirtytwo.innerHTML="";}
 else if (thirtytwo.innerHTML==="One" && dice.innerHTML==="3") { 
 three.innerHTML="One";
-thirtytwo.style.background="";}
+thirtytwo.innerHTML="";}
 else if (thirtytwo.innerHTML==="One" && dice.innerHTML==="4") { 
 four.innerHTML="One";
-thirtytwo.style.background="";}
+thirtytwo.innerHTML="";}
 else if (thirtytwo.innerHTML==="One" && dice.innerHTML==="5") { 
 five.innerHTML="One";
-thirtytwo.style.background="";}
+thirtytwo.innerHTML="";}
 else if (thirtytwo.innerHTML==="One" && dice.innerHTML==="6") { 
 six.innerHTML="One";
-thirtytwo.style.background="";}}
+thirtytwo.innerHTML="";}}
 
 function playerTwo() {
 var one=document.getElementById("twoA");
