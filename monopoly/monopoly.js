@@ -1271,7 +1271,7 @@ five.innerHTML="One";
 thirtyone.innerHTML="";}
 else if (thirtytwo.innerHTML==="One" && dice.innerHTML==="1") { 
 one.innerHTML="One";
-thirtytwo.innerHTML"";}
+thirtytwo.innerHTML="";}
 else if (thirtytwo.innerHTML==="One" && dice.innerHTML==="2") { 
 two.innerHTML="One";
 thirtytwo.innerHTML="";}
