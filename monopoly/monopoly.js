@@ -382,7 +382,7 @@ back3a.innerHTML="One";}
 else if (tile4a.innerHTML==="One") {
 element.innerHTML="";
 back4a.innerHTML="One";}
-else if (tile5b.innerHTML="Two") {
+else if (tile5b.innerHTML==="Two") {
 element.innerHTML="";
 back1b.innerHTML="Two";}
 else if (tile6b.innerHTML==="Two") {
