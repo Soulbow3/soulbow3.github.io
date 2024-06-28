@@ -14,8 +14,7 @@ three.innerHTML="Rent $20";
 back.style.background="purple";}
 else if (one.innerHTML==="One") {
 three.innerHTML="Rent $20";
-back.style.background="red";}
-}
+back.style.background="red";}}
 
 function plumTwo() {
 var one=document.getElementById("oneC");
