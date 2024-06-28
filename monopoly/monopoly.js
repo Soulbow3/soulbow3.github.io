@@ -369,7 +369,7 @@ go1.innerHTML="One";
 element.innerHTML="";}
 else if (element.innerHTML==="Two" && card.innerHTML==="Advance To Go") {
 go2.innerHTML="Two";
-element.innerHTML="';}
+element.innerHTML="";}
 else if (tile1a.innerHTML==="One") {
 element.innerHTML="";
 back1a.innerHTML="One";}
@@ -426,7 +426,7 @@ acc.innerHTML==="Advance To Go" && tile2a.innerHTML==="One") {
 acc.innerHTML="Nothing";}
 else if (
 acc.innerHTML==="Nothing" && tile1a.innerHTML==="One") {
-acc.innerHTML="Jail";
+acc.innerHTML="Jail";}
 else if (
 acc.innerHTML==="Nothing" && tile2a.innerHTML==="Two") {
 acc.innerHTML="Jail";}
