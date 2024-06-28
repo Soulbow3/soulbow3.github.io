@@ -578,9 +578,6 @@ else if (
 acc.innerHTML==="+$200" && tile5a.innerHTML==="One") {
 acc.innerHTML="Advance To Go";}
 else if (
-acc.innerHTML==="+$200" && tile5b.innerHTML==="Two") {
-acc.innerHTML="Advance To Go";}
-else if (
 acc.innerHTML==="Advance To Go" && tile5b.innerHTML==="Two") {
 acc.innerHTML="Nothing";}
 else if (
