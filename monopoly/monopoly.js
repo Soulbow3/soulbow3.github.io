@@ -342,22 +342,10 @@ var one=document.getElementById("oneH");
 var card=document.getElementById("cardAcc");
 var go1=document.getElementById("oneA");
 var go2=document.getElementById("twoA");
-var back1a=document.getElementById("oneA");
-var back2a=document.getElementById("oneR");
-var back3a=document.getElementById("oneY");
-var back4a=document.getElementById("aone");
-var back1b=document.getElementById("twoA");
-var back2b=document.getElementById("twoR");
-var back3b=document.getElementById("twoY");
-var back4b=document.getElementById("atwo");
-var tile1a=document.getElementById("oneD");
-var tile2a=document.getElementById("oneU");
-var tile3a=document.getElementById("done");
-var tile4a=document.getElementById("bone");
-var tile5b=document.getElementById("twoD");
-var tile6b=document.getElementById("twoU");
-var tile7b=document.getElementById("dtwo");
-var tile8b=document.getElementById("btwo");
+var golda=document.getElementById("ftwo");
+var goldb=document.getElementById("fone");
+
+var tile8b=document.getElementById("ftwo");
 if (element.innerHTML==="One" && card.innerHTML==="Jail") {
 one.innerHTML="One";
 element.innerHTML="";}
@@ -370,30 +358,12 @@ element.innerHTML="";}
 else if (element.innerHTML==="Two" && card.innerHTML==="Advance To Go") {
 go2.innerHTML="Two";
 element.innerHTML="";}
-else if (tile1a.innerHTML==="One") {
+else if (element.innerHTML==="One" && card.innerHTML==="Advance To Gold") {
 element.innerHTML="";
-back1a.innerHTML="One";}
-else if (tile2a.innerHTML==="One") {
-element.innerHTML="";
-back2a.innerHTML="One";}
-else if (tile3a.innerHTML==="One") {
-element.innerHTML="";
-back4a.innerHTML="One";}
-else if (tile4a.innerHTML==="One") {
-element.innerHTML="";
-back3a.innerHTML="One";}
-else if (tile5b.innerHTML==="Two") {
-element.innerHTML="";
-back1b.innerHTML="Two";}
-else if (tile6b.innerHTML==="Two") {
-element.innerHTML="";
-back2b.innerHTML="Two";}
-else if (tile7b.innerHTML==="Two") {
-element.innerHTML="";
-back4b.innerHTML="Two";}
-else if (tile8b.innerHTML==="Two") {
-element.innerHTML="";
-back3b.innerHTML="Two";}}
+golda.innerHTML="One";}
+else if (element.innerHTML==="Two" && card.innerHTML==="Advance To Gold") {
+goldb.innerHTML="Two";
+element.innerHTML="";}
 
 function cardOne() {
 var acc=document.getElementById("cardAcc");
@@ -408,9 +378,9 @@ else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="One")
 {acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile1a.innerHTML==="One") {
-acc.innerHTML="Back 3";}
+acc.innerHTML="Advance To Gold";}
 else if (
-acc.innerHTML==="Back 3" && tile1a.innerHTML==="One") {
+acc.innerHTML==="Advance To Gold" && tile1a.innerHTML==="One") {
 acc.innerHTML="-$75";}
 else if (
 acc.innerHTML==="-$75" && tile1a.innerHTML==="One") {
@@ -422,18 +392,15 @@ else if (
 acc.innerHTML==="Advance To Go" && tile1a.innerHTML==="One") {
 acc.innerHTML="Nothing";}
 else if (
-acc.innerHTML==="Advance To Go" && tile2a.innerHTML==="One") {
-acc.innerHTML="Nothing";}
-else if (
 acc.innerHTML==="Nothing" && tile2a.innerHTML==="Two") {
 acc.innerHTML="Jail";}
 else if (acc.innerHTML==="Jail" && tile2a.innerHTML==="Two") 
 {acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile2a.innerHTML==="Two") {
-acc.innerHTML="Back 3";}
+acc.innerHTML="Advance To Gold";}
 else if (
-acc.innerHTML==="Back 3" && tile2a.innerHTML==="Two") {
+acc.innerHTML==="Advance To Gold" && tile2a.innerHTML==="Two") {
 acc.innerHTML="-$75";}
 else if (
 acc.innerHTML==="-$75" && tile2a.innerHTML==="Two") {
@@ -455,7 +422,7 @@ function cardThree() {
 var acc=document.getElementById("cardAcc");
 var tile3a= document.getElementById("oneU");
 var tile3b= document.getElementById("twoU");
-if (acc.innerHTML==="Back 3" && tile3a.innerHTML==="One") {
+if (acc.innerHTML==="Advance To Gold" && tile3a.innerHTML==="One") {
 acc.innerHTML="-$75";}
 else if (
 acc.innerHTML==="-$75" && tile3a.innerHTML==="One") {
@@ -473,9 +440,9 @@ else if (acc.innerHTML==="Jail" && tile3a.innerHTML==="One")
 {acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile3a.innerHTML==="One") {
-acc.innerHTML="Back 3";}
+acc.innerHTML="Advance To Gold";}
 else if (
-acc.innerHTML==="Back 3" && tile3b.innerHTML==="Two") {
+acc.innerHTML==="Advance To Gold" && tile3b.innerHTML==="Two") {
 acc.innerHTML="-$75";}
 else if (
 acc.innerHTML==="-$75" && tile3b.innerHTML==="Two") {
@@ -500,7 +467,7 @@ acc.innerHTML==="" && tile3a.innerHTML==="One") {
 acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="" && tile3b.innerHTML==="Two") {
-acc.innerHTML="Back 3";}}
+acc.innerHTML="Advance To Gold";}}
 
 function cardFour() {
 var acc=document.getElementById("cardAcc");
@@ -522,9 +489,9 @@ acc.innerHTML==="Jail" && tile4a.innerHTML==="One") {
 acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile4a.innerHTML==="One") {
-acc.innerHTML="Back 3";}
+acc.innerHTML="Advance To Gold";}
 else if (
-acc.innerHTML==="Back 3" && tile4a.innerHTML==="One") {
+acc.innerHTML==="Advance To Gold" && tile4a.innerHTML==="One") {
 acc.innerHTML="-$75";}
 else if (
 acc.innerHTML==="-$75" && tile4b.innerHTML==="Two") {
@@ -542,9 +509,9 @@ acc.innerHTML==="Jail" && tile4b.innerHTML==="Two") {
 acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile4b.innerHTML==="Two") {
-acc.innerHTML="Back 3";}
+acc.innerHTML="Advance To Gold";}
 else if (
-acc.innerHTML==="Back 3" && tile4b.innerHTML==="Two") {
+acc.innerHTML==="Advance To Gold" && tile4b.innerHTML==="Two") {
 acc.innerHTML="-$75";}
 else if (
 acc.innerHTML==="" && tile4a.innerHTML==="One") {
@@ -567,9 +534,9 @@ acc.innerHTML==="Jail" && tile5a.innerHTML==="One") {
 acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile5a.innerHTML==="One") {
-acc.innerHTML="Back 3";}
+acc.innerHTML="Advance To Gold";}
 else if (
-acc.innerHTML==="Back 3" && tile5a.innerHTML==="One") {
+acc.innerHTML==="Advance To Gold" && tile5a.innerHTML==="One") {
 acc.innerHTML="-$75";}
 else if (
 acc.innerHTML==="-$75" && tile5a.innerHTML==="One") {
@@ -588,9 +555,9 @@ acc.innerHTML==="Jail" && tile5b.innerHTML==="Two") {
 acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile5b.innerHTML==="Two") {
-acc.innerHTML="Back 3";}
+acc.innerHTML="Advance To Gold";}
 else if (
-acc.innerHTML==="Back 3" && tile5b.innerHTML==="Two") {
+acc.innerHTML==="Advance To Gold" && tile5b.innerHTML==="Two") {
 acc.innerHTML="-$75";}
 else if (
 acc.innerHTML==="-$75" && tile5b.innerHTML==="Two") {
