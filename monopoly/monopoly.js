@@ -405,7 +405,7 @@ else if (
 acc.innerHTML==="Nothing" && tile1a.innerHTML==="One") {
 acc.innerHTML="Jail";}
 else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="One") 
-{acc.innerHTML="$150";}
+{acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile1a.innerHTML==="One") {
 acc.innerHTML="Back 3";}
@@ -431,7 +431,7 @@ else if (
 acc.innerHTML==="Nothing" && tile2a.innerHTML==="Two") {
 acc.innerHTML="Jail";}
 else if (acc.innerHTML==="Jail" && tile2a.innerHTML==="Two") 
-{acc.innerHTML="$150";}
+{acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile2a.innerHTML==="Two") {
 acc.innerHTML="Back 3";}
