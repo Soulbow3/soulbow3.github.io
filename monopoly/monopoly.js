@@ -366,7 +366,7 @@ two.innerHTML="Two";
 element.innerHTML="";}
 else if (element.innerHTML==="One" && card.innerHTML==="Advance To Go") {
 go1.innerHTML="One";
-element.innerHTML="';}
+element.innerHTML="";}
 else if (element.innerHTML==="Two" && card.innerHTML==="Advance To Go") {
 go2.innerHTML="Two";
 element.innerHTML="';}
