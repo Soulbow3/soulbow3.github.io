@@ -339,7 +339,7 @@ back.style.background="red";}}
 function piece(element) {
 if (element.innerHTML==="Two") {
 element.innerHTML="";}
-else if (element.innerHTML==="")
+else if (element.innerHTML==="") {
 element.innerHTML="One";}
 else if (element.innerHTML==="Two") {
 element.innerHTML="";}
