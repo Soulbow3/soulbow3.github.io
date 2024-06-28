@@ -1222,7 +1222,7 @@ else if (twentynine.innerHTML==="One" && dice.innerHTML==="2") {
 thirtyone.innerHTML="One";
 twentynine.innerHTML="";}
 else if (twentynine.innerHTML==="One" && dice.innerHTML==="3") {
-thirdytwo.innerHTML="One";
+thirtytwo.innerHTML="One";
 twentynine.innerHTML="";}
 else if (twentynine.innerHTML==="One" && dice.innerHTML==="4") {
 one.innerHTML="One";
@@ -1805,7 +1805,7 @@ else if (twentyseven.innerHTML==="Two" && dice.innerHTML==="5") {
 thirtytwo.innerHTML="Two";
 twentyseven.innerHTML="";}
 else if (twentyseven.innerHTML==="Two" && dice.innerHTML==="6") {
-ome.innerHTML="Two";
+one.innerHTML="Two";
 twentyseven.innerHTML="";}
 else if (twentyeight.innerHTML==="Two" && dice.innerHTML==="1") {
 twentynine.innerHTML="Two";
@@ -1832,7 +1832,7 @@ else if (twentynine.innerHTML==="Two" && dice.innerHTML==="2") {
 thirtyone.innerHTML="Two";
 twentynine.innerHTML="";}
 else if (twentynine.innerHTML==="Two" && dice.innerHTML==="3") {
-thirdytwo.innerHTML="Two";
+thirtytwo.innerHTML="Two";
 twentynine.innerHTML="";}
 else if (twentynine.innerHTML==="Two" && dice.innerHTML==="4") {
 one.innerHTML="Two";
