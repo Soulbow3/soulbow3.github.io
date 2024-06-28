@@ -3,14 +3,6 @@ var goOne=document.getElementById("go1");
 var goTwo=document.getElementById("go2");
 var goThree=document.getElementById("go3");
 
-
-
-
-
-
-
-
-
 function cardJail() {
 var card=document.getElementById("cardAcc");
 var tile4= document.getElementById("dtwo");
@@ -563,9 +555,15 @@ function cardOne() {
 var acc=document.getElementById("cardAcc");
 var tile1a= document.getElementById("oneD");
 var tile2a= document.getElementById("twoD");
+
 if (
-acc.innerHTML==="Jail" && tile1a.innerHTML==="One") {
-acc.innerHTML="+$150";}
+acc.innerHTML==="Advance To Go" && tile1a.innerHTML==="One") {
+acc.innerHTML="Nothing";}
+else if (
+acc.innerHTML==="Nothing" && tile1a.innerHTML==="One") {
+acc.innerHTML="Jail";}
+else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="One") 
+{acc.innerHTML="$150";}
 else if (
 acc.innerHTML==="+$150" && tile1a.innerHTML==="One") {
 acc.innerHTML="Back 3";}
@@ -580,9 +578,18 @@ acc.innerHTML==="+$200" && tile1a.innerHTML==="One") {
 acc.innerHTML="Advance To Go";}
 else if (
 acc.innerHTML==="Advance To Go" && tile1a.innerHTML==="One") {
+acc.innerHTML="Nothing";}
+else if (
+acc.innerHTML==="Advance To Go" && tile2a.innerHTML==="One") {
+acc.innerHTML="Nothing";}
+else if (
+acc.innerHTML==="Nothing" && tile1a.innerHTML==="One") {
+acc.innerHTML="Jail";
+else if (
+acc.innerHTML==="Nothing" && tile2a.innerHTML==="Two") {
 acc.innerHTML="Jail";}
-else if (acc.innerHTML==="Jail" && tile2a.innerHTML==="Two") {
-acc.innerHTML="+$150";}
+else if (acc.innerHTML==="Jail" && tile2a.innerHTML==="Two") 
+{acc.innerHTML="$150";}
 else if (
 acc.innerHTML==="+$150" && tile2a.innerHTML==="Two") {
 acc.innerHTML="Back 3";}
@@ -596,7 +603,7 @@ else if (
 acc.innerHTML==="+$200" && tile2a.innerHTML==="Two") {
 acc.innerHTML="Advance To Go";}
 else if (
-acc.innerHTML==="Advance To Go" && tile2a.innerHTML==="Two") { acc.innerHTML="Jail";}
+acc.innerHTML==="Advance To Go" && tile2a.innerHTML==="Two") { acc.innerHTML="Nothing";}
 else if (
 acc.innerHTML==="" && tile1a.innerHTML==="One") {
 acc.innerHTML="Jail";}
@@ -619,10 +626,12 @@ acc.innerHTML==="+$200" && tile3a.innerHTML==="One") {
 acc.innerHTML="Advance To Go";}
 else if (
 acc.innerHTML==="Advance To Go" && tile3a.innerHTML==="One") {
-acc.innerHTML="Jail";}
+acc.innerHTML="Nothing";}
 else if (
-acc.innerHTML==="Jail" && tile3a.innerHTML==="One") {
-acc.innerHTML="+$150";}
+acc.innerHTML==="Nothing" && tile3a.innerHTML==="One") {
+acc.innerHTML="Jail";}
+else if (acc.innerHTML==="Jail" && tile3a.innerHTML==="One") 
+{acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile3a.innerHTML==="One") {
 acc.innerHTML="Back 3";}
@@ -635,8 +644,11 @@ acc.innerHTML="+$200";}
 else if (
 acc.innerHTML==="+$200" && tile3b.innerHTML==="Two") {
 acc.innerHTML="Advance To Go";}
-else if (
+if (
 acc.innerHTML==="Advance To Go" && tile3b.innerHTML==="Two") {
+acc.innerHTML="Nothing";}
+else if (
+acc.innerHTML==="Nothing" && tile3b.innerHTML==="Two") {
 acc.innerHTML="Jail";}
 else if (
 acc.innerHTML==="Jail" && tile3b.innerHTML==="Two") {
@@ -663,6 +675,9 @@ acc.innerHTML==="+$200" && tile4a.innerHTML==="One") {
 acc.innerHTML="Advance To Go";}
 else if (
 acc.innerHTML==="Advance To Go" && tile4a.innerHTML==="One") {
+acc.innerHTML="Nothing";}
+else if (
+acc.innerHTML==="Nothing" && tile4a.innerHTML==="One") {
 acc.innerHTML="Jail";}
 else if (
 acc.innerHTML==="Jail" && tile4a.innerHTML==="One") {
@@ -681,7 +696,9 @@ acc.innerHTML==="+$200" && tile4b.innerHTML==="Two") {
 acc.innerHTML="Advance To Go";}
 else if (
 acc.innerHTML==="Advance To Go" && tile4b.innerHTML==="Two") {
-acc.innerHTML="Jail";}
+acc.innerHTML="Nothing";}
+else if (acc.innerHTML==="Nothing" && tile4b.innerHTML==="Two") 
+{acc.innerHTML="Jail";}
 else if (
 acc.innerHTML==="Jail" && tile4b.innerHTML==="Two") {
 acc.innerHTML="+$150";}
@@ -704,6 +721,9 @@ var tile5a= document.getElementById("dOne");
 var tile5b= document.getElementById("dtwo");
 if (
 acc.innerHTML==="Advance To Go" && tile5a.innerHTML==="One") {
+acc.innerHTML="Nothing";}
+else if (
+acc.innerHTML==="Nothing" && tile5a.innerHTML==="One") {
 acc.innerHTML="Jail";}
 else if (
 acc.innerHTML==="Jail" && tile5a.innerHTML==="One") {
@@ -725,6 +745,9 @@ acc.innerHTML==="+$200" && tile5b.innerHTML==="Two") {
 acc.innerHTML="Advance To Go";}
 else if (
 acc.innerHTML==="Advance To Go" && tile5b.innerHTML==="Two") {
+acc.innerHTML="Nothing";}
+else if (
+acc.innerHTML==="Nothing" && tile5b.innerHTML==="One") {
 acc.innerHTML="Jail";}
 else if (
 acc.innerHTML==="Jail" && tile5b.innerHTML==="Two") {
