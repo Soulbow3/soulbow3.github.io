@@ -3,6 +3,14 @@ var goOne=document.getElementById("go1");
 var goTwo=document.getElementById("go2");
 var goThree=document.getElementById("go3");
 
+
+
+
+
+
+
+
+
 function cardJail() {
 var card=document.getElementById("cardAcc");
 var tile4= document.getElementById("dtwo");
@@ -25,7 +33,43 @@ var back5=document.getElementById("oneY");
 var back6=document.getElementById("twoY");
 var back7=document.getElementById("aone");
 var back8=document.getElementById("atwo");
-if (card.innerHTML==="Jail" && tile1.innerHTML==="Two") {
+if (tile5.innerHTML==="One" && tile1.innerHTML==="Two") {
+one.innerHTML="One";
+tile5.innerHTML="";}
+else if (tile5.innerHTML==="One" && tile2.innerHTML==="Two") {
+one.innerHTML="One";
+tile5.innerHTML="";}
+else if (tile5.innerHTML==="One" && tile3.innerHTML==="Two") {
+one.innerHTML="One";
+tile5.innerHTML="";}
+else if (tile6.innerHTML==="One" && tile4.innerHTML==="Two") {
+one.innerHTML="One";
+tile6.innerHTML="";}
+else if (tile6.innerHTML==="One" && tile1.innerHTML==="Two") {
+one.innerHTML="One";
+tile6.innerHTML="";}
+else if (tile6.innerHTML==="One" && tile2.innerHTML==="Two") {
+one.innerHTML="One";
+tile6.innerHTML="";}
+else if (tile7.innerHTML==="One" && tile3.innerHTML==="Two") {
+go1.innerHTML="One";
+tile7.innerHTML="";}
+else if (tile7.innerHTML==="One" && tile4.innerHTML==="Two") {
+one.innerHTML="One";
+tile7.innerHTML="";}
+else if (tile7.innerHTML==="One" && tile1.innerHTML==="Two") {
+one.innerHTML="One";
+tile7.innerHTML="";}
+else if (tile8.innerHTML==="One" && tile2.innerHTML==="Two") {
+one.innerHTML="One";
+tile8.innerHTML="";}
+else if (tile8.innerHTML==="One" && tile3.innerHTML==="Two") {
+one.innerHTML="One";
+tile8.innerHTML="";}
+else if (tile8.innerHTML==="One" && tile4.innerHTML==="Two") {
+one.innerHTML="One";
+tile8.innerHTML="";}
+else if (card.innerHTML==="Jail" && tile1.innerHTML==="Two") {
 two.innerHTML="Two";
 tile1.innerHTML="";}
 else if (card.innerHTML==="Jail" && tile2.innerHTML==="Two") {
@@ -50,6 +94,43 @@ else if (card.innerHTML==="Jail" && tile8.innerHTML==="One") {
 one.innerHTML="One";
 tile8.innerHTML="";}
 
+else if (tile5.innerHTML==="One" && tile1.innerHTML==="Two") {
+back2.innerHTML="One";
+tile1.innerHTML="";}
+else if (tile6.innerHTML==="One" && tile2.innerHTML==="Two") {
+back4.innerHTML="One";
+tile2.innerHTML="";}
+else if (tile8.innerHTML==="One" && tile3.innerHTML==="Two") {
+back6.innerHTML="One";
+tile3.innerHTML="";}
+else if (tile7.innerHTML==="One" && tile4.innerHTML==="Two") {
+back8.innerHTML="One";
+tile4.innerHTML="";}
+else if (tile5.innerHTML==="One" && tile1.innerHTML==="Two") {
+back2.innerHTML="One";
+tile1.innerHTML="";}
+else if (tile6.innerHTML==="One" && tile2.innerHTML==="Two") {
+back4.innerHTML="One";
+tile2.innerHTML="";}
+else if (tile8.innerHTML==="One" && tile3.innerHTML==="Two") {
+back6.innerHTML="One";
+tile3.innerHTML="";}
+else if (tile7.innerHTML==="One" && tile4.innerHTML==="Two") {
+back8.innerHTML="One";
+tile4.innerHTML="";}
+else if (tile5.innerHTML==="One" && tile1.innerHTML==="Two") {
+back2.innerHTML="One";
+tile1.innerHTML="";}
+else if (tile6.innerHTML==="One" && tile2.innerHTML==="Two") {
+back4.innerHTML="One";
+tile2.innerHTML="";}
+else if (tile8.innerHTML==="One" && tile3.innerHTML==="Two") {
+back6.innerHTML="One";
+tile3.innerHTML="";}
+else if (tile7.innerHTML==="One" && tile4.innerHTML==="Two") {
+back8.innerHTML="One";
+tile4.innerHTML="";}
+  
 else if (card.innerHTML==="Back 3" && tile1.innerHTML==="Two") {
 back2.innerHTML="Two";
 tile1.innerHTML="";}
@@ -75,6 +156,43 @@ else if (card.innerHTML==="Back 3" && tile8.innerHTML==="One") {
 back7.innerHTML="One";
 tile8.innerHTML="";}
 
+else if (tile5.innerHTML==="One" && tile4.innerHTML==="Two") {
+go1.innerHTML="One";
+tile5.innerHTML="";}
+else if (tile5.innerHTML==="One" && tile2.innerHTML==="Two") {
+go1.innerHTML="One";
+tile5innerHTML="";}
+else if (tile5.innerHTML==="One" && tile3.innerHTML==="Two") {
+go1.innerHTML="One";
+tile5.innerHTML="";}
+else if (tile6.innerHTML==="One" && tile4.innerHTML==="Two") {
+go1.innerHTML="One";
+tile6.innerHTML="";}
+else if (tile6.innerHTML==="One" && tile1.innerHTML==="Two") {
+go1.innerHTML="One";
+tile6.innerHTML="";}
+else if (tile6.innerHTML==="One" && tile3.innerHTML==="Two") {
+go1.innerHTML="One";
+tile6.innerHTML="";}
+else if (tile7.innerHTML==="One" && tile4.innerHTML==="Two") {
+go1.innerHTML="One";
+tile7.innerHTML="";}
+else if (tile7.innerHTML==="One" && tile2.innerHTML==="Two") {
+go1.innerHTML="One";
+tile7.innerHTML="";}
+else if (tile7.innerHTML==="One" && tile1.innerHTML==="Two") {
+go1.innerHTML="One";
+tile7.innerHTML="";}
+else if (tile8.innerHTML==="One" && tile1.innerHTML==="Two") {
+go1.innerHTML="One";
+tile8.innerHTML="";}
+else if (tile8.innerHTML==="One" && tile2.innerHTML==="Two") {
+go1.innerHTML="One";
+tile8.innerHTML="";}
+else if (tile8.innerHTML==="One" && tile3.innerHTML==="Two") {
+go1.innerHTML="One";
+tile8.innerHTML="";}
+  
 else if (card.innerHTML==="Advance To Go" && tile1.innerHTML==="Two") {
 go2.innerHTML="Two";
 tile1.innerHTML="";}
