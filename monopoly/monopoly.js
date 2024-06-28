@@ -358,10 +358,10 @@ var tile5b=document.getElementById("twoD");
 var tile6b=document.getElementById("twoU");
 var tile7b=document.getElementById("btwo");
 var tile8b=document.getElementById("dtwo");
-if (element.innerHTML==="One" && card.innerHTML==="Jail";) {
+if (element.innerHTML==="One" && card.innerHTML==="Jail") {
 one.innerHTML="One";
 element.innerHTML="";}
-else  if (element.innerHTML==="Two" && card.innerHTML==="Jail";) {
+else  if (element.innerHTML==="Two" && card.innerHTML==="Jail") {
 two.innerHTML="Two";
 element.innerHTML="";}
 else if (element.innerHTML==="One" && card.innerHTML==="Advance To Go") {
