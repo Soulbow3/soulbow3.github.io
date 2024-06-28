@@ -378,10 +378,10 @@ element.innerHTML="";
 back2a.innerHTML="One";}
 else if (tile3a.innerHTML==="One") {
 element.innerHTML="";
-back3a.innerHTML="One";}
+back4a.innerHTML="One";}
 else if (tile4a.innerHTML==="One") {
 element.innerHTML="";
-back4a.innerHTML="One";}
+back3a.innerHTML="One";}
 else if (tile5b.innerHTML==="Two") {
 element.innerHTML="";
 back1b.innerHTML="Two";}
@@ -390,10 +390,10 @@ element.innerHTML="";
 back2b.innerHTML="Two";}
 else if (tile7b.innerHTML==="Two") {
 element.innerHTML="";
-back3b.innerHTML="Two";}
+back4b.innerHTML="Two";}
 else if (tile8b.innerHTML==="Two") {
 element.innerHTML="";
-back4b.innerHTML="Two";}}
+back3b.innerHTML="Two";}}
 
 function cardOne() {
 var acc=document.getElementById("cardAcc");
