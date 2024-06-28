@@ -352,12 +352,12 @@ var back3b=document.getElementById("twoY");
 var back4b=document.getElementById("atwo");
 var tile1a=document.getElementById("oneD");
 var tile2a=document.getElementById("oneU");
-var tile3a=document.getElementById("bone");
-var tile4a=document.getElementById("done");
+var tile3a=document.getElementById("done");
+var tile4a=document.getElementById("bone");
 var tile5b=document.getElementById("twoD");
 var tile6b=document.getElementById("twoU");
-var tile7b=document.getElementById("btwo");
-var tile8b=document.getElementById("dtwo");
+var tile7b=document.getElementById("dtwo");
+var tile8b=document.getElementById("btwo");
 if (element.innerHTML==="One" && card.innerHTML==="Jail") {
 one.innerHTML="One";
 element.innerHTML="";}
