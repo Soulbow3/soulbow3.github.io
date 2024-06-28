@@ -344,8 +344,6 @@ var go1=document.getElementById("oneA");
 var go2=document.getElementById("twoA");
 var golda=document.getElementById("ftwo");
 var goldb=document.getElementById("fone");
-
-var tile8b=document.getElementById("ftwo");
 if (element.innerHTML==="One" && card.innerHTML==="Jail") {
 one.innerHTML="One";
 element.innerHTML="";}
