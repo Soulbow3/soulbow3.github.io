@@ -840,10 +840,8 @@ three.innerHTMl="Rent $160";
 back.style.background="purple";}}
 
 function piece(element) {
-if (element.innerHTML==="One") {
-element.innerHTML="<(^@^)>";
-else if (element.innerHTML==="Two") {
-element.innerHTML="<(^@^)>";}
+if (element.innerHTML==="Two") {
+element.innerHTML="c:<";}
 else if (element.innerHTML==="c:<") {
 element.innerHTML="-->";}
 else if (element.innerHTML==="-->") {
