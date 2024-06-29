@@ -877,341 +877,101 @@ var tile8=document.getElementById("atwo");
 if (element.innerHTML==="Back 3" && move1.innerHTML==="One") {
 tile1.innerHTML="One";
 move1.innerHTML="";}
-else if (element.innerHTML==="Back 3" && move1.innerHTML==="Two") {
-tile1.innerHTML="Two";
-move1.innerHTML="";}
-else if (element.innerHTML==="Back 3" && move2.innerHTML==="One") {
-tile2.innerHTML="One";
-move2.innerHTML="";}
 else if (element.innerHTML==="Back 3" && move2.innerHTML==="Two") {
 tile2.innerHTML="Two";
 move2.innerHTML="";}
 else if (element.innerHTML==="Back 3" && move3.innerHTML==="One") {
 tile3.innerHTML="One";
 move3.innerHTML="";}
-else if (element.innerHTML==="Back 3" && move3.innerHTML==="Two") {
-tile3.innerHTML="Two";
-move3.innerHTML="";}
-else if (element.innerHTML==="Back 3" && move4.innerHTML==="One") {
-tile4.innerHTML="One";
-move4.innerHTML="";}
 else if (element.innerHTML==="Back 3" && move4.innerHTML==="Two") {
 tile4.innerHTML="Two";
 move4.innerHTML="";}
 else if (element.innerHTML==="Back 3" && move5.innerHTML==="One") {
 tile5.innerHTML="One";
 move5.innerHTML="";}
-else if (element.innerHTML==="Back 3" && move5.innerHTML==="Two") {
-tile5.innerHTML="Two";
-move5.innerHTML="";}
-else if (element.innerHTML==="Back 3" && move6.innerHTML==="One") {
-tile6.innerHTML="One";
-move6.innerHTML="";}
 else if (element.innerHTML==="Back 3" && move6.innerHTML==="Two") {
 tile6.innerHTML="Two";
 move6.innerHTML="";}
 else if (element.innerHTML==="Back 3" && move7.innerHTML==="One") {
-tile7.innerHTML="One";
+tile47.innerHTML="One";
 move7.innerHTML="";}
-else if (element.innerHTML==="Back 3" && move7.innerHTML==="Two") {
-tile7.innerHTML="Two";
-move7.innerHTML="";}
-else if (element.innerHTML==="Back 3" && move8.innerHTML==="One") {
-tile8.innerHTML="One";
-move8.innerHTML="";}
 else if (element.innerHTML==="Back 3" && move8.innerHTML==="Two") {
 tile8.innerHTML="Two";
 move8.innerHTML="";}
-  
+
 else if (move1.innerHTML==="One" && element.innerHTML==="Jail") {
 one.innerHTML="One";
 move1.innerHTML="";}
-else if  (move1.innerHTML==="Two" && element.innerHTML==="Jail") {
-one.innerHTML="Two";
-move1.innerHTML="";}
-else if (move1.innerHTML==="One" && element.innerHTML==="Jail") {
-two.innerHTML="One";
-move1.innerHTML="";}
-else if  (move1.innerHTML==="Two" && element.innerHTML==="Jail") {
-two.innerHTML="Two";
-move1.innerHTML="";}
-else  if (move2.innerHTML==="Two" && element.innerHTML==="Jail") {
-one.innerHTML="Two";
-move2.innerHTML="";}
-else if  (move2.innerHTML==="One" && element.innerHTML==="Jail") {
-one.innerHTML="One";
-move2.innerHTML="";}
-else  if (move2.innerHTML==="Two" && element.innerHTML==="Jail") {
+else if  (move2.innerHTML==="Two" && element.innerHTML==="Jail") {
 two.innerHTML="Two";
 move2.innerHTML="";}
-else if  (move2.innerHTML==="One" && element.innerHTML==="Jail") {
-two.innerHTML="One";
-move2.innerHTML="";}
-else if (move3.innerHTML==="One" && element.innerHTML==="Jail") {
+else  if (move3.innerHTML==="One" && element.innerHTML==="Jail") {
 one.innerHTML="One";
 move3.innerHTML="";}
-else if  (move3.innerHTML==="One" && element.innerHTML==="Jail") {
-two.innerHTML="One";
-move3.innerHTML="";}
-else if (move3.innerHTML==="One" && element.innerHTML==="Jail") {
-two.innerHTML="One";
-move3.innerHTML="";}
-else if  (move3.innerHTML==="Two" && element.innerHTML==="Jail") {
-one.innerHTML="Two";
-move3.innerHTML="";}
-else if (move4.innerHTML==="Two" && element.innerHTML==="Jail") {
-one.innerHTML="Two";
-move4.innerHTML="";}
-else if  (move4.innerHTML==="One" && element.innerHTML==="Jail") {
-one.innerHTML="One";
-move4.innerHTML="";}
-else if (move4.innerHTML==="Two" && element.innerHTML==="Jail") {
+else if  (move4.innerHTML==="Two" && element.innerHTML==="Jail") {
 two.innerHTML="Two";
-move4.innerHTML="";}
-else if  (move4.innerHTML==="One" && element.innerHTML==="Jail") {
-two.innerHTML="One";
 move4.innerHTML="";}
 else if (move5.innerHTML==="One" && element.innerHTML==="Jail") {
 one.innerHTML="One";
 move5.innerHTML="";}
-else if  (move5.innerHTML==="Two" && element.innerHTML==="Jail") {
-one.innerHTML="Two";
-move5.innerHTML="";}
-else if (move5.innerHTML==="One" && element.innerHTML==="Jail") {
-two.innerHTML="One";
-move5.innerHTML="";}
-else if  (move5.innerHTML==="Two" && card.innerHTML==="Jail") {
+else if  (move6.innerHTML==="Two" && element.innerHTML==="Jail") {
 two.innerHTML="Two";
-move5.innerHTML="";}
-else  if (move6.innerHTML==="Two" && element.innerHTML==="Jail") {
-one.innerHTML="Two";
-move6.innerHTML="";}
-else if  (move6.innerHTML==="One" && element.innerHTML==="Jail") {
-one.innerHTML="One";
-move6.innerHTML="";}
-else  if (move6.innerHTML==="Two" && element.innerHTML==="Jail") {
-two.innerHTML="Two";
-move6.innerHTML="";}
-else if  (move6.innerHTML==="One" && element.innerHTML==="Jail") {
-two.innerHTML="One";
 move6.innerHTML="";}
 else if (move7.innerHTML==="One" && element.innerHTML==="Jail") {
 one.innerHTML="One";
 move7.innerHTML="";}
-else if  (move7.innerHTML==="Two" && element.innerHTML==="Jail") {
-one.innerHTML="Two";
-move7.innerHTML="";}
-else if (move7.innerHTML==="One" && element.innerHTML==="Jail") {
-two.innerHTML="One";
-move7.innerHTML="";}
-else if  (move7.innerHTML==="Two" && element.innerHTML==="Jail") {
-two.innerHTML="Two";
-move7.innerHTML="";}
-else  if (move8.innerHTML==="Two" && element.innerHTML==="Jail") {
-one.innerHTML="Two";
-move8.innerHTML="";}
 else if  (move8.innerHTML==="One" && element.innerHTML==="Jail") {
-one.innerHTML="One";
-move8.innerHTML="";}
-else  if (move8.innerHTML==="Two" && element.innerHTML==="Jail") {
 two.innerHTML="Two";
-move8.innerHTML="";}
-else if  (move8.innerHTML==="One" && element.innerHTML==="Jail") {
-two.innerHTML="One";
 move8.innerHTML="";}
   
 else if (move1.innerHTML==="One" && element.innerHTML==="Advance To Go") {
 goone.innerHTML="One";
 move1.innerHTML="";}
-else if  (move1.innerHTML==="Two" && element.innerHTML==="Advance To Go") {
-goone.innerHTML="Two";
-move1.innerHTML="";}
-else if (move1.innerHTML==="One" && element.innerHTML==="Advance To Go") {
-gotwo.innerHTML="One";
-move1.innerHTML="";}
-else if  (move1.innerHTML==="Two" && element.innerHTML==="Advance To Go") {
-gotwo.innerHTML="Two";
-move1.innerHTML="";}
-else  if (move2.innerHTML==="Two" && element.innerHTML==="Advance To Go") {
-goone.innerHTML="Two";
-move2.innerHTML="";}
-else if  (move2.innerHTML==="One" && element.innerHTML==="Advance To Go") {
-goone.innerHTML="One";
-move2.innerHTML="";}
-else  if (move2.innerHTML==="Two" && element.innerHTML==="Advance To Go") {
-gotwo.innerHTML="Two";
-move2.innerHTML="";}
-else if  (move2.innerHTML==="One" && element.innerHTML==="Advance To Go") {
-gotwo.innerHTML="One";
+else if  (move2.innerHTML==="Two" && element.innerHTML==="Advance To Go") {
+gootwo.innerHTML="Two";
 move2.innerHTML="";}
 else if (move3.innerHTML==="One" && element.innerHTML==="Advance To Go") {
 goone.innerHTML="One";
 move3.innerHTML="";}
-else if  (move2.innerHTML==="One" && element.innerHTML==="Advance To Go") {
-gotwo.innerHTML="One";
-move2.innerHTML="";}
-else if (move3.innerHTML==="One" && element.innerHTML==="Advance To Go") {
-gotwo.innerHTML="One";
-move3.innerHTML="";}
-else if  (move3.innerHTML==="Two" && element.innerHTML==="Advance To Go") {
-goone.innerHTML="Two";
-move3.innerHTML="";}
-else if (move4.innerHTML==="Two" && element.innerHTML==="Advance To Go") {
-goone.innerHTML="Two";
-move4.innerHTML="";}
-else if  (move4.innerHTML==="One" && element.innerHTML==="Advance To Go") {
-goone.innerHTML="One";
-move4.innerHTML="";}
-else if (move4.innerHTML==="Two" && element.innerHTML==="Advance To Go") {
+else if  (move4.innerHTML==="Two" && element.innerHTML==="Advance To Go") {
 gotwo.innerHTML="Two";
 move4.innerHTML="";}
-else if  (move4.innerHTML==="One" && element.innerHTML==="Advance To Go") {
-gotwo.innerHTML="One";
-move4.innerHTML="";}
-else if (move5.innerHTML==="One" && element.innerHTML==="Advance To Go") {
+else  if (move5.innerHTML==="One" && element.innerHTML==="Advance To Go") {
 goone.innerHTML="One";
 move5.innerHTML="";}
-else if  (move5.innerHTML==="Two" && element.innerHTML==="Advance To Go") {
-goone.innerHTML="Two";
-move5.innerHTML="";}
-else if (move5.innerHTML==="One" && element.innerHTML==="Advance To Go") {
-gotwo.innerHTML="One";
-move5.innerHTML="";}
-else if  (move5.innerHTML==="Two" && element.innerHTML==="Advance To Go") {
+else if  (move6.innerHTML==="Two" && element.innerHTML==="Advance To Go") {
 gotwo.innerHTML="Two";
-move5.innerHTML="";}
-else  if (move6.innerHTML==="Two" && element.innerHTML==="Advance To Go") {
-goone.innerHTML="Two";
-move6.innerHTML="";}
-else if  (move6.innerHTML==="One" && element.innerHTML==="Advance To Go") {
-goone.innerHTML="One";
-move6.innerHTML="";}
-else  if (move6.innerHTML==="Two" && element.innerHTML==="Advance To Go") {
-gotwo.innerHTML="Two";
-move6.innerHTML="";}
-else if  (move6.innerHTML==="One" && element.innerHTML==="Advance To Go") {
-gotwo.innerHTML="One";
-move6.innerHTML="";}
-else if (move7.innerHTML==="One" && element.innerHTML==="Advance To Go") {
+move26.innerHTML="";}
+else  if (move7.innerHTML==="One" && element.innerHTML==="Advance To Go") {
 goone.innerHTML="One";
 move7.innerHTML="";}
-else if  (move7.innerHTML==="Two" && element.innerHTML==="Advance To Go") {
-goone.innerHTML="Two";
-move7.innerHTML="";}
-else if (move7.innerHTML==="One" && element.innerHTML==="Advance To Go") {
-gotwo.innerHTML="One";
-move7.innerHTML="";}
-else if  (move7.innerHTML==="Two" && element.innerHTML==="Advance To Go") {
+else if  (move8.innerHTML==="Two" && element.innerHTML==="Advance To Go") {
 gotwo.innerHTML="Two";
-move7.innerHTML="";}
-else  if (move8.innerHTML==="Two" && element.innerHTML==="Advance To Go") {
-goone.innerHTML="Two";
-move8.innerHTML="";}
-else if  (move8.innerHTML==="One" && element.innerHTML==="Advance To Go") {
-goone.innerHTML="One";
-move8.innerHTML="";}
-else  if (move8.innerHTML==="Two" && element.innerHTML==="Advance To Go") {
-gotwo.innerHTML="Two";
-move8.innerHTML="";}
-else if  (move8.innerHTML==="One" && element.innerHTML==="Advance To Go") {
-gotwo.innerHTML="One";
 move8.innerHTML="";}
 
 else if (move1.innerHTML==="One" && element.innerHTML==="Advance To Gold") {
 goldone.innerHTML="One";
 move1.innerHTML="";}
-else if  (move1.innerHTML==="Two" && element.innerHTML==="Advance To Gold") {
-goldone.innerHTML="Two";
-move1.innerHTML="";}
-else if (move1.innerHTML==="One" && element.innerHTML==="Advance To Gold") {
-goldtwo.innerHTML="One";
-move1.innerHTML="";}
-else if  (move1.innerHTML==="Two" && element.innerHTML==="Advance To Gold") {
+else if  (move2.innerHTML==="Two" && element.innerHTML==="Advance To Gold") {
 goldtwo.innerHTML="Two";
-move1.innerHTML="";}
-else  if (move2.innerHTML==="Two" && element.innerHTML==="Advance To Gold") {
-goldone.innerHTML="Two";
-move2.innerHTML="";}
-else if  (move2.innerHTML==="One" && element.innerHTML==="Advance To Gold") {
-goldone.innerHTML="One";
-move2.innerHTML="";}
-else  if (move2.innerHTML==="Two" && element.innerHTML==="Advance To Gold") {
-goldtwo.innerHTML="Two";
-move2.innerHTML="";}
-else if  (move2.innerHTML==="One" && element.innerHTML==="Advance To Gold") {
-goldtwo.innerHTML="One";
 move2.innerHTML="";}
 else if (move3.innerHTML==="One" && element.innerHTML==="Advance To Gold") {
 goldone.innerHTML="One";
 move3.innerHTML="";}
-else if  (move2.innerHTML==="One" && element.innerHTML==="Advance To Gold") {
-goldtwo.innerHTML="One";
-move2.innerHTML="";}
-else if (move3.innerHTML==="One" && element.innerHTML==="Advance To Gold") {
-goldtwo.innerHTML="One";
-move3.innerHTML="";}
-else if  (move3.innerHTML==="Two" && element.innerHTML==="Advance To Gold") {
-goldone.innerHTML="Two";
-move3.innerHTML="";}
-else if (move4.innerHTML==="Two" && element.innerHTML==="Advance To Gold") {
-goldone.innerHTML="Two";
-move4.innerHTML="";}
-else if  (move4.innerHTML==="One" && element.innerHTML==="Advance To Gold") {
-goldone.innerHTML="One";
-move4.innerHTML="";}
-else if (move4.innerHTML==="Two" && element.innerHTML==="Advance To Gold") {
+else if  (move4.innerHTML==="Two" && element.innerHTML==="Advance To Gold") {
 goldtwo.innerHTML="Two";
 move4.innerHTML="";}
-else if  (move4.innerHTML==="One" && element.innerHTML==="Advance To Gold") {
-goldtwo.innerHTML="One";
-move4.innerHTML="";}
-else if (move5.innerHTML==="One" && card.innerHTML==="Advance To Gold") {
+else  if (move5.innerHTML==="One" && element.innerHTML==="Advance To Gold") {
 goldone.innerHTML="One";
 move5.innerHTML="";}
-else if  (move5.innerHTML==="Two" && element.innerHTML==="Advance To Gold") {
-goldone.innerHTML="Two";
-move5.innerHTML="";}
-else if (move5.innerHTML==="One" && element.innerHTML==="Advance To Gold") {
-goldtwo.innerHTML="One";
-move5.innerHTML="";}
-else if  (move5.innerHTML==="Two" && element.innerHTML==="Advance To Gold") {
-goldtwo.innerHTML="Two";
-move5.innerHTML="";}
-else  if (move6.innerHTML==="Two" && element.innerHTML==="Advance To Gold") {
-goldone.innerHTML="Two";
-move6.innerHTML="";}
-else if  (move6.innerHTML==="One" && element.innerHTML==="Advance To Gold") {
-goldtwo.innerHTML="One";
-move6.innerHTML="";}
-else  if (move6.innerHTML==="Two" && element.innerHTML==="Advance To Gold") {
+else if  (move6.innerHTML==="Two" && element.innerHTML==="Advance To Gold") {
 goldtwo.innerHTML="Two";
 move6.innerHTML="";}
-else if  (move6.innerHTML==="One" && element.innerHTML==="Advance To Gold") {
-goldtwo.innerHTML="One";
-move6.innerHTML="";}
-else if (move7.innerHTML==="One" && element.innerHTML==="Advance To Gold") {
+else  if (move7.innerHTML==="One" && element.innerHTML==="Advance To Gold") {
 goldone.innerHTML="One";
 move7.innerHTML="";}
-else if  (move7.innerHTML==="Two" && element.innerHTML==="Advance To Gold") {
-goldone.innerHTML="Two";
-move7.innerHTML="";}
-else if (move7.innerHTML==="One" && element.innerHTML==="Advance To Gold") {
-goldtwo.innerHTML="One";
-move7.innerHTML="";}
-else if  (move7.innerHTML==="Two" && element.innerHTML==="Advance To Gold") {
+else if  (move8.innerHTML==="Two" && element.innerHTML==="Advance To Gold") {
 goldtwo.innerHTML="Two";
-move7.innerHTML="";}
-else  if (move8.innerHTML==="Two" && element.innerHTML==="Advance To Gold") {
-one.innerHTML="Two";
-move8.innerHTML="";}
-else if  (move8.innerHTML==="One" && card.innerHTML==="Advance To Gold") {
-goldone.innerHTML="One";
-move8.innerHTML="";}
-else  if (move8.innerHTML==="Two" && element.innerHTML==="Advance To Gold") {
-goldtwo.innerHTML="Two";
-move8.innerHTML="";}
-else if  (move8.innerHTML==="One" && element.innerHTML==="Advance To Gold") {
-goldtwo.innerHTML="One";
 move8.innerHTML="";}}
 
 function cardOne() {
