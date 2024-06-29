@@ -381,7 +381,7 @@ move2.innerHTML="";}
 else if (element.innerHTML==="Back 3" && move2.innerHTML==="Two") {
 tile2.innerHTML="Two";
 move2.innerHTML="";}
-if (element.innerHTML==="Back 3" && move3.innerHTML==="One") {
+else if (element.innerHTML==="Back 3" && move3.innerHTML==="One") {
 tile3.innerHTML="One";
 move3.innerHTML="";}
 else if (element.innerHTML==="Back 3" && move3.innerHTML==="Two") {
@@ -393,7 +393,7 @@ move4.innerHTML="";}
 else if (element.innerHTML==="Back 3" && move4.innerHTML==="Two") {
 tile4.innerHTML="Two";
 move4.innerHTML="";}
-if (element.innerHTML==="Back 3" && move5.innerHTML==="One") {
+else if (element.innerHTML==="Back 3" && move5.innerHTML==="One") {
 tile5.innerHTML="One";
 move5.innerHTML="";}
 else if (element.innerHTML==="Back 3" && move5.innerHTML==="Two") {
@@ -405,7 +405,7 @@ move6.innerHTML="";}
 else if (element.innerHTML==="Back 3" && move6.innerHTML==="Two") {
 tile6.innerHTML="Two";
 move6.innerHTML="";}
-if (element.innerHTML==="Back 3" && move7.innerHTML==="One") {
+else if (element.innerHTML==="Back 3" && move7.innerHTML==="One") {
 tile7.innerHTML="One";
 move7.innerHTML="";}
 else if (element.innerHTML==="Back 3" && move7.innerHTML==="Two") {
