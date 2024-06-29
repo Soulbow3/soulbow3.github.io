@@ -764,6 +764,65 @@ acc.innerHTML==="" && tile1a.innerHTML==="One") {
 acc.innerHTML="Jail";}
 else if (
 acc.innerHTML==="" && tile2a.innerHTML==="Two") {
+acc.innerHTML="Jail";}
+
+else if (acc.innerHTML==="Advance To Go" && tile1a.innerHTML==="Two") {
+acc.innerHTML="Nothing";}
+else if (
+acc.innerHTML==="Nothing" && tile1a.innerHTML==="Two") {
+acc.innerHTML="Jail";}
+else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="Two") 
+{acc.innerHTML="+$150";}
+else if (
+acc.innerHTML==="+$150" && tile1a.innerHTML==="Two") {
+acc.innerHTML="Advance To Gold";}
+else if (
+acc.innerHTML==="Advance To Gold" && tile1a.innerHTML==="Two") {
+acc.innerHTML="-$75";}
+else if (acc.innerHTML==="-$75" tile1a.innerHTML==="Two") {
+acc.innerHTML="Back 3";}
+else if (
+acc.innerHTML==="Back 3" && tile1a.innerHTML==="Two") {
+acc.innerHTML="+$200";}
+else if (
+acc.innerHTML==="+$200" && tile1a.innerHTML==="Two") {
+acc.innerHTML="Advance To Go";}
+else if (
+acc.innerHTML==="Advance To Go" && tile1a.innerHTML==="Two") {
+acc.innerHTML="Nothing";}
+else if (
+acc.innerHTML==="Nothing" && tile2a.innerHTML==="One") {
+acc.innerHTML="Jail";}
+else if (acc.innerHTML==="Jail" && tile2a.innerHTML==="One") 
+{acc.innerHTML="+$150";}
+else if (
+acc.innerHTML==="+$150" && tile2a.innerHTML==="One") {
+acc.innerHTML="Advance To Gold";}
+else if (
+acc.innerHTML==="Advance To Gold" && tile2a.innerHTML==="One") {
+acc.innerHTML="-$75";}
+else if (acc.innerHTML==="-$75" tile2a.innerHTML==="One") {
+acc.innerHTML="Back 3";}
+else if (
+acc.innerHTML==="Back 3" && tile2a.innerHTML==="One") {
+acc.innerHTML="+$200";}
+else if (
+acc.innerHTML==="+$200" && tile2a.innerHTML==="One") {
+acc.innerHTML="Advance To Go";}
+else if (
+acc.innerHTML==="Advance To Go" && tile2a.innerHTML==="One") 
+{acc.innerHTML="Nothing";}
+else if (
+acc.innerHTML==="" && tile1a.innerHTML==="One") {
+acc.innerHTML="Jail";}
+else if (
+acc.innerHTML==="" && tile1a.innerHTML==="TWo") {
+acc.innerHTML="Jail";}
+else if (
+acc.innerHTML==="" && tile2a.innerHTML==="Two") {
+acc.innerHTML="Jail";}
+else if (
+acc.innerHTML==="" && tile2a.innerHTML==="One") {
 acc.innerHTML="Jail";}}
 
 function cardThree() {
@@ -814,11 +873,61 @@ acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile3b.innerHTML==="Two") {
 acc.innerHTML="Back 3";}
+if (acc.innerHTML==="Advance To Gold" && tile3a.innerHTML==="Two") {
+acc.innerHTML="-$75";}
+else if (acc.innerHTML==="-$75" tile3b.innerHTML==="Two") {
+acc.innerHTML="Back 3";}
+else if (
+acc.innerHTML==="Back 3" && tile3a.innerHTML==="Two") {
+acc.innerHTML="+$200";}
+else if (
+acc.innerHTML==="+$200" && tile3a.innerHTML==="Two") {
+acc.innerHTML="Advance To Go";}
+else if (
+acc.innerHTML==="Advance To Go" && tile3a.innerHTML==="Two") {
+acc.innerHTML="Nothing";}
+else if (
+acc.innerHTML==="Nothing" && tile3a.innerHTML==="Two") {
+acc.innerHTML="Jail";}
+else if (acc.innerHTML==="Jail" && tile3a.innerHTML==="Two") 
+{acc.innerHTML="+$150";}
+else if (
+acc.innerHTML==="+$150" && tile3a.innerHTML==="Two") {
+acc.innerHTML="Advance To Gold";}
+else if (
+acc.innerHTML==="Advance To Gold" && tile3b.innerHTML==="One") {
+acc.innerHTML="-$75";}
+else if (acc.innerHTML==="-$75" tile3b.innerHTML==="One") {
+acc.innerHTML="Back 3";}
+else if (
+acc.innerHTML==="Back 3" && tile3b.innerHTML==="One") {
+acc.innerHTML="+$200";}
+else if (
+acc.innerHTML==="+$200" && tile3b.innerHTML==="One") {
+acc.innerHTML="Advance To Go";}
+else if (
+acc.innerHTML==="Advance To Go" && tile3b.innerHTML==="One") {
+acc.innerHTML="Nothing";}
+else if (
+acc.innerHTML==="Nothing" && tile3b.innerHTML==="One") {
+acc.innerHTML="Jail";}
+else if (
+acc.innerHTML==="Jail" && tile3b.innerHTML==="One") {
+acc.innerHTML="+$150";}
+else if (
+acc.innerHTML==="+$150" && tile3b.innerHTML==="One") {
+acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="" && tile3a.innerHTML==="One") {
 acc.innerHTML="Back 3";}
 else if (
+acc.innerHTML==="" && tile3a.innerHTML==="Two") {
+acc.innerHTML="Back 3";}
+else if (
 acc.innerHTML==="" && tile3b.innerHTML==="Two") {
+acc.innerHTML="Advance To Gold";}
+else if (
+acc.innerHTML==="" && tile3b.innerHTML==="One") {
 acc.innerHTML="Advance To Gold";}}
 
 function cardFour() {
