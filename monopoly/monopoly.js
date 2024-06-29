@@ -726,7 +726,7 @@ acc.innerHTML="Advance To Gold";}
 else if (
 acc.innerHTML==="Advance To Gold" && tile1a.innerHTML==="One") {
 acc.innerHTML="-$75";}
-else if (acc.innerHTML==="-$75" tile1a.innerHTML==="One") {
+else if (acc.innerHTML==="-$75" && tile1a.innerHTML==="One") {
 acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile1a.innerHTML==="One") {
@@ -749,7 +749,7 @@ acc.innerHTML="Advance To Gold";}
 else if (
 acc.innerHTML==="Advance To Gold" && tile2a.innerHTML==="Two") {
 acc.innerHTML="-$75";}
-else if (acc.innerHTML==="-$75" tile2a.innerHTML==="Two") {
+else if (acc.innerHTML==="-$75" && tile2a.innerHTML==="Two") {
 acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile2a.innerHTML==="Two") {
@@ -774,7 +774,7 @@ acc.innerHTML="Advance To Gold";}
 else if (
 acc.innerHTML==="Advance To Gold" && tile1a.innerHTML==="Two") {
 acc.innerHTML="-$75";}
-else if (acc.innerHTML==="-$75" tile1a.innerHTML==="Two") {
+else if (acc.innerHTML==="-$75" && tile1a.innerHTML==="Two") {
 acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile1a.innerHTML==="Two") {
@@ -797,7 +797,7 @@ acc.innerHTML="Advance To Gold";}
 else if (
 acc.innerHTML==="Advance To Gold" && tile2a.innerHTML==="One") {
 acc.innerHTML="-$75";}
-else if (acc.innerHTML==="-$75" tile2a.innerHTML==="One") {
+else if (acc.innerHTML==="-$75" && tile2a.innerHTML==="One") {
 acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile2a.innerHTML==="One") {
@@ -808,7 +808,7 @@ acc.innerHTML="Advance To Go";}
 else if (
 acc.innerHTML==="Advance To Go" && tile2a.innerHTML==="One") 
 {acc.innerHTML="Nothing";}
-
+else if (
 acc.innerHTML==="" && tile1a.innerHTML==="One") {
 acc.innerHTML="Jail";}
 else if (
@@ -838,7 +838,7 @@ acc.innerHTML="Advance To Gold";}
 else if (
 acc.innerHTML==="Advance To Gold" && tile1a.innerHTML==="One") {
 acc.innerHTML="-$75";}
-else if (acc.innerHTML==="-$75" tile1a.innerHTML==="One") {
+else if (acc.innerHTML==="-$75" && tile1a.innerHTML==="One") {
 acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile1a.innerHTML==="One") {
@@ -861,7 +861,7 @@ acc.innerHTML="Advance To Gold";}
 else if (
 acc.innerHTML==="Advance To Gold" && tile2a.innerHTML==="Two") {
 acc.innerHTML="-$75";}
-else if (acc.innerHTML==="-$75" tile2a.innerHTML==="Two") {
+else if (acc.innerHTML==="-$75" && tile2a.innerHTML==="Two") {
 acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile2a.innerHTML==="Two") {
@@ -886,7 +886,7 @@ acc.innerHTML="Advance To Gold";}
 else if (
 acc.innerHTML==="Advance To Gold" && tile1a.innerHTML==="Two") {
 acc.innerHTML="-$75";}
-else if (acc.innerHTML==="-$75" tile1a.innerHTML==="Two") {
+else if (acc.innerHTML==="-$75" && tile1a.innerHTML==="Two") {
 acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile1a.innerHTML==="Two") {
@@ -909,7 +909,7 @@ acc.innerHTML="Advance To Gold";}
 else if (
 acc.innerHTML==="Advance To Gold" && tile2a.innerHTML==="One") {
 acc.innerHTML="-$75";}
-else if (acc.innerHTML==="-$75" tile2a.innerHTML==="One") {
+else if (acc.innerHTML==="-$75" && tile2a.innerHTML==="One") {
 acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile2a.innerHTML==="One") {
@@ -920,7 +920,7 @@ acc.innerHTML="Advance To Go";}
 else if (
 acc.innerHTML==="Advance To Go" && tile2a.innerHTML==="One") 
 {acc.innerHTML="Nothing";}
-
+else if (
 acc.innerHTML==="" && tile1a.innerHTML==="One") {
 acc.innerHTML="Jail";}
 else if (
@@ -950,7 +950,7 @@ acc.innerHTML="Advance To Gold";}
 else if (
 acc.innerHTML==="Advance To Gold" && tile1a.innerHTML==="One") {
 acc.innerHTML="-$75";}
-else if (acc.innerHTML==="-$75" tile1a.innerHTML==="One") {
+else if (acc.innerHTML==="-$75" && tile1a.innerHTML==="One") {
 acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile1a.innerHTML==="One") {
@@ -973,7 +973,7 @@ acc.innerHTML="Advance To Gold";}
 else if (
 acc.innerHTML==="Advance To Gold" && tile2a.innerHTML==="Two") {
 acc.innerHTML="-$75";}
-else if (acc.innerHTML==="-$75" tile2a.innerHTML==="Two") {
+else if (acc.innerHTML==="-$75" && tile2a.innerHTML==="Two") {
 acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile2a.innerHTML==="Two") {
@@ -998,7 +998,7 @@ acc.innerHTML="Advance To Gold";}
 else if (
 acc.innerHTML==="Advance To Gold" && tile1a.innerHTML==="Two") {
 acc.innerHTML="-$75";}
-else if (acc.innerHTML==="-$75" tile1a.innerHTML==="Two") {
+else if (acc.innerHTML==="-$75" && tile1a.innerHTML==="Two") {
 acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile1a.innerHTML==="Two") {
@@ -1021,7 +1021,7 @@ acc.innerHTML="Advance To Gold";}
 else if (
 acc.innerHTML==="Advance To Gold" && tile2a.innerHTML==="One") {
 acc.innerHTML="-$75";}
-else if (acc.innerHTML==="-$75" tile2a.innerHTML==="One") {
+else if (acc.innerHTML==="-$75" && tile2a.innerHTML==="One") {
 acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile2a.innerHTML==="One") {
@@ -1032,7 +1032,7 @@ acc.innerHTML="Advance To Go";}
 else if (
 acc.innerHTML==="Advance To Go" && tile2a.innerHTML==="One") 
 {acc.innerHTML="Nothing";}
-
+else if (
 acc.innerHTML==="" && tile1a.innerHTML==="One") {
 acc.innerHTML="Jail";}
 else if (
@@ -1062,7 +1062,7 @@ acc.innerHTML="Advance To Gold";}
 else if (
 acc.innerHTML==="Advance To Gold" && tile1a.innerHTML==="One") {
 acc.innerHTML="-$75";}
-else if (acc.innerHTML==="-$75" tile1a.innerHTML==="One") {
+else if (acc.innerHTML==="-$75" && tile1a.innerHTML==="One") {
 acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile1a.innerHTML==="One") {
@@ -1085,7 +1085,7 @@ acc.innerHTML="Advance To Gold";}
 else if (
 acc.innerHTML==="Advance To Gold" && tile2a.innerHTML==="Two") {
 acc.innerHTML="-$75";}
-else if (acc.innerHTML==="-$75" tile2a.innerHTML==="Two") {
+else if (acc.innerHTML==="-$75" && tile2a.innerHTML==="Two") {
 acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile2a.innerHTML==="Two") {
@@ -1110,7 +1110,7 @@ acc.innerHTML="Advance To Gold";}
 else if (
 acc.innerHTML==="Advance To Gold" && tile1a.innerHTML==="Two") {
 acc.innerHTML="-$75";}
-else if (acc.innerHTML==="-$75" tile1a.innerHTML==="Two") {
+else if (acc.innerHTML==="-$75" && tile1a.innerHTML==="Two") {
 acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile1a.innerHTML==="Two") {
@@ -1133,7 +1133,7 @@ acc.innerHTML="Advance To Gold";}
 else if (
 acc.innerHTML==="Advance To Gold" && tile2a.innerHTML==="One") {
 acc.innerHTML="-$75";}
-else if (acc.innerHTML==="-$75" tile2a.innerHTML==="One") {
+else if (acc.innerHTML==="-$75" && tile2a.innerHTML==="One") {
 acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile2a.innerHTML==="One") {
@@ -1144,7 +1144,7 @@ acc.innerHTML="Advance To Go";}
 else if (
 acc.innerHTML==="Advance To Go" && tile2a.innerHTML==="One") 
 {acc.innerHTML="Nothing";}
-
+else if (
 acc.innerHTML==="" && tile1a.innerHTML==="One") {
 acc.innerHTML="Jail";}
 else if (
