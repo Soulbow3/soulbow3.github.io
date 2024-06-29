@@ -734,9 +734,10 @@ acc.innerHTML="+$200";}
 else if (
 acc.innerHTML==="+$200" && tile1a.innerHTML==="One") {
 acc.innerHTML="Advance To Go";}
+
 else if (
-acc.innerHTML==="Advance To Go" && tile1a.innerHTML==="One") {
-acc.innerHTML="Nothing";}
+acc.innerHTML==="Advance To Go" && tile2a.innerHTML==="Two") {
+acc.innerHTML="Nothing";} 
 else if (
 acc.innerHTML==="Nothing" && tile2a.innerHTML==="Two") {
 acc.innerHTML="Jail";}
@@ -759,12 +760,6 @@ acc.innerHTML="Advance To Go";}
 else if (
 acc.innerHTML==="Advance To Go" && tile2a.innerHTML==="Two") 
 {acc.innerHTML="Nothing";}
-else if (
-acc.innerHTML==="" && tile1a.innerHTML==="One") {
-acc.innerHTML="Jail";}
-else if (
-acc.innerHTML==="" && tile2a.innerHTML==="Two") {
-acc.innerHTML="Jail";}
 
 else if (acc.innerHTML==="Advance To Go" && tile1a.innerHTML==="Two") {
 acc.innerHTML="Nothing";}
@@ -787,9 +782,10 @@ acc.innerHTML="+$200";}
 else if (
 acc.innerHTML==="+$200" && tile1a.innerHTML==="Two") {
 acc.innerHTML="Advance To Go";}
+
 else if (
-acc.innerHTML==="Advance To Go" && tile1a.innerHTML==="Two") {
-acc.innerHTML="Nothing";}
+acc.innerHTML==="Advance To Go" && tile2a.innerHTML==="One") {
+acc.innerHTML="Nothing";} 
 else if (
 acc.innerHTML==="Nothing" && tile2a.innerHTML==="One") {
 acc.innerHTML="Jail";}
@@ -812,7 +808,7 @@ acc.innerHTML="Advance To Go";}
 else if (
 acc.innerHTML==="Advance To Go" && tile2a.innerHTML==="One") 
 {acc.innerHTML="Nothing";}
-else if (
+
 acc.innerHTML==="" && tile1a.innerHTML==="One") {
 acc.innerHTML="Jail";}
 else if (
@@ -827,219 +823,339 @@ acc.innerHTML="Jail";}}
 
 function cardThree() {
 var acc=document.getElementById("cardAcc");
-var tile3a= document.getElementById("oneU");
-var tile3b= document.getElementById("twoU");
-if (acc.innerHTML==="Advance To Gold" && tile3a.innerHTML==="One") {
-acc.innerHTML="-$75";}
-else if (acc.innerHTML==="-$75" tile3b.innerHTML==="One") {
-acc.innerHTML="Back 3";}
-else if (
-acc.innerHTML==="Back 3" && tile3a.innerHTML==="One") {
-acc.innerHTML="+$200";}
-else if (
-acc.innerHTML==="+$200" && tile3a.innerHTML==="One") {
-acc.innerHTML="Advance To Go";}
-else if (
-acc.innerHTML==="Advance To Go" && tile3a.innerHTML==="One") {
+var tile1a= document.getElementById("oneU");
+var tile2a= document.getElementById("twoU");
+if (acc.innerHTML==="Advance To Go" && tile1a.innerHTML==="One") {
 acc.innerHTML="Nothing";}
 else if (
-acc.innerHTML==="Nothing" && tile3a.innerHTML==="One") {
+acc.innerHTML==="Nothing" && tile1a.innerHTML==="One") {
 acc.innerHTML="Jail";}
-else if (acc.innerHTML==="Jail" && tile3a.innerHTML==="One") 
+else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="One") 
 {acc.innerHTML="+$150";}
 else if (
-acc.innerHTML==="+$150" && tile3a.innerHTML==="One") {
+acc.innerHTML==="+$150" && tile1a.innerHTML==="One") {
 acc.innerHTML="Advance To Gold";}
 else if (
-acc.innerHTML==="Advance To Gold" && tile3b.innerHTML==="Two") {
+acc.innerHTML==="Advance To Gold" && tile1a.innerHTML==="One") {
 acc.innerHTML="-$75";}
-else if (acc.innerHTML==="-$75" tile3b.innerHTML==="Two") {
+else if (acc.innerHTML==="-$75" tile1a.innerHTML==="One") {
 acc.innerHTML="Back 3";}
 else if (
-acc.innerHTML==="Back 3" && tile3b.innerHTML==="Two") {
+acc.innerHTML==="Back 3" && tile1a.innerHTML==="One") {
 acc.innerHTML="+$200";}
 else if (
-acc.innerHTML==="+$200" && tile3b.innerHTML==="Two") {
+acc.innerHTML==="+$200" && tile1a.innerHTML==="One") {
 acc.innerHTML="Advance To Go";}
+
 else if (
-acc.innerHTML==="Advance To Go" && tile3b.innerHTML==="Two") {
-acc.innerHTML="Nothing";}
+acc.innerHTML==="Advance To Go" && tile2a.innerHTML==="Two") {
+acc.innerHTML="Nothing";} 
 else if (
-acc.innerHTML==="Nothing" && tile3b.innerHTML==="Two") {
+acc.innerHTML==="Nothing" && tile2a.innerHTML==="Two") {
 acc.innerHTML="Jail";}
-else if (
-acc.innerHTML==="Jail" && tile3b.innerHTML==="Two") {
-acc.innerHTML="+$150";}
-else if (
-acc.innerHTML==="+$150" && tile3b.innerHTML==="Two") {
-acc.innerHTML="Back 3";}
-if (acc.innerHTML==="Advance To Gold" && tile3a.innerHTML==="Two") {
-acc.innerHTML="-$75";}
-else if (acc.innerHTML==="-$75" tile3b.innerHTML==="Two") {
-acc.innerHTML="Back 3";}
-else if (
-acc.innerHTML==="Back 3" && tile3a.innerHTML==="Two") {
-acc.innerHTML="+$200";}
-else if (
-acc.innerHTML==="+$200" && tile3a.innerHTML==="Two") {
-acc.innerHTML="Advance To Go";}
-else if (
-acc.innerHTML==="Advance To Go" && tile3a.innerHTML==="Two") {
-acc.innerHTML="Nothing";}
-else if (
-acc.innerHTML==="Nothing" && tile3a.innerHTML==="Two") {
-acc.innerHTML="Jail";}
-else if (acc.innerHTML==="Jail" && tile3a.innerHTML==="Two") 
+else if (acc.innerHTML==="Jail" && tile2a.innerHTML==="Two") 
 {acc.innerHTML="+$150";}
 else if (
-acc.innerHTML==="+$150" && tile3a.innerHTML==="Two") {
+acc.innerHTML==="+$150" && tile2a.innerHTML==="Two") {
 acc.innerHTML="Advance To Gold";}
 else if (
-acc.innerHTML==="Advance To Gold" && tile3b.innerHTML==="One") {
+acc.innerHTML==="Advance To Gold" && tile2a.innerHTML==="Two") {
 acc.innerHTML="-$75";}
-else if (acc.innerHTML==="-$75" tile3b.innerHTML==="One") {
+else if (acc.innerHTML==="-$75" tile2a.innerHTML==="Two") {
 acc.innerHTML="Back 3";}
 else if (
-acc.innerHTML==="Back 3" && tile3b.innerHTML==="One") {
+acc.innerHTML==="Back 3" && tile2a.innerHTML==="Two") {
 acc.innerHTML="+$200";}
 else if (
-acc.innerHTML==="+$200" && tile3b.innerHTML==="One") {
+acc.innerHTML==="+$200" && tile2a.innerHTML==="Two") {
 acc.innerHTML="Advance To Go";}
 else if (
-acc.innerHTML==="Advance To Go" && tile3b.innerHTML==="One") {
+acc.innerHTML==="Advance To Go" && tile2a.innerHTML==="Two") 
+{acc.innerHTML="Nothing";}
+
+else if (acc.innerHTML==="Advance To Go" && tile1a.innerHTML==="Two") {
 acc.innerHTML="Nothing";}
 else if (
-acc.innerHTML==="Nothing" && tile3b.innerHTML==="One") {
+acc.innerHTML==="Nothing" && tile1a.innerHTML==="Two") {
 acc.innerHTML="Jail";}
+else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="Two") 
+{acc.innerHTML="+$150";}
 else if (
-acc.innerHTML==="Jail" && tile3b.innerHTML==="One") {
-acc.innerHTML="+$150";}
-else if (
-acc.innerHTML==="+$150" && tile3b.innerHTML==="One") {
-acc.innerHTML="Back 3";}
-else if (
-acc.innerHTML==="" && tile3a.innerHTML==="One") {
-acc.innerHTML="Back 3";}
-else if (
-acc.innerHTML==="" && tile3a.innerHTML==="Two") {
-acc.innerHTML="Back 3";}
-else if (
-acc.innerHTML==="" && tile3b.innerHTML==="Two") {
+acc.innerHTML==="+$150" && tile1a.innerHTML==="Two") {
 acc.innerHTML="Advance To Gold";}
 else if (
-acc.innerHTML==="" && tile3b.innerHTML==="One") {
-acc.innerHTML="Advance To Gold";}}
+acc.innerHTML==="Advance To Gold" && tile1a.innerHTML==="Two") {
+acc.innerHTML="-$75";}
+else if (acc.innerHTML==="-$75" tile1a.innerHTML==="Two") {
+acc.innerHTML="Back 3";}
+else if (
+acc.innerHTML==="Back 3" && tile1a.innerHTML==="Two") {
+acc.innerHTML="+$200";}
+else if (
+acc.innerHTML==="+$200" && tile1a.innerHTML==="Two") {
+acc.innerHTML="Advance To Go";}
+
+else if (
+acc.innerHTML==="Advance To Go" && tile2a.innerHTML==="One") {
+acc.innerHTML="Nothing";} 
+else if (
+acc.innerHTML==="Nothing" && tile2a.innerHTML==="One") {
+acc.innerHTML="Jail";}
+else if (acc.innerHTML==="Jail" && tile2a.innerHTML==="One") 
+{acc.innerHTML="+$150";}
+else if (
+acc.innerHTML==="+$150" && tile2a.innerHTML==="One") {
+acc.innerHTML="Advance To Gold";}
+else if (
+acc.innerHTML==="Advance To Gold" && tile2a.innerHTML==="One") {
+acc.innerHTML="-$75";}
+else if (acc.innerHTML==="-$75" tile2a.innerHTML==="One") {
+acc.innerHTML="Back 3";}
+else if (
+acc.innerHTML==="Back 3" && tile2a.innerHTML==="One") {
+acc.innerHTML="+$200";}
+else if (
+acc.innerHTML==="+$200" && tile2a.innerHTML==="One") {
+acc.innerHTML="Advance To Go";}
+else if (
+acc.innerHTML==="Advance To Go" && tile2a.innerHTML==="One") 
+{acc.innerHTML="Nothing";}
+
+acc.innerHTML==="" && tile1a.innerHTML==="One") {
+acc.innerHTML="Jail";}
+else if (
+acc.innerHTML==="" && tile1a.innerHTML==="TWo") {
+acc.innerHTML="Jail";}
+else if (
+acc.innerHTML==="" && tile2a.innerHTML==="Two") {
+acc.innerHTML="Jail";}
+else if (
+acc.innerHTML==="" && tile2a.innerHTML==="One") {
+acc.innerHTML="Jail";}}
 
 function cardFour() {
 var acc=document.getElementById("cardAcc");
-var tile4a= document.getElementById("bone");
-var tile4b= document.getElementById("btwo");
-if (acc.innerHTML==="Back 3" && tile4a.innerHTML==="One") {
-acc.innerHTML="+$200";}
-else if (
-acc.innerHTML==="+$200" && tile4a.innerHTML==="One") {
-acc.innerHTML="Advance To Go";}
-else if (
-acc.innerHTML==="Advance To Go" && tile4a.innerHTML==="One") {
+var tile1a= document.getElementById("bone");
+var tile2a= document.getElementById("btwo");
+if (acc.innerHTML==="Advance To Go" && tile1a.innerHTML==="One") {
 acc.innerHTML="Nothing";}
 else if (
-acc.innerHTML==="Nothing" && tile4a.innerHTML==="One") {
+acc.innerHTML==="Nothing" && tile1a.innerHTML==="One") {
+acc.innerHTML="Jail";}
+else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="One") 
+{acc.innerHTML="+$150";}
+else if (
+acc.innerHTML==="+$150" && tile1a.innerHTML==="One") {
+acc.innerHTML="Advance To Gold";}
+else if (
+acc.innerHTML==="Advance To Gold" && tile1a.innerHTML==="One") {
+acc.innerHTML="-$75";}
+else if (acc.innerHTML==="-$75" tile1a.innerHTML==="One") {
+acc.innerHTML="Back 3";}
+else if (
+acc.innerHTML==="Back 3" && tile1a.innerHTML==="One") {
+acc.innerHTML="+$200";}
+else if (
+acc.innerHTML==="+$200" && tile1a.innerHTML==="One") {
+acc.innerHTML="Advance To Go";}
+
+else if (
+acc.innerHTML==="Advance To Go" && tile2a.innerHTML==="Two") {
+acc.innerHTML="Nothing";} 
+else if (
+acc.innerHTML==="Nothing" && tile2a.innerHTML==="Two") {
+acc.innerHTML="Jail";}
+else if (acc.innerHTML==="Jail" && tile2a.innerHTML==="Two") 
+{acc.innerHTML="+$150";}
+else if (
+acc.innerHTML==="+$150" && tile2a.innerHTML==="Two") {
+acc.innerHTML="Advance To Gold";}
+else if (
+acc.innerHTML==="Advance To Gold" && tile2a.innerHTML==="Two") {
+acc.innerHTML="-$75";}
+else if (acc.innerHTML==="-$75" tile2a.innerHTML==="Two") {
+acc.innerHTML="Back 3";}
+else if (
+acc.innerHTML==="Back 3" && tile2a.innerHTML==="Two") {
+acc.innerHTML="+$200";}
+else if (
+acc.innerHTML==="+$200" && tile2a.innerHTML==="Two") {
+acc.innerHTML="Advance To Go";}
+else if (
+acc.innerHTML==="Advance To Go" && tile2a.innerHTML==="Two") 
+{acc.innerHTML="Nothing";}
+
+else if (acc.innerHTML==="Advance To Go" && tile1a.innerHTML==="Two") {
+acc.innerHTML="Nothing";}
+else if (
+acc.innerHTML==="Nothing" && tile1a.innerHTML==="Two") {
+acc.innerHTML="Jail";}
+else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="Two") 
+{acc.innerHTML="+$150";}
+else if (
+acc.innerHTML==="+$150" && tile1a.innerHTML==="Two") {
+acc.innerHTML="Advance To Gold";}
+else if (
+acc.innerHTML==="Advance To Gold" && tile1a.innerHTML==="Two") {
+acc.innerHTML="-$75";}
+else if (acc.innerHTML==="-$75" tile1a.innerHTML==="Two") {
+acc.innerHTML="Back 3";}
+else if (
+acc.innerHTML==="Back 3" && tile1a.innerHTML==="Two") {
+acc.innerHTML="+$200";}
+else if (
+acc.innerHTML==="+$200" && tile1a.innerHTML==="Two") {
+acc.innerHTML="Advance To Go";}
+
+else if (
+acc.innerHTML==="Advance To Go" && tile2a.innerHTML==="One") {
+acc.innerHTML="Nothing";} 
+else if (
+acc.innerHTML==="Nothing" && tile2a.innerHTML==="One") {
+acc.innerHTML="Jail";}
+else if (acc.innerHTML==="Jail" && tile2a.innerHTML==="One") 
+{acc.innerHTML="+$150";}
+else if (
+acc.innerHTML==="+$150" && tile2a.innerHTML==="One") {
+acc.innerHTML="Advance To Gold";}
+else if (
+acc.innerHTML==="Advance To Gold" && tile2a.innerHTML==="One") {
+acc.innerHTML="-$75";}
+else if (acc.innerHTML==="-$75" tile2a.innerHTML==="One") {
+acc.innerHTML="Back 3";}
+else if (
+acc.innerHTML==="Back 3" && tile2a.innerHTML==="One") {
+acc.innerHTML="+$200";}
+else if (
+acc.innerHTML==="+$200" && tile2a.innerHTML==="One") {
+acc.innerHTML="Advance To Go";}
+else if (
+acc.innerHTML==="Advance To Go" && tile2a.innerHTML==="One") 
+{acc.innerHTML="Nothing";}
+
+acc.innerHTML==="" && tile1a.innerHTML==="One") {
 acc.innerHTML="Jail";}
 else if (
-acc.innerHTML==="Jail" && tile4a.innerHTML==="One") {
-acc.innerHTML="+$150";}
+acc.innerHTML==="" && tile1a.innerHTML==="TWo") {
+acc.innerHTML="Jail";}
 else if (
-acc.innerHTML==="+$150" && tile4a.innerHTML==="One") {
-acc.innerHTML="Advance To Gold";}
+acc.innerHTML==="" && tile2a.innerHTML==="Two") {
+acc.innerHTML="Jail";}
 else if (
-acc.innerHTML==="Advance To Gold" && tile4a.innerHTML==="One") {
-acc.innerHTML="-$75";}
-else if (acc.innerHTML==="-$75" tile4a.innerHTML==="One") {
-acc.innerHTML="Back 3";}
-else if (acc.innerHTML==="-$75" tile4b.innerHTML==="Two") {
-acc.innerHTML="Back 3";}
-else if (
-acc.innerHTML==="Back 3" && tile4b.innerHTML==="Two") {
-acc.innerHTML="+$200";}
-else if (
-acc.innerHTML==="+$200" && tile4b.innerHTML==="Two") {
-acc.innerHTML="Advance To Go";}
-else if (
-acc.innerHTML==="Advance To Go" && tile4b.innerHTML==="Two") {
-acc.innerHTML="Nothing";}
-else if (acc.innerHTML==="Nothing" && tile4b.innerHTML==="Two") 
-{acc.innerHTML="Jail";}
-else if (
-acc.innerHTML==="Jail" && tile4b.innerHTML==="Two") {
-acc.innerHTML="+$150";}
-else if (
-acc.innerHTML==="+$150" && tile4b.innerHTML==="Two") {
-acc.innerHTML="Advance To Gold";}
-else if (
-acc.innerHTML==="Advance To Gold" && tile4b.innerHTML==="Two") {
-acc.innerHTML="-$75";}
-else if (
-acc.innerHTML==="" && tile4a.innerHTML==="One") {
-acc.innerHTML="-$75";}
-else if (
-acc.innerHTML==="" && tile4b.innerHTML==="Two") {
-acc.innerHTML="-$75";}}
+acc.innerHTML==="" && tile2a.innerHTML==="One") {
+acc.innerHTML="Jail";}}
 
 function cardFive() {
 var acc=document.getElementById("cardAcc");
-var tile5a= document.getElementById("dOne");
-var tile5b= document.getElementById("dtwo");
-if (acc.innerHTML==="Advance To Go" && tile5a.innerHTML==="One") {
+var tile1a= document.getElementById("done");
+var tile2a= document.getElementById("dtwo");
+if (acc.innerHTML==="Advance To Go" && tile1a.innerHTML==="One") {
 acc.innerHTML="Nothing";}
 else if (
-acc.innerHTML==="Nothing" && tile5a.innerHTML==="One") {
+acc.innerHTML==="Nothing" && tile1a.innerHTML==="One") {
 acc.innerHTML="Jail";}
+else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="One") 
+{acc.innerHTML="+$150";}
 else if (
-acc.innerHTML==="Jail" && tile5a.innerHTML==="One") {
-acc.innerHTML="+$150";}
-else if (
-acc.innerHTML==="+$150" && tile5a.innerHTML==="One") {
+acc.innerHTML==="+$150" && tile1a.innerHTML==="One") {
 acc.innerHTML="Advance To Gold";}
 else if (
-acc.innerHTML==="Advance To Gold" && tile5a.innerHTML==="One") {
+acc.innerHTML==="Advance To Gold" && tile1a.innerHTML==="One") {
 acc.innerHTML="-$75";}
-else if (acc.innerHTML==="-$75" tile5a.innerHTML==="One") {
+else if (acc.innerHTML==="-$75" tile1a.innerHTML==="One") {
 acc.innerHTML="Back 3";}
 else if (
-acc.innerHTML==="Back 3" && tile5a.innerHTML==="One") {
+acc.innerHTML==="Back 3" && tile1a.innerHTML==="One") {
 acc.innerHTML="+$200";}
 else if (
-acc.innerHTML==="+$200" && tile5a.innerHTML==="One") {
+acc.innerHTML==="+$200" && tile1a.innerHTML==="One") {
+acc.innerHTML="Advance To Go";}
+
+else if (
+acc.innerHTML==="Advance To Go" && tile2a.innerHTML==="Two") {
+acc.innerHTML="Nothing";} 
+else if (
+acc.innerHTML==="Nothing" && tile2a.innerHTML==="Two") {
+acc.innerHTML="Jail";}
+else if (acc.innerHTML==="Jail" && tile2a.innerHTML==="Two") 
+{acc.innerHTML="+$150";}
+else if (
+acc.innerHTML==="+$150" && tile2a.innerHTML==="Two") {
+acc.innerHTML="Advance To Gold";}
+else if (
+acc.innerHTML==="Advance To Gold" && tile2a.innerHTML==="Two") {
+acc.innerHTML="-$75";}
+else if (acc.innerHTML==="-$75" tile2a.innerHTML==="Two") {
+acc.innerHTML="Back 3";}
+else if (
+acc.innerHTML==="Back 3" && tile2a.innerHTML==="Two") {
+acc.innerHTML="+$200";}
+else if (
+acc.innerHTML==="+$200" && tile2a.innerHTML==="Two") {
 acc.innerHTML="Advance To Go";}
 else if (
-acc.innerHTML==="Advance To Go" && tile5b.innerHTML==="Two") {
+acc.innerHTML==="Advance To Go" && tile2a.innerHTML==="Two") 
+{acc.innerHTML="Nothing";}
+
+else if (acc.innerHTML==="Advance To Go" && tile1a.innerHTML==="Two") {
 acc.innerHTML="Nothing";}
 else if (
-acc.innerHTML==="Nothing" && tile5b.innerHTML==="Two") {
+acc.innerHTML==="Nothing" && tile1a.innerHTML==="Two") {
 acc.innerHTML="Jail";}
+else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="Two") 
+{acc.innerHTML="+$150";}
 else if (
-acc.innerHTML==="Jail" && tile5b.innerHTML==="Two") {
-acc.innerHTML="+$150";}
-else if (
-acc.innerHTML==="+$150" && tile5b.innerHTML==="Two") {
+acc.innerHTML==="+$150" && tile1a.innerHTML==="Two") {
 acc.innerHTML="Advance To Gold";}
 else if (
-acc.innerHTML==="Advance To Gold" && tile5b.innerHTML==="Two") {
+acc.innerHTML==="Advance To Gold" && tile1a.innerHTML==="Two") {
 acc.innerHTML="-$75";}
-else if (acc.innerHTML==="-$75" tile3b.innerHTML==="Two") {
+else if (acc.innerHTML==="-$75" tile1a.innerHTML==="Two") {
 acc.innerHTML="Back 3";}
 else if (
-acc.innerHTML==="Back 3" && tile5b.innerHTML==="Two") {
+acc.innerHTML==="Back 3" && tile1a.innerHTML==="Two") {
 acc.innerHTML="+$200";}
 else if (
-acc.innerHTML==="+$200" && tile5b.innerHTML==="Two") {
+acc.innerHTML==="+$200" && tile1a.innerHTML==="Two") {
+acc.innerHTML="Advance To Go";}
+
+else if (
+acc.innerHTML==="Advance To Go" && tile2a.innerHTML==="One") {
+acc.innerHTML="Nothing";} 
+else if (
+acc.innerHTML==="Nothing" && tile2a.innerHTML==="One") {
+acc.innerHTML="Jail";}
+else if (acc.innerHTML==="Jail" && tile2a.innerHTML==="One") 
+{acc.innerHTML="+$150";}
+else if (
+acc.innerHTML==="+$150" && tile2a.innerHTML==="One") {
+acc.innerHTML="Advance To Gold";}
+else if (
+acc.innerHTML==="Advance To Gold" && tile2a.innerHTML==="One") {
+acc.innerHTML="-$75";}
+else if (acc.innerHTML==="-$75" tile2a.innerHTML==="One") {
+acc.innerHTML="Back 3";}
+else if (
+acc.innerHTML==="Back 3" && tile2a.innerHTML==="One") {
+acc.innerHTML="+$200";}
+else if (
+acc.innerHTML==="+$200" && tile2a.innerHTML==="One") {
 acc.innerHTML="Advance To Go";}
 else if (
-acc.innerHTML==="" && tile5a.innerHTML==="One") {
-acc.innerHTML="Advance To Go";}
+acc.innerHTML==="Advance To Go" && tile2a.innerHTML==="One") 
+{acc.innerHTML="Nothing";}
+
+acc.innerHTML==="" && tile1a.innerHTML==="One") {
+acc.innerHTML="Jail";}
 else if (
-acc.innerHTML==="" && tile5b.innerHTML==="Two") {
-acc.innerHTML="Advanced To Go";}}
+acc.innerHTML==="" && tile1a.innerHTML==="TWo") {
+acc.innerHTML="Jail";}
+else if (
+acc.innerHTML==="" && tile2a.innerHTML==="Two") {
+acc.innerHTML="Jail";}
+else if (
+acc.innerHTML==="" && tile2a.innerHTML==="One") {
+acc.innerHTML="Jail";}}
 
 function go1() {
 var one=document.getElementById("cone");
