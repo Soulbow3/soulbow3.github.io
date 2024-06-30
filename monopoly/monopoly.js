@@ -101,22 +101,22 @@ back.style.background="purple";}
 else if (one.innerHTML==="One") {
 three.innerHTML="Rent $20";
 back.style.background="red";}
-else if (one.innerHTML="-->") {
+else if (one.innerHTML==="-->") {
 three.innerHTML="Rent $20";
 back.style.background="red";}
-else if (one.innerHTML="c:<") {
+else if (one.innerHTML==="c:<") {
 three.innerHTML="Rent $20";
 back.style.background="red";}
-else if (one.innerHTML="<(^@^)>") {
+else if (one.innerHTML==="<(^@^)>") {
 three.innerHTML="Rent $20";
 back.style.background="red";}
-else if (two.innerHTML="-->") {
+else if (two.innerHTML==="-->") {
 three.innerHTML="Rent $20";
 back.style.background="purple";}
-else if (two.innerHTML="c:<") {
+else if (two.innerHTML==="c:<") {
 three.innerHTML="Rent $20";
 back.style.background="purple";}
-else if (two.innerHTML="<(^@^)>") {
+else if (two.innerHTML==="<(^@^)>") {
 three.innerHTML="Rent $20";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
@@ -181,22 +181,22 @@ back.style.background="purple";}
 else if (one.innerHTML==="One") {
 three.innerHTML="Rent $30";
 back.style.background="red";}
-else if (one.innerHTML="-->") {
+else if (one.innerHTML==="-->") {
 three.innerHTML="Rent $30";
 back.style.background="red";}
-else if (one.innerHTML="c:<") {
+else if (one.innerHTML==="c:<") {
 three.innerHTML="Rent $30";
 back.style.background="red";}
-else if (one.innerHTML="<(^@^)>") {
+else if (one.innerHTML==="<(^@^)>") {
 three.innerHTML="Rent $30";
 back.style.background="red";}
-else if (two.innerHTML="-->") {
+else if (two.innerHTML==="-->") {
 three.innerHTML="Rent $30";
 back.style.background="purple";}
-else if (two.innerHTML="c:<") {
+else if (two.innerHTML==="c:<") {
 three.innerHTML="Rent $30";
 back.style.background="purple";}
-else if (two.innerHTML="<(^@^)>") {
+else if (two.innerHTML==="<(^@^)>") {
 three.innerHTML="Rent $30";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
@@ -221,22 +221,22 @@ back.style.background="purple";}
 else if (one.innerHTML==="One") {
 three.innerHTML="Rent $40";
 back.style.background="red";}
-else if (one.innerHTML="-->") {
+else if (one.innerHTML==="-->") {
 three.innerHTML="Rent $40";
 back.style.background="red";}
-else if (one.innerHTML="c:<") {
+else if (one.innerHTML==="c:<") {
 three.innerHTML="Rent $40";
 back.style.background="red";}
-else if (one.innerHTML="<(^@^)>") {
+else if (one.innerHTML==="<(^@^)>") {
 three.innerHTML="Rent $40";
 back.style.background="red";}
-else if (two.innerHTML="-->") {
+else if (two.innerHTML==="-->") {
 three.innerHTML="Rent $40";
 back.style.background="purple";}
-else if (two.innerHTML="c:<") {
+else if (two.innerHTML==="c:<") {
 three.innerHTML="Rent $40";
 back.style.background="purple";}
-else if (two.innerHTML="<(^@^)>") {
+else if (two.innerHTML==="<(^@^)>") {
 three.innerHTML="Rent $40";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
@@ -261,22 +261,22 @@ back.style.background="purple";}
 else if (one.innerHTML==="One") {
 three.innerHTML="Rent $60";
 back.style.background="red";}
-else if (one.innerHTML="-->") {
+else if (one.innerHTML==="-->") {
 three.innerHTML="Rent $60";
 back.style.background="red";}
-else if (one.innerHTML="c:<") {
+else if (one.innerHTML==="c:<") {
 three.innerHTML="Rent $60";
 back.style.background="red";}
-else if (one.innerHTML="<(^@^)>") {
+else if (one.innerHTML==="<(^@^)>") {
 three.innerHTML="Rent $60";
 back.style.background="red";}
-else if (two.innerHTML="-->") {
+else if (two.innerHTML==="-->") {
 three.innerHTML="Rent $60";
 back.style.background="purple";}
-else if (two.innerHTML="c:<") {
+else if (two.innerHTML==="c:<") {
 three.innerHTML="Rent $60";
 back.style.background="purple";}
-else if (two.innerHTML="<(^@^)>") {
+else if (two.innerHTML==="<(^@^)>") {
 three.innerHTML="Rent $60";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
@@ -301,22 +301,22 @@ back.style.background="purple";}
 else if (one.innerHTML==="One") {
 three.innerHTML="Rent $60";
 back.style.background="red";}
-else if (one.innerHTML="-->") {
+else if (one.innerHTML==="-->") {
 three.innerHTML="Rent $60";
 back.style.background="red";}
-else if (one.innerHTML="c:<") {
+else if (one.innerHTML==="c:<") {
 three.innerHTML="Rent $60";
 back.style.background="red";}
-else if (one.innerHTML="<(^@^)>") {
+else if (one.innerHTML==="<(^@^)>") {
 three.innerHTML="Rent $60";
 back.style.background="red";}
-else if (two.innerHTML="-->") {
+else if (two.innerHTML==="-->") {
 three.innerHTML="Rent $60";
 back.style.background="purple";}
-else if (two.innerHTML="c:<") {
+else if (two.innerHTML==="c:<") {
 three.innerHTML="Rent $60";
 back.style.background="purple";}
-else if (two.innerHTML="<(^@^)>") {
+else if (two.innerHTML==="<(^@^)>") {
 three.innerHTML="Rent $60";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
@@ -341,22 +341,22 @@ back.style.background="purple";}
 else if (one.innerHTML==="One") {
 three.innerHTML="Rent $70";
 back.style.background="red";}
-else if (one.innerHTML="-->") {
+else if (one.innerHTML==="-->") {
 three.innerHTML="Rent $70";
 back.style.background="red";}
-else if (one.innerHTML="c:<") {
+else if (one.innerHTML==="c:<") {
 three.innerHTML="Rent $70";
 back.style.background="red";}
-else if (one.innerHTML="<(^@^)>") {
+else if (one.innerHTML==="<(^@^)>") {
 three.innerHTML="Rent $70";
 back.style.background="red";}
-else if (two.innerHTML="-->") {
+else if (two.innerHTML==="-->") {
 three.innerHTML="Rent $70";
 back.style.background="purple";}
-else if (two.innerHTML="c:<") {
+else if (two.innerHTML==="c:<") {
 three.innerHTML="Rent $70";
 back.style.background="purple";}
-else if (two.innerHTML="<(^@^)>") {
+else if (two.innerHTML==="<(^@^)>") {
 three.innerHTML="Rent $70";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
@@ -381,22 +381,22 @@ back.style.background="purple";}
 else if (one.innerHTML==="One") {
 three.innerHTML="Rent $70";
 back.style.background="red";}
-else if (one.innerHTML="-->") {
+else if (one.innerHTML==="-->") {
 three.innerHTML="Rent $70";
 back.style.background="red";}
-else if (one.innerHTML="c:<") {
+else if (one.innerHTML==="c:<") {
 three.innerHTML="Rent $70";
 back.style.background="red";}
-else if (one.innerHTML="<(^@^)>") {
+else if (one.innerHTML==="<(^@^)>") {
 three.innerHTML="Rent $70";
 back.style.background="red";}
-else if (two.innerHTML="-->") {
+else if (two.innerHTML==="-->") {
 three.innerHTML="Rent ";
 back.style.background="purple";}
-else if (two.innerHTML="c:<") {
+else if (two.innerHTML==="c:<") {
 three.innerHTML="Rent $70";
 back.style.background="purple";}
-else if (two.innerHTML="<(^@^)>") {
+else if (two.innerHTML==="<(^@^)>") {
 three.innerHTML="Rent $70";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
@@ -421,22 +421,22 @@ back.style.background="purple";}
 else if (one.innerHTML==="One") {
 three.innerHTML="Rent $80";
 back.style.background="red";}
-else if (one.innerHTML="-->") {
+else if (one.innerHTML==="-->") {
 three.innerHTML="Rent $80";
 back.style.background="red";}
-else if (one.innerHTML="c:<") {
+else if (one.innerHTML==="c:<") {
 three.innerHTML="Rent $80";
 back.style.background="red";}
-else if (one.innerHTML="<(^@^)>") {
+else if (one.innerHTML==="<(^@^)>") {
 three.innerHTML="Rent $80";
 back.style.background="red";}
-else if (two.innerHTML="-->") {
+else if (two.innerHTML==="-->") {
 three.innerHTML="Rent $80";
 back.style.background="purple";}
-else if (two.innerHTML="c:<") {
+else if (two.innerHTML==="c:<") {
 three.innerHTML="Rent $80";
 back.style.background="purple";}
-else if (two.innerHTML="<(^@^)>") {
+else if (two.innerHTML==="<(^@^)>") {
 three.innerHTML="Rent $80";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
@@ -461,22 +461,22 @@ back.style.background="purple";}
 else if (one.innerHTML==="One") {
 three.innerHTML="Rent $90";
 back.style.background="red";}
- else if (one.innerHTML="-->") {
+else if (one.innerHTML==="-->") {
 three.innerHTML="Rent $90";
 back.style.background="red";}
-else if (one.innerHTML="c:<") {
+else if (one.innerHTML==="c:<") {
 three.innerHTML="Rent $90";
 back.style.background="red";}
-else if (one.innerHTML="<(^@^)>") {
+else if (one.innerHTML==="<(^@^)>") {
 three.innerHTML="Rent $90";
 back.style.background="red";}
-else if (two.innerHTML="-->") {
+else if (two.innerHTML==="-->") {
 three.innerHTML="Rent $90";
 back.style.background="purple";}
-else if (two.innerHTML="c:<") {
+else if (two.innerHTML==="c:<") {
 three.innerHTML="Rent $90";
 back.style.background="purple";}
-else if (two.innerHTML="<(^@^)>") {
+else if (two.innerHTML==="<(^@^)>") {
 three.innerHTML="Rent $90";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
@@ -501,22 +501,22 @@ back.style.background="purple";}
 else if (one.innerHTML==="One") {
 three.innerHTML="Rent $90";
 back.style.background="red";}
-else if (one.innerHTML="-->") {
+else if (one.innerHTML==="-->") {
 three.innerHTML="Rent $90";
 back.style.background="red";}
-else if (one.innerHTML="c:<") {
+else if (one.innerHTML==="c:<") {
 three.innerHTML="Rent $90";
 back.style.background="red";}
-else if (one.innerHTML="<(^@^)>") {
+else if (one.innerHTML==="<(^@^)>") {
 three.innerHTML="Rent $90";
 back.style.background="red";}
-else if (two.innerHTML="-->") {
+else if (two.innerHTML==="-->") {
 three.innerHTML="Rent $90";
 back.style.background="purple";}
-else if (two.innerHTML="c:<") {
+else if (two.innerHTML==="c:<") {
 three.innerHTML="Rent $90";
 back.style.background="purple";}
-else if (two.innerHTML="<(^@^)>") {
+else if (two.innerHTML==="<(^@^)>") {
 three.innerHTML="Rent $90";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
@@ -541,22 +541,22 @@ back.style.background="purple";}
 else if (one.innerHTML==="One") {
 three.innerHTML="Rent $90";
 back.style.background="red";}
- else if (one.innerHTML="-->") {
+ else if (one.innerHTML==="-->") {
 three.innerHTML="Rent $90";
 back.style.background="red";}
-else if (one.innerHTML="c:<") {
+else if (one.innerHTML==="c:<") {
 three.innerHTML="Rent $90";
 back.style.background="red";}
-else if (one.innerHTML="<(^@^)>") {
+else if (one.innerHTML==="<(^@^)>") {
 three.innerHTML="Rent $90";
 back.style.background="red";}
-else if (two.innerHTML="-->") {
+else if (two.innerHTML==="-->") {
 three.innerHTML="Rent $90";
 back.style.background="purple";}
-else if (two.innerHTML="c:<") {
+else if (two.innerHTML==="c:<") {
 three.innerHTML="Rent $90";
 back.style.background="purple";}
-else if (two.innerHTML="<(^@^)>") {
+else if (two.innerHTML==="<(^@^)>") {
 three.innerHTML="Rent $90";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
@@ -581,22 +581,22 @@ back.style.background="purple";}
 else if (one.innerHTML==="One") {
 three.innerHTML="Rent $100";
 back.style.background="red";}
-else if (one.innerHTML="-->") {
+else if (one.innerHTML==="-->") {
 three.innerHTML="Rent $100";
 back.style.background="red";}
-else if (one.innerHTML="c:<") {
+else if (one.innerHTML==="c:<") {
 three.innerHTML="Rent $100";
 back.style.background="red";}
-else if (one.innerHTML="<(^@^)>") {
+else if (one.innerHTML==="<(^@^)>") {
 three.innerHTML="Rent $100";
 back.style.background="red";}
-else if (two.innerHTML="-->") {
+else if (two.innerHTML==="-->") {
 three.innerHTML="Rent $100";
 back.style.background="purple";}
-else if (two.innerHTML="c:<") {
+else if (two.innerHTML==="c:<") {
 three.innerHTML="Rent $100";
 back.style.background="purple";}
-else if (two.innerHTML="<(^@^)>") {
+else if (two.innerHTML==="<(^@^)>") {
 three.innerHTML="Rent $100";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
@@ -621,22 +621,22 @@ back.style.background="purple";}
 else if (one.innerHTML==="One") {
 three.innerHTML="Rent $100";
 back.style.background="red";}
-else if (one.innerHTML="-->") {
+else if (one.innerHTML==="-->") {
 three.innerHTML="Rent $00";
 back.style.background="red";}
-else if (one.innerHTML="c:<") {
+else if (one.innerHTML==="c:<") {
 three.innerHTML="Rent $100";
 back.style.background="red";}
-else if (one.innerHTML="<(^@^)>") {
+else if (one.innerHTML==="<(^@^)>") {
 three.innerHTML="Rent $100";
 back.style.background="red";}
-else if (two.innerHTML="-->") {
+else if (two.innerHTML==="-->") {
 three.innerHTML="Rent $100";
 back.style.background="purple";}
-else if (two.innerHTML="c:<") {
+else if (two.innerHTML==="c:<") {
 three.innerHTML="Rent $100";
 back.style.background="purple";}
-else if (two.innerHTML="<(^@^)>") {
+else if (two.innerHTML==="<(^@^)>") {
 three.innerHTML="Rent $100";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
@@ -661,22 +661,22 @@ back.style.background="purple";}
 else if (one.innerHTML==="One") {
 three.innerHTML="Rent $110";
 back.style.background="red";}
-else if (one.innerHTML="-->") {
+else if (one.innerHTML==="-->") {
 three.innerHTML="Rent $110";
 back.style.background="red";}
-else if (one.innerHTML="c:<") {
+else if (one.innerHTML==="c:<") {
 three.innerHTML="Rent $110";
 back.style.background="red";}
-else if (one.innerHTML="<(^@^)>") {
+else if (one.innerHTML==="<(^@^)>") {
 three.innerHTML="Rent $110";
 back.style.background="red";}
-else if (two.innerHTML="-->") {
+else if (two.innerHTML==="-->") {
 three.innerHTML="Rent $110";
 back.style.background="purple";}
-else if (two.innerHTML="c:<") {
+else if (two.innerHTML==="c:<") {
 three.innerHTML="Rent $110";
 back.style.background="purple";}
-else if (two.innerHTML="<(^@^)>") {
+else if (two.innerHTML==="<(^@^)>") {
 three.innerHTML="Rent $110";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
@@ -701,22 +701,22 @@ back.style.background="purple";}
 else if (one.innerHTML==="One") {
 three.innerHTML="Rent $100";
 back.style.background="red";}
-else if (one.innerHTML="-->") {
+else if (one.innerHTML==="-->") {
 three.innerHTML="Rent $00";
 back.style.background="red";}
-else if (one.innerHTML="c:<") {
+else if (one.innerHTML==="c:<") {
 three.innerHTML="Rent $100";
 back.style.background="red";}
-else if (one.innerHTML="<(^@^)>") {
+else if (one.innerHTML==="<(^@^)>") {
 three.innerHTML="Rent $100";
 back.style.background="red";}
-else if (two.innerHTML="-->") {
+else if (two.innerHTML==="-->") {
 three.innerHTML="Rent $100";
 back.style.background="purple";}
-else if (two.innerHTML="c:<") {
+else if (two.innerHTML==="c:<") {
 three.innerHTML="Rent $100";
 back.style.background="purple";}
-else if (two.innerHTML="<(^@^)>") {
+else if (two.innerHTML==="<(^@^)>") {
 three.innerHTML="Rent $100";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
@@ -741,22 +741,22 @@ back.style.background="purple";}
 else if (one.innerHTML==="One") {
 three.innerHTML="Rent $100";
 back.style.background="red";}
-else if (one.innerHTML="-->") {
+else if (one.innerHTML==="-->") {
 three.innerHTML="Rent $00";
 back.style.background="red";}
-else if (one.innerHTML="c:<") {
+else if (one.innerHTML==="c:<") {
 three.innerHTML="Rent $100";
 back.style.background="red";}
-else if (one.innerHTML="<(^@^)>") {
+else if (one.innerHTML==="<(^@^)>") {
 three.innerHTML="Rent $100";
 back.style.background="red";}
-else if (two.innerHTML="-->") {
+else if (two.innerHTML==="-->") {
 three.innerHTML="Rent $100";
 back.style.background="purple";}
-else if (two.innerHTML="c:<") {
+else if (two.innerHTML==="c:<") {
 three.innerHTML="Rent $100";
 back.style.background="purple";}
-else if (two.innerHTML="<(^@^)>") {
+else if (two.innerHTML==="<(^@^)>") {
 three.innerHTML="Rent $100";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
@@ -781,22 +781,22 @@ back.style.background="purple";}
 else if (one.innerHTML==="One") {
 three.innerHTML="Rent $120";
 back.style.background="red";}
-else if (one.innerHTML="-->") {
+else if (one.innerHTML==="-->") {
 three.innerHTML="Rent $120";
 back.style.background="red";}
-else if (one.innerHTML="c:<") {
+else if (one.innerHTML==="c:<") {
 three.innerHTML="Rent $120";
 back.style.background="red";}
-else if (one.innerHTML="<(^@^)>") {
+else if (one.innerHTML==="<(^@^)>") {
 three.innerHTML="Rent $120";
 back.style.background="red";}
-else if (two.innerHTML="-->") {
+else if (two.innerHTML==="-->") {
 three.innerHTML="Rent $120";
 back.style.background="purple";}
-else if (two.innerHTML="c:<") {
+else if (two.innerHTML==="c:<") {
 three.innerHTML="Rent $120";
 back.style.background="purple";}
-else if (two.innerHTML="<(^@^)>") {
+else if (two.innerHTML==="<(^@^)>") {
 three.innerHTML="Rent $120";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
@@ -821,22 +821,22 @@ back.style.background="purple";}
 else if (one.innerHTML==="One") {
 three.innerHTML="Rent $150";
 back.style.background="red";}
-else if (one.innerHTML="-->") {
+else if (one.innerHTML==="-->") {
 three.innerHTML="Rent $150";
 back.style.background="red";}
-else if (one.innerHTML="c:<") {
+else if (one.innerHTML==="c:<") {
 three.innerHTML="Rent $150";
 back.style.background="red";}
-else if (one.innerHTML="<(^@^)>") {
+else if (one.innerHTML==="<(^@^)>") {
 three.innerHTML="Rent $150";
 back.style.background="red";}
-else if (two.innerHTML="-->") {
+else if (two.innerHTML==="-->") {
 three.innerHTML="Rent $150";
 back.style.background="purple";}
-else if (two.innerHTML="c:<") {
+else if (two.innerHTML==="c:<") {
 three.innerHTML="Rent $150";
 back.style.background="purple";}
-else if (two.innerHTML="<(^@^)>") {
+else if (two.innerHTML==="<(^@^)>") {
 three.innerHTML="Rent $150";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
@@ -861,22 +861,22 @@ back.style.background="purple";}
 else if (one.innerHTML==="One") {
 three.innerHTML="Rent $160";
 back.style.background="red";}
-else if (one.innerHTML="-->") {
+else if (one.innerHTML==="-->") {
 three.innerHTML="Rent $160";
 back.style.background="red";}
-else if (one.innerHTML="c:<") {
+else if (one.innerHTML==="c:<") {
 three.innerHTML="Rent $160";
 back.style.background="red";}
-else if (one.innerHTML="<(^@^)>") {
+else if (one.innerHTML==="<(^@^)>") {
 three.innerHTML="Rent $160";
 back.style.background="red";}
-else if (two.innerHTML="-->") {
+else if (two.innerHTML==="-->") {
 three.innerHTML="Rent $160";
 back.style.background="purple";}
-else if (two.innerHTML="c:<") {
+else if (two.innerHTML==="c:<") {
 three.innerHTML="Rent $160";
 back.style.background="purple";}
-else if (two.innerHTML="<(^@^)>") {
+else if (two.innerHTML==="<(^@^)>") {
 three.innerHTML="Rent $160";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
