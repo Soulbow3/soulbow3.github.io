@@ -1,5 +1,90 @@
 var dice=document.getElementById("node");
 
+function times() {
+var onea=document.getElementById("oneM);
+var oneb=document.getElementById("done);
+var twoa=document.getElementById("twoM);
+var twob=document.getElementById("dtwo);
+if (document.getElementById("timesOne").style.background==="red") {
+document.getElementById("timesOne").style.background="red";}
+else if (document.getElementById("timesOne").style.background==="purple") {
+document.getElementById("timesOne").style.background="purple";}
+else if (twob.innerHTML==="One" || oneb.innerHTML==="one") {
+document.getElementById("timesOne").innerHTML="x15";
+document.getElementById("timesOne").style.background="red";
+else if (twob.innerHTML==="Two" || oneb.innerHTML==="Two") {
+document.getElementById("timesOne").innerHTML="x15";
+document.getElementById("timesOne").style.background="red";
+else if (twob.innerHTML==="Red" || oneb.innerHTML==="Red") {
+document.getElementById("timesOne").innerHTML="x15";
+document.getElementById("timesOne").style.background="red";
+else if (twob.innerHTML==="Yellow" || oneb.innerHTML==="one") {
+document.getElementById("timesOne").innerHTML="x15";
+document.getElementById("timesOne").style.background="red";
+else if (twob.innerHTML==="Pink" || oneb.innerHTML==="one") {
+document.getElementById("timesOne").innerHTML="x15";
+document.getElementById("timesOne").style.background="red";}
+
+else if (document.getElementById("timesOne").style.background==="red") {
+document.getElementById("timesOne").style.background="red";}
+else if (document.getElementById("timesOne").style.background==="purple") {
+document.getElementById("timesOne").style.background="purple";}
+else if (oneb.innerHTML==="One" || oneb.innerHTML==="one") {
+document.getElementById("timesOne").innerHTML="x15";
+document.getElementById("timesOne").style.background="red";
+else if (oneb.innerHTML==="Two" || oneb.innerHTML==="Two") {
+document.getElementById("timesOne").innerHTML="x15";
+document.getElementById("timesOne").style.background="red";
+else if (oneb.innerHTML==="Red" || oneb.innerHTML==="Red") {
+document.getElementById("timesOne").innerHTML="x15";
+document.getElementById("timesOne").style.background="red";
+else if (oneb.innerHTML==="Yellow" || oneb.innerHTML==="one") {
+document.getElementById("timesOne").innerHTML="x15";
+document.getElementById("timesOne").style.background="red";
+else if (oneb.innerHTML==="Pink" || oneb.innerHTML==="one") {
+document.getElementById("timesOne").innerHTML="x15";
+document.getElementById("timesOne").style.background="red";}
+ 
+else if (document.getElementById("timesTwo").style.background==="red") {
+document.getElementById("timesTwo").style.background="red";}
+else if (document.getElementById("timesOne").style.background==="purple") {
+document.getElementById("timesTwo").style.background="purple";}
+else if (onea.innerHTML==="One" || oneb.innerHTML==="one") {
+document.getElementById("timesTwo").innerHTML="x15";
+document.getElementById("timesTwo").style.background="red";
+else if (onea.innerHTML==="Two" || oneb.innerHTML==="Two") {
+document.getElementById("timesTwo").innerHTML="x15";
+document.getElementById("timesTwo").style.background="red";
+else if (onea.innerHTML==="Red" || oneb.innerHTML==="Red") {
+document.getElementById("timesTwo").innerHTML="x15";
+document.getElementById("timesTwo").style.background="red";
+else if (onea.innerHTML==="Yellow" || oneb.innerHTML==="one") {
+document.getElementById("timesTwo").innerHTML="x15";
+document.getElementById("timesTwo").style.background="red";
+else if (onea.innerHTML==="Pink" || oneb.innerHTML==="one") {
+document.getElementById("timesTwo").innerHTML="x15";
+document.getElementById("timesTwo").style.background="red";}
+
+else if (document.getElementById("timesTwo").style.background==="red") {
+document.getElementById("timesTwo").style.background="red";}
+else if (document.getElementById("timesOne").style.background==="purple") {
+document.getElementById("timesTwo").style.background="purple";}
+else if (twoa.innerHTML==="One" || oneb.innerHTML==="one") {
+document.getElementById("timesTwo").innerHTML="x15";
+document.getElementById("timesTwo").style.background="red";
+else if (twoa.innerHTML==="Two" || oneb.innerHTML==="Two") {
+document.getElementById("timesTwo").innerHTML="x15";
+document.getElementById("timesTwo").style.background="red";
+else if (twoa.innerHTML==="Red" || oneb.innerHTML==="Red") {
+document.getElementById("timesTwo").innerHTML="x15";
+document.getElementById("timesTwo").style.background="red";
+else if (twoa.innerHTML==="Yellow" || oneb.innerHTML==="one") {
+document.getElementById("timesTwo").innerHTML="x15";
+document.getElementById("timesTwo").style.background="red";
+else if (twoa.innerHTML==="Pink" || oneb.innerHTML==="one") {
+document.getElementById("timesTwo").innerHTML="x15";
+document.getElementById("timesTwo").style.background="red";}}
+
 function jail() {
 var jailStartOne=document.getElementById("oneX");
 var jailStartTwo=document.getElementById("twoX");
