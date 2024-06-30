@@ -13,39 +13,39 @@ jailStartTwo.innerHTML="";
 jailTwo.innerHTML="Two";}}
 
 function go1() {
-var StartOne=document.getElementById("oneL");
-var StartTwo=document.getElementById("twoL");
+var startOne=document.getElementById("oneL");
+var startTwo=document.getElementById("twoL");
 var homeOne=document.getElementById("oneA");
 var homeTwo=document.getElementById("twoA");
-if (StartOne.innerHTML==="One") {
-StartOne.innerHTML="";
+if (startOne.innerHTML==="One") {
+startOne.innerHTML="";
 homeOne.innerHTML="One";}
-else if (StartTwo.innerHTML==="Two") {
-StartTwo.innerHTML="";
+else if (startTwo.innerHTML==="Two") {
+startTwo.innerHTML="";
 homeTwo.innerHTML="Two";}}
 
 function go2() {
-var StartOne=document.getElementById("oneM");
-var StartTwo=document.getElementById("twoM");
+var startOne=document.getElementById("oneM");
+var startTwo=document.getElementById("twoM");
 var homeOne=document.getElementById("oneA");
 var homeTwo=document.getElementById("twoA");
-if (StartOne.innerHTML==="One") {
-StartOne.innerHTML="";
+if (startOne.innerHTML==="One") {
+startOne.innerHTML="";
 homeOne.innerHTML="One";}
-else if (StartTwo.innerHTML==="Two") {
-StartTwo.innerHTML="";
+else if (startTwo.innerHTML==="Two") {
+startTwo.innerHTML="";
 homeTwo.innerHTML="Two";}}
 
 function go3() {
-var StartOne=document.getElementById("cone");
-var StartTwo=document.getElementById("ctwo");
+var startOne=document.getElementById("cone");
+var startTwo=document.getElementById("ctwo");
 var homeOne=document.getElementById("oneA");
 var homeTwo=document.getElementById("twoA");
-if (StartOne.innerHTML==="One") {
-StartOne.innerHTML="";
+if (startOne.innerHTML==="One") {
+startOne.innerHTML="";
 homeOne.innerHTML="One";}
-else if (StartTwo.innerHTML==="Two") {
-StartTwo.innerHTML="";
+else if (startTwo.innerHTML==="Two") {
+startTwo.innerHTML="";
 homeTwo.innerHTML="Two";}}
 
 function plum() {
