@@ -2213,7 +2213,7 @@ else if (
 acc.innerHTML==="" && tile2a.innerHTML==="Yellow") {
 acc.innerHTML="Jail";}
 else if (
-acc.innerHTML==="" && tile1a.innerHTML==="Pink") {
+acc.innerHTML==="" && tile2a.innerHTML==="Pink") {
 acc.innerHTML="Jail";}}
 
 function playerOne() {
