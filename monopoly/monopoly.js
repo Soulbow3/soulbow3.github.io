@@ -18,7 +18,7 @@ document.getElementById("timesTwo").innerHTML="x15";
 document.getElementById("timesTwo").style.background="Red";}
 else if (twob.innerHTML==="One") {
 document.getElementById("timesOne").innerHTML="x15";
-document.getElementById("timesOne").style.background="Red";
+document.getElementById("timesOne").style.background="Red";}
 else if (onea.innerHTML==="one") {
 document.getElementById("timesTwo").innerHTML="x15";
 document.getElementById("timesTwo").style.background="Red";}
@@ -30,7 +30,7 @@ document.getElementById("timesTwo").innerHTML="x15";
 document.getElementById("timesTwo").style.background="purple";}
 else if (twob.innerHTML==="One") {
 document.getElementById("timesOne").innerHTML="x15";
-document.getElementById("timesOne").style.background="purple";
+document.getElementById("timesOne").style.background="purple";}
 else if (onea.innerHTML==="One") {
 document.getElementById("timesTwo").innerHTML="x15";
 document.getElementById("timesTwo").style.background="purple";}
@@ -43,7 +43,7 @@ document.getElementById("timesTwo").innerHTML="x15";
 document.getElementById("timesTwo").style.background="Red";}
 else if (twob.innerHTML==="Two") {
 document.getElementById("timesOne").innerHTML="x15";
-document.getElementById("timesOne").style.background="Red";
+document.getElementById("timesOne").style.background="Red";}
 else if (onea.innerHTML==="Two") {
 document.getElementById("timesTwo").innerHTML="x15";
 document.getElementById("timesTwo").style.background="Red";}
@@ -55,20 +55,20 @@ document.getElementById("timesTwo").innerHTML="x15";
 document.getElementById("timesTwo").style.background="purple";}
 else if (twob.innerHTML==="Two") {
 document.getElementById("timesOne").innerHTML="x15";
-document.getElementById("timesOne").style.background="purple";
+document.getElementById("timesOne").style.background="purple";}
 else if (onea.innerHTML==="Two") {
 document.getElementById("timesTwo").innerHTML="x15";
 document.getElementById("timesTwo").style.background="purple";}
 else if (oneb.innerHTML==="Two") {
 document.getElementById("timesOne").innerHTML="x15";
-document.getElementById("timesOne").style.background="purple";}}
+document.getElementById("timesOne").style.background="purple";}
 
 else if (twoa.innerHTML==="Red") {
 document.getElementById("timesTwo").innerHTML="x15";
 document.getElementById("timesTwo").style.background="Red";}
 else if (twob.innerHTML==="Red") {
 document.getElementById("timesOne").innerHTML="x15";
-document.getElementById("timesOne").style.background="Red";
+document.getElementById("timesOne").style.background="Red";}
 else if (onea.innerHTML==="Red") {
 document.getElementById("timesTwo").innerHTML="x15";
 document.getElementById("timesTwo").style.background="Red";}
@@ -80,7 +80,7 @@ document.getElementById("timesTwo").innerHTML="x15";
 document.getElementById("timesTwo").style.background="purple";}
 else if (twob.innerHTML==="Red") {
 document.getElementById("timesOne").innerHTML="x15";
-document.getElementById("timesOne").style.background="purple";
+document.getElementById("timesOne").style.background="purple";}
 else if (onea.innerHTML==="Red") {
 document.getElementById("timesTwo").innerHTML="x15";
 document.getElementById("timesTwo").style.background="purple";}
@@ -93,7 +93,7 @@ document.getElementById("timesTwo").innerHTML="x15";
 document.getElementById("timesTwo").style.background="Red";}
 else if (twob.innerHTML==="Yellow") {
 document.getElementById("timesOne").innerHTML="x15";
-document.getElementById("timesOne").style.background="Red";
+document.getElementById("timesOne").style.background="Red";}
 else if (onea.innerHTML==="Yellow") {
 document.getElementById("timesTwo").innerHTML="x15";
 document.getElementById("timesTwo").style.background="Red";}
@@ -105,7 +105,7 @@ document.getElementById("timesTwo").innerHTML="x15";
 document.getElementById("timesTwo").style.background="purple";}
 else if (twob.innerHTML==="Yellow") {
 document.getElementById("timesOne").innerHTML="x15";
-document.getElementById("timesOne").style.background="purple";
+document.getElementById("timesOne").style.background="purple";}
 else if (onea.innerHTML==="Yellow") {
 document.getElementById("timesTwo").innerHTML="x15";
 document.getElementById("timesTwo").style.background="purple";}
@@ -118,7 +118,7 @@ document.getElementById("timesTwo").innerHTML="x15";
 document.getElementById("timesTwo").style.background="Red";}
 else if (twob.innerHTML==="Pink") {
 document.getElementById("timesOne").innerHTML="x15";
-document.getElementById("timesOne").style.background="Red";
+document.getElementById("timesOne").style.background="Red";}
 else if (onea.innerHTML==="Pink") {
 document.getElementById("timesTwo").innerHTML="x15";
 document.getElementById("timesTwo").style.background="Red";}
@@ -130,7 +130,7 @@ document.getElementById("timesTwo").innerHTML="x15";
 document.getElementById("timesTwo").style.background="purple";}
 else if (twob.innerHTML==="Pink") {
 document.getElementById("timesOne").innerHTML="x15";
-document.getElementById("timesOne").style.background="purple";
+document.getElementById("timesOne").style.background="purple";}
 else if (onea.innerHTML==="Pink") {
 document.getElementById("timesTwo").innerHTML="x15";
 document.getElementById("timesTwo").style.background="purple";}
