@@ -1,80 +1,42 @@
 function times() {
-var onea=document.getElementById("oneM");
-var oneb=document.getElementById("done");
-var twoa=document.getElementById("twoM");
-var twob=document.getElementById("dtwo");
-if (document.getElementById("timesOne").style.background==="red") {
-document.getElementById("timesOne").style.background="red";}
-else if (document.getElementById("timesOne").style.background==="purple") {
-document.getElementById("timesOne").style.background="purple";}
-else if (document.getElementById("timesTwo").style.background==="purple") {
-document.getElementById("TimesTwo").style.background="purple";}
-else if (document.getElementById("timesTwo").style.background==="red") {
-document.getElementById("timesTwo").style.background="red";}
-else if (twoa.innerHTML==="one") {
-document.getElementById("timesOne").innerHTML="x15";
-document.getElementById("timesOne").style.background="Red";}
-else if (twob.innerHTML==="One") {
-document.getElementById("timesOne").innerHTML="x15";
-document.getElementById("timesOne").style.background="purple";}
-else if (onea.innerHTML==="one") {
-document.getElementById("timesTwo").innerHTML="x15";
-document.getElementById("timesTwo").style.background="Red";}
-else if (oneb.innerHTML==="One") {
-document.getElementById("timesTwo").innerHTML="x15";
-document.getElementById("timesTwo").style.background="purple";}
-
-else if (twoa.innerHTML==="Two") {
-document.getElementById("timesOne").innerHTML="x15";
-document.getElementById("timesOne").style.background="Red";}
-else if (twob.innerHTML==="Two") {
-document.getElementById("timesOne").innerHTML="x15";
-document.getElementById("timesOne").style.background="purple";}
-else if (onea.innerHTML==="Two") {
-document.getElementById("timesTwo").innerHTML="x15";
-document.getElementById("timesTwo").style.background="Red";}
-else if (oneb.innerHTML==="Two") {
-document.getElementById("timesTwo").innerHTML="x15";
-document.getElementById("timesTwo").style.background="purple";}
-
-else if (twoa.innerHTML==="Red") {
-document.getElementById("timesOne").innerHTML="x15";
-document.getElementById("timesOne").style.background="Red";}
-else if (twob.innerHTML==="Red") {
-document.getElementById("timesOne").innerHTML="x15";
-document.getElementById("timesOne").style.background="purple";}
-else if (onea.innerHTML==="Red") {
-document.getElementById("timesTwo").innerHTML="x15";
-document.getElementById("timesTwo").style.background="Red";}
-else if (oneb.innerHTML==="Red") {
-document.getElementById("timesTwo").innerHTML="x15";
-document.getElementById("timesTwo").style.background="purple";}
-
-else if (twoa.innerHTML==="Yellow") {
-document.getElementById("timesOne").innerHTML="x15";
-document.getElementById("timesOne").style.background="Red";}
-else if (twob.innerHTML==="Yellow") {
-document.getElementById("timesOne").innerHTML="x15";
-document.getElementById("timesOne").style.background="purple";}
-else if (onea.innerHTML==="Yellow") {
-document.getElementById("timesTwo").innerHTML="x15";
-document.getElementById("timesTwo").style.background="Red";}
-else if (oneb.innerHTML==="Yellow") {
-document.getElementById("timesTwo").innerHTML="x15";
-document.getElementById("timesTwo").style.background="purple";}
-
-else if (twoa.innerHTML==="Pink") {
-document.getElementById("timesOne").innerHTML="x15";
-document.getElementById("timesOne").style.background="Red";}
-else if (twob.innerHTML==="Pink") {
-document.getElementById("timesOne").innerHTML="x15";
-document.getElementById("timesOne").style.background="purple";}
-else if (onea.innerHTML==="Pink") {
-document.getElementById("timesTwo").innerHTML="x15";
-document.getElementById("timesTwo").style.background="Red";}
-else if (oneb.innerHTML==="Pink") {
-document.getElementById("timesTwo").innerHTML="x15";
-document.getElementById("timesTwo").style.background="purple";}}
+var one=document.getElementById("done");
+var three=document.getElementById("timesOne");
+var back=document.getElementById("timesOne");
+var two=document.getElementById("dtwo");
+if (back.style.background==="red") {
+back.style.background="red";}
+else if (back.style.background==="purple") {
+back.style.background="purple";}
+else if (two.innerHTML==="Two") {
+three.innerHTML="Rent $70";
+back.style.background="purple";}
+else if (one.innerHTML==="One") {
+three.innerHTML="Rent $70";
+back.style.background="red";}
+else if (one.innerHTML==="Pink") {
+three.innerHTML="Rent $70";
+back.style.background="red";}
+else if (one.innerHTML==="Red") {
+three.innerHTML="Rent $70";
+back.style.background="red";}
+else if (one.innerHTML==="Yellow") {
+three.innerHTML="Rent $70";
+back.style.background="red";}
+else if (two.innerHTML==="Pink") {
+three.innerHTML="Rent $70";
+back.style.background="purple";}
+else if (two.innerHTML==="Red") {
+three.innerHTML="Rent $70";
+back.style.background="purple";}
+else if (two.innerHTML==="Yellow") {
+three.innerHTML="Rent $70";
+back.style.background="purple";}
+else if (two.innerHTML==="One") {
+three.innerHTMl="Rent $70";
+back.style.background="red";}
+else if (one.innerHTML==="Purple") {
+three.innerHTMl="Rent $70";
+back.style.background="Red";}}
  
 function jail() {
 var jailStartOne=document.getElementById("oneX");
@@ -500,9 +462,9 @@ back.style.background="purple";}
 else if (two.innerHTML==="One") {
 three.innerHTMl="Rent $70";
 back.style.background="red";}
-else if (one.innerHTML==="Two") {
+else if (one.innerHTML==="Purple") {
 three.innerHTMl="Rent $70";
-back.style.background="purple";}}
+back.style.background="Red";}}
 
 function blue() {
 var one=document.getElementById("oneN");
