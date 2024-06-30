@@ -40,7 +40,7 @@ else if (element.innerHTML==="Two") {
 element.innerHTML="";
 homeTwo.innerHTML="Two";}}
 
-function plum(element) {
+function plum() {
 var one=document.getElementById("oneB");
 var three=document.getElementById("plumOne");
 var back=document.getElementById("plumBack");
@@ -602,7 +602,7 @@ back.style.background="purple";}}
 
 function red() {
 var one=document.getElementById("oneV");
-var three=document.getElementById("re");
+var three=document.getElementById("redOne");
 var back=document.getElementById("redBack");
 var two=document.getElementById("twoV");
 if (back.style.background==="red" && two.innerHTML==="Two") {
@@ -802,7 +802,7 @@ back.style.background="purple";}}
 
 function gold() {
 var one=document.getElementById("eone");
-var three=document.getElementById("gold");
+var three=document.getElementById("goldOne");
 var back=document.getElementById("goldBack");
 var two=document.getElementById("etwo");
 if (back.style.background==="red" && two.innerHTML==="Two") {
