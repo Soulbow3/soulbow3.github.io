@@ -900,7 +900,8 @@ element.innerHTML="One";}
 else if (element.innerHTML==="One") {
 element.innerHTML="Two";}}
 
-function cardMovement(element) {
+function cardMovement() {
+var card=document.getELementById("cardAcc");
 var move1=document.getElementByID("oneD");
 var move2=document.getElementByID("twoD");
 var move3=document.getElementByID("oneU");
@@ -923,103 +924,103 @@ var tile5=document.getElementById("oneY");
 var tile6=document.getElementById("twoY");
 var tile7=document.getElementById("aone");
 var tile8=document.getElementById("atwo");
-if (element.innerHTML==="Back 3" && move1.innerHTML==="One") {
+if (card.innerHTML==="Back 3" && move1.innerHTML==="One") {
 tile1.innerHTML="One";
 move1.innerHTML="";}
-else if (element.innerHTML==="Back 3" && move2.innerHTML==="Two") {
+else if (card.innerHTML==="Back 3" && move2.innerHTML==="Two") {
 tile2.innerHTML="Two";
 move2.innerHTML="";}
-else if (element.innerHTML==="Back 3" && move3.innerHTML==="One") {
+else if (card.innerHTML==="Back 3" && move3.innerHTML==="One") {
 tile3.innerHTML="One";
 move3.innerHTML="";}
-else if (element.innerHTML==="Back 3" && move4.innerHTML==="Two") {
+else if (card.innerHTML==="Back 3" && move4.innerHTML==="Two") {
 tile4.innerHTML="Two";
 move4.innerHTML="";}
-else if (element.innerHTML==="Back 3" && move5.innerHTML==="One") {
+else if (card.innerHTML==="Back 3" && move5.innerHTML==="One") {
 tile5.innerHTML="One";
 move5.innerHTML="";}
-else if (element.innerHTML==="Back 3" && move6.innerHTML==="Two") {
+else if (card.innerHTML==="Back 3" && move6.innerHTML==="Two") {
 tile6.innerHTML="Two";
 move6.innerHTML="";}
-else if (element.innerHTML==="Back 3" && move7.innerHTML==="One") {
+else if (card.innerHTML==="Back 3" && move7.innerHTML==="One") {
 tile47.innerHTML="One";
 move7.innerHTML="";}
 else if (element.innerHTML==="Back 3" && move8.innerHTML==="Two") {
 tile8.innerHTML="Two";
 move8.innerHTML="";}
 
-else if (move1.innerHTML==="One" && element.innerHTML==="Jail") {
+else if (move1.innerHTML==="One" && card.innerHTML==="Jail") {
 one.innerHTML="One";
 move1.innerHTML="";}
-else if (move2.innerHTML==="Two" && element.innerHTML==="Jail") {
+else if (move2.innerHTML==="Two" && card.innerHTML==="Jail") {
 two.innerHTML="Two";
 move2.innerHTML="";}
-else if (move3.innerHTML==="One" && element.innerHTML==="Jail") {
+else if (move3.innerHTML==="One" && card.innerHTML==="Jail") {
 one.innerHTML="One";
 move3.innerHTML="";}
-else if  (move4.innerHTML==="Two" && element.innerHTML==="Jail") {
+else if  (move4.innerHTML==="Two" && card.innerHTML==="Jail") {
 two.innerHTML="Two";
 move4.innerHTML="";}
-else if (move5.innerHTML==="One" && element.innerHTML==="Jail") {
+else if (move5.innerHTML==="One" && card.innerHTML==="Jail") {
 one.innerHTML="One";
 move5.innerHTML="";}
-else if (move6.innerHTML==="Two" && element.innerHTML==="Jail") {
+else if (move6.innerHTML==="Two" && card.innerHTML==="Jail") {
 two.innerHTML="Two";
 move6.innerHTML="";}
-else if (move7.innerHTML==="One" && element.innerHTML==="Jail") {
+else if (move7.innerHTML==="One" && card.innerHTML==="Jail") {
 one.innerHTML="One";
 move7.innerHTML="";}
-else if (move8.innerHTML==="One" && element.innerHTML==="Jail") {
+else if (move8.innerHTML==="One" && card.innerHTML==="Jail") {
 two.innerHTML="Two";
 move8.innerHTML="";}
   
-else if (move1.innerHTML==="One" && element.innerHTML==="Advance To Go") {
+else if (move1.innerHTML==="One" && card.innerHTML==="Advance To Go") {
 goone.innerHTML="One";
 move1.innerHTML="";}
-else if (move2.innerHTML==="Two" && element.innerHTML==="Advance To Go") {
+else if (move2.innerHTML==="Two" && card.innerHTML==="Advance To Go") {
 gootwo.innerHTML="Two";
 move2.innerHTML="";}
-else if (move3.innerHTML==="One" && element.innerHTML==="Advance To Go") {
+else if (move3.innerHTML==="One" && card.innerHTML==="Advance To Go") {
 goone.innerHTML="One";
 move3.innerHTML="";}
-else if (move4.innerHTML==="Two" && element.innerHTML==="Advance To Go") {
+else if (move4.innerHTML==="Two" && card.innerHTML==="Advance To Go") {
 gotwo.innerHTML="Two";
 move4.innerHTML="";}
-else if (move5.innerHTML==="One" && element.innerHTML==="Advance To Go") {
+else if (move5.innerHTML==="One" && card.innerHTML==="Advance To Go") {
 goone.innerHTML="One";
 move5.innerHTML="";}
-else if (move6.innerHTML==="Two" && element.innerHTML==="Advance To Go") {
+else if (move6.innerHTML==="Two" && card.innerHTML==="Advance To Go") {
 gotwo.innerHTML="Two";
 move26.innerHTML="";}
-else if (move7.innerHTML==="One" && element.innerHTML==="Advance To Go") {
+else if (move7.innerHTML==="One" && card.innerHTML==="Advance To Go") {
 goone.innerHTML="One";
 move7.innerHTML="";}
-else if (move8.innerHTML==="Two" && element.innerHTML==="Advance To Go") {
+else if (move8.innerHTML==="Two" && card.innerHTML==="Advance To Go") {
 gotwo.innerHTML="Two";
 move8.innerHTML="";}
 
-else if (move1.innerHTML==="One" && element.innerHTML==="Advance To Gold") {
+else if (move1.innerHTML==="One" && card.innerHTML==="Advance To Gold") {
 goldone.innerHTML="One";
 move1.innerHTML="";}
-else if (move2.innerHTML==="Two" && element.innerHTML==="Advance To Gold") {
+else if (move2.innerHTML==="Two" && card.innerHTML==="Advance To Gold") {
 goldtwo.innerHTML="Two";
 move2.innerHTML="";}
-else if (move3.innerHTML==="One" && element.innerHTML==="Advance To Gold") {
+else if (move3.innerHTML==="One" && card.innerHTML==="Advance To Gold") {
 goldone.innerHTML="One";
 move3.innerHTML="";}
-else if  (move4.innerHTML==="Two" && element.innerHTML==="Advance To Gold") {
+else if  (move4.innerHTML==="Two" && card.innerHTML==="Advance To Gold") {
 goldtwo.innerHTML="Two";
 move4.innerHTML="";}
-else if (move5.innerHTML==="One" && element.innerHTML==="Advance To Gold") {
+else if (move5.innerHTML==="One" && card.innerHTML==="Advance To Gold") {
 goldone.innerHTML="One";
 move5.innerHTML="";}
-else if (move6.innerHTML==="Two" && element.innerHTML==="Advance To Gold") {
+else if (move6.innerHTML==="Two" && card.innerHTML==="Advance To Gold") {
 goldtwo.innerHTML="Two";
 move6.innerHTML="";}
-else if (move7.innerHTML==="One" && element.innerHTML==="Advance To Gold") {
+else if (move7.innerHTML==="One" && card.innerHTML==="Advance To Gold") {
 goldone.innerHTML="One";
 move7.innerHTML="";}
-else if (move8.innerHTML==="Two" && element.innerHTML==="Advance To Gold") {
+else if (move8.innerHTML==="Two" && card.innerHTML==="Advance To Gold") {
 goldtwo.innerHTML="Two";
 move8.innerHTML="";}}
 
