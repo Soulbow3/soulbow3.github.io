@@ -1127,7 +1127,7 @@ else if (
 acc.innerHTML==="" && tile1a.innerHTML==="One") {
 acc.innerHTML="Jail";}
 else if (
-acc.innerHTML==="" && tile1a.innerHTML==="TWo") {
+acc.innerHTML==="" && tile1a.innerHTML==="Two") {
 acc.innerHTML="Jail";}
 else if (
 acc.innerHTML==="" && tile2a.innerHTML==="Two") {
@@ -1239,7 +1239,7 @@ else if (
 acc.innerHTML==="" && tile1a.innerHTML==="One") {
 acc.innerHTML="Jail";}
 else if (
-acc.innerHTML==="" && tile1a.innerHTML==="TWo") {
+acc.innerHTML==="" && tile1a.innerHTML==="Two") {
 acc.innerHTML="Jail";}
 else if (
 acc.innerHTML==="" && tile2a.innerHTML==="Two") {
@@ -1351,7 +1351,7 @@ else if (
 acc.innerHTML==="" && tile1a.innerHTML==="One") {
 acc.innerHTML="Jail";}
 else if (
-acc.innerHTML==="" && tile1a.innerHTML==="TWo") {
+acc.innerHTML==="" && tile1a.innerHTML==="Two") {
 acc.innerHTML="Jail";}
 else if (
 acc.innerHTML==="" && tile2a.innerHTML==="Two") {
@@ -1463,7 +1463,7 @@ else if (
 acc.innerHTML==="" && tile1a.innerHTML==="One") {
 acc.innerHTML="Jail";}
 else if (
-acc.innerHTML==="" && tile1a.innerHTML==="TWo") {
+acc.innerHTML==="" && tile1a.innerHTML==="Two") {
 acc.innerHTML="Jail";}
 else if (
 acc.innerHTML==="" && tile2a.innerHTML==="Two") {
