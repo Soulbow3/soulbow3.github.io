@@ -2081,7 +2081,7 @@ thirtytwo.innerHTML="";}
 else if (thirtytwo.innerHTML==="One" && dice.innerHTML==="6") { 
 six.innerHTML="One";
 thirtytwo.innerHTML="";}
-if (one.innerHTML==="Two" && dice.innerHTML==="1") {
+else if (one.innerHTML==="Two" && dice.innerHTML==="1") {
 two.innerHTML="Two";
 one.innerHTML="";}
 else if (one.innerHTML==="Two" && dice.innerHTML==="2") {
@@ -3267,7 +3267,7 @@ thirtytwo.innerHTML="";}
 else if (thirtytwo.innerHTML==="Two" && dice.innerHTML==="6") { 
 six.innerHTML="Two";
 thirtytwo.innerHTML="";}
-if (one.innerHTML==="One" && dice.innerHTML==="1") {
+else if (one.innerHTML==="One" && dice.innerHTML==="1") {
 two.innerHTML="One";
 one.innerHTML="";}
 else if (one.innerHTML==="One" && dice.innerHTML==="2") {
