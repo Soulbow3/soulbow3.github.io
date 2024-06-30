@@ -27,8 +27,8 @@ homeTwo.innerHTML="Two";}}
 function go2() {
 var startOne=document.getElementById("oneL");
 var startTwo=document.getElementById("twoL");
-var homeOne=document.getElementById("twoA");
-var homeTwo=document.getElementById("oneA");
+var homeOne=document.getElementById("oneA");
+var homeTwo=document.getElementById("twoA");
 if (startOne.innerHTML==="One") {
 startOne.innerHTML="";
 homeOne.innerHTML="One";}
@@ -39,8 +39,8 @@ homeTwo.innerHTML="Two";}}
 function go3() {
 var startOne=document.getElementById("oneM");
 var startTwo=document.getElementById("twoM");
-var homeOne=document.getElementById("twoA");
-var homeTwo=document.getElementById("oneA");
+var homeOne=document.getElementById("oneA");
+var homeTwo=document.getElementById("twoA");
 if (startOne.innerHTML==="One") {
 startOne.innerHTML="";
 homeOne.innerHTML="One";}
