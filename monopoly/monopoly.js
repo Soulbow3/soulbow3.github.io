@@ -293,7 +293,7 @@ var one=document.getElementById("oneJ");
 var three=document.getElementById("cyanTwo");
 var back=document.getElementById("cyanBack2");
 var two=document.getElementById("twoJ");
-if (back.style.background==="red" {
+if (back.style.background==="red") {
 back.style.background="red";}
 else if (back.style.background==="purple") {
 back.style.background="purple";}
@@ -335,7 +335,7 @@ var back=document.getElementById("cyanBack3");
 var two=document.getElementById("twoK");
 if (back.style.background==="red") {
 back.style.background="red";}
-else if (back.style.background==="purple) {
+else if (back.style.background==="purple") {
 back.style.background="purple";}
 else if (two.innerHTML==="Two") {
 three.innerHTML="Rent $70";
@@ -373,7 +373,7 @@ var one=document.getElementById("oneN");
 var three=document.getElementById("blueOne");
 var back=document.getElementById("blueBack");
 var two=document.getElementById("twoN");
-if (back.style.background==="red" &&) {
+if (back.style.background==="red") {
 back.style.background="red";}
 else if (back.style.background==="purple") {
 back.style.background="purple";}
@@ -415,7 +415,7 @@ var back=document.getElementById("blueBack2");
 var two=document.getElementById("twoO");
 if (back.style.background==="red") {
 back.style.background="red";}
-else if (back.style.background==="purple) {
+else if (back.style.background==="purple") {
 back.style.background="purple";}
 else if (two.innerHTML==="Two") {
 three.innerHTML="Rent $$80";
@@ -453,7 +453,7 @@ var one=document.getElementById("oneP");
 var three=document.getElementById("blueThree");
 var back=document.getElementById("blueBack3");
 var two=document.getElementById("twoP");
-if (back.style.background==="red) {
+if (back.style.background==="red") {
 back.style.background="red";}
 else if (back.style.background==="purple") {
 back.style.background="purple";}
@@ -493,7 +493,7 @@ var one=document.getElementById("oneR");
 var three=document.getElementById("pinkOne");
 var back=document.getElementById("pinkBack");
 var two=document.getElementById("twoR");
-if (back.style.background==="red) {
+if (back.style.background==="red") {
 back.style.background="red";}
 else if (back.style.background==="purple") {
 back.style.background="purple";}
