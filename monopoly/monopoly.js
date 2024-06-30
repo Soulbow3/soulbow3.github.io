@@ -1,6 +1,53 @@
-var dice=document.getElementById("node");
+function jail() {
+var jailOne=document.getElementById("oneX");
+var jailTwo=document.getElementById("twoX");
+var jailO=document.getElementById("oneH");
+var jailT=document.getElementById("twoH");
+if (jailOne.innerHTML==="One") {
+jailOne.innerHTML="";
+jailO.innerHTML="One";}
+if (jailTwo.innerHTML==="Two") {
+jailTwo.innerHTML="";
+jailT.innerHTML="Two";}}
+
+function go1() {
+var one=document.getElementById("cone");
+var two=document.getElementById("ctwo");
+var homeOne=document.getElementById("oneA");
+var homeTwo=document.getElementById("twoA");
+if (one.innerHTML==="One") {
+one.innerHTML="";
+homeOne.innerHTML="One";}
+else if (two.innerHTML==="Two") {
+two.innerHTML="";
+homeTwo.innerHTML="Two";}}
+
+function go2() {
+var one=document.getElementById("oneL");
+var two=document.getElementById("twoL");
+var homeOne=document.getElementById("oneA");
+var homeTwo=document.getElementById("twoA");
+if (one.innerHTML==="One") {
+one.innerHTML="";
+homeOne.innerHTML="One";}
+else if (two.innerHTML==="Two") {
+two.innerHTML="";
+homeTwo.innerHTML="Two";}}
+
+function go3() {
+var one=document.getElementById("oneM");
+var two=document.getElementById("twoM");
+var homeOne=document.getElementById("oneA");
+var homeTwo=document.getElementById("twoA");
+if (one.innerHTML==="One") {
+one.innerHTML="";
+homeOne.innerHTML="One";}
+else if (two.innerHTML==="Two") {
+two.innerHTML="";
+homeTwo.innerHTML="Two";}}
 
 function plum() {
+var one=document.getElementById("oneB);
 var three=document.getElementById("plumOne");
 var back=document.getElementById("plumBack");
 var two=document.getElementById("twoB");
@@ -849,7 +896,7 @@ element.innerHTML="<(^@^)>";
 else if (element.innerHTML==="<(^@^)>") {
 element.innerHTML="One";}
 else if (element.innerHTML==="One") {
-element.innerHTML="Two");}
+element.innerHTML="Two";}}
 
 function cardMovement(element) {
 var move1=document.getElementByID("oneD");
@@ -1421,54 +1468,6 @@ acc.innerHTML="Jail";}
 else if (
 acc.innerHTML==="" && tile2a.innerHTML==="One") {
 acc.innerHTML="Jail";}}
-
-function go1() {
-var one=document.getElementById("cone");
-var two=document.getElementById("ctwo");
-var homeOne=document.getElementById("oneA");
-var homeTwo=document.getElementById("twoA");
-if (one.innerHTML==="One") {
-one.innerHTML="";
-homeOne.innerHTML="One";}
-else if (two.innerHTML==="Two") {
-two.innerHTML="";
-homeTwo.innerHTML="Two";}}
-
-function go2() {
-var one=document.getElementById("oneL");
-var two=document.getElementById("twoL");
-var homeOne=document.getElementById("oneA");
-var homeTwo=document.getElementById("twoA");
-if (one.innerHTML==="One") {
-one.innerHTML="";
-homeOne.innerHTML="One";}
-else if (two.innerHTML==="Two") {
-two.innerHTML="";
-homeTwo.innerHTML="Two";}}
-
-function go3() {
-var one=document.getElementById("oneM");
-var two=document.getElementById("twoM");
-var homeOne=document.getElementById("oneA");
-var homeTwo=document.getElementById("twoA");
-if (one.innerHTML==="One") {
-one.innerHTML="";
-homeOne.innerHTML="One";}
-else if (two.innerHTML==="Two") {
-two.innerHTML="";
-homeTwo.innerHTML="Two";}}
-
-function jail() {
-var jailOne=document.getElementById("oneX");
-var jailTwo=document.getElementById("twoX");
-var jailO=document.getElementById("oneH");
-var jailT=document.getElementById("twoH");
-if (jailOne.innerHTML==="One") {
-jailOne.innerHTML="";
-jailO.innerHTML="One";}
-if (jailTwo.innerHTML==="Two") {
-jailTwo.innerHTML="";
-jailT.innerHTML="Two";}}
 
 function playerOne() {
 var one=document.getElementById("oneA");
@@ -3843,20 +3842,22 @@ six.innerHTML="One";
 thirtytwo.innerHTML="";}}
 
 function reset() {
+var dice=document.getElementById("node");
 dice.innerHTML="";}
 
 function selectTileOne() {
-document.getElementById("node").innerHTML="1";}
+var dice=document.getElementById("node");
+dice.innerHTML="1";}
 function selectTileTwo() {
-document.getElementById("node").innerHTML="2";}
+dice.innerHTML="2";}
 function selectTileThree() {
-document.getElementById("node").innerHTML="3";}
+dice.innerHTML="3";}
 function selectTileFour() {
-document.getElementById("node").innerHTML="4";}
+dice.innerHTML="4";}
 function selectTileFive() {
-document.getElementById("node").innerHTML="5";}
+dice.innerHTML="5";}
 function selectTileSix() {
-document.getElementById("node").innerHTML="6";}
+dice.innerHTML="6";}
 
 document.getElementById("btn").addEventListener("click", playerOne);
 document.getElementById("btntwo").addEventListener("click", playerTwo);
