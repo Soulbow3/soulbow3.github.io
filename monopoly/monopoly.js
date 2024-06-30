@@ -45,9 +45,9 @@ var one=document.getElementById("oneB");
 var three=document.getElementById("plumOne");
 var back=document.getElementById("plumBack");
 var two=document.getElementById("twoB");
-if (back.style.background==="red" && element.innerHTML==="Two") {
+if (back.style.background==="red" && two.innerHTML==="Two") {
 back.style.background="red";}
-else if (back.style.background==="purple" && element.innerHTML==="One") {
+else if (back.style.background==="purple" && one.innerHTML==="One") {
 back.style.background="purple";}
 else if (two.innerHTML==="Two") {
 three.innerHTML="Rent $20";
