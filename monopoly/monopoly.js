@@ -808,10 +808,10 @@ three.innerHTMl="Rent $120";
 back.style.background="purple";}}
 
 function gold() {
-var one=document.getElementById("fone");
-var three=document.getElementById("gol");
+var one=document.getElementById("eone");
+var three=document.getElementById("gold");
 var back=document.getElementById("goldBack");
-var two=document.getElementById("ftwo");
+var two=document.getElementById("etwo");
 if (back.style.background==="red" && two.innerHTML==="Two") {
 back.style.background="red";}
 else if (back.style.background==="purple" && one.innerHTML==="One") {
@@ -848,10 +848,10 @@ three.innerHTMl="Rent $150";
 back.style.background="purple";}}
 
 function goldTwo() {
-var one=document.getElementById("eone");
+var one=document.getElementById("fone");
 var three=document.getElementById("goldTwo");
 var back=document.getElementById("goldBack2");
-var two=document.getElementById("etwo");
+var two=document.getElementById("ftwo");
 if (back.style.background==="red" && two.innerHTML==="Two") {
 back.style.background="red";}
 else if (back.style.background==="purple" && one.innerHTML==="One") {
