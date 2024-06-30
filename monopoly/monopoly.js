@@ -6,7 +6,7 @@ var jailT=document.getElementById("twoH");
 if (jailOne.innerHTML==="One") {
 jailOne.innerHTML="";
 jailO.innerHTML="One";}
-if (jailTwo.innerHTML==="Two") {
+else if (jailTwo.innerHTML==="Two") {
 jailTwo.innerHTML="";
 jailT.innerHTML="Two";}}
 
