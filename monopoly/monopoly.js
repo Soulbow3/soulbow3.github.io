@@ -895,7 +895,7 @@ element.innerHTML="Yellow";}
 else if (element.innerHTML==="Yellow") {
 element.innerHTML="Pink";}
 else if (element.innerHTML==="Pink") {
-element.innerHTML="one";}
+element.innerHTML="One";}
 else if (element.innerHTML==="One") {
 element.innerHTML="Two";}}
 
