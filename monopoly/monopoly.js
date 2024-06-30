@@ -3,8 +3,8 @@ var dice=document.getElementById("node");
 function jail() {
 var jailStartOne=document.getElementById("oneX");
 var jailStartTwo=document.getElementById("twoX");
-var jailOne=document.getElementById("twoH");
-var jailTwo=document.getElementById("oneH");
+var jailOne=document.getElementById("one");
+var jailTwo=document.getElementById("two");
 if (jailStartOne.innerHTML==="One") {
 jailStartOne.innerHTML="";
 jailOne.innerHTML="One";}
