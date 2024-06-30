@@ -13,10 +13,10 @@ jailStartTwo.innerHTML="";
 jailTwo.innerHTML="Two";}}
 
 function go1() {
-var startOne=document.getElementById("twoL");
-var startTwo=document.getElementById("oneL");
-var homeOne=document.getElementById("oneA");
-var homeTwo=document.getElementById("twoA");
+var startOne=document.getElementById("oneL");
+var startTwo=document.getElementById("twoL");
+var homeOne=document.getElementById("twoA");
+var homeTwo=document.getElementById("oneA");
 if (startOne.innerHTML==="One") {
 startOne.innerHTML="";
 homeOne.innerHTML="One";}
@@ -37,10 +37,10 @@ startTwo.innerHTML="";
 homeTwo.innerHTML="Two";}}
 
 function go3() {
-var startOne=document.getElementById("ctwo");
-var startTwo=document.getElementById("cone");
-var homeOne=document.getElementById("oneA");
-var homeTwo=document.getElementById("twoA");
+var startOne=document.getElementById("cone");
+var startTwo=document.getElementById("ctwo");
+var homeOne=document.getElementById("twoA");
+var homeTwo=document.getElementById("oneA");
 if (startOne.innerHTML==="One") {
 startOne.innerHTML="";
 homeOne.innerHTML="One";}
@@ -902,28 +902,28 @@ element.innerHTML="Two";}}
 
 function cardMovement() {
 var card=document.getELementById("cardAcc");
-var move2=document.getElementByID("oneD");
-var move1=document.getElementByID("twoD");
-var move4=document.getElementByID("oneU");
-var move3=document.getElementByID("twoU");
-var move6=document.getElementByID("bone");
-var move5=document.getElementByID("btwo");
-var move8=document.getElementByID("done");
-var move7=document.getElementByID("dtwo");
+var move1=document.getElementByID("oneD");
+var move2=document.getElementByID("twoD");
+var move3=document.getElementByID("oneU");
+var move4=document.getElementByID("twoU");
+var move5=document.getElementByID("bone");
+var move6=document.getElementByID("btwo");
+var move7=document.getElementByID("done");
+var move8=document.getElementByID("dtwo");
 var two=document.getElementById("twoH");
 var one=document.getElementById("oneH");
 var goone=document.getElementById("oneA");
 var gotwo=document.getElementById("twoA");
 var goldtwo=document.getElementById("ftwo");
 var goldone=document.getElementById("fone");
-var tile1=document.getElementById("oneA");
-var tile2=document.getElementById("twoA");
-var tile3=document.getElementById("oneR");
-var tile4=document.getElementById("twoR");
-var tile5=document.getElementById("oneY");
-var tile6=document.getElementById("twoY");
-var tile7=document.getElementById("aone");
-var tile8=document.getElementById("atwo");
+var tile2=document.getElementById("oneA");
+var tile1=document.getElementById("twoA");
+var tile4=document.getElementById("oneR");
+var tile3=document.getElementById("twoR");
+var tile6=document.getElementById("oneY");
+var tile5=document.getElementById("twoY");
+var tile8=document.getElementById("aone");
+var tile7=document.getElementById("atwo");
 if (card.innerHTML==="Back 3" && move1.innerHTML==="One") {
 tile1.innerHTML="One";
 move1.innerHTML="";}
