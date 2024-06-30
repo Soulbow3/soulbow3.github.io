@@ -3842,22 +3842,20 @@ six.innerHTML="One";
 thirtytwo.innerHTML="";}}
 
 function reset() {
-var dice=document.getElementById("node");
-dice.innerHTML="";}
+document.getElementById("node").innerHTML="";}
 
 function selectTileOne() {
-var dice=document.getElementById("node");
-dice.innerHTML="1";}
+document.getElementById("node").innerHTML="1";}
 function selectTileTwo() {
-dice.innerHTML="2";}
+document.getElementById("node").innerHTML="2";}
 function selectTileThree() {
-dice.innerHTML="3";}
+document.getElementById("node").innerHTML="3";}
 function selectTileFour() {
-dice.innerHTML="4";}
+document.getElementById("node").innerHTML="4";}
 function selectTileFive() {
-dice.innerHTML="5";}
+document.getElementById("node").innerHTML="5";}
 function selectTileSix() {
-dice.innerHTML="6";}
+document.getElementById("node").innerHTML="6";}
 
 document.getElementById("btn").addEventListener("click", playerOne);
 document.getElementById("btntwo").addEventListener("click", playerTwo);
