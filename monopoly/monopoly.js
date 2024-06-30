@@ -13,40 +13,40 @@ jailStartTwo.innerHTML="";
 jailTwo.innerHTML="One";}}
 
 function go1() {
-var startOne=document.getElementById("twoL");
-var startTwo=document.getElementById("oneL");
+var startOne=document.getElementById("oneL");
+var startTwo=document.getElementById("twoL");
 var homeOne=document.getElementById("oneA");
 var homeTwo=document.getElementById("twoA");
-if (startOne.innerHTML==="One") {
+if (startOne.innerHTML==="Two") {
 startOne.innerHTML="";
-homeOne.innerHTML="One";}
-else if (startTwo.innerHTML==="Two") {
+homeOne.innerHTML="Two";}
+else if (startTwo.innerHTML==="One") {
 startTwo.innerHTML="";
-homeTwo.innerHTML="Two";}}
+homeTwo.innerHTML="One";}}
 
 function go2() {
-var startOne=document.getElementById("twoM");
-var startTwo=document.getElementById("oneM");
+var startOne=document.getElementById("oneM");
+var startTwo=document.getElementById("twoM");
 var homeOne=document.getElementById("twoA");
 var homeTwo=document.getElementById("oneA");
-if (startOne.innerHTML==="One") {
+if (startOne.innerHTML==="Two") {
 startOne.innerHTML="";
-homeOne.innerHTML="One";}
-else if (startTwo.innerHTML==="Two") {
+homeOne.innerHTML="Two";}
+else if (startTwo.innerHTML==="One") {
 startTwo.innerHTML="";
-homeTwo.innerHTML="Two";}}
+homeTwo.innerHTML="One";}}
 
 function go3() {
-var startOne=document.getElementById("ctwo");
-var startTwo=document.getElementById("cone");
+var startOne=document.getElementById("cone");
+var startTwo=document.getElementById("ctwo");
 var homeOne=document.getElementById("twoA");
 var homeTwo=document.getElementById("oneA");
-if (startOne.innerHTML==="One") {
+if (startOne.innerHTML==="Two") {
 startOne.innerHTML="";
-homeOne.innerHTML="One";}
-else if (startTwo.innerHTML==="Two") {
+homeOne.innerHTML="Two";}
+else if (startTwo.innerHTML==="One") {
 startTwo.innerHTML="";
-homeTwo.innerHTML="Two";}}
+homeTwo.innerHTML="One";}}
 
 function plum() {
 var one=document.getElementById("oneB");
