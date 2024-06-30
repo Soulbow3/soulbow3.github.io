@@ -10,7 +10,7 @@ jailStartOne.innerHTML="";
 jailOne.innerHTML="One";}
 else if (jailStartTwo.innerHTML==="Two") {
 jailStartTwo.innerHTML="";
-jailTwo.innerHTML="One";}}
+jailTwo.innerHTML="Two";}}
 
 function go1() {
 var startOne=document.getElementById("cone");
