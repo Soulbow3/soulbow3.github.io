@@ -1,43 +1,51 @@
 var dice=document.getElementById("node");
 
-function jail(element) {
+function jail() {
+var jailStartOne=document.getElementById("oneX");
+var jailStartTwo=document.getElementById("twoX");
 var jailOne=document.getElementById("oneH");
 var jailTwo=document.getElementById("twoH");
-if (element.innerHTML==="One") {
-element.innerHTML="";
+if (jailStartOne.innerHTML==="One") {
+jailStartOne.innerHTML="";
 jailOne.innerHTML="One";}
-else if (element.innerHTML==="Two") {
-element.innerHTML="";
+else if (jailStartTwo.innerHTML==="Two") {
+jailStartTwo.innerHTML="";
 jailTwo.innerHTML="Two";}}
 
 function go1(element) {
+var StartOne=document.getElementById("oneL");
+var StartTwo=document.getElementById("twoL");
 var homeOne=document.getElementById("oneA");
 var homeTwo=document.getElementById("twoA");
-if (element.innerHTML==="One") {
-element.innerHTML="";
+if (StartOne.innerHTML==="One") {
+StartOne.innerHTML="";
 homeOne.innerHTML="One";}
-else if (element.innerHTML==="Two") {
-element.innerHTML="";
+else if (StartTwo.innerHTML==="Two") {
+StartTwo.innerHTML="";
 homeTwo.innerHTML="Two";}}
 
 function go2(element) {
+var StartOne=document.getElementById("oneM");
+var StartTwo=document.getElementById("twoM");
 var homeOne=document.getElementById("oneA");
 var homeTwo=document.getElementById("twoA");
-if (element.innerHTML==="One") {
-element.innerHTML="";
+if (StartOne.innerHTML==="One") {
+StartOne.innerHTML="";
 homeOne.innerHTML="One";}
-else if (element.innerHTML==="Two") {
-element.innerHTML="";
+else if (StartTwo.innerHTML==="Two") {
+StartTwo.innerHTML="";
 homeTwo.innerHTML="Two";}}
 
-function go3(element) {
+function go3() {
+var StartOne=document.getElementById("cone");
+var StartTwo=document.getElementById("ctwo");
 var homeOne=document.getElementById("oneA");
 var homeTwo=document.getElementById("twoA");
-if (element.innerHTML==="One") {
-element.innerHTML="";
+if (StartOne.innerHTML==="One") {
+StartOne.innerHTML="";
 homeOne.innerHTML="One";}
-else if (element.innerHTML==="Two") {
-element.innerHTML="";
+else if (StartTwo.innerHTML==="Two") {
+StartTwo.innerHTML="";
 homeTwo.innerHTML="Two";}}
 
 function plum() {
