@@ -19,10 +19,10 @@ var homeOne=document.getElementById("oneA");
 var homeTwo=document.getElementById("twoA");
 if (startOne.innerHTML==="One") {
 startOne.innerHTML="";
-homeOne.innerHTML="One";}
+homeOne.innerHTML="Two";}
 else if (startTwo.innerHTML==="Two") {
 startTwo.innerHTML="";
-homeTwo.innerHTML="Two";}}
+homeTwo.innerHTML="One";}}
 
 function go2() {
 var startOne=document.getElementById("oneL");
@@ -31,10 +31,10 @@ var homeOne=document.getElementById("twoA");
 var homeTwo=document.getElementById("oneA");
 if (startOne.innerHTML==="One") {
 startOne.innerHTML="";
-homeOne.innerHTML="One";}
+homeOne.innerHTML="Two";}
 else if (startTwo.innerHTML==="Two") {
 startTwo.innerHTML="";
-homeTwo.innerHTML="Two";}}
+homeTwo.innerHTML="One";}}
 
 function go3() {
 var startOne=document.getElementById("oneM");
@@ -43,10 +43,10 @@ var homeOne=document.getElementById("twoA");
 var homeTwo=document.getElementById("oneA");
 if (startOne.innerHTML==="One") {
 startOne.innerHTML="";
-homeOne.innerHTML="One";}
+homeOne.innerHTML="Two";}
 else if (startTwo.innerHTML==="Two") {
 startTwo.innerHTML="";
-homeTwo.innerHTML="Two";}}
+homeTwo.innerHTML="One";}}
 
 function plum() {
 var one=document.getElementById("oneB");
