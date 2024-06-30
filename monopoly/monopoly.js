@@ -3,8 +3,8 @@ var dice=document.getElementById("node");
 function jail() {
 var jailStartOne=document.getElementById("oneX");
 var jailStartTwo=document.getElementById("twoX");
-var jailOne=document.getElementById("oneH");
-var jailTwo=document.getElementById("twoH");
+var jailOne=document.getElementById("twoH");
+var jailTwo=document.getElementById("oneH");
 if (jailStartOne.innerHTML==="One") {
 jailStartOne.innerHTML="";
 jailOne.innerHTML="One";}
@@ -13,8 +13,8 @@ jailStartTwo.innerHTML="";
 jailTwo.innerHTML="Two";}}
 
 function go1() {
-var startOne=document.getElementById("oneL");
-var startTwo=document.getElementById("twoL");
+var startOne=document.getElementById("twoL");
+var startTwo=document.getElementById("oneL");
 var homeOne=document.getElementById("oneA");
 var homeTwo=document.getElementById("twoA");
 if (startOne.innerHTML==="One") {
@@ -25,8 +25,8 @@ startTwo.innerHTML="";
 homeTwo.innerHTML="Two";}}
 
 function go2() {
-var startOne=document.getElementById("oneM");
-var startTwo=document.getElementById("twoM");
+var startOne=document.getElementById("twoM");
+var startTwo=document.getElementById("oneM");
 var homeOne=document.getElementById("oneA");
 var homeTwo=document.getElementById("twoA");
 if (startOne.innerHTML==="One") {
@@ -37,8 +37,8 @@ startTwo.innerHTML="";
 homeTwo.innerHTML="Two";}}
 
 function go3() {
-var startOne=document.getElementById("cone");
-var startTwo=document.getElementById("ctwo");
+var startOne=document.getElementById("ctwo");
+var startTwo=document.getElementById("cone");
 var homeOne=document.getElementById("oneA");
 var homeTwo=document.getElementById("twoA");
 if (startOne.innerHTML==="One") {
@@ -902,14 +902,14 @@ element.innerHTML="Two";}}
 
 function cardMovement() {
 var card=document.getELementById("cardAcc");
-var move1=document.getElementByID("oneD");
-var move2=document.getElementByID("twoD");
-var move3=document.getElementByID("oneU");
-var move4=document.getElementByID("twoU");
-var move5=document.getElementByID("bone");
-var move6=document.getElementByID("btwo");
-var move7=document.getElementByID("done");
-var move8=document.getElementByID("dtwo");
+var move2=document.getElementByID("oneD");
+var move1=document.getElementByID("twoD");
+var move4=document.getElementByID("oneU");
+var move3=document.getElementByID("twoU");
+var move6=document.getElementByID("bone");
+var move5=document.getElementByID("btwo");
+var move8=document.getElementByID("done");
+var move7=document.getElementByID("dtwo");
 var two=document.getElementById("twoH");
 var one=document.getElementById("oneH");
 var goone=document.getElementById("oneA");
