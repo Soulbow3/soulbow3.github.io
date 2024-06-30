@@ -4384,7 +4384,7 @@ five.innerHTML="Pink";
 thirtytwo.innerHTML="";}
 else if (thirtytwo.innerHTML==="Pink" && dice.innerHTML==="6") { 
 six.innerHTML="Pink";
-thirtytwo.innerHTML="";}}}
+thirtytwo.innerHTML="";}}
 
 function playerTwo() {
 var one=document.getElementById("twoA");
@@ -5570,6 +5570,1734 @@ five.innerHTML="One";
 thirtytwo.innerHTML="";}
 else if (thirtytwo.innerHTML==="One" && dice.innerHTML==="6") { 
 six.innerHTML="One";
+thirtytwo.innerHTML="";}
+else if (one.innerHTML==="Red" && dice.innerHTML==="1") {
+two.innerHTML="Red";
+one.innerHTML="";}
+else if (one.innerHTML==="Red" && dice.innerHTML==="2") {
+three.innerHTML="Red";
+one.innerHTML="";}
+else if (one.innerHTML==="Red" && dice.innerHTML==="3") {
+four.innerHTML="Red";
+one.innerHTML="";}
+else if (one.innerHTML==="Red" && dice.innerHTML==="4") {
+five.innerHTML="Red";
+one.innerHTML="";}
+else if (one.innerHTML==="Red" && dice.innerHTML==="5") {
+six.innerHTML="Red";
+one.innerHTML="";}
+else if (one.innerHTML==="Red" && dice.innerHTML==="6") {
+seven.innerHTML="Red";
+one.innerHTML="";}
+else if (two.innerHTML==="Red" && dice.innerHTML==="1") {
+three.innerHTML="Red";
+two.innerHTML="";}
+else if (two.innerHTML==="Red" && dice.innerHTML==="2") {
+four.innerHTML="Red";
+two.innerHTML="";}
+else if (two.innerHTML==="Red" && dice.innerHTML==="3") {
+five.innerHTML="Red";
+two.innerHTML="";}
+else if (two.innerHTML==="Red" && dice.innerHTML==="4") {
+six.innerHTML="Red";
+two.innerHTML="";}
+else if (two.innerHTML==="Red" && dice.innerHTML==="5") {
+seven.innerHTML="Red";
+two.innerHTML="";}
+else if (two.innerHTML==="Red" && dice.innerHTML==="6") {
+eight.innerHTML="Red";
+two.innerHTML="";}
+else if (three.innerHTML==="Red" && dice.innerHTML==="1") {
+four.innerHTML="Red";
+three.innerHTML="";}
+else if (three.innerHTML==="Red" && dice.innerHTML==="2") {
+five.innerHTML="Red";
+three.innerHTML="";}
+else if (three.innerHTML==="Red" && dice.innerHTML==="3") {
+six.innerHTML="Red";
+three.innerHTML="";}
+else if (three.innerHTML==="Red" && dice.innerHTML==="4") {
+seven.innerHTML="Red";
+three.innerHTML="";}
+else if (three.innerHTML==="Red" && dice.innerHTML==="5") {
+eight.innerHTML="Red";
+three.innerHTML="";}
+else if (three.innerHTML==="Red" && dice.innerHTML==="6") {
+nine.innerHTML="Red";
+three.innerHTML="";}
+else if (four.innerHTML==="Red" && dice.innerHTML==="1") {
+five.innerHTML="Red";
+four.innerHTML="";}
+else if (four.innerHTML==="Red" && dice.innerHTML==="2") {
+six.innerHTML="Red";
+four.innerHTML="";}
+else if (four.innerHTML==="Red" && dice.innerHTML==="3") {
+seven.innerHTML="Red";
+four.innerHTML="";}
+else if (four.innerHTML==="Red" && dice.innerHTML==="4") {
+eight.innerHTML="Red";
+four.innerHTML="";}
+else if (four.innerHTML==="Red" && dice.innerHTML==="5") {
+nine.innerHTML="Red";
+four.innerHTML="";}
+else if (four.innerHTML==="Red" && dice.innerHTML==="6") {
+ten.innerHTML="Red";
+four.innerHTML="";}
+else if (five.innerHTML==="Red" && dice.innerHTML==="1") {
+six.innerHTML="Red";
+five.innerHTML="";}
+else if (five.innerHTML==="Red" && dice.innerHTML==="2") {
+seven.innerHTML="Red";
+five.innerHTML="";}
+else if (five.innerHTML==="Red" && dice.innerHTML==="3") {
+eight.innerHTML="Red";
+five.innerHTML="";}
+else if (five.innerHTML==="Red" && dice.innerHTML==="4") {
+nine.innerHTML="Red";
+five.innerHTML="";}
+else if (five.innerHTML==="Red" && dice.innerHTML==="5") {
+ten.innerHTML="Red";
+five.innerHTML="";}
+else if (five.innerHTML==="Red" && dice.innerHTML==="6") {
+eleven.innerHTML="Red";
+five.innerHTML="";}
+else if (six.innerHTML==="Red" && dice.innerHTML==="1") {
+seven.innerHTML="Red";
+six.innerHTML="";}
+else if (six.innerHTML==="Red" && dice.innerHTML==="2") {
+eight.innerHTML="Red";
+six.innerHTML="";}
+else if (six.innerHTML==="Red" && dice.innerHTML==="3") {
+nine.innerHTML="Red";
+six.innerHTML="";}
+else if (six.innerHTML==="Red" && dice.innerHTML==="4") {
+ten.innerHTML="Red";
+six.innerHTML="";}
+else if (six.innerHTML==="Red" && dice.innerHTML==="5") {
+eleven.innerHTML="Red";
+six.innerHTML="";}
+else if (six.innerHTML==="Red" && dice.innerHTML==="6") {
+twelve.innerHTML="Red";
+six.innerHTML="";}
+else if (seven.innerHTML==="Red" && dice.innerHTML==="1") {
+eight.innerHTML="Red";
+seven.innerHTML="";}
+else if (seven.innerHTML==="Red" && dice.innerHTML==="2") {
+nine.innerHTML="Red";
+seven.innerHTML="";}
+else if (seven.innerHTML==="Red" && dice.innerHTML==="3") {
+ten.innerHTML="Red";
+seven.innerHTML="";}
+else if (seven.innerHTML==="Red" && dice.innerHTML==="4") {
+eleven.innerHTML="Red";
+seven.innerHTML="";}
+else if (seven.innerHTML==="Red" && dice.innerHTML==="5") {
+twelve.innerHTML="Red";
+seven.innerHTML="";}
+else if (seven.innerHTML==="Red" && dice.innerHTML==="6") {
+thirteen.innerHTML="Red";
+seven.innerHTML="";}
+else if (eight.innerHTML==="Red" && dice.innerHTML==="1") {
+nine.innerHTML="Red";
+eight.innerHTML="";}
+else if (eight.innerHTML==="Red" && dice.innerHTML==="2") {
+ten.innerHTML="Red";
+eight.innerHTML="";}
+else if (eight.innerHTML==="Red" && dice.innerHTML==="3") {
+eleven.innerHTML="Red";
+eight.innerHTML="";}
+else if (eight.innerHTML==="Red" && dice.innerHTML==="4") {
+twelve.innerHTML="Red";
+eight.innerHTML="";}
+else if (eight.innerHTML==="Red" && dice.innerHTML==="5") {
+thirteen.innerHTML="Red";
+eight.innerHTML="";}
+else if (eight.innerHTML==="Red" && dice.innerHTML==="6") {
+fourteen.innerHTML="Red";
+eight.innerHTML="";}
+else if (nine.innerHTML==="Red" && dice.innerHTML==="1") {
+ten.innerHTML="Red";
+nine.innerHTML="";}
+else if (nine.innerHTML==="Red" && dice.innerHTML==="2") {
+eleven.innerHTML="Red";
+nine.innerHTML="";}
+else if (nine.innerHTML==="Red" && dice.innerHTML==="3") {
+twelve.innerHTML="Red";
+nine.innerHTML="";}
+else if (nine.innerHTML==="Red" && dice.innerHTML==="4") {
+thirteen.innerHTML="Red";
+nine.innerHTML="";}
+else if (nine.innerHTML==="Red" && dice.innerHTML==="5") {
+fourteen.innerHTML="Red";
+nine.innerHTML="";}
+else if (nine.innerHTML==="Red" && dice.innerHTML==="6") {
+fifteen.innerHTML="Red";
+nine.innerHTML="";}
+else if (ten.innerHTML==="Red" && dice.innerHTML==="1") {
+eleven.innerHTML="Red";
+ten.innerHTML="";}
+else if (ten.innerHTML==="Red" && dice.innerHTML==="2") {
+twelve.innerHTML="Red";
+ten.innerHTML="";}
+else if (ten.innerHTML==="Red" && dice.innerHTML==="3") {
+thirteen.innerHTML="Red";
+ten.innerHTML="";}
+else if (ten.innerHTML==="Red" && dice.innerHTML==="4") {
+fourteen.innerHTML="Red";
+ten.innerHTML="";}
+else if (ten.innerHTML==="Red" && dice.innerHTML==="5") {
+fifteen.innerHTML="Red";
+ten.innerHTML="";}
+else if (ten.innerHTML==="Red" && dice.innerHTML==="6") {
+sixteen.innerHTML="Red";
+ten.innerHTML="";}
+else if (eleven.innerHTML==="Red" && dice.innerHTML==="1") {
+twelve.innerHTML="Red";
+eleven.innerHTML="";}
+else if (eleven.innerHTML==="Red" && dice.innerHTML==="2") {
+thirteen.innerHTML="Red";
+eleven.innerHTML="";}
+else if (eleven.innerHTML==="Red" && dice.innerHTML==="3") {
+fourteen.innerHTML="Red";
+eleven.innerHTML="";}
+else if (eleven.innerHTML==="Red" && dice.innerHTML==="4") {
+fifteen.innerHTML="Red";
+eleven.innerHTML="";}
+else if (eleven.innerHTML==="Red" && dice.innerHTML==="5") {
+sixteen.innerHTML="Red";
+eleven.innerHTML="";}
+else if (eleven.innerHTML==="Red" && dice.innerHTML==="6") {
+seventeen.innerHTML="Red";
+eleven.innerHTML="";}
+else if (twelve.innerHTML==="Red" && dice.innerHTML==="1") {
+thirteen.innerHTML="Red";
+twelve.innerHTML="";}
+else if (twelve.innerHTML==="Red" && dice.innerHTML==="2") {
+fourteen.innerHTML="Red";
+twelve.innerHTML="";}
+else if (twelve.innerHTML==="Red" && dice.innerHTML==="3") {
+fifteen.innerHTML="Red";
+twelve.innerHTML="";}
+else if (twelve.innerHTML==="Red" && dice.innerHTML==="4") {
+sixteen.innerHTML="Red";
+twelve.innerHTML="";}
+else if (twelve.innerHTML==="Red" && dice.innerHTML==="5") {
+seventeen.innerHTML="Red";
+twelve.innerHTML="";}
+else if (twelve.innerHTML==="Red" && dice.innerHTML==="6") {
+eighteen.innerHTML="Red";
+twelve.innerHTML="";}
+else if (thirteen.innerHTML==="Red" && dice.innerHTML==="1") {
+fourteen.innerHTML="Red";
+thirteen.innerHTML="";}
+else if (thirteen.innerHTML==="Red" && dice.innerHTML==="2") {
+fifteen.innerHTML="Red";
+thirteen.innerHTML="";}
+else if (thirteen.innerHTML==="Red" && dice.innerHTML==="3") {
+sixteen.innerHTML="Red";
+thirteen.innerHTML="";}
+else if (thirteen.innerHTML==="Red" && dice.innerHTML==="4") {
+seventeen.innerHTML="Red";
+thirteen.innerHTML="";}
+else if (thirteen.innerHTML==="Red" && dice.innerHTML==="5") {
+eighteen.innerHTML="Red";
+thirteen.innerHTML="";}
+else if (thirteen.innerHTML==="Red" && dice.innerHTML==="6") {
+nineteen.innerHTML="Red";
+thirteen.innerHTML="";}
+else if (fourteen.innerHTML==="Red" && dice.innerHTML==="1") {
+fifteen.innerHTML="Red";
+fourteen.innerHTML="";}
+else if (fourteen.innerHTML==="Red" && dice.innerHTML==="2") {
+sixteen.innerHTML="Red";
+fourteen.innerHTML="";}
+else if (fourteen.innerHTML==="Red" && dice.innerHTML==="3") {
+seventeen.innerHTML="Red";
+fourteen.innerHTML="";}
+else if (fourteen.innerHTML==="Red" && dice.innerHTML==="4") {
+eighteen.innerHTML="Red";
+fourteen.innerHTML="";}
+else if (fourteen.innerHTML==="Red" && dice.innerHTML==="5") {
+nineteen.innerHTML="Red";
+fourteen.innerHTML="";}
+else if (fourteen.innerHTML==="Red" && dice.innerHTML==="6") {
+twenty.innerHTML="Red";
+fourteen.innerHTML="";}
+else if (fifteen.innerHTML==="Red" && dice.innerHTML==="1") {
+sixteen.innerHTML="Red";
+fifteen.innerHTML="";}
+else if (fifteen.innerHTML==="Red" && dice.innerHTML==="2") {
+seventeen.innerHTML="Red";
+fifteen.innerHTML="";}
+else if (fifteen.innerHTML==="Red" && dice.innerHTML==="3") {
+eighteen.innerHTML="Red";
+fifteen.innerHTML="";}
+else if (fifteen.innerHTML==="Red" && dice.innerHTML==="4") {
+nineteen.innerHTML="Red";
+fifteen.innerHTML="";}
+else if (fifteen.innerHTML==="Red" && dice.innerHTML==="5") {
+twenty.innerHTML="Red";
+fifteen.innerHTML="";}
+else if (fifteen.innerHTML==="Red" && dice.innerHTML==="6") {
+twentyone.innerHTML="Red";
+fifteen.innerHTML="";}
+else if (sixteen.innerHTML==="Red" && dice.innerHTML==="1") {
+seventeen.innerHTML="Red";
+sixteen.innerHTML="";}
+else if (sixteen.innerHTML==="Red" && dice.innerHTML==="2") {
+eighteen.innerHTML="Red";
+sixteen.innerHTML="";}
+else if (sixteen.innerHTML==="Red" && dice.innerHTML==="3") {
+nineteen.innerHTML="Red";
+sixteen.innerHTML="";}
+else if (sixteen.innerHTML==="Red" && dice.innerHTML==="4") {
+twenty.innerHTML="Red";
+sixteen.innerHTML="";}
+else if (sixteen.innerHTML==="Red" && dice.innerHTML==="5") {
+twentyone.innerHTML="Red";
+sixteen.innerHTML="";}
+else if (sixteen.innerHTML==="Red" && dice.innerHTML==="6") {
+twentytwo.innerHTML="Red";
+sixteen.innerHTML="";}
+else if (seventeen.innerHTML==="Red" && dice.innerHTML==="1") {
+eighteen.innerHTML="Red";
+seventeen.innerHTML="";}
+else if (seventeen.innerHTML==="Red" && dice.innerHTML==="2") {
+nineteen.innerHTML="Red";
+seventeen.innerHTML="";}
+else if (seventeen.innerHTML==="Red" && dice.innerHTML==="3") {
+twenty.innerHTML="Red";
+seventeen.innerHTML="";}
+else if (seventeen.innerHTML==="Red" && dice.innerHTML==="4") {
+twentyone.innerHTML="Red";
+seventeen.innerHTML="";}
+else if (seventeen.innerHTML==="Red" && dice.innerHTML==="5") {
+twentytwo.innerHTML="Red";
+seventeen.innerHTML="";}
+else if (seventeen.innerHTML==="Red" && dice.innerHTML==="6") {
+twentythree.innerHTML="Red";
+seventeen.innerHTML="";}
+else if (eighteen.innerHTML==="Red" && dice.innerHTML==="1") {
+nineteen.innerHTML="Red";
+eighteen.innerHTML="";}
+else if (eighteen.innerHTML==="Red" && dice.innerHTML==="2") {
+twenty.innerHTML="Red";
+eighteen.innerHTML="";}
+else if (eighteen.innerHTML==="Red" && dice.innerHTML==="3") {
+twentyone.innerHTML="Red";
+eighteen.innerHTML="";}
+else if (eighteen.innerHTML==="Red" && dice.innerHTML==="4") {
+twentytwo.innerHTML="Red";
+eighteen.innerHTML="";}
+else if (eighteen.innerHTML==="Red" && dice.innerHTML==="5") {
+twentythree.innerHTML="Red";
+eighteen.innerHTML="";}
+else if (eighteen.innerHTML==="Red" && dice.innerHTML==="6") {
+twentyfour.innerHTML="Red";
+eighteen.innerHTML="";}
+else if (nineteen.innerHTML==="Red" && dice.innerHTML==="1") {
+twenty.innerHTML="Red";
+nineteen.innerHTML="";}
+else if (nineteen.innerHTML==="Red" && dice.innerHTML==="2") {
+twentyone.innerHTML="Red";
+nineteen.innerHTML="";}
+else if (nineteen.innerHTML==="Red" && dice.innerHTML==="3") {
+twentytwo.innerHTML="Red";
+nineteen.innerHTML="";}
+else if (nineteen.innerHTML==="Red" && dice.innerHTML==="4") {
+twentythree.innerHTML="Red";
+nineteen.innerHTML="";}
+else if (nineteen.innerHTML==="Red" && dice.innerHTML==="5") {
+twentyfour.innerHTML="Red";
+nineteen.innerHTML="";}
+else if (nineteen.innerHTML==="Red" && dice.innerHTML==="6") {
+twentyfive.innerHTML="Red";
+nineteen.innerHTML="";}
+else if (twenty.innerHTML==="Red" && dice.innerHTML==="1") {
+twentyone.innerHTML="Red";
+twenty.innerHTML="";}
+else if (twenty.innerHTML==="Red" && dice.innerHTML==="2") {
+twentytwo.innerHTML="Red";
+twenty.innerHTML="";}
+else if (twenty.innerHTML==="Red" && dice.innerHTML==="3") {
+twentythree.innerHTML="Red";
+twenty.innerHTML="";}
+else if (twenty.innerHTML==="Red" && dice.innerHTML==="4") {
+twentyfour.innerHTML="Red";
+twenty.innerHTML="";}
+else if (twenty.innerHTML==="Red" && dice.innerHTML==="5") {
+twentyfive.innerHTML="Red";
+twenty.innerHTML="";}
+else if (twenty.innerHTML==="Red" && dice.innerHTML==="6") {
+twentysix.innerHTML="Red";
+twenty.innerHTML="";}
+else if (twentyone.innerHTML==="Red" && dice.innerHTML==="1") {
+twentytwo.innerHTML="Red";
+twentyone.innerHTML="";}
+else if (twentyone.innerHTML==="Red" && dice.innerHTML==="2") {
+twentythree.innerHTML="Red";
+twentyone.innerHTML="";}
+else if (twentyone.innerHTML==="Red" && dice.innerHTML==="3") {
+twentyfour.innerHTML="Red";
+twentyone.innerHTML="";}
+else if (twentyone.innerHTML==="Red" && dice.innerHTML==="4") {
+twentyfive.innerHTML="Red";
+twentyone.innerHTML="";}
+else if (twentyone.innerHTML==="Red" && dice.innerHTML==="5") {
+twentysix.innerHTML="Red";
+twentyone.innerHTML="";}
+else if (twentyone.innerHTML==="Red" && dice.innerHTML==="6") {
+twentyseven.innerHTML="Red";
+twentyone.innerHTML="";}
+else if (twentytwo.innerHTML==="Red" && dice.innerHTML==="1") {
+twentythree.innerHTML="Red";
+twentytwo.innerHTML="";}
+else if (twentytwo.innerHTML==="Red" && dice.innerHTML==="2") {
+twentyfour.innerHTML="Red";
+twentytwo.innerHTML="";}
+else if (twentytwo.innerHTML==="Red" && dice.innerHTML==="3") {
+twentyfive.innerHTML="Red";
+twentytwo.innerHTML="";}
+else if (twentytwo.innerHTML==="Red" && dice.innerHTML==="4") {
+twentysix.innerHTML="Red";
+twentytwo.innerHTML="";}
+else if (twentytwo.innerHTML==="Red" && dice.innerHTML==="5") {
+twentyseven.innerHTML="Red";
+twentytwo.innerHTML="";}
+else if (twentytwo.innerHTML==="Red" && dice.innerHTML==="6") {
+twentyeight.innerHTML="Red";
+twentytwo.innerHTML="";}
+else if (twentythree.innerHTML==="Red" && dice.innerHTML==="1") {
+twentyfour.innerHTML="Red";
+twentythree.innerHTML="";}
+else if (twentythree.innerHTML==="Red" && dice.innerHTML==="2") {
+twentyfive.innerHTML="Red";
+twentythree.innerHTML="";}
+else if (twentythree.innerHTML==="Red" && dice.innerHTML==="3") {
+twentysix.innerHTML="Red";
+twentythree.innerHTML="";}
+else if (twentythree.innerHTML==="Red" && dice.innerHTML==="4") {
+twentyseven.innerHTML="Red";
+twentythree.innerHTML="";}
+else if (twentythree.innerHTML==="Red" && dice.innerHTML==="5") {
+twentyeight.innerHTML="Red";
+twentythree.innerHTML="";}
+else if (twentythree.innerHTML==="Red" && dice.innerHTML==="6") {
+twentynine.innerHTML="Red";
+twentythree.innerHTML="";}
+else if (twentyfour.innerHTML==="Red" && dice.innerHTML==="1") {
+twentyfive.innerHTML="Red";
+twentyfour.innerHTML="";}
+else if (twentyfour.innerHTML==="Red" && dice.innerHTML==="2") {
+twentysix.innerHTML="Red";
+twentyfour.innerHTML="";}
+else if (twentyfour.innerHTML==="Red" && dice.innerHTML==="3") {
+twentyseven.innerHTML="Red";
+twentyfour.innerHTML="";}
+else if (twentyfour.innerHTML==="Red" && dice.innerHTML==="4") {
+twentyeight.innerHTML="Red";
+twentyfour.innerHTML="";}
+else if (twentyfour.innerHTML==="Red" && dice.innerHTML==="5") {
+twentynine.innerHTML="Red";
+twentyfour.innerHTML="";}
+else if (twentyfour.innerHTML==="Red" && dice.innerHTML==="6") {
+thirty.innerHTML="Red";
+twentyfour.innerHTML="";}
+else if  (twentyfive.innerHTML==="Red" && dice.innerHTML==="1") {
+twentysix.innerHTML="Red";
+twentyfive.innerHTML="";}
+else if (twentyfive.innerHTML==="Red" && dice.innerHTML==="2") {
+twentyseven.innerHTML="Red";
+twentyfive.innerHTML="";}
+else if (twentyfive.innerHTML==="Red" && dice.innerHTML==="3") {
+twentyeight.innerHTML="Red";
+twentyfive.innerHTML="";}
+else if (twentyfive.innerHTML==="Red" && dice.innerHTML==="4") {
+twentynine.innerHTML="Red";
+twentyfive.innerHTML="";}
+else if (twentyfive.innerHTML==="Red" && dice.innerHTML==="5") {
+thirty.innerHTML="Red";
+twentyfive.innerHTML="";}
+else if (twentyfive.innerHTML==="Red" && dice.innerHTML==="6") {
+thirtyone.innerHTML="Red";
+twentyfive.innerHTML="";}
+else if (twentysix.innerHTML==="Red" && dice.innerHTML==="1") {
+twentyseven.innerHTML="Red";
+twentysix.innerHTML="";}
+else if (twentysix.innerHTML==="Red" && dice.innerHTML==="2") {
+twentyeight.innerHTML="Red";
+twentysix.innerHTML="";}
+else if (twentysix.innerHTML==="Red" && dice.innerHTML==="3") {
+twentynine.innerHTML="Red";
+twentysix.innerHTML="";}
+else if (twentysix.innerHTML==="Red" && dice.innerHTML==="4") {
+thirty.innerHTML="Red";
+twentysix.innerHTML="";}
+else if (twentysix.innerHTML==="Red" && dice.innerHTML==="5") {
+thirtyone.innerHTML="Red";
+twentysix.innerHTML="";}
+else if (twentysix.innerHTML==="Red" && dice.innerHTML==="6") {
+thirtytwo.innerHTML="Red";
+twentysix.innerHTML="";}
+else if (twentyseven.innerHTML==="Red" && dice.innerHTML==="1") {
+twentyeight.innerHTML="Red";
+twentyseven.innerHTML="";}
+else if (twentyseven.innerHTML==="Red" && dice.innerHTML==="2") {
+twentynine.innerHTML="Red";
+twentyseven.innerHTML="";}
+else if (twentyseven.innerHTML==="Red" && dice.innerHTML==="3") {
+thirty.innerHTML="Red";
+twentyseven.innerHTML="";}
+else if (twentyseven.innerHTML==="Red" && dice.innerHTML==="4") {
+thirtyone.innerHTML="Red";
+twentyseven.innerHTML="";}
+else if (twentyseven.innerHTML==="Red" && dice.innerHTML==="5") {
+thirtytwo.innerHTML="Red";
+twentyseven.innerHTML="";}
+else if (twentyseven.innerHTML==="Red" && dice.innerHTML==="6") {
+one.innerHTML="Red";
+twentyseven.innerHTML="";}
+else if (twentyeight.innerHTML==="Red" && dice.innerHTML==="1") {
+twentynine.innerHTML="Red";
+twentyeight.innerHTML="";}
+else if (twentyeight.innerHTML==="Red" && dice.innerHTML==="2") {
+thirty.innerHTML="Red";
+twentyeight.innerHTML="";}
+else if (twentyeight.innerHTML==="Red" && dice.innerHTML==="3") {
+thirtyone.innerHTML="Red";
+twentyeight.innerHTML="";}
+else if (twentyeight.innerHTML==="Red" && dice.innerHTML==="4") {
+thirtytwo.innerHTML="Red";
+twentyeight.innerHTML="";}
+else if (twentyeight.innerHTML==="Red" && dice.innerHTML==="5") {
+one.innerHTML="Red";
+twentyeight.innerHTML="";}
+else if (twentyeight.innerHTML==="Red" && dice.innerHTML==="6") {
+two.innerHTML="Red";
+twentyeight.innerHTML="";}
+else if (twentynine.innerHTML==="Red" && dice.innerHTML==="1") {
+thirty.innerHTML="Red";
+twentynine.innerHTML="";}
+else if (twentynine.innerHTML==="Red" && dice.innerHTML==="2") {
+thirtyone.innerHTML="Red";
+twentynine.innerHTML="";}
+else if (twentynine.innerHTML==="Red" && dice.innerHTML==="3") {
+thirtytwo.innerHTML="Red";
+twentynine.innerHTML="";}
+else if (twentynine.innerHTML==="Red" && dice.innerHTML==="4") {
+one.innerHTML="Red";
+twentynine.innerHTML="";}
+else if (twentynine.innerHTML==="Red" && dice.innerHTML==="5") {
+two.innerHTML="Red";
+twentynine.innerHTML="";}
+else if (twentynine.innerHTML==="Red" && dice.innerHTML==="6") {
+three.innerHTML="Red";
+twentynine.innerHTML="";}
+else if (thirty.innerHTML==="Red" && dice.innerHTML==="1") {
+thirtyone.innerHTML="Red";
+thirty.innerHTML="";}
+else if (thirty.innerHTML==="Red" && dice.innerHTML==="2") {
+thirtytwo.innerHTML="Red";
+thirty.innerHTML="";}
+else if (thirty.innerHTML==="Red" && dice.innerHTML==="3") {
+one.innerHTML="Red";
+thirty.innerHTML="";}
+else if (thirty.innerHTML==="Red" && dice.innerHTML==="4") {
+two.innerHTML="Red";
+thirty.innerHTML="";}
+else if (thirty.innerHTML==="Red" && dice.innerHTML==="5") {
+three.innerHTML="Red";
+thirty.innerHTML="";}
+else if (thirty.innerHTML==="Red" && dice.innerHTML==="6") {
+four.innerHTML="Red";
+thirty.innerHTML="";}
+else if (thirtyone.innerHTML==="Red" && dice.innerHTML==="1") {
+thirtytwo.innerHTML="Red";
+thirtyone.innerHTML="";}
+else if (thirtyone.innerHTML==="Red" && dice.innerHTML==="2") {
+one.innerHTML="Red";
+thirtyone.innerHTML="";}
+else if (thirtyone.innerHTML==="Red" && dice.innerHTML==="3") {
+two.innerHTML="Red";
+thirtyone.innerHTML="";}
+else if (thirtyone.innerHTML==="Red" && dice.innerHTML==="4") {
+three.innerHTML="Red";
+thirtyone.innerHTML="";}
+else if (thirtyone.innerHTML==="Red" && dice.innerHTML==="5") {
+four.innerHTML="Red";
+thirtyone.innerHTML="";}
+else if (thirtyone.innerHTML==="Red" && dice.innerHTML==="6") {
+five.innerHTML="Red";
+thirtyone.innerHTML="";}
+else if (thirtytwo.innerHTML==="Red" && dice.innerHTML==="1") { 
+one.innerHTML="Red";
+thirtytwo.innerHTML="";}
+else if (thirtytwo.innerHTML==="Red" && dice.innerHTML==="2") { 
+two.innerHTML="Red";
+thirtytwo.innerHTML="";}
+else if (thirtytwo.innerHTML==="Red" && dice.innerHTML==="3") { 
+three.innerHTML="Red";
+thirtytwo.innerHTML="";}
+else if (thirtytwo.innerHTML==="Red" && dice.innerHTML==="4") { 
+four.innerHTML="Red";
+thirtytwo.innerHTML="";}
+else if (thirtytwo.innerHTML==="Red" && dice.innerHTML==="5") { 
+five.innerHTML="Red";
+thirtytwo.innerHTML="";}
+else if (thirtytwo.innerHTML==="Red" && dice.innerHTML==="6") { 
+six.innerHTML="Red";
+thirtytwo.innerHTML="";}
+else if (one.innerHTML==="Yellow" && dice.innerHTML==="1") {
+two.innerHTML="Yellow";
+one.innerHTML="";}
+else if (one.innerHTML==="Yellow" && dice.innerHTML==="2") {
+three.innerHTML="Yellow";
+one.innerHTML="";}
+else if (one.innerHTML==="Yellow" && dice.innerHTML==="3") {
+four.innerHTML="Yellow";
+one.innerHTML="";}
+else if (one.innerHTML==="Yellow" && dice.innerHTML==="4") {
+five.innerHTML="Yellow";
+one.innerHTML="";}
+else if (one.innerHTML==="Yellow" && dice.innerHTML==="5") {
+six.innerHTML="Yellow";
+one.innerHTML="";}
+else if (one.innerHTML==="Yellow" && dice.innerHTML==="6") {
+seven.innerHTML="Yellow";
+one.innerHTML="";}
+else if (two.innerHTML==="Yellow" && dice.innerHTML==="1") {
+three.innerHTML="Yellow";
+two.innerHTML="";}
+else if (two.innerHTML==="Yellow" && dice.innerHTML==="2") {
+four.innerHTML="Yellow";
+two.innerHTML="";}
+else if (two.innerHTML==="Yellow" && dice.innerHTML==="3") {
+five.innerHTML="Yellow";
+two.innerHTML="";}
+else if (two.innerHTML==="Yellow" && dice.innerHTML==="4") {
+six.innerHTML="Yellow";
+two.innerHTML="";}
+else if (two.innerHTML==="Yellow" && dice.innerHTML==="5") {
+seven.innerHTML="Yellow";
+two.innerHTML="";}
+else if (two.innerHTML==="Yellow" && dice.innerHTML==="6") {
+eight.innerHTML="Yellow";
+two.innerHTML="";}
+else if (three.innerHTML==="Yellow" && dice.innerHTML==="1") {
+four.innerHTML="Yellow";
+three.innerHTML="";}
+else if (three.innerHTML==="Yellow" && dice.innerHTML==="2") {
+five.innerHTML="Yellow";
+three.innerHTML="";}
+else if (three.innerHTML==="Yellow" && dice.innerHTML==="3") {
+six.innerHTML="Yellow";
+three.innerHTML="";}
+else if (three.innerHTML==="Yellow" && dice.innerHTML==="4") {
+seven.innerHTML="Yellow";
+three.innerHTML="";}
+else if (three.innerHTML==="Yellow" && dice.innerHTML==="5") {
+eight.innerHTML="Yellow";
+three.innerHTML="";}
+else if (three.innerHTML==="Yellow" && dice.innerHTML==="6") {
+nine.innerHTML="Yellow";
+three.innerHTML="";}
+else if (four.innerHTML==="Yellow" && dice.innerHTML==="1") {
+five.innerHTML="Yellow";
+four.innerHTML="";}
+else if (four.innerHTML==="Yellow" && dice.innerHTML==="2") {
+six.innerHTML="Yellow";
+four.innerHTML="";}
+else if (four.innerHTML==="Yellow" && dice.innerHTML==="3") {
+seven.innerHTML="Yellow";
+four.innerHTML="";}
+else if (four.innerHTML==="Yellow" && dice.innerHTML==="4") {
+eight.innerHTML="Yellow";
+four.innerHTML="";}
+else if (four.innerHTML==="Yellow" && dice.innerHTML==="5") {
+nine.innerHTML="Yellow";
+four.innerHTML="";}
+else if (four.innerHTML==="Yellow" && dice.innerHTML==="6") {
+ten.innerHTML="Yellow";
+four.innerHTML="";}
+else if (five.innerHTML==="Yellow" && dice.innerHTML==="1") {
+six.innerHTML="Yellow";
+five.innerHTML="";}
+else if (five.innerHTML==="Yellow" && dice.innerHTML==="2") {
+seven.innerHTML="Yellow";
+five.innerHTML="";}
+else if (five.innerHTML==="Yellow" && dice.innerHTML==="3") {
+eight.innerHTML="Yellow";
+five.innerHTML="";}
+else if (five.innerHTML==="Yellow" && dice.innerHTML==="4") {
+nine.innerHTML="Yellow";
+five.innerHTML="";}
+else if (five.innerHTML==="Yellow" && dice.innerHTML==="5") {
+ten.innerHTML="Yellow";
+five.innerHTML="";}
+else if (five.innerHTML==="Yellow" && dice.innerHTML==="6") {
+eleven.innerHTML="Yellow";
+five.innerHTML="";}
+else if (six.innerHTML==="Yellow" && dice.innerHTML==="1") {
+seven.innerHTML="Yellow";
+six.innerHTML="";}
+else if (six.innerHTML==="Yellow" && dice.innerHTML==="2") {
+eight.innerHTML="Yellow";
+six.innerHTML="";}
+else if (six.innerHTML==="Yellow" && dice.innerHTML==="3") {
+nine.innerHTML="Yellow";
+six.innerHTML="";}
+else if (six.innerHTML==="Yellow" && dice.innerHTML==="4") {
+ten.innerHTML="Yellow";
+six.innerHTML="";}
+else if (six.innerHTML==="Yellow" && dice.innerHTML==="5") {
+eleven.innerHTML="Yellow";
+six.innerHTML="";}
+else if (six.innerHTML==="Yellow" && dice.innerHTML==="6") {
+twelve.innerHTML="Yellow";
+six.innerHTML="";}
+else if (seven.innerHTML==="Yellow" && dice.innerHTML==="1") {
+eight.innerHTML="Yellow";
+seven.innerHTML="";}
+else if (seven.innerHTML==="Yellow" && dice.innerHTML==="2") {
+nine.innerHTML="Yellow";
+seven.innerHTML="";}
+else if (seven.innerHTML==="Yellow" && dice.innerHTML==="3") {
+ten.innerHTML="Yellow";
+seven.innerHTML="";}
+else if (seven.innerHTML==="Yellow" && dice.innerHTML==="4") {
+eleven.innerHTML="Yellow";
+seven.innerHTML="";}
+else if (seven.innerHTML==="Yellow" && dice.innerHTML==="5") {
+twelve.innerHTML="Yellow";
+seven.innerHTML="";}
+else if (seven.innerHTML==="Yellow" && dice.innerHTML==="6") {
+thirteen.innerHTML="Yellow";
+seven.innerHTML="";}
+else if (eight.innerHTML==="Yellow" && dice.innerHTML==="1") {
+nine.innerHTML="Yellow";
+eight.innerHTML="";}
+else if (eight.innerHTML==="Yellow" && dice.innerHTML==="2") {
+ten.innerHTML="Yellow";
+eight.innerHTML="";}
+else if (eight.innerHTML==="Yellow" && dice.innerHTML==="3") {
+eleven.innerHTML="Yellow";
+eight.innerHTML="";}
+else if (eight.innerHTML==="Yellow" && dice.innerHTML==="4") {
+twelve.innerHTML="Yellow";
+eight.innerHTML="";}
+else if (eight.innerHTML==="Yellow" && dice.innerHTML==="5") {
+thirteen.innerHTML="Yellow";
+eight.innerHTML="";}
+else if (eight.innerHTML==="Yellow" && dice.innerHTML==="6") {
+fourteen.innerHTML="Yellow";
+eight.innerHTML="";}
+else if (nine.innerHTML==="Yellow" && dice.innerHTML==="1") {
+ten.innerHTML="Yellow";
+nine.innerHTML="";}
+else if (nine.innerHTML==="Yellow" && dice.innerHTML==="2") {
+eleven.innerHTML="Yellow";
+nine.innerHTML="";}
+else if (nine.innerHTML==="Yellow" && dice.innerHTML==="3") {
+twelve.innerHTML="Yellow";
+nine.innerHTML="";}
+else if (nine.innerHTML==="Yellow" && dice.innerHTML==="4") {
+thirteen.innerHTML="Yellow";
+nine.innerHTML="";}
+else if (nine.innerHTML==="Yellow" && dice.innerHTML==="5") {
+fourteen.innerHTML="Yellow";
+nine.innerHTML="";}
+else if (nine.innerHTML==="Yellow" && dice.innerHTML==="6") {
+fifteen.innerHTML="Yellow";
+nine.innerHTML="";}
+else if (ten.innerHTML==="Yellow" && dice.innerHTML==="1") {
+eleven.innerHTML="Yellow";
+ten.innerHTML="";}
+else if (ten.innerHTML==="Yellow" && dice.innerHTML==="2") {
+twelve.innerHTML="Yellow";
+ten.innerHTML="";}
+else if (ten.innerHTML==="Yellow" && dice.innerHTML==="3") {
+thirteen.innerHTML="Yellow";
+ten.innerHTML="";}
+else if (ten.innerHTML==="Yellow" && dice.innerHTML==="4") {
+fourteen.innerHTML="Yellow";
+ten.innerHTML="";}
+else if (ten.innerHTML==="Yellow" && dice.innerHTML==="5") {
+fifteen.innerHTML="Yellow";
+ten.innerHTML="";}
+else if (ten.innerHTML==="Yellow" && dice.innerHTML==="6") {
+sixteen.innerHTML="Yellow";
+ten.innerHTML="";}
+else if (eleven.innerHTML==="Yellow" && dice.innerHTML==="1") {
+twelve.innerHTML="Yellow";
+eleven.innerHTML="";}
+else if (eleven.innerHTML==="Yellow" && dice.innerHTML==="2") {
+thirteen.innerHTML="Yellow";
+eleven.innerHTML="";}
+else if (eleven.innerHTML==="Yellow" && dice.innerHTML==="3") {
+fourteen.innerHTML="Yellow";
+eleven.innerHTML="";}
+else if (eleven.innerHTML==="Yellow" && dice.innerHTML==="4") {
+fifteen.innerHTML="Yellow";
+eleven.innerHTML="";}
+else if (eleven.innerHTML==="Yellow" && dice.innerHTML==="5") {
+sixteen.innerHTML="Yellow";
+eleven.innerHTML="";}
+else if (eleven.innerHTML==="Yellow" && dice.innerHTML==="6") {
+seventeen.innerHTML="Yellow";
+eleven.innerHTML="";}
+else if (twelve.innerHTML==="Yellow" && dice.innerHTML==="1") {
+thirteen.innerHTML="Yellow";
+twelve.innerHTML="";}
+else if (twelve.innerHTML==="Yellow" && dice.innerHTML==="2") {
+fourteen.innerHTML="Yellow";
+twelve.innerHTML="";}
+else if (twelve.innerHTML==="Yellow" && dice.innerHTML==="3") {
+fifteen.innerHTML="Yellow";
+twelve.innerHTML="";}
+else if (twelve.innerHTML==="Yellow" && dice.innerHTML==="4") {
+sixteen.innerHTML="Yellow";
+twelve.innerHTML="";}
+else if (twelve.innerHTML==="Yellow" && dice.innerHTML==="5") {
+seventeen.innerHTML="Yellow";
+twelve.innerHTML="";}
+else if (twelve.innerHTML==="Yellow" && dice.innerHTML==="6") {
+eighteen.innerHTML="Yellow";
+twelve.innerHTML="";}
+else if (thirteen.innerHTML==="Yellow" && dice.innerHTML==="1") {
+fourteen.innerHTML="Yellow";
+thirteen.innerHTML="";}
+else if (thirteen.innerHTML==="Yellow" && dice.innerHTML==="2") {
+fifteen.innerHTML="Yellow";
+thirteen.innerHTML="";}
+else if (thirteen.innerHTML==="Yellow" && dice.innerHTML==="3") {
+sixteen.innerHTML="Yellow";
+thirteen.innerHTML="";}
+else if (thirteen.innerHTML==="Yellow" && dice.innerHTML==="4") {
+seventeen.innerHTML="Yellow";
+thirteen.innerHTML="";}
+else if (thirteen.innerHTML==="Yellow" && dice.innerHTML==="5") {
+eighteen.innerHTML="Yellow";
+thirteen.innerHTML="";}
+else if (thirteen.innerHTML==="Yellow" && dice.innerHTML==="6") {
+nineteen.innerHTML="Yellow";
+thirteen.innerHTML="";}
+else if (fourteen.innerHTML==="Yellow" && dice.innerHTML==="1") {
+fifteen.innerHTML="Yellow";
+fourteen.innerHTML="";}
+else if (fourteen.innerHTML==="Yellow" && dice.innerHTML==="2") {
+sixteen.innerHTML="Yellow";
+fourteen.innerHTML="";}
+else if (fourteen.innerHTML==="Yellow" && dice.innerHTML==="3") {
+seventeen.innerHTML="Yellow";
+fourteen.innerHTML="";}
+else if (fourteen.innerHTML==="Yellow" && dice.innerHTML==="4") {
+eighteen.innerHTML="Yellow";
+fourteen.innerHTML="";}
+else if (fourteen.innerHTML==="Yellow" && dice.innerHTML==="5") {
+nineteen.innerHTML="Yellow";
+fourteen.innerHTML="";}
+else if (fourteen.innerHTML==="Yellow" && dice.innerHTML==="6") {
+twenty.innerHTML="Yellow";
+fourteen.innerHTML="";}
+else if (fifteen.innerHTML==="Yellow" && dice.innerHTML==="1") {
+sixteen.innerHTML="Yellow";
+fifteen.innerHTML="";}
+else if (fifteen.innerHTML==="Yellow" && dice.innerHTML==="2") {
+seventeen.innerHTML="Yellow";
+fifteen.innerHTML="";}
+else if (fifteen.innerHTML==="Yellow" && dice.innerHTML==="3") {
+eighteen.innerHTML="Yellow";
+fifteen.innerHTML="";}
+else if (fifteen.innerHTML==="Yellow" && dice.innerHTML==="4") {
+nineteen.innerHTML="Yellow";
+fifteen.innerHTML="";}
+else if (fifteen.innerHTML==="Yellow" && dice.innerHTML==="5") {
+twenty.innerHTML="Yellow";
+fifteen.innerHTML="";}
+else if (fifteen.innerHTML==="Yellow" && dice.innerHTML==="6") {
+twentyone.innerHTML="Yellow";
+fifteen.innerHTML="";}
+else if (sixteen.innerHTML==="Yellow" && dice.innerHTML==="1") {
+seventeen.innerHTML="Yellow";
+sixteen.innerHTML="";}
+else if (sixteen.innerHTML==="Yellow" && dice.innerHTML==="2") {
+eighteen.innerHTML="Yellow";
+sixteen.innerHTML="";}
+else if (sixteen.innerHTML==="Yellow" && dice.innerHTML==="3") {
+nineteen.innerHTML="Yellow";
+sixteen.innerHTML="";}
+else if (sixteen.innerHTML==="Yellow" && dice.innerHTML==="4") {
+twenty.innerHTML="Yellow";
+sixteen.innerHTML="";}
+else if (sixteen.innerHTML==="Yellow" && dice.innerHTML==="5") {
+twentyone.innerHTML="Yellow";
+sixteen.innerHTML="";}
+else if (sixteen.innerHTML==="Yellow" && dice.innerHTML==="6") {
+twentytwo.innerHTML="Yellow";
+sixteen.innerHTML="";}
+else if (seventeen.innerHTML==="Yellow" && dice.innerHTML==="1") {
+eighteen.innerHTML="Yellow";
+seventeen.innerHTML="";}
+else if (seventeen.innerHTML==="Yellow" && dice.innerHTML==="2") {
+nineteen.innerHTML="Yellow";
+seventeen.innerHTML="";}
+else if (seventeen.innerHTML==="Yellow" && dice.innerHTML==="3") {
+twenty.innerHTML="Yellow";
+seventeen.innerHTML="";}
+else if (seventeen.innerHTML==="Yellow" && dice.innerHTML==="4") {
+twentyone.innerHTML="Yellow";
+seventeen.innerHTML="";}
+else if (seventeen.innerHTML==="Yellow" && dice.innerHTML==="5") {
+twentytwo.innerHTML="Yellow";
+seventeen.innerHTML="";}
+else if (seventeen.innerHTML==="Yellow" && dice.innerHTML==="6") {
+twentythree.innerHTML="Yellow";
+seventeen.innerHTML="";}
+else if (eighteen.innerHTML==="Yellow" && dice.innerHTML==="1") {
+nineteen.innerHTML="Yellow";
+eighteen.innerHTML="";}
+else if (eighteen.innerHTML==="Yellow" && dice.innerHTML==="2") {
+twenty.innerHTML="Yellow";
+eighteen.innerHTML="";}
+else if (eighteen.innerHTML==="Yellow" && dice.innerHTML==="3") {
+twentyone.innerHTML="Yellow";
+eighteen.innerHTML="";}
+else if (eighteen.innerHTML==="Yellow" && dice.innerHTML==="4") {
+twentytwo.innerHTML="Yellow";
+eighteen.innerHTML="";}
+else if (eighteen.innerHTML==="Yellow" && dice.innerHTML==="5") {
+twentythree.innerHTML="Yellow";
+eighteen.innerHTML="";}
+else if (eighteen.innerHTML==="Yellow" && dice.innerHTML==="6") {
+twentyfour.innerHTML="Yellow";
+eighteen.innerHTML="";}
+else if (nineteen.innerHTML==="Yellow" && dice.innerHTML==="1") {
+twenty.innerHTML="Yellow";
+nineteen.innerHTML="";}
+else if (nineteen.innerHTML==="Yellow" && dice.innerHTML==="2") {
+twentyone.innerHTML="Yellow";
+nineteen.innerHTML="";}
+else if (nineteen.innerHTML==="Yellow" && dice.innerHTML==="3") {
+twentytwo.innerHTML="Yellow";
+nineteen.innerHTML="";}
+else if (nineteen.innerHTML==="Yellow" && dice.innerHTML==="4") {
+twentythree.innerHTML="Yellow";
+nineteen.innerHTML="";}
+else if (nineteen.innerHTML==="Yellow" && dice.innerHTML==="5") {
+twentyfour.innerHTML="Yellow";
+nineteen.innerHTML="";}
+else if (nineteen.innerHTML==="Yellow" && dice.innerHTML==="6") {
+twentyfive.innerHTML="Yellow";
+nineteen.innerHTML="";}
+else if (twenty.innerHTML==="Yellow" && dice.innerHTML==="1") {
+twentyone.innerHTML="Yellow";
+twenty.innerHTML="";}
+else if (twenty.innerHTML==="Yellow" && dice.innerHTML==="2") {
+twentytwo.innerHTML="Yellow";
+twenty.innerHTML="";}
+else if (twenty.innerHTML==="Yellow" && dice.innerHTML==="3") {
+twentythree.innerHTML="Yellow";
+twenty.innerHTML="";}
+else if (twenty.innerHTML==="Yellow" && dice.innerHTML==="4") {
+twentyfour.innerHTML="Yellow";
+twenty.innerHTML="";}
+else if (twenty.innerHTML==="Yellow" && dice.innerHTML==="5") {
+twentyfive.innerHTML="Yellow";
+twenty.innerHTML="";}
+else if (twenty.innerHTML==="Yellow" && dice.innerHTML==="6") {
+twentysix.innerHTML="Yellow";
+twenty.innerHTML="";}
+else if (twentyone.innerHTML==="Yellow" && dice.innerHTML==="1") {
+twentytwo.innerHTML="Yellow";
+twentyone.innerHTML="";}
+else if (twentyone.innerHTML==="Yellow" && dice.innerHTML==="2") {
+twentythree.innerHTML="Yellow";
+twentyone.innerHTML="";}
+else if (twentyone.innerHTML==="Yellow" && dice.innerHTML==="3") {
+twentyfour.innerHTML="Yellow";
+twentyone.innerHTML="";}
+else if (twentyone.innerHTML==="Yellow" && dice.innerHTML==="4") {
+twentyfive.innerHTML="Yellow";
+twentyone.innerHTML="";}
+else if (twentyone.innerHTML==="Yellow" && dice.innerHTML==="5") {
+twentysix.innerHTML="Yellow";
+twentyone.innerHTML="";}
+else if (twentyone.innerHTML==="Yellow" && dice.innerHTML==="6") {
+twentyseven.innerHTML="Yellow";
+twentyone.innerHTML="";}
+else if (twentytwo.innerHTML==="Yellow" && dice.innerHTML==="1") {
+twentythree.innerHTML="Yellow";
+twentytwo.innerHTML="";}
+else if (twentytwo.innerHTML==="Yellow" && dice.innerHTML==="2") {
+twentyfour.innerHTML="Yellow";
+twentytwo.innerHTML="";}
+else if (twentytwo.innerHTML==="Yellow" && dice.innerHTML==="3") {
+twentyfive.innerHTML="Yellow";
+twentytwo.innerHTML="";}
+else if (twentytwo.innerHTML==="Yellow" && dice.innerHTML==="4") {
+twentysix.innerHTML="Yellow";
+twentytwo.innerHTML="";}
+else if (twentytwo.innerHTML==="Yellow" && dice.innerHTML==="5") {
+twentyseven.innerHTML="Yellow";
+twentytwo.innerHTML="";}
+else if (twentytwo.innerHTML==="Yellow" && dice.innerHTML==="6") {
+twentyeight.innerHTML="Yellow";
+twentytwo.innerHTML="";}
+else if (twentythree.innerHTML==="Yellow" && dice.innerHTML==="1") {
+twentyfour.innerHTML="Yellow";
+twentythree.innerHTML="";}
+else if (twentythree.innerHTML==="Yellow" && dice.innerHTML==="2") {
+twentyfive.innerHTML="Yellow";
+twentythree.innerHTML="";}
+else if (twentythree.innerHTML==="Yellow" && dice.innerHTML==="3") {
+twentysix.innerHTML="Yellow";
+twentythree.innerHTML="";}
+else if (twentythree.innerHTML==="Yellow" && dice.innerHTML==="4") {
+twentyseven.innerHTML="Yellow";
+twentythree.innerHTML="";}
+else if (twentythree.innerHTML==="Yellow" && dice.innerHTML==="5") {
+twentyeight.innerHTML="Yellow";
+twentythree.innerHTML="";}
+else if (twentythree.innerHTML==="Yellow" && dice.innerHTML==="6") {
+twentynine.innerHTML="Yellow";
+twentythree.innerHTML="";}
+else if (twentyfour.innerHTML==="Yellow" && dice.innerHTML==="1") {
+twentyfive.innerHTML="Yellow";
+twentyfour.innerHTML="";}
+else if (twentyfour.innerHTML==="Yellow" && dice.innerHTML==="2") {
+twentysix.innerHTML="Yellow";
+twentyfour.innerHTML="";}
+else if (twentyfour.innerHTML==="Yellow" && dice.innerHTML==="3") {
+twentyseven.innerHTML="Yellow";
+twentyfour.innerHTML="";}
+else if (twentyfour.innerHTML==="Yellow" && dice.innerHTML==="4") {
+twentyeight.innerHTML="Yellow";
+twentyfour.innerHTML="";}
+else if (twentyfour.innerHTML==="Yellow" && dice.innerHTML==="5") {
+twentynine.innerHTML="Yellow";
+twentyfour.innerHTML="";}
+else if (twentyfour.innerHTML==="Yellow" && dice.innerHTML==="6") {
+thirty.innerHTML="Yellow";
+twentyfour.innerHTML="";}
+else if  (twentyfive.innerHTML==="Yellow" && dice.innerHTML==="1") {
+twentysix.innerHTML="Yellow";
+twentyfive.innerHTML="";}
+else if (twentyfive.innerHTML==="Yellow" && dice.innerHTML==="2") {
+twentyseven.innerHTML="Yellow";
+twentyfive.innerHTML="";}
+else if (twentyfive.innerHTML==="Yellow" && dice.innerHTML==="3") {
+twentyeight.innerHTML="Yellow";
+twentyfive.innerHTML="";}
+else if (twentyfive.innerHTML==="Yellow" && dice.innerHTML==="4") {
+twentynine.innerHTML="Yellow";
+twentyfive.innerHTML="";}
+else if (twentyfive.innerHTML==="Yellow" && dice.innerHTML==="5") {
+thirty.innerHTML="Yellow";
+twentyfive.innerHTML="";}
+else if (twentyfive.innerHTML==="Yellow" && dice.innerHTML==="6") {
+thirtyone.innerHTML="Yellow";
+twentyfive.innerHTML="";}
+else if (twentysix.innerHTML==="Yellow" && dice.innerHTML==="1") {
+twentyseven.innerHTML="Yellow";
+twentysix.innerHTML="";}
+else if (twentysix.innerHTML==="Yellow" && dice.innerHTML==="2") {
+twentyeight.innerHTML="Yellow";
+twentysix.innerHTML="";}
+else if (twentysix.innerHTML==="Yellow" && dice.innerHTML==="3") {
+twentynine.innerHTML="Yellow";
+twentysix.innerHTML="";}
+else if (twentysix.innerHTML==="Yellow" && dice.innerHTML==="4") {
+thirty.innerHTML="Yellow";
+twentysix.innerHTML="";}
+else if (twentysix.innerHTML==="Yellow" && dice.innerHTML==="5") {
+thirtyone.innerHTML="Yellow";
+twentysix.innerHTML="";}
+else if (twentysix.innerHTML==="Yellow" && dice.innerHTML==="6") {
+thirtytwo.innerHTML="Yellow";
+twentysix.innerHTML="";}
+else if (twentyseven.innerHTML==="Yellow" && dice.innerHTML==="1") {
+twentyeight.innerHTML="Yellow";
+twentyseven.innerHTML="";}
+else if (twentyseven.innerHTML==="Yellow" && dice.innerHTML==="2") {
+twentynine.innerHTML="Yellow";
+twentyseven.innerHTML="";}
+else if (twentyseven.innerHTML==="Yellow" && dice.innerHTML==="3") {
+thirty.innerHTML="Yellow";
+twentyseven.innerHTML="";}
+else if (twentyseven.innerHTML==="Yellow" && dice.innerHTML==="4") {
+thirtyone.innerHTML="Yellow";
+twentyseven.innerHTML="";}
+else if (twentyseven.innerHTML==="Yellow" && dice.innerHTML==="5") {
+thirtytwo.innerHTML="Yellow";
+twentyseven.innerHTML="";}
+else if (twentyseven.innerHTML==="Yellow" && dice.innerHTML==="6") {
+one.innerHTML="Yellow";
+twentyseven.innerHTML="";}
+else if (twentyeight.innerHTML==="Yellow" && dice.innerHTML==="1") {
+twentynine.innerHTML="Yellow";
+twentyeight.innerHTML="";}
+else if (twentyeight.innerHTML==="Yellow" && dice.innerHTML==="2") {
+thirty.innerHTML="Yellow";
+twentyeight.innerHTML="";}
+else if (twentyeight.innerHTML==="Yellow" && dice.innerHTML==="3") {
+thirtyone.innerHTML="Yellow";
+twentyeight.innerHTML="";}
+else if (twentyeight.innerHTML==="Yellow" && dice.innerHTML==="4") {
+thirtytwo.innerHTML="Yellow";
+twentyeight.innerHTML="";}
+else if (twentyeight.innerHTML==="Yellow" && dice.innerHTML==="5") {
+one.innerHTML="Yellow";
+twentyeight.innerHTML="";}
+else if (twentyeight.innerHTML==="Yellow" && dice.innerHTML==="6") {
+two.innerHTML="Yellow";
+twentyeight.innerHTML="";}
+else if (twentynine.innerHTML==="Yellow" && dice.innerHTML==="1") {
+thirty.innerHTML="Yellow";
+twentynine.innerHTML="";}
+else if (twentynine.innerHTML==="Yellow" && dice.innerHTML==="2") {
+thirtyone.innerHTML="Yellow";
+twentynine.innerHTML="";}
+else if (twentynine.innerHTML==="Yellow" && dice.innerHTML==="3") {
+thirtytwo.innerHTML="Yellow";
+twentynine.innerHTML="";}
+else if (twentynine.innerHTML==="Yellow" && dice.innerHTML==="4") {
+one.innerHTML="Yellow";
+twentynine.innerHTML="";}
+else if (twentynine.innerHTML==="Yellow" && dice.innerHTML==="5") {
+two.innerHTML="Yellow";
+twentynine.innerHTML="";}
+else if (twentynine.innerHTML==="Yellow" && dice.innerHTML==="6") {
+three.innerHTML="Yellow";
+twentynine.innerHTML="";}
+else if (thirty.innerHTML==="Yellow" && dice.innerHTML==="1") {
+thirtyone.innerHTML="Yellow";
+thirty.innerHTML="";}
+else if (thirty.innerHTML==="Yellow" && dice.innerHTML==="2") {
+thirtytwo.innerHTML="Yellow";
+thirty.innerHTML="";}
+else if (thirty.innerHTML==="Yellow" && dice.innerHTML==="3") {
+one.innerHTML="Yellow";
+thirty.innerHTML="";}
+else if (thirty.innerHTML==="Yellow" && dice.innerHTML==="4") {
+two.innerHTML="Yellow";
+thirty.innerHTML="";}
+else if (thirty.innerHTML==="Yellow" && dice.innerHTML==="5") {
+three.innerHTML="Yellow";
+thirty.innerHTML="";}
+else if (thirty.innerHTML==="Yellow" && dice.innerHTML==="6") {
+four.innerHTML="Yellow";
+thirty.innerHTML="";}
+else if (thirtyone.innerHTML==="Yellow" && dice.innerHTML==="1") {
+thirtytwo.innerHTML="Yellow";
+thirtyone.innerHTML="";}
+else if (thirtyone.innerHTML==="Yellow" && dice.innerHTML==="2") {
+one.innerHTML="Yellow";
+thirtyone.innerHTML="";}
+else if (thirtyone.innerHTML==="Yellow" && dice.innerHTML==="3") {
+two.innerHTML="Yellow";
+thirtyone.innerHTML="";}
+else if (thirtyone.innerHTML==="Yellow" && dice.innerHTML==="4") {
+three.innerHTML="Yellow";
+thirtyone.innerHTML="";}
+else if (thirtyone.innerHTML==="Yellow" && dice.innerHTML==="5") {
+four.innerHTML="Yellow";
+thirtyone.innerHTML="";}
+else if (thirtyone.innerHTML==="Yellow" && dice.innerHTML==="6") {
+five.innerHTML="Yellow";
+thirtyone.innerHTML="";}
+else if (thirtytwo.innerHTML==="Yellow" && dice.innerHTML==="1") { 
+one.innerHTML="Yellow";
+thirtytwo.innerHTML="";}
+else if (thirtytwo.innerHTML==="Yellow" && dice.innerHTML==="2") { 
+two.innerHTML="Yellow";
+thirtytwo.innerHTML="";}
+else if (thirtytwo.innerHTML==="Yellow" && dice.innerHTML==="3") { 
+three.innerHTML="Yellow";
+thirtytwo.innerHTML="";}
+else if (thirtytwo.innerHTML==="Yellow" && dice.innerHTML==="4") { 
+four.innerHTML="Yellow";
+thirtytwo.innerHTML="";}
+else if (thirtytwo.innerHTML==="Yellow" && dice.innerHTML==="5") { 
+five.innerHTML="Yellow";
+thirtytwo.innerHTML="";}
+else if (thirtytwo.innerHTML==="Yellow" && dice.innerHTML==="6") { 
+six.innerHTML="Yellow";
+thirtytwo.innerHTML="";}
+else if (one.innerHTML==="Pink" && dice.innerHTML==="1") {
+two.innerHTML="Pink";
+one.innerHTML="";}
+else if (one.innerHTML==="Pink" && dice.innerHTML==="2") {
+three.innerHTML="Pink";
+one.innerHTML="";}
+else if (one.innerHTML==="Pink" && dice.innerHTML==="3") {
+four.innerHTML="Pink";
+one.innerHTML="";}
+else if (one.innerHTML==="Pink" && dice.innerHTML==="4") {
+five.innerHTML="Pink";
+one.innerHTML="";}
+else if (one.innerHTML==="Pink" && dice.innerHTML==="5") {
+six.innerHTML="Pink";
+one.innerHTML="";}
+else if (one.innerHTML==="Pink" && dice.innerHTML==="6") {
+seven.innerHTML="Pink";
+one.innerHTML="";}
+else if (two.innerHTML==="Pink" && dice.innerHTML==="1") {
+three.innerHTML="Pink";
+two.innerHTML="";}
+else if (two.innerHTML==="Pink" && dice.innerHTML==="2") {
+four.innerHTML="Pink";
+two.innerHTML="";}
+else if (two.innerHTML==="Pink" && dice.innerHTML==="3") {
+five.innerHTML="Pink";
+two.innerHTML="";}
+else if (two.innerHTML==="Pink" && dice.innerHTML==="4") {
+six.innerHTML="Pink";
+two.innerHTML="";}
+else if (two.innerHTML==="Pink" && dice.innerHTML==="5") {
+seven.innerHTML="Pink";
+two.innerHTML="";}
+else if (two.innerHTML==="Pink" && dice.innerHTML==="6") {
+eight.innerHTML="Pink";
+two.innerHTML="";}
+else if (three.innerHTML==="Pink" && dice.innerHTML==="1") {
+four.innerHTML="Pink";
+three.innerHTML="";}
+else if (three.innerHTML==="Pink" && dice.innerHTML==="2") {
+five.innerHTML="Pink";
+three.innerHTML="";}
+else if (three.innerHTML==="Pink" && dice.innerHTML==="3") {
+six.innerHTML="Pink";
+three.innerHTML="";}
+else if (three.innerHTML==="Pink" && dice.innerHTML==="4") {
+seven.innerHTML="Pink";
+three.innerHTML="";}
+else if (three.innerHTML==="Pink" && dice.innerHTML==="5") {
+eight.innerHTML="Pink";
+three.innerHTML="";}
+else if (three.innerHTML==="Pink" && dice.innerHTML==="6") {
+nine.innerHTML="Pink";
+three.innerHTML="";}
+else if (four.innerHTML==="Pink" && dice.innerHTML==="1") {
+five.innerHTML="Pink";
+four.innerHTML="";}
+else if (four.innerHTML==="Pink" && dice.innerHTML==="2") {
+six.innerHTML="Pink";
+four.innerHTML="";}
+else if (four.innerHTML==="Pink" && dice.innerHTML==="3") {
+seven.innerHTML="Pink";
+four.innerHTML="";}
+else if (four.innerHTML==="Pink" && dice.innerHTML==="4") {
+eight.innerHTML="Pink";
+four.innerHTML="";}
+else if (four.innerHTML==="Pink" && dice.innerHTML==="5") {
+nine.innerHTML="Pink";
+four.innerHTML="";}
+else if (four.innerHTML==="Pink" && dice.innerHTML==="6") {
+ten.innerHTML="Pink";
+four.innerHTML="";}
+else if (five.innerHTML==="Pink" && dice.innerHTML==="1") {
+six.innerHTML="Pink";
+five.innerHTML="";}
+else if (five.innerHTML==="Pink" && dice.innerHTML==="2") {
+seven.innerHTML="Pink";
+five.innerHTML="";}
+else if (five.innerHTML==="Pink" && dice.innerHTML==="3") {
+eight.innerHTML="Pink";
+five.innerHTML="";}
+else if (five.innerHTML==="Pink" && dice.innerHTML==="4") {
+nine.innerHTML="Pink";
+five.innerHTML="";}
+else if (five.innerHTML==="Pink" && dice.innerHTML==="5") {
+ten.innerHTML="Pink";
+five.innerHTML="";}
+else if (five.innerHTML==="Pink" && dice.innerHTML==="6") {
+eleven.innerHTML="Pink";
+five.innerHTML="";}
+else if (six.innerHTML==="Pink" && dice.innerHTML==="1") {
+seven.innerHTML="Pink";
+six.innerHTML="";}
+else if (six.innerHTML==="Pink" && dice.innerHTML==="2") {
+eight.innerHTML="Pink";
+six.innerHTML="";}
+else if (six.innerHTML==="Pink" && dice.innerHTML==="3") {
+nine.innerHTML="Pink";
+six.innerHTML="";}
+else if (six.innerHTML==="Pink" && dice.innerHTML==="4") {
+ten.innerHTML="Pink";
+six.innerHTML="";}
+else if (six.innerHTML==="Pink" && dice.innerHTML==="5") {
+eleven.innerHTML="Pink";
+six.innerHTML="";}
+else if (six.innerHTML==="Pink" && dice.innerHTML==="6") {
+twelve.innerHTML="Pink";
+six.innerHTML="";}
+else if (seven.innerHTML==="Pink" && dice.innerHTML==="1") {
+eight.innerHTML="Pink";
+seven.innerHTML="";}
+else if (seven.innerHTML==="Pink" && dice.innerHTML==="2") {
+nine.innerHTML="Pink";
+seven.innerHTML="";}
+else if (seven.innerHTML==="Pink" && dice.innerHTML==="3") {
+ten.innerHTML="Pink";
+seven.innerHTML="";}
+else if (seven.innerHTML==="Pink" && dice.innerHTML==="4") {
+eleven.innerHTML="Pink";
+seven.innerHTML="";}
+else if (seven.innerHTML==="Pink" && dice.innerHTML==="5") {
+twelve.innerHTML="Pink";
+seven.innerHTML="";}
+else if (seven.innerHTML==="Pink" && dice.innerHTML==="6") {
+thirteen.innerHTML="Pink";
+seven.innerHTML="";}
+else if (eight.innerHTML==="Pink" && dice.innerHTML==="1") {
+nine.innerHTML="Pink";
+eight.innerHTML="";}
+else if (eight.innerHTML==="Pink" && dice.innerHTML==="2") {
+ten.innerHTML="Pink";
+eight.innerHTML="";}
+else if (eight.innerHTML==="Pink" && dice.innerHTML==="3") {
+eleven.innerHTML="Pink";
+eight.innerHTML="";}
+else if (eight.innerHTML==="Pink" && dice.innerHTML==="4") {
+twelve.innerHTML="Pink";
+eight.innerHTML="";}
+else if (eight.innerHTML==="Pink" && dice.innerHTML==="5") {
+thirteen.innerHTML="Pink";
+eight.innerHTML="";}
+else if (eight.innerHTML==="Pink" && dice.innerHTML==="6") {
+fourteen.innerHTML="Pink";
+eight.innerHTML="";}
+else if (nine.innerHTML==="Pink" && dice.innerHTML==="1") {
+ten.innerHTML="Pink";
+nine.innerHTML="";}
+else if (nine.innerHTML==="Pink" && dice.innerHTML==="2") {
+eleven.innerHTML="Pink";
+nine.innerHTML="";}
+else if (nine.innerHTML==="Pink" && dice.innerHTML==="3") {
+twelve.innerHTML="Pink";
+nine.innerHTML="";}
+else if (nine.innerHTML==="Pink" && dice.innerHTML==="4") {
+thirteen.innerHTML="Pink";
+nine.innerHTML="";}
+else if (nine.innerHTML==="Pink" && dice.innerHTML==="5") {
+fourteen.innerHTML="Pink";
+nine.innerHTML="";}
+else if (nine.innerHTML==="Pink" && dice.innerHTML==="6") {
+fifteen.innerHTML="Pink";
+nine.innerHTML="";}
+else if (ten.innerHTML==="Pink" && dice.innerHTML==="1") {
+eleven.innerHTML="Pink";
+ten.innerHTML="";}
+else if (ten.innerHTML==="Pink" && dice.innerHTML==="2") {
+twelve.innerHTML="Pink";
+ten.innerHTML="";}
+else if (ten.innerHTML==="Pink" && dice.innerHTML==="3") {
+thirteen.innerHTML="Pink";
+ten.innerHTML="";}
+else if (ten.innerHTML==="Pink" && dice.innerHTML==="4") {
+fourteen.innerHTML="Pink";
+ten.innerHTML="";}
+else if (ten.innerHTML==="Pink" && dice.innerHTML==="5") {
+fifteen.innerHTML="Pink";
+ten.innerHTML="";}
+else if (ten.innerHTML==="Pink" && dice.innerHTML==="6") {
+sixteen.innerHTML="Pink";
+ten.innerHTML="";}
+else if (eleven.innerHTML==="Pink" && dice.innerHTML==="1") {
+twelve.innerHTML="Pink";
+eleven.innerHTML="";}
+else if (eleven.innerHTML==="Pink" && dice.innerHTML==="2") {
+thirteen.innerHTML="Pink";
+eleven.innerHTML="";}
+else if (eleven.innerHTML==="Pink" && dice.innerHTML==="3") {
+fourteen.innerHTML="Pink";
+eleven.innerHTML="";}
+else if (eleven.innerHTML==="Pink" && dice.innerHTML==="4") {
+fifteen.innerHTML="Pink";
+eleven.innerHTML="";}
+else if (eleven.innerHTML==="Pink" && dice.innerHTML==="5") {
+sixteen.innerHTML="Pink";
+eleven.innerHTML="";}
+else if (eleven.innerHTML==="Pink" && dice.innerHTML==="6") {
+seventeen.innerHTML="Pink";
+eleven.innerHTML="";}
+else if (twelve.innerHTML==="Pink" && dice.innerHTML==="1") {
+thirteen.innerHTML="Pink";
+twelve.innerHTML="";}
+else if (twelve.innerHTML==="Pink" && dice.innerHTML==="2") {
+fourteen.innerHTML="Pink";
+twelve.innerHTML="";}
+else if (twelve.innerHTML==="Pink" && dice.innerHTML==="3") {
+fifteen.innerHTML="Pink";
+twelve.innerHTML="";}
+else if (twelve.innerHTML==="Pink" && dice.innerHTML==="4") {
+sixteen.innerHTML="Pink";
+twelve.innerHTML="";}
+else if (twelve.innerHTML==="Pink" && dice.innerHTML==="5") {
+seventeen.innerHTML="Pink";
+twelve.innerHTML="";}
+else if (twelve.innerHTML==="Pink" && dice.innerHTML==="6") {
+eighteen.innerHTML="Pink";
+twelve.innerHTML="";}
+else if (thirteen.innerHTML==="Pink" && dice.innerHTML==="1") {
+fourteen.innerHTML="Pink";
+thirteen.innerHTML="";}
+else if (thirteen.innerHTML==="Pink" && dice.innerHTML==="2") {
+fifteen.innerHTML="Pink";
+thirteen.innerHTML="";}
+else if (thirteen.innerHTML==="Pink" && dice.innerHTML==="3") {
+sixteen.innerHTML="Pink";
+thirteen.innerHTML="";}
+else if (thirteen.innerHTML==="Pink" && dice.innerHTML==="4") {
+seventeen.innerHTML="Pink";
+thirteen.innerHTML="";}
+else if (thirteen.innerHTML==="Pink" && dice.innerHTML==="5") {
+eighteen.innerHTML="Pink";
+thirteen.innerHTML="";}
+else if (thirteen.innerHTML==="Pink" && dice.innerHTML==="6") {
+nineteen.innerHTML="Pink";
+thirteen.innerHTML="";}
+else if (fourteen.innerHTML==="Pink" && dice.innerHTML==="1") {
+fifteen.innerHTML="Pink";
+fourteen.innerHTML="";}
+else if (fourteen.innerHTML==="Pink" && dice.innerHTML==="2") {
+sixteen.innerHTML="Pink";
+fourteen.innerHTML="";}
+else if (fourteen.innerHTML==="Pink" && dice.innerHTML==="3") {
+seventeen.innerHTML="Pink";
+fourteen.innerHTML="";}
+else if (fourteen.innerHTML==="Pink" && dice.innerHTML==="4") {
+eighteen.innerHTML="Pink";
+fourteen.innerHTML="";}
+else if (fourteen.innerHTML==="Pink" && dice.innerHTML==="5") {
+nineteen.innerHTML="Pink";
+fourteen.innerHTML="";}
+else if (fourteen.innerHTML==="Pink" && dice.innerHTML==="6") {
+twenty.innerHTML="Pink";
+fourteen.innerHTML="";}
+else if (fifteen.innerHTML==="Pink" && dice.innerHTML==="1") {
+sixteen.innerHTML="Pink";
+fifteen.innerHTML="";}
+else if (fifteen.innerHTML==="Pink" && dice.innerHTML==="2") {
+seventeen.innerHTML="Pink";
+fifteen.innerHTML="";}
+else if (fifteen.innerHTML==="Pink" && dice.innerHTML==="3") {
+eighteen.innerHTML="Pink";
+fifteen.innerHTML="";}
+else if (fifteen.innerHTML==="Pink" && dice.innerHTML==="4") {
+nineteen.innerHTML="Pink";
+fifteen.innerHTML="";}
+else if (fifteen.innerHTML==="Pink" && dice.innerHTML==="5") {
+twenty.innerHTML="Pink";
+fifteen.innerHTML="";}
+else if (fifteen.innerHTML==="Pink" && dice.innerHTML==="6") {
+twentyone.innerHTML="Pink";
+fifteen.innerHTML="";}
+else if (sixteen.innerHTML==="Pink" && dice.innerHTML==="1") {
+seventeen.innerHTML="Pink";
+sixteen.innerHTML="";}
+else if (sixteen.innerHTML==="Pink" && dice.innerHTML==="2") {
+eighteen.innerHTML="Pink";
+sixteen.innerHTML="";}
+else if (sixteen.innerHTML==="Pink" && dice.innerHTML==="3") {
+nineteen.innerHTML="Pink";
+sixteen.innerHTML="";}
+else if (sixteen.innerHTML==="Pink" && dice.innerHTML==="4") {
+twenty.innerHTML="Pink";
+sixteen.innerHTML="";}
+else if (sixteen.innerHTML==="Pink" && dice.innerHTML==="5") {
+twentyone.innerHTML="Pink";
+sixteen.innerHTML="";}
+else if (sixteen.innerHTML==="Pink" && dice.innerHTML==="6") {
+twentytwo.innerHTML="Pink";
+sixteen.innerHTML="";}
+else if (seventeen.innerHTML==="Pink" && dice.innerHTML==="1") {
+eighteen.innerHTML="Pink";
+seventeen.innerHTML="";}
+else if (seventeen.innerHTML==="Pink" && dice.innerHTML==="2") {
+nineteen.innerHTML="Pink";
+seventeen.innerHTML="";}
+else if (seventeen.innerHTML==="Pink" && dice.innerHTML==="3") {
+twenty.innerHTML="Pink";
+seventeen.innerHTML="";}
+else if (seventeen.innerHTML==="Pink" && dice.innerHTML==="4") {
+twentyone.innerHTML="Pink";
+seventeen.innerHTML="";}
+else if (seventeen.innerHTML==="Pink" && dice.innerHTML==="5") {
+twentytwo.innerHTML="Pink";
+seventeen.innerHTML="";}
+else if (seventeen.innerHTML==="Pink" && dice.innerHTML==="6") {
+twentythree.innerHTML="Pink";
+seventeen.innerHTML="";}
+else if (eighteen.innerHTML==="Pink" && dice.innerHTML==="1") {
+nineteen.innerHTML="Pink";
+eighteen.innerHTML="";}
+else if (eighteen.innerHTML==="Pink" && dice.innerHTML==="2") {
+twenty.innerHTML="Pink";
+eighteen.innerHTML="";}
+else if (eighteen.innerHTML==="Pink" && dice.innerHTML==="3") {
+twentyone.innerHTML="Pink";
+eighteen.innerHTML="";}
+else if (eighteen.innerHTML==="Pink" && dice.innerHTML==="4") {
+twentytwo.innerHTML="Pink";
+eighteen.innerHTML="";}
+else if (eighteen.innerHTML==="Pink" && dice.innerHTML==="5") {
+twentythree.innerHTML="Pink";
+eighteen.innerHTML="";}
+else if (eighteen.innerHTML==="Pink" && dice.innerHTML==="6") {
+twentyfour.innerHTML="Pink";
+eighteen.innerHTML="";}
+else if (nineteen.innerHTML==="Pink" && dice.innerHTML==="1") {
+twenty.innerHTML="Pink";
+nineteen.innerHTML="";}
+else if (nineteen.innerHTML==="Pink" && dice.innerHTML==="2") {
+twentyone.innerHTML="Pink";
+nineteen.innerHTML="";}
+else if (nineteen.innerHTML==="Pink" && dice.innerHTML==="3") {
+twentytwo.innerHTML="Pink";
+nineteen.innerHTML="";}
+else if (nineteen.innerHTML==="Pink" && dice.innerHTML==="4") {
+twentythree.innerHTML="Pink";
+nineteen.innerHTML="";}
+else if (nineteen.innerHTML==="Pink" && dice.innerHTML==="5") {
+twentyfour.innerHTML="Pink";
+nineteen.innerHTML="";}
+else if (nineteen.innerHTML==="Pink" && dice.innerHTML==="6") {
+twentyfive.innerHTML="Pink";
+nineteen.innerHTML="";}
+else if (twenty.innerHTML==="Pink" && dice.innerHTML==="1") {
+twentyone.innerHTML="Pink";
+twenty.innerHTML="";}
+else if (twenty.innerHTML==="Pink" && dice.innerHTML==="2") {
+twentytwo.innerHTML="Pink";
+twenty.innerHTML="";}
+else if (twenty.innerHTML==="Pink" && dice.innerHTML==="3") {
+twentythree.innerHTML="Pink";
+twenty.innerHTML="";}
+else if (twenty.innerHTML==="Pink" && dice.innerHTML==="4") {
+twentyfour.innerHTML="Pink";
+twenty.innerHTML="";}
+else if (twenty.innerHTML==="Pink" && dice.innerHTML==="5") {
+twentyfive.innerHTML="Pink";
+twenty.innerHTML="";}
+else if (twenty.innerHTML==="Pink" && dice.innerHTML==="6") {
+twentysix.innerHTML="Pink";
+twenty.innerHTML="";}
+else if (twentyone.innerHTML==="Pink" && dice.innerHTML==="1") {
+twentytwo.innerHTML="Pink";
+twentyone.innerHTML="";}
+else if (twentyone.innerHTML==="Pink" && dice.innerHTML==="2") {
+twentythree.innerHTML="Pink";
+twentyone.innerHTML="";}
+else if (twentyone.innerHTML==="Pink" && dice.innerHTML==="3") {
+twentyfour.innerHTML="Pink";
+twentyone.innerHTML="";}
+else if (twentyone.innerHTML==="Pink" && dice.innerHTML==="4") {
+twentyfive.innerHTML="Pink";
+twentyone.innerHTML="";}
+else if (twentyone.innerHTML==="Pink" && dice.innerHTML==="5") {
+twentysix.innerHTML="Pink";
+twentyone.innerHTML="";}
+else if (twentyone.innerHTML==="Pink" && dice.innerHTML==="6") {
+twentyseven.innerHTML="Pink";
+twentyone.innerHTML="";}
+else if (twentytwo.innerHTML==="Pink" && dice.innerHTML==="1") {
+twentythree.innerHTML="Pink";
+twentytwo.innerHTML="";}
+else if (twentytwo.innerHTML==="Pink" && dice.innerHTML==="2") {
+twentyfour.innerHTML="Pink";
+twentytwo.innerHTML="";}
+else if (twentytwo.innerHTML==="Pink" && dice.innerHTML==="3") {
+twentyfive.innerHTML="Pink";
+twentytwo.innerHTML="";}
+else if (twentytwo.innerHTML==="Pink" && dice.innerHTML==="4") {
+twentysix.innerHTML="Pink";
+twentytwo.innerHTML="";}
+else if (twentytwo.innerHTML==="Pink" && dice.innerHTML==="5") {
+twentyseven.innerHTML="Pink";
+twentytwo.innerHTML="";}
+else if (twentytwo.innerHTML==="Pink" && dice.innerHTML==="6") {
+twentyeight.innerHTML="Pink";
+twentytwo.innerHTML="";}
+else if (twentythree.innerHTML==="Pink" && dice.innerHTML==="1") {
+twentyfour.innerHTML="Pink";
+twentythree.innerHTML="";}
+else if (twentythree.innerHTML==="Pink" && dice.innerHTML==="2") {
+twentyfive.innerHTML="Pink";
+twentythree.innerHTML="";}
+else if (twentythree.innerHTML==="Pink" && dice.innerHTML==="3") {
+twentysix.innerHTML="Pink";
+twentythree.innerHTML="";}
+else if (twentythree.innerHTML==="Pink" && dice.innerHTML==="4") {
+twentyseven.innerHTML="Pink";
+twentythree.innerHTML="";}
+else if (twentythree.innerHTML==="Pink" && dice.innerHTML==="5") {
+twentyeight.innerHTML="Pink";
+twentythree.innerHTML="";}
+else if (twentythree.innerHTML==="Pink" && dice.innerHTML==="6") {
+twentynine.innerHTML="Pink";
+twentythree.innerHTML="";}
+else if (twentyfour.innerHTML==="Pink" && dice.innerHTML==="1") {
+twentyfive.innerHTML="Pink";
+twentyfour.innerHTML="";}
+else if (twentyfour.innerHTML==="Pink" && dice.innerHTML==="2") {
+twentysix.innerHTML="Pink";
+twentyfour.innerHTML="";}
+else if (twentyfour.innerHTML==="Pink" && dice.innerHTML==="3") {
+twentyseven.innerHTML="Pink";
+twentyfour.innerHTML="";}
+else if (twentyfour.innerHTML==="Pink" && dice.innerHTML==="4") {
+twentyeight.innerHTML="Pink";
+twentyfour.innerHTML="";}
+else if (twentyfour.innerHTML==="Pink" && dice.innerHTML==="5") {
+twentynine.innerHTML="Pink";
+twentyfour.innerHTML="";}
+else if (twentyfour.innerHTML==="Pink" && dice.innerHTML==="6") {
+thirty.innerHTML="Pink";
+twentyfour.innerHTML="";}
+else if  (twentyfive.innerHTML==="Pink" && dice.innerHTML==="1") {
+twentysix.innerHTML="Pink";
+twentyfive.innerHTML="";}
+else if (twentyfive.innerHTML==="Pink" && dice.innerHTML==="2") {
+twentyseven.innerHTML="Pink";
+twentyfive.innerHTML="";}
+else if (twentyfive.innerHTML==="Pink" && dice.innerHTML==="3") {
+twentyeight.innerHTML="Pink";
+twentyfive.innerHTML="";}
+else if (twentyfive.innerHTML==="Pink" && dice.innerHTML==="4") {
+twentynine.innerHTML="Pink";
+twentyfive.innerHTML="";}
+else if (twentyfive.innerHTML==="Pink" && dice.innerHTML==="5") {
+thirty.innerHTML="Pink";
+twentyfive.innerHTML="";}
+else if (twentyfive.innerHTML==="Pink" && dice.innerHTML==="6") {
+thirtyone.innerHTML="Pink";
+twentyfive.innerHTML="";}
+else if (twentysix.innerHTML==="Pink" && dice.innerHTML==="1") {
+twentyseven.innerHTML="Pink";
+twentysix.innerHTML="";}
+else if (twentysix.innerHTML==="Pink" && dice.innerHTML==="2") {
+twentyeight.innerHTML="Pink";
+twentysix.innerHTML="";}
+else if (twentysix.innerHTML==="Pink" && dice.innerHTML==="3") {
+twentynine.innerHTML="Pink";
+twentysix.innerHTML="";}
+else if (twentysix.innerHTML==="Pink" && dice.innerHTML==="4") {
+thirty.innerHTML="Pink";
+twentysix.innerHTML="";}
+else if (twentysix.innerHTML==="Pink" && dice.innerHTML==="5") {
+thirtyone.innerHTML="Pink";
+twentysix.innerHTML="";}
+else if (twentysix.innerHTML==="Pink" && dice.innerHTML==="6") {
+thirtytwo.innerHTML="Pink";
+twentysix.innerHTML="";}
+else if (twentyseven.innerHTML==="Pink" && dice.innerHTML==="1") {
+twentyeight.innerHTML="Pink";
+twentyseven.innerHTML="";}
+else if (twentyseven.innerHTML==="Pink" && dice.innerHTML==="2") {
+twentynine.innerHTML="Pink";
+twentyseven.innerHTML="";}
+else if (twentyseven.innerHTML==="Pink" && dice.innerHTML==="3") {
+thirty.innerHTML="Pink";
+twentyseven.innerHTML="";}
+else if (twentyseven.innerHTML==="Pink" && dice.innerHTML==="4") {
+thirtyone.innerHTML="Pink";
+twentyseven.innerHTML="";}
+else if (twentyseven.innerHTML==="Pink" && dice.innerHTML==="5") {
+thirtytwo.innerHTML="Pink";
+twentyseven.innerHTML="";}
+else if (twentyseven.innerHTML==="Pink" && dice.innerHTML==="6") {
+one.innerHTML="Pink";
+twentyseven.innerHTML="";}
+else if (twentyeight.innerHTML==="Pink" && dice.innerHTML==="1") {
+twentynine.innerHTML="Pink";
+twentyeight.innerHTML="";}
+else if (twentyeight.innerHTML==="Pink" && dice.innerHTML==="2") {
+thirty.innerHTML="Pink";
+twentyeight.innerHTML="";}
+else if (twentyeight.innerHTML==="Pink" && dice.innerHTML==="3") {
+thirtyone.innerHTML="Pink";
+twentyeight.innerHTML="";}
+else if (twentyeight.innerHTML==="Pink" && dice.innerHTML==="4") {
+thirtytwo.innerHTML="Pink";
+twentyeight.innerHTML="";}
+else if (twentyeight.innerHTML==="Pink" && dice.innerHTML==="5") {
+one.innerHTML="Pink";
+twentyeight.innerHTML="";}
+else if (twentyeight.innerHTML==="Pink" && dice.innerHTML==="6") {
+two.innerHTML="Pink";
+twentyeight.innerHTML="";}
+else if (twentynine.innerHTML==="Pink" && dice.innerHTML==="1") {
+thirty.innerHTML="Pink";
+twentynine.innerHTML="";}
+else if (twentynine.innerHTML==="Pink" && dice.innerHTML==="2") {
+thirtyone.innerHTML="Pink";
+twentynine.innerHTML="";}
+else if (twentynine.innerHTML==="Pink" && dice.innerHTML==="3") {
+thirtytwo.innerHTML="Pink";
+twentynine.innerHTML="";}
+else if (twentynine.innerHTML==="Pink" && dice.innerHTML==="4") {
+one.innerHTML="Pink";
+twentynine.innerHTML="";}
+else if (twentynine.innerHTML==="Pink" && dice.innerHTML==="5") {
+two.innerHTML="Pink";
+twentynine.innerHTML="";}
+else if (twentynine.innerHTML==="Pink" && dice.innerHTML==="6") {
+three.innerHTML="Pink";
+twentynine.innerHTML="";}
+else if (thirty.innerHTML==="Pink" && dice.innerHTML==="1") {
+thirtyone.innerHTML="Pink";
+thirty.innerHTML="";}
+else if (thirty.innerHTML==="Pink" && dice.innerHTML==="2") {
+thirtytwo.innerHTML="Pink";
+thirty.innerHTML="";}
+else if (thirty.innerHTML==="Pink" && dice.innerHTML==="3") {
+one.innerHTML="Pink";
+thirty.innerHTML="";}
+else if (thirty.innerHTML==="Pink" && dice.innerHTML==="4") {
+two.innerHTML="Pink";
+thirty.innerHTML="";}
+else if (thirty.innerHTML==="Pink" && dice.innerHTML==="5") {
+three.innerHTML="Pink";
+thirty.innerHTML="";}
+else if (thirty.innerHTML==="Pink" && dice.innerHTML==="6") {
+four.innerHTML="Pink";
+thirty.innerHTML="";
+else if (thirtyone.innerHTML==="Pink" && dice.innerHTML==="1") {
+thirtytwo.innerHTML="Pink";
+thirtyone.innerHTML="";}
+else if (thirtyone.innerHTML==="Pink" && dice.innerHTML==="2") {
+one.innerHTML="Pink";
+thirtyone.innerHTML="";}
+else if (thirtyone.innerHTML==="Pink" && dice.innerHTML==="3") {
+two.innerHTML="Pink";
+thirtyone.innerHTML="";}
+else if (thirtyone.innerHTML==="Pink" && dice.innerHTML==="4") {
+three.innerHTML="Pink";
+thirtyone.innerHTML="";}
+else if (thirtyone.innerHTML==="Pink" && dice.innerHTML==="5") {
+four.innerHTML="Pink";
+thirtyone.innerHTML="";}
+else if (thirtyone.innerHTML==="Pink" && dice.innerHTML==="6") {
+five.innerHTML="Pink";
+thirtyone.innerHTML="";}
+else if (thirtytwo.innerHTML==="Pink" && dice.innerHTML==="1") { 
+one.innerHTML="Pink";
+thirtytwo.innerHTML="";}
+else if (thirtytwo.innerHTML==="Pink" && dice.innerHTML==="2") { 
+two.innerHTML="Pink";
+thirtytwo.innerHTML="";}
+else if (thirtytwo.innerHTML==="Pink" && dice.innerHTML==="3") { 
+three.innerHTML="Pink";
+thirtytwo.innerHTML="";}
+else if (thirtytwo.innerHTML==="Pink" && dice.innerHTML==="4") { 
+four.innerHTML="Pink";
+thirtytwo.innerHTML="";}
+else if (thirtytwo.innerHTML==="Pink" && dice.innerHTML==="5") { 
+five.innerHTML="Pink";
+thirtytwo.innerHTML="";}
+else if (thirtytwo.innerHTML==="Pink" && dice.innerHTML==="6") { 
+six.innerHTML="Pink";
 thirtytwo.innerHTML="";}}
 
 function reset() {
