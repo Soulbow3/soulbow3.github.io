@@ -8,9 +8,33 @@ var jailTwo=document.getElementById("twoH");
 if (jailStartOne.innerHTML==="One") {
 jailStartOne.innerHTML="";
 jailOne.innerHTML="One";}
+else if (jailStartOne.innerHTML==="Two") {
+jailStartOne.innerHTML="";
+jailOne.innerHTML="Two";}
+else if (jailStartOne.innerHTML==="Red") {
+jailStartOne.innerHTML="";
+jailOne.innerHTML="Red";}
+else if (jailStartOne.innerHTML==="Yellow") {
+jailStartOne.innerHTML="";
+jailOne.innerHTML="Yellow";}
+else if (jailStartOne.innerHTML==="Pink") {
+jailStartOne.innerHTML="";
+jailOne.innerHTML="Pink";}
 else if (jailStartTwo.innerHTML==="Two") {
 jailStartTwo.innerHTML="";
-jailTwo.innerHTML="Two";}}
+jailTwo.innerHTML="Two";}
+else if (jailStartTwo.innerHTML==="One") {
+jailStartTwo.innerHTML="";
+jailTwo.innerHTML="One";}
+else if (jailStartTwo.innerHTML==="Red") {
+jailStartTwo.innerHTML="";
+jailTwo.innerHTML="Red";}
+else if (jailStartTwo.innerHTML==="Yellow") {
+jailStartTwo.innerHTML="";
+jailTwo.innerHTML="Yelow";}
+else if (jailStartTwo.innerHTML==="Pink") {
+jailStartTwo.innerHTML="";
+jailTwo.innerHTML="Pink";}}
 
 function go1() {
 var startOne=document.getElementById("cone");
@@ -20,9 +44,33 @@ var homeTwo=document.getElementById("twoA");
 if (startOne.innerHTML==="One") {
 startOne.innerHTML="";
 homeOne.innerHTML="One";}
+else if (startOne.innerHTML==="Two") {
+startOne.innerHTML="";
+homeOne.innerHTML="Two";}
+else if (startOne.innerHTML==="Red") {
+startOne.innerHTML="";
+homeOne.innerHTML="Red";}
+else if (startOne.innerHTML==="Yellow") {
+startOne.innerHTML="";
+homeOne.innerHTML="Yellow";}
+else if (startOne.innerHTML==="Pink") {
+startOne.innerHTML="";
+homeOne.innerHTML="Pink";}
 else if (startTwo.innerHTML==="Two") {
 startTwo.innerHTML="";
-homeTwo.innerHTML="Two";}}
+homeTwo.innerHTML="Two";}
+else if (startTwo.innerHTML==="One") {
+startTwo.innerHTML="";
+homeTwo.innerHTML="One";}
+else if (startTwo.innerHTML==="Red") {
+startTwo.innerHTML="";
+homeTwo.innerHTML="Red";}
+else if (startTwo.innerHTML==="Yellow") {
+startTwo.innerHTML="";
+homeTwo.innerHTML="Yellow";}
+else if (startTwo.innerHTML==="Pink") {
+startTwo.innerHTML="";
+homeTwo.innerHTML="Pink";}}
 
 function go2() {
 var startOne=document.getElementById("oneL");
@@ -32,9 +80,33 @@ var homeTwo=document.getElementById("twoA");
 if (startOne.innerHTML==="One") {
 startOne.innerHTML="";
 homeOne.innerHTML="One";}
+else if (startOne.innerHTML==="Two") {
+startOne.innerHTML="";
+homeOne.innerHTML="Two";}
+else if (startOne.innerHTML==="Red") {
+startOne.innerHTML="";
+homeOne.innerHTML="Red";}
+else if (startOne.innerHTML==="Yellow") {
+startOne.innerHTML="";
+homeOne.innerHTML="Yellow";}
+else if (startOne.innerHTML==="Pink") {
+startOne.innerHTML="";
+homeOne.innerHTML="Pink";}
 else if (startTwo.innerHTML==="Two") {
 startTwo.innerHTML="";
-homeTwo.innerHTML="Two";}}
+homeTwo.innerHTML="Two";}
+else if (startTwo.innerHTML==="One") {
+startTwo.innerHTML="";
+homeTwo.innerHTML="One";}
+else if (startTwo.innerHTML==="Red") {
+startTwo.innerHTML="";
+homeTwo.innerHTML="Red";}
+else if (startTwo.innerHTML==="Yellow") {
+startTwo.innerHTML="";
+homeTwo.innerHTML="Yellow";}
+else if (startTwo.innerHTML==="Pink") {
+startTwo.innerHTML="";
+homeTwo.innerHTML="Pink";}}
 
 function go3() {
 var startOne=document.getElementById("oneM");
@@ -44,9 +116,33 @@ var homeTwo=document.getElementById("twoA");
 if (startOne.innerHTML==="One") {
 startOne.innerHTML="";
 homeOne.innerHTML="One";}
+else if (startOne.innerHTML==="Two") {
+startOne.innerHTML="";
+homeOne.innerHTML="Two";}
+else if (startOne.innerHTML==="Red") {
+startOne.innerHTML="";
+homeOne.innerHTML="Red";}
+else if (startOne.innerHTML==="Yellow") {
+startOne.innerHTML="";
+homeOne.innerHTML="Yellow";}
+else if (startOne.innerHTML==="Pink") {
+startOne.innerHTML="";
+homeOne.innerHTML="Pink";}
 else if (startTwo.innerHTML==="Two") {
 startTwo.innerHTML="";
-homeTwo.innerHTML="Two";}}
+homeTwo.innerHTML="Two";}
+else if (startTwo.innerHTML==="One") {
+startTwo.innerHTML="";
+homeTwo.innerHTML="One";}
+else if (startTwo.innerHTML==="Red") {
+startTwo.innerHTML="";
+homeTwo.innerHTML="Red";}
+else if (startTwo.innerHTML==="Yellow") {
+startTwo.innerHTML="";
+homeTwo.innerHTML="Yellow";}
+else if (startTwo.innerHTML==="Pink") {
+startTwo.innerHTML="";
+homeTwo.innerHTML="Pink";}}
 
 function plum() {
 var one=document.getElementById("oneB");
