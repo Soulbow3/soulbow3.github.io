@@ -61,22 +61,22 @@ back.style.background="purple";}
 else if (one.innerHTML==="One") {
 three.innerHTML="Rent $20";
 back.style.background="red";}
-else if (one.innerHTML="-->") {
+else if (one.innerHTML==="-->") {
 three.innerHTML="Rent $20";
 back.style.background="red";}
-else if (one.innerHTML="c:<") {
+else if (one.innerHTML==="c:<") {
 three.innerHTML="Rent $20";
 back.style.background="red";}
-else if (one.innerHTML="<(^@^)>") {
+else if (one.innerHTML==="<(^@^)>") {
 three.innerHTML="Rent $20";
 back.style.background="red";}
-else if (two.innerHTML="-->") {
+else if (two.innerHTML==="-->") {
 three.innerHTML="Rent $20";
 back.style.background="purple";}
-else if (two.innerHTML="c:<") {
+else if (two.innerHTML==="c:<") {
 three.innerHTML="Rent $20";
 back.style.background="purple";}
-else if (two.innerHTML="<(^@^)>") {
+else if (two.innerHTML==="<(^@^)>") {
 three.innerHTML="Rent $20";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
