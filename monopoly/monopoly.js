@@ -10,7 +10,7 @@ jailStartOne.innerHTML="";
 jailOne.innerHTML="One";}
 else if (jailStartTwo.innerHTML==="Two") {
 jailStartTwo.innerHTML="";
-jailTwo.innerHTML="Two";}}
+jailTwo.innerHTML="One";}}
 
 function go1() {
 var startOne=document.getElementById("cone");
@@ -19,10 +19,10 @@ var homeOne=document.getElementById("oneA");
 var homeTwo=document.getElementById("twoA");
 if (startOne.innerHTML==="One") {
 startOne.innerHTML="";
-homeOne.innerHTML="Two";}
+homeOne.innerHTML="One";}
 else if (startTwo.innerHTML==="Two") {
 startTwo.innerHTML="";
-homeTwo.innerHTML="One";}}
+homeTwo.innerHTML="Two";}}
 
 function go2() {
 var startOne=document.getElementById("oneL");
@@ -31,10 +31,10 @@ var homeOne=document.getElementById("twoA");
 var homeTwo=document.getElementById("oneA");
 if (startOne.innerHTML==="One") {
 startOne.innerHTML="";
-homeOne.innerHTML="Two";}
+homeOne.innerHTML="One";}
 else if (startTwo.innerHTML==="Two") {
 startTwo.innerHTML="";
-homeTwo.innerHTML="One";}}
+homeTwo.innerHTML="Two";}}
 
 function go3() {
 var startOne=document.getElementById("oneM");
@@ -43,10 +43,10 @@ var homeOne=document.getElementById("twoA");
 var homeTwo=document.getElementById("oneA");
 if (startOne.innerHTML==="One") {
 startOne.innerHTML="";
-homeOne.innerHTML="Two";}
+homeOne.innerHTML="One";}
 else if (startTwo.innerHTML==="Two") {
 startTwo.innerHTML="";
-homeTwo.innerHTML="One";}}
+homeTwo.innerHTML="Two";}}
 
 function plum() {
 var one=document.getElementById("oneB");
