@@ -15,8 +15,8 @@ jailTwo.innerHTML="Two";}}
 function go1() {
 var startOne=document.getElementById("oneL");
 var startTwo=document.getElementById("twoL");
-var homeOne=document.getElementById("twoA");
-var homeTwo=document.getElementById("oneA");
+var homeOne=document.getElementById("oneA");
+var homeTwo=document.getElementById("twoA");
 if (startOne.innerHTML==="One") {
 startOne.innerHTML="";
 homeOne.innerHTML="One";}
@@ -27,8 +27,8 @@ homeTwo.innerHTML="Two";}}
 function go2() {
 var startOne=document.getElementById("twoM");
 var startTwo=document.getElementById("oneM");
-var homeOne=document.getElementById("oneA");
-var homeTwo=document.getElementById("twoA");
+var homeOne=document.getElementById("twoA");
+var homeTwo=document.getElementById("oneA");
 if (startOne.innerHTML==="One") {
 startOne.innerHTML="";
 homeOne.innerHTML="One";}
@@ -916,14 +916,14 @@ var goone=document.getElementById("oneA");
 var gotwo=document.getElementById("twoA");
 var goldtwo=document.getElementById("ftwo");
 var goldone=document.getElementById("fone");
-var tile2=document.getElementById("oneA");
-var tile1=document.getElementById("twoA");
-var tile4=document.getElementById("oneR");
-var tile3=document.getElementById("twoR");
-var tile6=document.getElementById("oneY");
-var tile5=document.getElementById("twoY");
-var tile8=document.getElementById("aone");
-var tile7=document.getElementById("atwo");
+var tile1=document.getElementById("oneA");
+var tile2=document.getElementById("twoA");
+var tile3=document.getElementById("oneR");
+var tile4=document.getElementById("twoR");
+var tile5=document.getElementById("oneY");
+var tile6=document.getElementById("twoY");
+var tile7=document.getElementById("aone");
+var tile8=document.getElementById("atwo");
 if (card.innerHTML==="Back 3" && move1.innerHTML==="One") {
 tile1.innerHTML="One";
 move1.innerHTML="";}
