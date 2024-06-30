@@ -1,10 +1,10 @@
 var dice=document.getElementById("node");
 
 function times() {
-var onea=document.getElementById("oneM);
-var oneb=document.getElementById("done);
-var twoa=document.getElementById("twoM);
-var twob=document.getElementById("dtwo);
+var onea=document.getElementById("oneM");
+var oneb=document.getElementById("done");
+var twoa=document.getElementById("twoM");
+var twob=document.getElementById("dtwo");
 if (document.getElementById("timesOne").style.background==="red") {
 document.getElementById("timesOne").style.background="red";}
 else if (document.getElementById("timesOne").style.background==="purple") {
