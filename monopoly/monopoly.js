@@ -7,46 +7,46 @@ var jailOne=document.getElementById("oneH");
 var jailTwo=document.getElementById("twoH");
 if (jailStartOne.innerHTML==="One") {
 jailStartOne.innerHTML="";
-jailOne.innerHTML="Two";}
+jailOne.innerHTML="One";}
 else if (jailStartTwo.innerHTML==="Two") {
 jailStartTwo.innerHTML="";
-jailTwo.innerHTML="One";}}
+jailTwo.innerHTML="Two";}}
 
 function go1() {
-var startOne=document.getElementById("oneL");
-var startTwo=document.getElementById("twoL");
+var startOne=document.getElementById("cone");
+var startTwo=document.getElementById("ctwo");
 var homeOne=document.getElementById("oneA");
 var homeTwo=document.getElementById("twoA");
-if (startOne.innerHTML==="Two") {
+if (startOne.innerHTML==="One") {
 startOne.innerHTML="";
-homeOne.innerHTML="Two";}
-else if (startTwo.innerHTML==="One") {
+homeOne.innerHTML="One";}
+else if (startTwo.innerHTML==="Two") {
 startTwo.innerHTML="";
-homeTwo.innerHTML="One";}}
+homeTwo.innerHTML="Two";}}
 
 function go2() {
+var startOne=document.getElementById("oneL");
+var startTwo=document.getElementById("twoL");
+var homeOne=document.getElementById("twoA");
+var homeTwo=document.getElementById("oneA");
+if (startOne.innerHTML==="One") {
+startOne.innerHTML="";
+homeOne.innerHTML="One";}
+else if (startTwo.innerHTML==="Two") {
+startTwo.innerHTML="";
+homeTwo.innerHTML="Two";}}
+
+function go3() {
 var startOne=document.getElementById("oneM");
 var startTwo=document.getElementById("twoM");
 var homeOne=document.getElementById("twoA");
 var homeTwo=document.getElementById("oneA");
-if (startOne.innerHTML==="Two") {
+if (startOne.innerHTML==="One") {
 startOne.innerHTML="";
-homeOne.innerHTML="Two";}
-else if (startTwo.innerHTML==="One") {
+homeOne.innerHTML="One";}
+else if (startTwo.innerHTML==="Two") {
 startTwo.innerHTML="";
-homeTwo.innerHTML="One";}}
-
-function go3() {
-var startOne=document.getElementById("cone");
-var startTwo=document.getElementById("ctwo");
-var homeOne=document.getElementById("twoA");
-var homeTwo=document.getElementById("oneA");
-if (startOne.innerHTML==="Two") {
-startOne.innerHTML="";
-homeOne.innerHTML="Two";}
-else if (startTwo.innerHTML==="One") {
-startTwo.innerHTML="";
-homeTwo.innerHTML="One";}}
+homeTwo.innerHTML="Two";}}
 
 function plum() {
 var one=document.getElementById("oneB");
