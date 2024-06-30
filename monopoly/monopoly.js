@@ -1,3 +1,5 @@
+var dice=document.getElementById("node");
+
 function jail() {
 var jailOne=document.getElementById("oneX");
 var jailTwo=document.getElementById("twoX");
