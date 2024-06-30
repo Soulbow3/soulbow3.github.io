@@ -9,38 +9,134 @@ if (document.getElementById("timesOne").style.background==="red") {
 document.getElementById("timesOne").style.background="red";}
 else if (document.getElementById("timesOne").style.background==="purple") {
 document.getElementById("timesOne").style.background="purple";}
-else if (twob.innerHTML==="One" || oneb.innerHTML==="one") {
+else if (document.getElementById("timesTwo").style.background==="purple") {
+document.getElementById("TimesTwo").style.background="purple";}
+if (document.getElementById("timesTwo").style.background==="red") {
+document.getElementById("timesTwo").style.background="red";}
+else if (twoa.innerHTML==="one") {
+document.getElementById("timesTwo").innerHTML="x15";
+document.getElementById("timesTwo").style.background="Red";}
+else if (twob.innerHTML==="One") {
 document.getElementById("timesOne").innerHTML="x15";
-document.getElementById("timesOne").style.background="red";
-else if (twob.innerHTML==="Two" || oneb.innerHTML==="Two") {
+document.getElementById("timesOne").style.background="Red";
+else if (onea.innerHTML==="one") {
+document.getElementById("timesTwo").innerHTML="x15";
+document.getElementById("timesTwo").style.background="Red";}
+else if (oneb.innerHTML==="One") {
 document.getElementById("timesOne").innerHTML="x15";
-document.getElementById("timesOne").style.background="red";
-else if (twob.innerHTML==="Red" || oneb.innerHTML==="Red") {
-document.getElementById("timesOne").innerHTML="x15";
-document.getElementById("timesOne").style.background="red";
-else if (twob.innerHTML==="Yellow" || oneb.innerHTML==="one") {
-document.getElementById("timesOne").innerHTML="x15";
-document.getElementById("timesOne").style.background="red";
-else if (twob.innerHTML==="Pink" || oneb.innerHTML==="one") {
-document.getElementById("timesOne").innerHTML="x15";
-document.getElementById("timesOne").style.background="red";}
-
+document.getElementById("timesOne").style.background="Red";}
+ else if (twoa.innerHTML==="One") {
+document.getElementById("timesTwo").innerHTML="x15";
 document.getElementById("timesTwo").style.background="purple";}
-else if (onea.innerHTML==="One" || twoa.innerHTML==="one") {
+else if (twob.innerHTML==="One") {
+document.getElementById("timesOne").innerHTML="x15";
+document.getElementById("timesOne").style.background="purple";
+else if (onea.innerHTML==="One") {
 document.getElementById("timesTwo").innerHTML="x15";
-document.getElementById("timesTwo").style.background="red";
-else if (onea.innerHTML==="Two" || twoa.innerHTML==="Two") {
+document.getElementById("timesTwo").style.background="purple";}
+else if (oneb.innerHTML==="One") {
+document.getElementById("timesOne").innerHTML="x15";
+document.getElementById("timesOne").style.background="purple";}
+ 
+else if (twoa.innerHTML==="Two") {
 document.getElementById("timesTwo").innerHTML="x15";
-document.getElementById("timesTwo").style.background="red";
-else if (onea.innerHTML==="Red" || twoa.innerHTML==="Red") {
+document.getElementById("timesTwo").style.background="Red";}
+else if (twob.innerHTML==="Two") {
+document.getElementById("timesOne").innerHTML="x15";
+document.getElementById("timesOne").style.background="Red";
+else if (onea.innerHTML==="Two") {
 document.getElementById("timesTwo").innerHTML="x15";
-document.getElementById("timesTwo").style.background="red";
-else if (onea.innerHTML==="Yellow" || twoa.innerHTML==="one") {
+document.getElementById("timesTwo").style.background="Red";}
+else if (oneb.innerHTML==="Two") {
+document.getElementById("timesOne").innerHTML="x15";
+document.getElementById("timesOne").style.background="Red";}
+ else if (twoa.innerHTML==="Two") {
 document.getElementById("timesTwo").innerHTML="x15";
-document.getElementById("timesTwo").style.background="red";
-else if (onea.innerHTML==="Pink" || twoa.innerHTML==="one") {
+document.getElementById("timesTwo").style.background="purple";}
+else if (twob.innerHTML==="Two") {
+document.getElementById("timesOne").innerHTML="x15";
+document.getElementById("timesOne").style.background="purple";
+else if (onea.innerHTML==="Two") {
 document.getElementById("timesTwo").innerHTML="x15";
-document.getElementById("timesTwo").style.background="red";}}
+document.getElementById("timesTwo").style.background="purple";}
+else if (oneb.innerHTML==="Two") {
+document.getElementById("timesOne").innerHTML="x15";
+document.getElementById("timesOne").style.background="purple";}}
+
+else if (twoa.innerHTML==="Red") {
+document.getElementById("timesTwo").innerHTML="x15";
+document.getElementById("timesTwo").style.background="Red";}
+else if (twob.innerHTML==="Red") {
+document.getElementById("timesOne").innerHTML="x15";
+document.getElementById("timesOne").style.background="Red";
+else if (onea.innerHTML==="Red") {
+document.getElementById("timesTwo").innerHTML="x15";
+document.getElementById("timesTwo").style.background="Red";}
+else if (oneb.innerHTML==="Red") {
+document.getElementById("timesOne").innerHTML="x15";
+document.getElementById("timesOne").style.background="Red";}
+ else if (twoa.innerHTML==="Red") {
+document.getElementById("timesTwo").innerHTML="x15";
+document.getElementById("timesTwo").style.background="purple";}
+else if (twob.innerHTML==="Red") {
+document.getElementById("timesOne").innerHTML="x15";
+document.getElementById("timesOne").style.background="purple";
+else if (onea.innerHTML==="Red") {
+document.getElementById("timesTwo").innerHTML="x15";
+document.getElementById("timesTwo").style.background="purple";}
+else if (oneb.innerHTML==="Red") {
+document.getElementById("timesOne").innerHTML="x15";
+document.getElementById("timesOne").style.background="purple";}
+
+ else if (twoa.innerHTML==="Yellow") {
+document.getElementById("timesTwo").innerHTML="x15";
+document.getElementById("timesTwo").style.background="Red";}
+else if (twob.innerHTML==="Yellow") {
+document.getElementById("timesOne").innerHTML="x15";
+document.getElementById("timesOne").style.background="Red";
+else if (onea.innerHTML==="Yellow") {
+document.getElementById("timesTwo").innerHTML="x15";
+document.getElementById("timesTwo").style.background="Red";}
+else if (oneb.innerHTML==="Yellow") {
+document.getElementById("timesOne").innerHTML="x15";
+document.getElementById("timesOne").style.background="Red";}
+ else if (twoa.innerHTML==="Yellow") {
+document.getElementById("timesTwo").innerHTML="x15";
+document.getElementById("timesTwo").style.background="purple";}
+else if (twob.innerHTML==="Yellow") {
+document.getElementById("timesOne").innerHTML="x15";
+document.getElementById("timesOne").style.background="purple";
+else if (onea.innerHTML==="Yellow") {
+document.getElementById("timesTwo").innerHTML="x15";
+document.getElementById("timesTwo").style.background="purple";}
+else if (oneb.innerHTML==="Yellow") {
+document.getElementById("timesOne").innerHTML="x15";
+document.getElementById("timesOne").style.background="purple";}
+
+ else if (twoa.innerHTML==="Pink") {
+document.getElementById("timesTwo").innerHTML="x15";
+document.getElementById("timesTwo").style.background="Red";}
+else if (twob.innerHTML==="Pink") {
+document.getElementById("timesOne").innerHTML="x15";
+document.getElementById("timesOne").style.background="Red";
+else if (onea.innerHTML==="Pink") {
+document.getElementById("timesTwo").innerHTML="x15";
+document.getElementById("timesTwo").style.background="Red";}
+else if (oneb.innerHTML==="Pink") {
+document.getElementById("timesOne").innerHTML="x15";
+document.getElementById("timesOne").style.background="Red";}
+ else if (twoa.innerHTML==="Pink") {
+document.getElementById("timesTwo").innerHTML="x15";
+document.getElementById("timesTwo").style.background="purple";}
+else if (twob.innerHTML==="Pink") {
+document.getElementById("timesOne").innerHTML="x15";
+document.getElementById("timesOne").style.background="purple";
+else if (onea.innerHTML==="Pink") {
+document.getElementById("timesTwo").innerHTML="x15";
+document.getElementById("timesTwo").style.background="purple";}
+else if (oneb.innerHTML==="Pink") {
+document.getElementById("timesOne").innerHTML="x15";
+document.getElementById("timesOne").style.background="purple";}}
 
 function jail() {
 var jailStartOne=document.getElementById("oneX");
