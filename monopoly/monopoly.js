@@ -890,12 +890,12 @@ back.style.background="purple";}}
 
 function piece(element) {
 if (element.innerHTML==="Two") {
-element.innerHTML="c:<";}
-else if (element.innerHTML==="c:<") {
-element.innerHTML="-->";}
-else if (element.innerHTML==="-->") {
-element.innerHTML="<(^@^)>";}
-else if (element.innerHTML==="<(^@^)>") {
+element.innerHTML="1";}
+else if (element.innerHTML==="1") {
+element.innerHTML="2";}
+else if (element.innerHTML==="2") {
+element.innerHTML="3";}
+else if (element.innerHTML==="3") {
 element.innerHTML="One";}
 else if (element.innerHTML==="One") {
 element.innerHTML="Two";}}
