@@ -12,7 +12,7 @@ else if (jailStartTwo.innerHTML==="Two") {
 jailStartTwo.innerHTML="";
 jailTwo.innerHTML="Two";}}
 
-function go1(element) {
+function go1() {
 var StartOne=document.getElementById("oneL");
 var StartTwo=document.getElementById("twoL");
 var homeOne=document.getElementById("oneA");
@@ -24,7 +24,7 @@ else if (StartTwo.innerHTML==="Two") {
 StartTwo.innerHTML="";
 homeTwo.innerHTML="Two";}}
 
-function go2(element) {
+function go2() {
 var StartOne=document.getElementById("oneM");
 var StartTwo=document.getElementById("twoM");
 var homeOne=document.getElementById("oneA");
