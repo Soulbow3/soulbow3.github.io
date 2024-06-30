@@ -7,10 +7,10 @@ var jailOne=document.getElementById("oneH");
 var jailTwo=document.getElementById("twoH");
 if (jailStartOne.innerHTML==="One") {
 jailStartOne.innerHTML="";
-jailOne.innerHTML="One";}
+jailOne.innerHTML="Two";}
 else if (jailStartTwo.innerHTML==="Two") {
 jailStartTwo.innerHTML="";
-jailTwo.innerHTML="Two";}}
+jailTwo.innerHTML="One";}}
 
 function go1() {
 var startOne=document.getElementById("oneL");
