@@ -1,60 +1,53 @@
 var dice=document.getElementById("node");
 
-function jail() {
-var jailOne=document.getElementById("oneX");
-var jailTwo=document.getElementById("twoX");
-var jailO=document.getElementById("oneH");
-var jailT=document.getElementById("twoH");
-if (jailOne.innerHTML==="One") {
-jailOne.innerHTML="";
-jailO.innerHTML="One";}
-else if (jailTwo.innerHTML==="Two") {
-jailTwo.innerHTML="";
-jailT.innerHTML="Two";}}
+function jail(element) {
+var jailOne=document.getElementById("oneH");
+var jailTwo=document.getElementById("twoH");
+if (element.innerHTML==="One") {
+element.innerHTML="";
+jailOne.innerHTML="One";}
+else if (element.innerHTML==="Two") {
+element.innerHTML="";
+jailTwo.innerHTML="Two";}}
 
-function go1() {
-var one=document.getElementById("cone");
-var two=document.getElementById("ctwo");
+function go1(element) {
 var homeOne=document.getElementById("oneA");
 var homeTwo=document.getElementById("twoA");
-if (one.innerHTML==="One") {
-one.innerHTML="";
+if (element.innerHTML==="One") {
+element.innerHTML="";
 homeOne.innerHTML="One";}
-else if (two.innerHTML==="Two") {
-two.innerHTML="";
+else if (element.innerHTML==="Two") {
+element.innerHTML="";
 homeTwo.innerHTML="Two";}}
 
-function go2() {
-var one=document.getElementById("oneL");
-var two=document.getElementById("twoL");
+function go2(element) {
 var homeOne=document.getElementById("oneA");
 var homeTwo=document.getElementById("twoA");
-if (one.innerHTML==="One") {
-one.innerHTML="";
+if (element.innerHTML==="One") {
+element.innerHTML="";
 homeOne.innerHTML="One";}
-else if (two.innerHTML==="Two") {
-two.innerHTML="";
+else if (element.innerHTML==="Two") {
+element.innerHTML="";
 homeTwo.innerHTML="Two";}}
 
-function go3() {
-var one=document.getElementById("oneM");
-var two=document.getElementById("twoM");
+function go3(element) {
 var homeOne=document.getElementById("oneA");
 var homeTwo=document.getElementById("twoA");
-if (one.innerHTML==="One") {
-one.innerHTML="";
+if (element.innerHTML==="One") {
+element.innerHTML="";
 homeOne.innerHTML="One";}
-else if (two.innerHTML==="Two") {
-two.innerHTML="";
+else if (element.innerHTML==="Two") {
+element.innerHTML="";
 homeTwo.innerHTML="Two";}}
 
-function plum() {
+function plum(element) {
+var one=document.getElementById("oneB");
 var three=document.getElementById("plumOne");
 var back=document.getElementById("plumBack");
 var two=document.getElementById("twoB");
-if (back.style.background==="red" && two.innerHTML==="Two") {
+if (back.style.background==="red" && element.innerHTML==="Two") {
 back.style.background="red";}
-else if (back.style.background==="purple" && one.innerHTML==="One") {
+else if (back.style.background==="purple" && element.innerHTML==="One") {
 back.style.background="purple";}
 else if (two.innerHTML==="Two") {
 three.innerHTML="Rent $20";
