@@ -47,7 +47,7 @@ two.innerHTML="";
 homeTwo.innerHTML="Two";}}
 
 function plum() {
-var one=document.getElementById("oneB);
+var one=document.getElementById("oneB");
 var three=document.getElementById("plumOne");
 var back=document.getElementById("plumBack");
 var two=document.getElementById("twoB");
