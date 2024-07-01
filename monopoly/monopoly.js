@@ -1055,7 +1055,8 @@ else if (
 acc.innerHTML==="Nothing" && tile1a.innerHTML==="One") {
 acc.innerHTML="Jail";
 jail.opacity="51%";
-jail.style.background="black";}
+jail.style.background="black";
+jail.style.border="2px white"}
 else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="One") 
 {acc.innerHTML="+$150";}
 else if (
