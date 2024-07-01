@@ -1050,8 +1050,6 @@ var move3=document.getElementByID("oneU");
 var move4=document.getElementByID("twoU");
 var move5=document.getElementByID("bone");
 var move6=document.getElementByID("btwo");
-var move7=document.getElementByID("done");
-var move8=document.getElementByID("dtwo");
 var two=document.getElementById("twoH");
 var one=document.getElementById("oneH");
 var goone=document.getElementById("oneA");
@@ -1064,8 +1062,6 @@ var tile3=document.getElementById("oneR");
 var tile4=document.getElementById("twoR");
 var tile5=document.getElementById("oneY");
 var tile6=document.getElementById("twoY");
-var tile7=document.getElementById("aone");
-var tile8=document.getElementById("atwo");
 if (acc.innerHTML==="Back 3" && move1.innerHTML==="One") {
 tile1.innerHTML="One";
 move1.innerHTML="";}
@@ -1084,12 +1080,6 @@ move5.innerHTML="";}
 else if (acc.innerHTML==="Back 3" && move6.innerHTML==="One") {
 tile6.innerHTML="One";
 move6.innerHTML="";}
-else if (acc.innerHTML==="Back 3" && move7.innerHTML==="One") {
-tile47.innerHTML="One";
-move7.innerHTML="";}
-else if (acc.innerHTML==="Back 3" && move8.innerHTML==="One") {
-tile8.innerHTML="One";
-move8.innerHTML="";}
 
 else if (move1.innerHTML==="One" && acc.innerHTML==="Jail") {
 one.innerHTML="One";
@@ -1109,12 +1099,6 @@ move5.innerHTML="";}
 else if (move6.innerHTML==="One" && acc.innerHTML==="Jail") {
 two.innerHTML="One";
 move6.innerHTML="";}
-else if (move7.innerHTML==="One" && acc.innerHTML==="Jail") {
-one.innerHTML="One";
-move7.innerHTML="";}
-else if (move8.innerHTML==="One" && acc.innerHTML==="Jail") {
-two.innerHTML="One";
-move8.innerHTML="";}
   
 else if (move1.innerHTML==="One" && acc.innerHTML==="Advance To Go") {
 goone.innerHTML="One";
@@ -1134,12 +1118,6 @@ move5.innerHTML="";}
 else if (move6.innerHTML==="One" && acc.innerHTML==="Advance To Go") {
 gotwo.innerHTML="One";
 move26.innerHTML="";}
-else if (move7.innerHTML==="One" && acc.innerHTML==="Advance To Go") {
-goone.innerHTML="One";
-move7.innerHTML="";}
-else if (move8.innerHTML==="One" && acc.innerHTML==="Advance To Go") {
-gotwo.innerHTML="One";
-move8.innerHTML="";}
 
 else if (move1.innerHTML==="One" && acc.innerHTML==="Advance To Gold") {
 goldone.innerHTML="One";
@@ -1158,13 +1136,7 @@ goldone.innerHTML="One";
 move5.innerHTML="";}
 else if (move6.innerHTML==="One" && acc.innerHTML==="Advance To Gold") {
 goldtwo.innerHTML="One";
-move6.innerHTML="";}
-else if (move7.innerHTML==="One" && acc.innerHTML==="Advance To Gold") {
-goldone.innerHTML="One";
-move7.innerHTML="";}
-else if (move8.innerHTML==="One" && acc.innerHTML==="Advance To Gold") {
-goldtwo.innerHTML="One";
-move8.innerHTML="";}}
+move6.innerHTML="";}}
 
 function cardOne() {
 var acc=document.getElementById("cardAcc");
