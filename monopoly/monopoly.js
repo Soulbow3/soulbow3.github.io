@@ -1304,7 +1304,7 @@ acc.innerHTML="Jail";
 jail.opacity="50%";
 jail.style.background="black";}
 else if (acc.innerHTML==="Jail" && tile2a.innerHTML==="Yellow") {
-acc.innerHTML="+$150";
+acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile2a.innerHTML==="Yellow") {
 acc.innerHTML="Advance To Gold";
