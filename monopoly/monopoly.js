@@ -1132,7 +1132,7 @@ move4.innerHTML="";}
 else if (move5.innerHTML==="One" && acc.innerHTML==="Advance To Go") {
 goone.innerHTML="One";
 move5.innerHTML="";}
-else if (move6.innerHTML==="One" && card.innerHTML==="Advance To Go") {
+else if (move6.innerHTML==="One" && acc.innerHTML==="Advance To Go") {
 gotwo.innerHTML="One";
 move26.innerHTML="";}
 else if (move7.innerHTML==="One" && acc.innerHTML==="Advance To Go") {
