@@ -1236,10 +1236,10 @@ acc.innerHTML="Jail";
 jail.opacity="50%";
 jail2.innerHTML="Yellow";
 tile2a.innerHTML="";}
-else if (acc.innerHTML==="Jail" && tile2a.innerHTML==="Two") 
+else if (acc.innerHTML==="Jail" && tile2a.innerHTML==="Yellow") 
 {acc.innerHTML="+$150";}
 else if (
-acc.innerHTML==="+$150" && tile2a.innerHTML==="Two") {
+acc.innerHTML==="+$150" && tile2a.innerHTML==="Yellow") {
 acc.innerHTML="Advance To Gold";
 gold.opacity="50%";
 gold2.innHTML="Yellow;
