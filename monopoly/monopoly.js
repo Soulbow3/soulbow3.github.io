@@ -1303,8 +1303,8 @@ acc.innerHTML==="Nothing" && tile2a.innerHTML==="Yellow") {
 acc.innerHTML="Jail";
 jail.opacity="50%";
 jail.style.background="black";}
-else if (acc.innerHTML==="Jail" && tile2a.innerHTML==="Yellow") 
-{acc.innerHTML="+$150";}
+else if (acc.innerHTML==="Jail" && tile2a.innerHTML==="Yellow") {
+acc.innerHTML="+$150";
 else if (
 acc.innerHTML==="+$150" && tile2a.innerHTML==="Yellow") {
 acc.innerHTML="Advance To Gold";
@@ -1385,7 +1385,7 @@ else if (
 acc.innerHTML==="+$200" && tile2a.innerHTML==="Red") {
 acc.innerHTML="Advance To Go";
 go.style.background="black";
-go2opacity="50%";}
+go.opacity="50%";}
 
 else if (acc.innerHTML==="Advance To Go" && tile1a.innerHTML==="Pink") {
 acc.innerHTML="Nothing";}
