@@ -1476,7 +1476,7 @@ else if (
 acc.innerHTML==="" && tile2a.innerHTML==="One") {
 acc.innerHTML="Jail";
 jail.opacity="50%";
-jail2.style.background="black";}
+jail.style.background="black";}
 else if (
 acc.innerHTML==="" && tile2a.innerHTML==="Two") {
 acc.innerHTML="Jail";
