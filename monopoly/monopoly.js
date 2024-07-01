@@ -1870,19 +1870,16 @@ function cardThree() {
 var acc=document.getElementById("cardAcc");
 var tile1a= document.getElementById("bone");
 var tile2a= document.getElementById("btwo");
-var jail1=document.getElementById("oneH");
-var jail2=document.getElementById("twoH");
-var gold1=document.getElementById("fone");
-var gold2=document.getElementById("ftwo");
-var go1= document.getElementById("oneA");
-var go2= document.getElementById("twoA");
+var gold1=document.getElementById("gold");
+var color1="document.getElementById("colorOne");
+var color2="document.getElementById("colorTwo");
 if (acc.innerHTML==="Advance To Go" && tile1a.innerHTML==="One") {
 acc.innerHTML="Nothing";}
 else if (
 acc.innerHTML==="Nothing" && tile1a.innerHTML==="One") {
 acc.innerHTML="Jail";
-jail1.opacity="51%";
-jail1.style.background="black";}
+color2.opacity="51%";
+color2.style.background="black";}
 else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="One") 
 {acc.innerHTML="+$150";}
 else if (
@@ -1895,16 +1892,16 @@ acc.innerHTML==="Advance To Gold" && tile1a.innerHTML==="One") {
 acc.innerHTML="-$75";}
 else if (acc.innerHTML==="-$75" && tile1a.innerHTML==="One") {
 acc.innerHTML="Back 3";
-go2.style.background="black";
-go2.opacity="50%";}
+color1.style.background="black";
+color1.opacity="50%";}
 else if (
 acc.innerHTML==="Back 3" && tile1a.innerHTML==="One") {
 acc.innerHTML="+$200";}
 else if (
 acc.innerHTML==="+$200" && tile1a.innerHTML==="One") {
 acc.innerHTML="Advance To Go";
-go1.style.background="black";
-go1.opacity="50%";}
+color1.style.background="black";
+color1.opacity="50%";}
 
 else if (acc.innerHTML==="Advance To Go" && tile1a.innerHTML==="Two") {
 acc.innerHTML="Nothing";}
