@@ -1051,14 +1051,15 @@ var move5=document.getElementByID("bone");
 var move6=document.getElementByID("btwo");
 var two=document.getElementById("twoH");
 var one=document.getElementById("oneH");
-var goldtwo=document.getElementById("ftwo");
-var goldone=document.getElementById("fone");
+var gold1=document.getElementById("fone");
+var gold2=document.getElementById("ftwo");
+var gold1=document.getElementById("fone");
 var tile1=document.getElementById("oneA");
 var tile2=document.getElementById("twoA");
-var tile3=document.getElementById("oneR");
-var tile4=document.getElementById("twoR");
-var tile5=document.getElementById("oneY");
-var tile6=document.getElementById("twoY");
+var tile1=document.getElementById("oneR");
+var tile2=document.getElementById("twoR");
+var tile3=document.getElementById("oneY");
+var tile4=document.getElementById("twoY");
 if (element.innerHTML==="Back 3" && move1.innerHTML==="One") {
 tile1.innerHTML="One";
 move1.innerHTML="";}
@@ -1139,11 +1140,19 @@ function cardOne() {
 var acc=document.getElementById("cardAcc");
 var tile1a= document.getElementById("oneD");
 var tile2a= document.getElementById("twoD");
+var jail1=document.getElementById("oneH");
+var jail2=document.getElementById("twoH");
+var gold1=document.getElementById("fone");
+var gold2=document.getElementById("ftwo");
+var go1= document.getElementById("oneA");
+var go2= document.getElementById("oneA");
 if (acc.innerHTML==="Advance To Go" && tile1a.innerHTML==="One") {
 acc.innerHTML="Nothing";}
 else if (
 acc.innerHTML==="Nothing" && tile1a.innerHTML==="One") {
-acc.innerHTML="Jail";}
+acc.innerHTML="Jail";
+jail.opacity="51%";
+jail.color="black";}
 else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="One") 
 {acc.innerHTML="+$150";}
 else if (
@@ -1165,7 +1174,9 @@ acc.innerHTML="Advance To Go";}
 acc.innerHTML="Nothing";}
 else if (
 acc.innerHTML==="Nothing" && tile1a.innerHTML==="Two") {
-acc.innerHTML="Jail";}
+acc.innerHTML="Jail";
+jail.opacity="51%";
+jail.color="black";}
 else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="Two") 
 {acc.innerHTML="+$150";}
 else if (
@@ -1188,7 +1199,9 @@ acc.innerHTML==="Advance To Go" && tile2a.innerHTML==="Two") {
 acc.innerHTML="Nothing";} 
 else if (
 acc.innerHTML==="Nothing" && tile2a.innerHTML==="Two") {
-acc.innerHTML="Jail";}
+acc.innerHTML="Jail";
+jail.opacity="51%";
+jail.color="black";}
 else if (acc.innerHTML==="Jail" && tile2a.innerHTML==="Two") 
 {acc.innerHTML="+$150";}
 else if (
@@ -1211,7 +1224,9 @@ acc.innerHTML==="Advance To Go" && tile2a.innerHTML==="One") {
 acc.innerHTML="Nothing";} 
 else if (
 acc.innerHTML==="Nothing" && tile2a.innerHTML==="One") {
-acc.innerHTML="Jail";}
+acc.innerHTML="Jail";
+jail.opacity="51%";
+jail.color="black";}
 else if (acc.innerHTML==="Jail" && tile2a.innerHTML==="One") 
 {acc.innerHTML="+$150";}
 else if (
@@ -1233,7 +1248,9 @@ else if (acc.innerHTML==="Advance To Go" && tile1a.innerHTML==="Yellow") {
 acc.innerHTML="Nothing";}
 else if (
 acc.innerHTML==="Nothing" && tile1a.innerHTML==="Yellow") {
-acc.innerHTML="Jail";}
+acc.innerHTML="Jail";
+jail.opacity="51%";
+jail.color="black";}
 else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="Yellow") 
 {acc.innerHTML="+$150";}
 else if (
@@ -1256,7 +1273,9 @@ acc.innerHTML==="Advance To Go" && tile2a.innerHTML==="Yellow") {
 acc.innerHTML="Nothing";} 
 else if (
 acc.innerHTML==="Nothing" && tile2a.innerHTML==="Yellow") {
-acc.innerHTML="Jail";}
+acc.innerHTML="Jail";
+jail.opacity="51%";
+jail.color="black";}
 else if (acc.innerHTML==="Jail" && tile2a.innerHTML==="Yellow") 
 {acc.innerHTML="+$150";}
 else if (
@@ -1278,7 +1297,9 @@ else if (acc.innerHTML==="Advance To Go" && tile1a.innerHTML==="Red") {
 acc.innerHTML="Nothing";}
 else if (
 acc.innerHTML==="Nothing" && tile1a.innerHTML==="Red") {
-acc.innerHTML="Jail";}
+acc.innerHTML="Jail";
+jail.opacity="51%";
+jail.color="black";}
 else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="Red") 
 {acc.innerHTML="+$150";}
 else if (
@@ -1301,7 +1322,9 @@ acc.innerHTML==="Advance To Go" && tile2a.innerHTML==="Red") {
 acc.innerHTML="Nothing";} 
 else if (
 acc.innerHTML==="Nothing" && tile2a.innerHTML==="Red") {
-acc.innerHTML="Jail";}
+acc.innerHTML="Jail";
+jail.opacity="51%";
+jail.color="black";}
 else if (acc.innerHTML==="Jail" && tile2a.innerHTML==="Red") 
 {acc.innerHTML="+$150";}
 else if (
@@ -1323,7 +1346,9 @@ else if (acc.innerHTML==="Advance To Go" && tile1a.innerHTML==="Pink") {
 acc.innerHTML="Nothing";}
 else if (
 acc.innerHTML==="Nothing" && tile1a.innerHTML==="Pink") {
-acc.innerHTML="Jail";}
+acc.innerHTML="Jail";
+jail.opacity="51%";
+jail.color="black";}
 else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="Pink") 
 {acc.innerHTML="+$150";}
 else if (
@@ -1346,7 +1371,9 @@ acc.innerHTML==="Advance To Go" && tile2a.innerHTML==="Pink") {
 acc.innerHTML="Nothing";} 
 else if (
 acc.innerHTML==="Nothing" && tile2a.innerHTML==="Pink") {
-acc.innerHTML="Jail";}
+acc.innerHTML="Jail";
+jail.opacity="51%";
+jail.color="black";}
 else if (acc.innerHTML==="Jail" && tile2a.innerHTML==="Pink") 
 {acc.innerHTML="+$150";}
 else if (
@@ -1365,34 +1392,52 @@ acc.innerHTML==="+$200" && tile2a.innerHTML==="Pink") {
 acc.innerHTML="Advance To Go";}
 else if (
 acc.innerHTML==="" && tile1a.innerHTML==="One") {
-acc.innerHTML="Jail";}
+acc.innerHTML="Jail";
+jail.opacity="51%";
+jail.color="black";}
 else if (
 acc.innerHTML==="" && tile1a.innerHTML==="Two") {
-acc.innerHTML="Jail";}
+acc.innerHTML="Jail";
+jail.opacity="51%";
+jail.color="black";}
 else if (
 acc.innerHTML==="" && tile1a.innerHTML==="Red") {
-acc.innerHTML="Jail";}
+acc.innerHTML="Jail";
+jail.opacity="51%";
+jail.color="black";}
 else if (
 acc.innerHTML==="" && tile1a.innerHTML==="Yellow") {
 acc.innerHTML="Jail";}
 else if (
 acc.innerHTML==="" && tile1a.innerHTML==="Pink") {
-acc.innerHTML="Jail";}
+acc.innerHTML="Jail";
+jail.opacity="51%";
+jail.color="black";}
 else if (
 acc.innerHTML==="" && tile2a.innerHTML==="One") {
-acc.innerHTML="Jail";}
+acc.innerHTML="Jail";
+jail.opacity="51%";
+jail.color="black";}
 else if (
 acc.innerHTML==="" && tile2a.innerHTML==="Two") {
-acc.innerHTML="Jail";}
+acc.innerHTML="Jail";
+jail.opacity="51%";
+jail.color="black";}
 else if (
 acc.innerHTML==="" && tile2a.innerHTML==="Red") {
-acc.innerHTML="Jail";}
+acc.innerHTML="Jail";
+jail.opacity="51%";
+jail.color="black";}
 else if (
 acc.innerHTML==="" && tile2a.innerHTML==="Yellow") {
-acc.innerHTML="Jail";}
+acc.innerHTML="Jail";
+jail.opacity="51%";
+jail.color="black";}
 else if (
 acc.innerHTML==="" && tile2a.innerHTML==="Pink") {
-acc.innerHTML="Jail";}}
+acc.innerHTML="Jail";
+jail.opacity="51%";
+jail.color="black";}}
 
 function cardThree() {
 var acc=document.getElementById("cardAcc");
