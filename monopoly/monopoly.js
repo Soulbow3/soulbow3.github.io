@@ -1052,8 +1052,6 @@ var move5=document.getElementByID("bone");
 var move6=document.getElementByID("btwo");
 var two=document.getElementById("twoH");
 var one=document.getElementById("oneH");
-var goone=document.getElementById("oneA");
-var gotwo=document.getElementById("twoA");
 var goldtwo=document.getElementById("ftwo");
 var goldone=document.getElementById("fone");
 var tile1=document.getElementById("oneA");
@@ -1101,22 +1099,22 @@ two.innerHTML="One";
 move6.innerHTML="";}
   
 else if (move1.innerHTML==="One" && acc.innerHTML==="Advance To Go") {
-goone.innerHTML="One";
+tile1.innerHTML="One";
 move1.innerHTML="";}
 else if (move2.innerHTML==="One" && acc.innerHTML==="Advance To Go") {
-gootwo.innerHTML="One";
+tile2.innerHTML="One";
 move2.innerHTML="";}
 else if (move3.innerHTML==="One" && acc.innerHTML==="Advance To Go") {
-goone.innerHTML="One";
+tile1.innerHTML="One";
 move3.innerHTML="";}
 else if (move4.innerHTML==="One" && acc.innerHTML==="Advance To Go") {
-gotwo.innerHTML="One";
+tile2.innerHTML="One";
 move4.innerHTML="";}
 else if (move5.innerHTML==="One" && acc.innerHTML==="Advance To Go") {
-goone.innerHTML="One";
+tile1.innerHTML="One";
 move5.innerHTML="";}
 else if (move6.innerHTML==="One" && acc.innerHTML==="Advance To Go") {
-gotwo.innerHTML="One";
+tile2.innerHTML="One";
 move26.innerHTML="";}
 
 else if (move1.innerHTML==="One" && acc.innerHTML==="Advance To Gold") {
