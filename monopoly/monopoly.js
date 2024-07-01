@@ -1400,7 +1400,7 @@ go2.innerHTML="Pink";
 go.opacity="50%";
 tile2a.innerHTML="";}
 else if (acc.innerHTML==="") {
-acc.innerHTML="+200";}}
+acc.innerHTML="+2$00";}}
  
 function cardTwo() {
 var acc=document.getElementById("cardAcc");
@@ -1760,7 +1760,7 @@ go2.innerHTML="Pink";
 go.opacity="50%";
 tile2a.innerHTML="";}
 else if (acc.innerHTML==="") {
-acc.innerHTML="+200";}}
+acc.innerHTML="+$200";}}
 
 function cardThree() {
 var acc=document.getElementById("cardAcc");
@@ -2120,7 +2120,7 @@ go2.innerHTML="Pink";
 go.opacity="50%";
 tile2a.innerHTML="";}
 else if (acc.innerHTML==="") {
-acc.innerHTML="+200";}}
+acc.innerHTML="+$200";}}
  
 function playerOne() {
 var dice=document.getElementById("node");
