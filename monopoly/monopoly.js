@@ -1398,7 +1398,9 @@ acc.innerHTML==="+$200" && tile2a.innerHTML==="Pink") {
 acc.innerHTML="Advance To Go";
 go2.innerHTML="Pink";
 go.opacity="50%";
-tile2a.innerHTML="";}}
+tile2a.innerHTML="";}
+else if (acc.innerHTML==="") {
+acc.innerHTML="+200";}}
  
 function cardTwo() {
 var acc=document.getElementById("cardAcc");
@@ -1756,7 +1758,9 @@ acc.innerHTML==="+$200" && tile2a.innerHTML==="Pink") {
 acc.innerHTML="Advance To Go";
 go2.innerHTML="Pink";
 go.opacity="50%";
-tile2a.innerHTML="";}}
+tile2a.innerHTML="";}
+else if (acc.innerHTML==="") {
+acc.innerHTML="+200";}}
 
 function cardThree() {
 var acc=document.getElementById("cardAcc");
@@ -2114,7 +2118,9 @@ acc.innerHTML==="+$200" && tile2a.innerHTML==="Pink") {
 acc.innerHTML="Advance To Go";
 go2.innerHTML="Pink";
 go.opacity="50%";
-tile2a.innerHTML="";}}
+tile2a.innerHTML="";}
+else if (acc.innerHTML==="") {
+acc.innerHTML="+200";}}
  
 function playerOne() {
 var dice=document.getElementById("node");
