@@ -1936,7 +1936,7 @@ var sixteen=document.getElementById("oneP");
 var seventeen=document.getElementById("oneQ");
 var eighteen=document.getElementById("oneR");
 var nineteen=document.getElementById("oneS");
-var twenty=document.getElementById("oneT");
+var twenty=document.getElementById("oneoT");
 var twentyone=document.getElementById("oneU");
 var twentytwo=document.getElementById("oneV");
 var twentythree=document.getElementById("oneW");
@@ -1946,7 +1946,7 @@ var twentysix=document.getElementById("oneZ");
 var twentyseven=document.getElementById("aone");
 var twentyeight=document.getElementById("bone");
 var twentynine=document.getElementById("cone");
-var thirty=document.getElementById("dOne");
+var thirty=document.getElementById("done");
 var thirtyone=document.getElementById("eone");
 var thirtytwo=document.getElementById("fone");
 if (one.innerHTML==="Two" && dice.innerHTML==="1") {
