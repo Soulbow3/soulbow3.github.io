@@ -9,37 +9,36 @@ else if (back.style.background==="purple") {
 back.style.background="purple";}
 
 else if (one.innerHTML==="One") {
-three.innerHTML="x15";
+three.innerHTML="x30";
 back.style.background="red";}
 else if (one.innerHTML==="Pink") {
-three.innerHTML="x15";
+three.innerHTML="x30";
 back.style.background="red";}
 else if (one.innerHTML==="Red") {
-three.innerHTML="x15";
+three.innerHTML="x30";
 back.style.background="red";}
 else if (one.innerHTML==="Yellow") {
-three.innerHTML="x15";
+three.innerHTML="x30";
 back.style.background="red";}
 else if (one.innerHTML==="Two") {
-three.innerHTMl="x15";
+three.innerHTMl="x30";
 back.style.background="Red";}
 
 else if (two.innerHTML==="Two") {
-three.innerHTML="x15";
+three.innerHTML="x30";
 back.style.background="purple";}
 else if (two.innerHTML==="Pink") {
-three.innerHTML="x15";
+three.innerHTML="x30";
 back.style.background="purple";}
 else if (two.innerHTML==="Red") {
-three.innerHTML="x15";
+three.innerHTML="x30";
 back.style.background="purple";}
 else if (two.innerHTML==="Yellow") {
-three.innerHTML="x15";
+three.innerHTML="x30";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
-three.innerHTMl="x15";
+three.innerHTMl="x30";
 back.style.background="purple";}}
-
 
 function timesTwo() {
 var one=document.getElementById("oneM");
