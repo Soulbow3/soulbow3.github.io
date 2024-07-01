@@ -950,7 +950,7 @@ else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $120";
 back.style.background="red";}}
 
-function gold() {
+function goldTwo() {
 var one=document.getElementById("eone");
 var three=document.getElementById("goldTwo");
 var back=document.getElementById("goldBack2");
@@ -990,7 +990,7 @@ else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $150";
 back.style.background="red";}}
 
-function goldTwo() {
+function gold() {
 var one=document.getElementById("fone");
 var three=document.getElementById("goldOne");
 var back=document.getElementById("goldBack");
