@@ -226,10 +226,10 @@ three.innerHTML="Rent $20";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
 three.innerHTMl="Rent $20";
-back.style.background="red";}
+back.style.background="purple";}
 else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $20";
-back.style.background="purple";}}
+back.style.background="red";}}
 
 function plumTwo() {
 var one=document.getElementById("oneC");
@@ -266,10 +266,10 @@ three.innerHTML="Rent $20";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
 three.innerHTMl="Rent $20";
-back.style.background="red";}
+back.style.background="purple";}
 else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $20";
-back.style.background="purple";}}
+back.style.background="red";}}
 
 function teal() {
 var one=document.getElementById("oneE");
@@ -306,10 +306,10 @@ three.innerHTML="Rent $30";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
 three.innerHTMl="Rent $30";
-back.style.background="red";}
+back.style.background="purple";}
 else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $30";
-back.style.background="purple";}}
+back.style.background="red";}}
 
 function tealTwo() {
 var one=document.getElementById("oneF");
@@ -346,10 +346,10 @@ three.innerHTML="Rent $30";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
 three.innerHTMl="Rent $30";
-back.style.background="red";}
+back.style.background="purple";}
 else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $30";
-back.style.background="purple";}}
+back.style.background="red";}}
 
 function tealThree() {
 var one=document.getElementById("oneG");
@@ -386,10 +386,10 @@ three.innerHTML="Rent $40";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
 three.innerHTMl="Rent $40";
-back.style.background="red";}
+back.style.background="purple";}
 else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $40";
-back.style.background="purple";}}
+back.style.background="red";}}
 
 function cyan() {
 var one=document.getElementById("oneI");
@@ -426,10 +426,10 @@ three.innerHTML="Rent $60";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
 three.innerHTMl="Rent $60";
-back.style.background="red";}
+back.style.background="purple";}
 else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $60";
-back.style.background="purple";}}
+back.style.background="red";}}
 
 function cyanTwo() {
 var one=document.getElementById("oneJ");
@@ -466,10 +466,10 @@ three.innerHTML="Rent $60";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
 three.innerHTMl="Rent $60";
-back.style.background="red";}
+back.style.background="purple";}
 else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $60";
-back.style.background="purple";}}
+back.style.background="red";}}
 
 function cyanThree() {
 var one=document.getElementById("oneK");
@@ -506,8 +506,8 @@ three.innerHTML="Rent $70";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
 three.innerHTMl="Rent $70";
-back.style.background="red";}
-else if (one.innerHTML==="Purple") {
+back.style.background="purple";}
+else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $70";
 back.style.background="Red";}}
 
@@ -546,10 +546,10 @@ three.innerHTML="Rent $70";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
 three.innerHTMl="Rent $70";
-back.style.background="red";}
+back.style.background="purple";}
 else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $70";
-back.style.background="purple";}}
+back.style.background="red";}}
 
 function blueTwo() {
 var one=document.getElementById("oneO");
@@ -586,10 +586,10 @@ three.innerHTML="Rent $80";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
 three.innerHTMl="Rent $80";
-back.style.background="red";}
+back.style.background="purple";}
 else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $80";
-back.style.background="purple";}}
+back.style.background="red";}}
 
 function blueThree() {
 var one=document.getElementById("oneP");
@@ -626,10 +626,10 @@ three.innerHTML="Rent $90";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
 three.innerHTMl="Rent $90";
-back.style.background="red";}
+back.style.background="purple";}
 else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $90";
-back.style.background="purple";}}
+back.style.background="red";}}
 
 function pink() {
 var one=document.getElementById("oneR");
@@ -666,10 +666,10 @@ three.innerHTML="Rent $90";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
 three.innerHTMl="Rent $90";
-back.style.background="red";}
+back.style.background="purple";}
 else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $90";
-back.style.background="purple";}}
+back.style.background="red";}}
 
 function pinkTwo() {
 var one=document.getElementById("oneS");
@@ -706,10 +706,10 @@ three.innerHTML="Rent $90";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
 three.innerHTMl="Rent $90";
-back.style.background="red";}
+back.style.background="purple";}
 else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $90";
-back.style.background="purple";}}
+back.style.background="red";}}
 
 function pinkThree() {
 var one=document.getElementById("oneT");
@@ -746,10 +746,10 @@ three.innerHTML="Rent $100";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
 three.innerHTMl="Rent $100";
-back.style.background="red";}
+back.style.background="purple";}
 else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $100";
-back.style.background="purple";}}
+back.style.background="red";}}
 
 function red() {
 var one=document.getElementById("oneV");
@@ -786,10 +786,10 @@ three.innerHTML="Rent $100";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
 three.innerHTMl="Rent $100";
-back.style.background="red";}
+back.style.background="purple";}
 else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $100";
-back.style.background="purple";}}
+back.style.background="red";}}
 
 function redTwo() {
 var one=document.getElementById("oneW");
@@ -826,10 +826,10 @@ three.innerHTML="Rent $110";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
 three.innerHTMl="Rent $110";
-back.style.background="red";}
+back.style.background="purple";}
 else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $110";
-back.style.background="purple";}}
+back.style.background="red";}}
 
 function lime() {
 var one=document.getElementById("oneY");
@@ -866,10 +866,10 @@ three.innerHTML="Rent $100";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
 three.innerHTMl="Rent $100";
-back.style.background="red";}
+back.style.background="purple";}
 else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $100";
-back.style.background="purple";}}
+back.style.background="red";}}
 
 function limeTwo() {
 var one=document.getElementById("oneZ");
@@ -906,10 +906,10 @@ three.innerHTML="Rent $100";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
 three.innerHTMl="Rent $100";
-back.style.background="red";}
+back.style.background="purple";}
 else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $100";
-back.style.background="purple";}}
+back.style.background="red";}}
 
 function limeThree() {
 var one=document.getElementById("aone");
@@ -946,15 +946,15 @@ three.innerHTML="Rent $120";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
 three.innerHTMl="Rent $120";
-back.style.background="red";}
+back.style.background="purple";}
 else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $120";
-back.style.background="purple";}}
+back.style.background="red";}}
 
 function gold() {
 var one=document.getElementById("eone");
-var three=document.getElementById("goldOne");
-var back=document.getElementById("goldBack");
+var three=document.getElementById("goldTwo");
+var back=document.getElementById("goldBack2");
 var two=document.getElementById("etwo");
 if (back.style.background==="red") {
 back.style.background="red";}
@@ -986,15 +986,15 @@ three.innerHTML="Rent $150";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
 three.innerHTMl="Rent $150";
-back.style.background="red";}
+back.style.background="purple";}
 else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $150";
-back.style.background="purple";}}
+back.style.background="red";}}
 
 function goldTwo() {
 var one=document.getElementById("fone");
-var three=document.getElementById("goldTwo");
-var back=document.getElementById("goldBack2");
+var three=document.getElementById("goldOne");
+var back=document.getElementById("goldBack");
 var two=document.getElementById("ftwo");
 if (back.style.background==="red") {
 back.style.background="red";}
@@ -1026,10 +1026,10 @@ three.innerHTML="Rent $160";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
 three.innerHTMl="Rent $160";
-back.style.background="red";}
+back.style.background="purple";}
 else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $160";
-back.style.background="purple";}}
+back.style.background="red";}}
 
 function piece(element) {
 if (element.innerHTML==="Two") {
