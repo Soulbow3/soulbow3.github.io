@@ -40,10 +40,10 @@ else if (two.innerHTML==="One") {
 three.innerHTMl="x30";
 back.style.background="purple";}}
 
-function timesTwo() {
+function times2() {
 var one=document.getElementById("oneM");
-var three=document.getElementById("timeTwo");
-var back=document.getElementById("timesTwo");
+var three=document.getElementById("timesTwo");
+var back=document.getElementById("timesBack2");
 var two=document.getElementById("twoM");
 if (back.style.background==="red") {
 back.style.background="red";}
@@ -1042,7 +1042,7 @@ element.innerHTML="One";}
 else if (element.innerHTML==="One") {
 element.innerHTML="Two";}}
 
-function cardOne() {
+function card1() {
 var acc=document.getElementById("cardAcc");
 var tile1a= document.getElementById("oneD");
 var tile2a= document.getElementById("twoD");
@@ -1402,7 +1402,7 @@ tile2a.innerHTML="";}
 else if (acc.innerHTML==="") {
 acc.innerHTML="+$200";}}
  
-function cardTwo() {
+function card2() {
 var acc=document.getElementById("cardAcc");
 var tile1a= document.getElementById("oneU");
 var tile2a= document.getElementById("twoU");
@@ -1767,7 +1767,7 @@ tile2a.innerHTML="";}
 else if (acc.innerHTML==="") {
 acc.innerHTML="+$200";}}
 
-function cardThree() {
+function card3() {
 var acc=document.getElementById("cardAcc");
 var back1=document.getElementById("oneY");
 var back2=document.getElementById("twoY");
