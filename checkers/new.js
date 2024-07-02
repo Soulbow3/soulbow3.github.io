@@ -1,79 +1,168 @@
-<!DOCTYPE html>
-<head><html lang="en"><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="viewport" content="width=device-width, initial-scale=1"><link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous"></head>
-<body style="background: linear-gradient( 90deg, pink, pink, pink, pink, pink, black, black)"><u><h1>Soul Checkers</h1></u>
-<table><tr><td><section style="border: solid 4px; width: 30px; height: 30px; background: deeppink; opacity: 75%"><main id="id1" onclick="tile(this)" style="background: red; width: 22px; height: 22px; border-radius: 45px 45px 45px 45px; border: solid 2px black"></main></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: black; opacity: 60%"></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: deeppink; opacity: 75%"><main id="id2" onclick="tile(this)" style="background: red; width: 22px; height: 22px; border-radius: 45px 45px 45px 45px; border: solid 2px black"></main></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: black; opacity: 60%"></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: deeppink; opacity: 75%"><main id="id3" onclick="tile(this)" style="background: red; width: 22px; height: 22px; border-radius: 45px 45px 45px 45px; border: solid 2px black"></main></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: black; opacity: 60%"></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: deeppink; opacity: 75%"><main id="id4" onclick="tile(this)" style="background: red; width: 22px; height: 22px; border-radius: 45px 45px 45px 45px; border: solid 2px black"></main></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: black; opacity: 60%"></section></td></tr>
-<tr><td><section style="border: solid 4px; width: 30px; height: 30px; background: black; opacity: 60%"></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: deeppink; opacity: 75%"><main id="id5" onclick="tile(this)" style="background: red; width: 22px; height: 22px; border-radius: 45px 45px 45px 45px; border: solid 2px black"></main></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: black; opacity: 60%"></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: deeppink; opacity: 75%"><main id="id6" onclick="tile(this)" style="background: red; width: 22px; height: 22px; border-radius: 45px 45px 45px 45px; border: solid 2px black"></main></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: black; opacity: 60%"></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: deeppink; opacity: 75%"><main id="id7" onclick="tile(this)" style="background: red; width: 22px; height: 22px; border-radius: 45px 45px 45px 45px; border: solid 2px black"></main></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: black; opacity: 60%"></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: deeppink; opacity: 75%"><main id="id8" onclick="tile(this)" style="background: red; width: 22px; height: 22px; border-radius: 45px 45px 45px 45px; border: solid 2px black"></main></section></td></tr>
-<tr><td><section style="border: solid 4px; width: 30px; height: 30px; background: deeppink; opacity: 75%"><main id="id9" onclick="tile(this)" style="background: red; width: 22px; height: 22px; border-radius: 45px 45px 45px 45px; border: solid 2px black"></main></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: black; opacity: 60%"></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: deeppink; opacity: 75%"><main id="id10" onclick="tile(this)" style="background: red; width: 22px; height: 22px; border-radius: 45px 45px 45px 45px; border: solid 2px black"></main></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: black; opacity: 60%"></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: deeppink; opacity: 75%"><main id="id11" onclick="tile(this)" style="background: red; width: 22px; height: 22px; border-radius: 45px 45px 45px 45px; border: solid 2px black"></main></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: black; opacity: 60%"></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: deeppink; opacity: 75%"><main id="id12" onclick="tile(this)" style="background: red; width: 22px; height: 22px; border-radius: 45px 45px 45px 45px; border: solid 2px black"></main></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: black; opacity: 60%"></section></td></tr>
-<tr><td><section style="border: solid 4px; width: 30px; height: 30px; background: black; opacity: 60%"></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: deeppink; opacity: 75%"><main id="id13" onclick="tile(this)" style="background: deeppink; width: 22px; height: 22px; border-radius: 45px 45px 45px 45px"></main></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: black; opacity: 60%"></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: deeppink; opacity: 75%"><main id="id14" onclick="tile(this)" style="background: deeppink; width: 22px; height: 22px; border-radius: 45px 45px 45px 45px"></main></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: black; opacity: 60%"></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: deeppink; opacity: 75%"><main id="id15" onclick="tile(this)" style="background: deeppink; width: 22px; height: 22px; border-radius: 45px 45px 45px 45px"></main></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: black; opacity: 60%"></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: deeppink; opacity: 75%"><main id="id16" onclick="tile(this)" style="background: deeppink; width: 22px; height: 22px; border-radius: 45px 45px 45px 45px"></main></section></td></tr>
-<tr><td><section style="border: solid 4px; width: 30px; height: 30px; background: deeppink; opacity: 75%"><main id="id17" onclick="tile(this)" style="background: deeppink; width: 22px; height: 22px; border-radius: 45px 45px 45px 45px"></main></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: black; opacity: 60%"></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: deeppink; opacity: 75%"><main id="id18" onclick="tile(this)" style="background: deeppink; width: 22px; height: 22px; border-radius: 45px 45px 45px 45px"></main></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: black; opacity: 60%"></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: deeppink; opacity: 75%"><main id="id19" onclick="tile(this)" style="background: deeppink; width: 22px; height: 22px; border-radius: 45px 45px 45px 45px"></main></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: black; opacity: 60%"></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: deeppink; opacity: 75%"><main id="id20" onclick="tile(this)" style="background: deeppink; width: 22px; height: 22px; border-radius: 45px 45px 45px 45px"></main></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: black; opacity: 60%"></section></td></tr>
-<tr><td><section style="border: solid 4px; width: 30px; height: 30px; background: black; opacity: 60%"></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: deeppink; opacity: 75%"><main id="id21" onclick="tile(this)" style="background: black; width: 22px; height: 22px; border-radius: 45px 45px 45px 45px"></main></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: black; opacity: 60%"></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: deeppink; opacity: 75%"><main id="id22" onclick="tile(this)" style="background: black; width: 22px; height: 22px; border-radius: 45px 45px 45px 45px"></main></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: black; opacity: 60%"></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: deeppink; opacity: 75%"><main id="id23" onclick="tile(this)" style="background: black; width: 22px; height: 22px; border-radius: 45px 45px 45px 45px"></main></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: black; opacity: 60%"></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: deeppink; opacity: 75%"><main id="id24" onclick="tile(this)" style="background: black; width: 22px; height: 22px; border-radius: 45px 45px 45px 45px"></main></section></td></tr>
-<tr><td><section style="border: solid 4px; width: 30px; height: 30px; background: deeppink; opacity: 75%"><main id="id25" onclick="tile(this)" style="background: black; width: 22px; height: 22px; border-radius: 45px 45px 45px 45px"></main></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: black; opacity: 60%"></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: deeppink; opacity: 75%"><main id="id26" onclick="tile(this)" style="background: black; width: 22px; height: 22px; border-radius: 45px 45px 45px 45px"></main></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: black; opacity: 60%"></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: deeppink; opacity: 75%"><main id="id27" onclick="tile(this)" style="background: black; width: 22px; height: 22px; border-radius: 45px 45px 45px 45px"></main></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: black; opacity: 60%"></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: deeppink; opacity: 75%"><main id="id28" onclick="tile(this)" style="background: black; width: 22px; height: 22px; border-radius: 45px 45px 45px 45px"></main></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: black; opacity: 60%"></section></td></tr>
-<tr><td><section style="border: solid 4px; width: 30px; height: 30px; background: black; opacity: 60%"></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: deeppink; opacity: 75%"><main id="id29" onclick="tile(this)" style="background: black; width: 22px; height: 22px; border-radius: 45px 45px 45px 45px"></main></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: black; opacity: 60%"></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: deeppink; opacity: 75%"><main id="id30" onclick="tile(this)" style="background: black; width: 22px; height: 22px; border-radius: 45px 45px 45px 45px"></main></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: black; opacity: 60%"></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: deeppink; opacity: 75%"><main id="id31" onclick="tile(this)" style="background: black; width: 22px; height: 22px; border-radius: 45px 45px 45px 45px"></main></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: black; opacity: 60%"></section></td>
-<td><section style="border: solid 4px; width: 30px; height: 30px; background: deeppink; opacity: 75%"><main id="id32" onclick="tile(this)" style="background: black; width: 22px; height: 22px; border-radius: 45px 45px 45px 45px"></main></section></td></tr></table>
-<br>
-<table>
-<tr>
-<td><footer style="background:green" id="black"><p onclick="one()">Black</p></footer></td>
-<td><footer style="background:green" id="red"><p onclick="two()">Red</p></footer></td>
-<td><footer style="background:green" id="purple"><p onclick="four()">Purple</p></footer></td>
-<td><footer style="background:green" id="orange"><p onclick="three()">Orange</p></footer></td>
-</tr>
-</table>
-<p>Crafted By <span style="font-family: cursive">Dylan Smith</span></p><button onclick="reset()" class="btn btn-danger">Reset</button>
-<script src="/checkers/new.js"></script>
-</body></html>
+const black=document.getElementById("black");
+const red=document.getElementById("red");
+const purple=document.getElementById("purple");
+const orange= document.getElementById("orange");
+
+function tile(element) {
+if (document.getElementById("id1").style.background=="black") {element.style.background="orange";}
+else if (document.getElementById("id2").style.background=="black") {element.style.background="orange";}
+else if (document.getElementById("id3").style.background=="black") {element.style.background="orange";}
+else if (document.getElementById("id4").style.background=="black") {element.style.background="orange";}
+else if (document.getElementById("id29").style.background=="red") {element.style.background="purple";}
+else if (document.getElementById("id30").style.background=="red") {element.style.background="purple"; }
+else if (document.getElementById("id31").style.background=="red") {element.style.background="purple";}
+else if (document.getElementById("id32").style.background=="red") {element.style.background="purple";}
+else if (element.style.background==="orange" && purple.style.background==="purple") {
+element.style.background="deeppink";
+element.style.border="solid deeppink";}
+else if (element.style.background==="purple" && orange.style.background==="orange") {
+element.style.background="deeppink";
+element.style.border="solid deeppink";}
+else if (element.style.background==="orange" && red.style.background==="red") {
+element.style.background="deeppink";
+element.style.border="solid deeppink";}
+else if (element.style.background==="purple" && black.style.background==="black") {
+element.style.background="deeppink";
+element.style.border="solid deeppink";}
+else if (element.style.background === "deeppink" && orange.style.background==="orange") {
+element.style.background="orange";
+element.style.border="solid black";
+orange.style.background="green";}
+else if (element.style.background === "deeppink" && purple.style.background==="purple") {
+element.style.background="purple";
+element.style.border="solid black";
+purple.style.background="green";}
+else if (element.style.background=== "deeppink" && black.style.background==="black") {
+element.style.background="black";
+element.style.border="solid black";
+black.style.background="green";}
+else if (element.style.background=== "deeppink" && red.style.background==="red") {
+element.style.background="red";
+element.style.border="solid black";
+red.style.background="green";}
+else if (element.style.background=== "red" && orange.style.background === "orange") {
+element.style.background="deeppink";
+element.style.border="solid deeppink";}
+else if (element.style.background=== "black" && purple.style.background === "purple") {
+element.style.background="deeppink";
+element.style.border="solid deeppink";}
+else if (element.style.background=== "black" && red.style.background==="red") {
+element.style.background="deeppink";
+element.style.border="solid deeppink";}
+else if (element.style.background=== "red" && black.style.background==="black") {
+element.style.background="deeppink";
+element.style.border="solid deeppink";}
+else if (element.style.background=== "black" && orange.style.background==="orange") {
+element.style.background="deeppink";
+element.style.border="solid deeppink";}
+else if (element.style.background=== "red" && purple.style.background==="purple") {
+element.style.background="deeppink";
+element.style.border="solid deeppink";}
+else if (element.style.background=== "orange" && black.style.background==="black") {
+element.style.background="deeppink";
+element.style.border="solid deeppink";}
+else if (element.style.background=== "purple" && red.style.background==="red") {
+element.style.background="deeppink";
+element.style.border="solid deeppink";}
+else if (element.style.background=== "black") {
+element.style.background="deeppink";
+element.style.border="solid deeppink";
+black.style.background="black";}
+else if (element.style.background=== "red") {
+element.style.background="deeppink";
+element.style.border="solid deeppink";
+red.style.background="red";}
+else if (element.style.background==="purple") {
+element.style.background="deeppink";
+element.style.border="solid deeppink";
+purple.style.background="purple";}
+else if (element.style.background==="orange") {
+element.style.background="deeppink";
+element.style.border="solid deeppink";
+orange.style.background="orange";}}
+
+function one() {
+if (black.style.background==="green") {
+black.style.background="black";}
+else {black.style.background="green";}}
+
+function two() {
+if (red.style.background==="green") {
+red.style.background="red";}
+else {red.style.background="green";}}
+
+function three() {
+if (orange.style.background==="green") {
+orange.style.background="orange";}
+else {orange.style.background="green";}}
+
+function four() {
+if (purple.style.background==="green") {
+purple.style.background="purple";}
+else {purple.style.background="green";}}
+
+function reset() {
+document.getElementById("id1").style.background="red";
+document.getElementById("id1").style.border="solid black";
+document.getElementById("id2").style.background="red";
+document.getElementById("id2").style.border="solid black";
+document.getElementById("id3").style.background="red";
+document.getElementById("id3").style.border="solid black";
+document.getElementById("id4").style.background="red";
+document.getElementById("id4").style.border="solid black";
+document.getElementById("id5").style.background="red";
+document.getElementById("id5").style.border="solid black";
+document.getElementById("id6").style.background="red";
+document.getElementById("id6").style.border="solid black";
+document.getElementById("id7").style.background="red";
+document.getElementById("id7").style.border="solid black";
+document.getElementById("id8").style.background="red";
+document.getElementById("id8").style.border="solid black";
+document.getElementById("id9").style.background="red";
+document.getElementById("id9").style.border="solid black";
+document.getElementById("id10").style.background="red";
+document.getElementById("id10").style.border="solid black";
+document.getElementById("id11").style.background="red";
+document.getElementById("id11").style.border="solid black";
+document.getElementById("id12").style.background="red";
+document.getElementById("id12").style.border="solid black";
+document.getElementById("id21").style.background="black";
+document.getElementById("id21").style.border="solid black";
+document.getElementById("id22").style.background="black";
+document.getElementById("id22").style.border="solid black";
+document.getElementById("id23").style.background="black";
+document.getElementById("id23").style.border="solid black";
+document.getElementById("id24").style.background="black";
+document.getElementById("id24").style.border="solid black";
+document.getElementById("id25").style.background="black";
+document.getElementById("id25").style.border="solid black";
+document.getElementById("id26").style.background="black";
+document.getElementById("id26").style.border="solid black";
+document.getElementById("id27").style.background="black";
+document.getElementById("id27").style.border="solid black";
+document.getElementById("id28").style.background="black";
+document.getElementById("id28").style.border="solid black";
+document.getElementById("id29").style.background="black";
+document.getElementById("id29").style.border="solid black";
+document.getElementById("id30").style.background="black";
+document.getElementById("id30").style.border="solid black";
+document.getElementById("id31").style.background="black";
+document.getElementById("id31").style.border="solid black";
+document.getElementById("id32").style.background="black";
+document.getElementById("id32").style.border="solid black";
+document.getElementById("id13").style.background="deeppink";
+document.getElementById("id13").style.border="deeppink";
+document.getElementById("id14").style.background="deeppink";
+document.getElementById("id14").style.border="deeppink";
+document.getElementById("id15").style.background="deeppink";
+document.getElementById("id15").style.border="deeppink";
+document.getElementById("id16").style.background="deeppink";
+document.getElementById("id16").style.border="deeppink";
+document.getElementById("id17").style.background="deeppink";
+document.getElementById("id17").style.border="deeppink";
+document.getElementById("id18").style.background="deeppink";
+document.getElementById("id18").style.border="deeppink";
+document.getElementById("id19").style.background="deeppink";
+document.getElementById("id19").style.border="deeppink";
+document.getElementById("id20").style.background="deeppink";
+document.getElementById("id20").style.border="deeppink";}
