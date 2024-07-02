@@ -1048,13 +1048,13 @@ var tile1a= document.getElementById("oneD");
 var tile2a= document.getElementById("twoD");
 var jail1=document.getElementById("oneH");
 var jail2=document.getElementById("twoH");
-var jail=document.getElementById("8");
+var jail=document.getElementById("jail");
 var gold1=document.getElementById("fone");
 var gold2=document.getElementById("ftwo");
-var gold=document.getElementById("32");
+var gold=document.getElementById("goldBack1");
 var go1= document.getElementById("oneA");
 var go2= document.getElementById("twoA");
-var go=document.getElementById("1");
+var go=document.getElementById("start");
 if (acc.innerHTML==="Advance To Go" && tile1a.innerHTML==="One") {
 acc.innerHTML="Nothing";}
 else if (
