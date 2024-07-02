@@ -1,7 +1,7 @@
-function timesOne() {
+function times1() {
 var one=document.getElementById("done");
-var three=document.getElementById("timeOne");
-var back=document.getElementById("timesOne");
+var three=document.getElementById("timesOne");
+var back=document.getElementById("timesBack1");
 var two=document.getElementById("dtwo");
 if (back.style.background==="red") {
 back.style.background="red";}
@@ -82,7 +82,7 @@ else if (two.innerHTML==="One") {
 three.innerHTMl="x30";
 back.style.background="purple";}}
 
-function jail() {
+function drunkTank() {
 var jailStartOne=document.getElementById("oneX");
 var jailStartTwo=document.getElementById("twoX");
 var jailOne=document.getElementById("oneH");
@@ -118,7 +118,7 @@ else if (jailStartTwo.innerHTML==="Pink") {
 jailStartTwo.innerHTML="";
 jailTwo.innerHTML="Pink";}}
 
-function go1() {
+function start1() {
 var startOne=document.getElementById("cone");
 var startTwo=document.getElementById("ctwo");
 var homeOne=document.getElementById("oneA");
@@ -154,7 +154,7 @@ else if (startTwo.innerHTML==="Pink") {
 startTwo.innerHTML="";
 homeTwo.innerHTML="Pink";}}
 
-function go2() {
+function start2() {
 var startOne=document.getElementById("oneL");
 var startTwo=document.getElementById("twoL");
 var homeOne=document.getElementById("oneA");
@@ -190,10 +190,10 @@ else if (startTwo.innerHTML==="Pink") {
 startTwo.innerHTML="";
 homeTwo.innerHTML="Pink";}}
 
-function plum() {
+function plum1() {
 var one=document.getElementById("oneB");
 var three=document.getElementById("plumOne");
-var back=document.getElementById("plumBack");
+var back=document.getElementById("plumBack1");
 var two=document.getElementById("twoB");
 if (back.style.background==="red") {
 back.style.background="red";}
@@ -230,7 +230,7 @@ else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $20";
 back.style.background="red";}}
 
-function plumTwo() {
+function plum2() {
 var one=document.getElementById("oneC");
 var three=document.getElementById("plumTwo");
 var back=document.getElementById("plumBack2");
@@ -270,10 +270,10 @@ else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $20";
 back.style.background="red";}}
 
-function teal() {
+function teal1() {
 var one=document.getElementById("oneE");
 var three=document.getElementById("tealOne");
-var back=document.getElementById("tealBack");
+var back=document.getElementById("tealBack1");
 var two=document.getElementById("twoE");
 if (back.style.background==="red") {
 back.style.background="red";}
@@ -310,7 +310,7 @@ else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $30";
 back.style.background="red";}}
 
-function tealTwo() {
+function teal2() {
 var one=document.getElementById("oneF");
 var three=document.getElementById("tealTwo");
 var back=document.getElementById("tealBack2");
@@ -390,10 +390,10 @@ else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $40";
 back.style.background="red";}}
 
-function cyan() {
+function cyan1() {
 var one=document.getElementById("oneI");
 var three=document.getElementById("cyanOne");
-var back=document.getElementById("cyanBack");
+var back=document.getElementById("cyanBack1");
 var two=document.getElementById("twoI");
 if (back.style.background==="red") {
 back.style.background="red";}
@@ -430,7 +430,7 @@ else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $60";
 back.style.background="red";}}
 
-function cyanTwo() {
+function cyan2() {
 var one=document.getElementById("oneJ");
 var three=document.getElementById("cyanTwo");
 var back=document.getElementById("cyanBack2");
@@ -470,7 +470,7 @@ else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $60";
 back.style.background="red";}}
 
-function cyanThree() {
+function cyan3() {
 var one=document.getElementById("oneK");
 var three=document.getElementById("cyanThree");
 var back=document.getElementById("cyanBack3");
@@ -510,10 +510,10 @@ else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $70";
 back.style.background="Red";}}
 
-function blue() {
+function blue1() {
 var one=document.getElementById("oneN");
 var three=document.getElementById("blueOne");
-var back=document.getElementById("blueBack");
+var back=document.getElementById("blueBack1");
 var two=document.getElementById("twoN");
 if (back.style.background==="red") {
 back.style.background="red";}
@@ -550,7 +550,7 @@ else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $70";
 back.style.background="red";}}
 
-function blueTwo() {
+function blue2() {
 var one=document.getElementById("oneO");
 var three=document.getElementById("blueTwo");
 var back=document.getElementById("blueBack2");
@@ -590,7 +590,7 @@ else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $80";
 back.style.background="red";}}
 
-function blueThree() {
+function blue3() {
 var one=document.getElementById("oneP");
 var three=document.getElementById("blueThree");
 var back=document.getElementById("blueBack3");
@@ -630,10 +630,10 @@ else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $90";
 back.style.background="red";}}
 
-function pink() {
+function pink1() {
 var one=document.getElementById("oneR");
 var three=document.getElementById("pinkOne");
-var back=document.getElementById("pinkBack");
+var back=document.getElementById("pinkBack1");
 var two=document.getElementById("twoR");
 if (back.style.background==="red") {
 back.style.background="red";}
@@ -670,7 +670,7 @@ else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $90";
 back.style.background="red";}}
 
-function pinkTwo() {
+function pink2() {
 var one=document.getElementById("oneS");
 var three=document.getElementById("pinkTwo");
 var back=document.getElementById("pinkBack2");
@@ -710,7 +710,7 @@ else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $90";
 back.style.background="red";}}
 
-function pinkThree() {
+function pink3() {
 var one=document.getElementById("oneT");
 var three=document.getElementById("pinkThree");
 var back=document.getElementById("pinkBack3");
@@ -750,10 +750,10 @@ else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $100";
 back.style.background="red";}}
 
-function red() {
+function red1() {
 var one=document.getElementById("oneV");
 var three=document.getElementById("redOne");
-var back=document.getElementById("redBack");
+var back=document.getElementById("redBack1");
 var two=document.getElementById("twoV");
 if (back.style.background==="red") {
 back.style.background="red";}
@@ -790,7 +790,7 @@ else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $100";
 back.style.background="red";}}
 
-function redTwo() {
+function red2() {
 var one=document.getElementById("oneW");
 var three=document.getElementById("redTwo");
 var back=document.getElementById("redBack2");
@@ -830,10 +830,10 @@ else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $110";
 back.style.background="red";}}
 
-function lime() {
+function lime1() {
 var one=document.getElementById("oneY");
 var three=document.getElementById("limeOne");
-var back=document.getElementById("limeBack");
+var back=document.getElementById("limeBack1");
 var two=document.getElementById("twoY");
 if (back.style.background==="red") {
 back.style.background="red";}
@@ -870,7 +870,7 @@ else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $100";
 back.style.background="red";}}
 
-function limeTwo() {
+function lime2() {
 var one=document.getElementById("oneZ");
 var three=document.getElementById("limeTwo");
 var back=document.getElementById("limeBack2");
@@ -910,7 +910,7 @@ else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $100";
 back.style.background="red";}}
 
-function limeThree() {
+function lime3() {
 var one=document.getElementById("aone");
 var three=document.getElementById("limeThree");
 var back=document.getElementById("limeBack3");
@@ -950,7 +950,47 @@ else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $120";
 back.style.background="red";}}
 
-function goldTwo() {
+function gold1() {
+var one=document.getElementById("fone");
+var three=document.getElementById("goldOne");
+var back=document.getElementById("goldBack1");
+var two=document.getElementById("ftwo");
+if (back.style.background==="red") {
+back.style.background="red";}
+else if (back.style.background==="purple") {
+back.style.background="purple";}
+else if (two.innerHTML==="Two") {
+three.innerHTML="Rent $160";
+back.style.background="purple";}
+else if (one.innerHTML==="One") {
+three.innerHTML="Rent $160";
+back.style.background="red";}
+else if (one.innerHTML==="Pink") {
+three.innerHTML="Rent $160";
+back.style.background="red";}
+else if (one.innerHTML==="Red") {
+three.innerHTML="Rent $160";
+back.style.background="red";}
+else if (one.innerHTML==="Yellow") {
+three.innerHTML="Rent $160";
+back.style.background="red";}
+else if (two.innerHTML==="Pink") {
+three.innerHTML="Rent $160";
+back.style.background="purple";}
+else if (two.innerHTML==="Red") {
+three.innerHTML="Rent $160";
+back.style.background="purple";}
+else if (two.innerHTML==="Yellow") {
+three.innerHTML="Rent $160";
+back.style.background="purple";}
+else if (two.innerHTML==="One") {
+three.innerHTMl="Rent $160";
+back.style.background="purple";}
+else if (one.innerHTML==="Two") {
+three.innerHTMl="Rent $160";
+back.style.background="red";}}
+
+function gold2() {
 var one=document.getElementById("eone");
 var three=document.getElementById("goldTwo");
 var back=document.getElementById("goldBack2");
@@ -990,46 +1030,6 @@ else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $150";
 back.style.background="red";}}
 
-function gold() {
-var one=document.getElementById("fone");
-var three=document.getElementById("goldOne");
-var back=document.getElementById("goldBack");
-var two=document.getElementById("ftwo");
-if (back.style.background==="red") {
-back.style.background="red";}
-else if (back.style.background==="purple") {
-back.style.background="purple";}
-else if (two.innerHTML==="Two") {
-three.innerHTML="Rent $160";
-back.style.background="purple";}
-else if (one.innerHTML==="One") {
-three.innerHTML="Rent $160";
-back.style.background="red";}
-else if (one.innerHTML==="Pink") {
-three.innerHTML="Rent $160";
-back.style.background="red";}
-else if (one.innerHTML==="Red") {
-three.innerHTML="Rent $160";
-back.style.background="red";}
-else if (one.innerHTML==="Yellow") {
-three.innerHTML="Rent $160";
-back.style.background="red";}
-else if (two.innerHTML==="Pink") {
-three.innerHTML="Rent $160";
-back.style.background="purple";}
-else if (two.innerHTML==="Red") {
-three.innerHTML="Rent $160";
-back.style.background="purple";}
-else if (two.innerHTML==="Yellow") {
-three.innerHTML="Rent $160";
-back.style.background="purple";}
-else if (two.innerHTML==="One") {
-three.innerHTMl="Rent $160";
-back.style.background="purple";}
-else if (one.innerHTML==="Two") {
-three.innerHTMl="Rent $160";
-back.style.background="red";}}
-
 function piece(element) {
 if (element.innerHTML==="Two") {
 element.innerHTML="Red";}
@@ -1048,13 +1048,13 @@ var tile1a= document.getElementById("oneD");
 var tile2a= document.getElementById("twoD");
 var jail1=document.getElementById("oneH");
 var jail2=document.getElementById("twoH");
-var jail=document.getElementById("colorTwo");
+var jail=document.getElementById("8");
 var gold1=document.getElementById("fone");
 var gold2=document.getElementById("ftwo");
-var gold=document.getElementById("gold");
+var gold=document.getElementById("32");
 var go1= document.getElementById("oneA");
 var go2= document.getElementById("twoA");
-var go=document.getElementById("colorOne");
+var go=document.getElementById("1");
 if (acc.innerHTML==="Advance To Go" && tile1a.innerHTML==="One") {
 acc.innerHTML="Nothing";}
 else if (
@@ -1404,19 +1404,22 @@ acc.innerHTML="+$200";}}
  
 function cardTwo() {
 var acc=document.getElementById("cardAcc");
-var back1=document.getElementById("oneR");
-var back2=document.getElementById("twoR");
 var tile1a= document.getElementById("oneU");
 var tile2a= document.getElementById("twoU");
 var jail1=document.getElementById("oneH");
 var jail2=document.getElementById("twoH");
-var jail=document.getElementById("colorTwo");
+var jail=document.getElementById("8");
 var gold1=document.getElementById("fone");
 var gold2=document.getElementById("ftwo");
-var gold=document.getElementById("gold");
+var gold=document.getElementById("32");
 var go1= document.getElementById("oneA");
 var go2= document.getElementById("twoA");
-var go=document.getElementById("colorOne");
+var go=document.getElementById("1");
+var tile1a= document.getElementById("oneD");
+var tile2a= document.getElementById("twoD");
+var back1= document.getElementById("oneR");
+var back2= document.getElementById("twoR");
+var back= document.getElementById("23");
 if (acc.innerHTML==="Advance To Go" && tile1a.innerHTML==="One") {
 acc.innerHTML="Nothing";}
 else if (
@@ -1768,17 +1771,18 @@ function cardThree() {
 var acc=document.getElementById("cardAcc");
 var back1=document.getElementById("oneY");
 var back2=document.getElementById("twoY");
+var back=document.getElementById("25")
 var tile1a= document.getElementById("bone");
 var tile2a= document.getElementById("btwo");
 var jail1=document.getElementById("oneH");
 var jail2=document.getElementById("twoH");
-var jail=document.getElementById("colorTwo");
+var jail=document.getElementById("8");
 var gold1=document.getElementById("fone");
 var gold2=document.getElementById("ftwo");
 var gold=document.getElementById("gold");
 var go1= document.getElementById("oneA");
 var go2= document.getElementById("twoA");
-var go=document.getElementById("colorOne");
+var go=document.getElementById("1");
 if (acc.innerHTML==="Advance To Go" && tile1a.innerHTML==="One") {
 acc.innerHTML="Nothing";}
 else if (
@@ -7958,7 +7962,7 @@ else if (thirtytwo.innerHTML==="Pink" && dice.innerHTML==="6") {
 six.innerHTML="Pink";
 thirtytwo.innerHTML="";}}
 
-function reset() {
+function resetDice() {
 document.getElementById("node").innerHTML="";}
 
 function selectTileOne() {
@@ -7974,8 +7978,6 @@ document.getElementById("node").innerHTML="5";}
 function selectTileSix() {
 document.getElementById("node").innerHTML="6";}
 
-document.getElementById("btn").addEventListener("click", playerOne);
-document.getElementById("btntwo").addEventListener("click", playerTwo);
 document.getElementById("a1").addEventListener("click", selectTileOne);
 document.getElementById("b1").addEventListener("click", selectTileTwo);
 document.getElementById("c1").addEventListener("click", selectTileThree);
