@@ -51,35 +51,35 @@ else if (back.style.background==="purple") {
 back.style.background="purple";}
 
 else if (one.innerHTML==="One") {
-three.innerHTML="x30";
+three.innerHTML="x40";
 back.style.background="red";}
 else if (one.innerHTML==="Pink") {
-three.innerHTML="x30";
+three.innerHTML="x40";
 back.style.background="red";}
 else if (one.innerHTML==="Red") {
-three.innerHTML="x30";
+three.innerHTML="x40";
 back.style.background="red";}
 else if (one.innerHTML==="Yellow") {
-three.innerHTML="x30";
+three.innerHTML="x40";
 back.style.background="red";}
 else if (one.innerHTML==="Two") {
-three.innerHTMl="x30";
+three.innerHTMl="x40";
 back.style.background="Red";}
 
 else if (two.innerHTML==="Two") {
-three.innerHTML="x30";
+three.innerHTML="x40";
 back.style.background="purple";}
 else if (two.innerHTML==="Pink") {
-three.innerHTML="x30";
+three.innerHTML="x40";
 back.style.background="purple";}
 else if (two.innerHTML==="Red") {
-three.innerHTML="x30";
+three.innerHTML="x40";
 back.style.background="purple";}
 else if (two.innerHTML==="Yellow") {
-three.innerHTML="x30";
+three.innerHTML="x40";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
-three.innerHTMl="x30";
+three.innerHTMl="x40";
 back.style.background="purple";}}
 
 function drunkTank() {
