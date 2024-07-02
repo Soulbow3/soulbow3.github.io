@@ -1,8 +1,8 @@
 function times1() {
-var one=document.getElementById("done");
+var one=document.getElementById("oneM");
 var three=document.getElementById("timesOne");
 var back=document.getElementById("timesBack1");
-var two=document.getElementById("dtwo");
+var two=document.getElementById("twoM");
 if (back.style.background==="red") {
 back.style.background="red";}
 else if (back.style.background==="purple") {
@@ -41,10 +41,10 @@ three.innerHTMl="x30";
 back.style.background="purple";}}
 
 function times2() {
-var one=document.getElementById("oneM");
+var one=document.getElementById("bone");
 var three=document.getElementById("timesTwo");
 var back=document.getElementById("timesBack2");
-var two=document.getElementById("twoM");
+var two=document.getElementById("btwo");
 if (back.style.background==="red") {
 back.style.background="red";}
 else if (back.style.background==="purple") {
