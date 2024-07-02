@@ -350,7 +350,7 @@ else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $30";
 back.style.background="red";}}
 
-function tealThree() {
+function teal3() {
 var one=document.getElementById("oneG");
 var three=document.getElementById("tealThree");
 var back=document.getElementById("tealBack3");
