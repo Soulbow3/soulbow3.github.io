@@ -41,10 +41,10 @@ three.innerHTMl="x30";
 back.style.background="purple";}}
 
 function times2() {
-var one=document.getElementById("bone");
+var one=document.getElementById("done");
 var three=document.getElementById("timesTwo");
 var back=document.getElementById("timesBack2");
-var two=document.getElementById("btwo");
+var two=document.getElementById("dtwo");
 if (back.style.background==="red") {
 back.style.background="red";}
 else if (back.style.background==="purple") {
@@ -1415,8 +1415,6 @@ var gold=document.getElementById("goldBack1");
 var go1= document.getElementById("oneA");
 var go2= document.getElementById("twoA");
 var go=document.getElementById("start");
-var tile1a= document.getElementById("oneD");
-var tile2a= document.getElementById("twoD");
 var back1= document.getElementById("oneR");
 var back2= document.getElementById("twoR");
 var back= document.getElementById("23");
