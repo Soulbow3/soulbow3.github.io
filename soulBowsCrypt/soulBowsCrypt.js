@@ -1776,7 +1776,7 @@ var jail1=document.getElementById("oneH");
 var jail2=document.getElementById("twoH");
 var jail=document.getElementById("jail");
 var gold1=document.getElementById("fone");
-var gold2=document.getElementById("gold");
+var gold2=document.getElementById("ftwo");
 var go1= document.getElementById("oneA");
 var go2= document.getElementById("twoA");
 var go=document.getElementById("start");
@@ -3855,41 +3855,40 @@ four.innerHTML="Red";
 thirty.innerHTML="";}
 else if (thirtyone.innerHTML==="Red" && dice.innerHTML==="1") {
 thirtytwo.innerHTML="Red";
-twentynine.innerHTML="";}
+thirtyone.innerHTML="";}
 else if (thirtyone.innerHTML==="Red" && dice.innerHTML==="2") {
 one.innerHTML="Red";
-twentynine.innerHTML="";}
+thirtyone.innerHTML="";}
 else if (thirtyone.innerHTML==="Red" && dice.innerHTML==="3") {
 two.innerHTML="Red";
-twentynine.innerHTML="";}
+thirtyone.innerHTML="";}
 else if (thirtyone.innerHTML==="Red" && dice.innerHTML==="4") {
 three.innerHTML="Red";
-twentynine.innerHTML="";}
+thirtyone.innerHTML="";}
 else if (thirtyone.innerHTML==="Red" && dice.innerHTML==="5") {
 four.innerHTML="Red";
-twentynine.innerHTML="";}
+thirtyone.innerHTML="";}
 else if (thirtyone.innerHTML==="Red" && dice.innerHTML==="6") {
 five.innerHTML="Red";
-twentynine.innerHTML="";}
-else if (thirtytwo.innerHTML==="Red" && dice.innerHTML==="1") {
+thirtyone.innerHTML="";}
+else if (thirtytwo.innerHTML==="Red" && dice.innerHTML==="1") { 
 one.innerHTML="Red";
-thirty.innerHTML="";}
-else if (thirtytwo.innerHTML==="Red" && dice.innerHTML==="2") {
+thirtytwo.innerHTML="";}
+else if (thirtytwo.innerHTML==="Red" && dice.innerHTML==="2") { 
 two.innerHTML="Red";
-thirty.innerHTML="";}
-else if (thirtytwo.innerHTML==="Red" && dice.innerHTML==="3") {
+thirtytwo.innerHTML="";}
+else if (thirtytwo.innerHTML==="Red" && dice.innerHTML==="3") { 
 three.innerHTML="Red";
-thirty.innerHTML="";}
-else if (thirtytwo.innerHTML==="Red" && dice.innerHTML==="4") {
+thirtytwo.innerHTML="";}
+else if (thirtytwo.innerHTML==="Red" && dice.innerHTML==="4") { 
 four.innerHTML="Red";
-thirty.innerHTML="";}
-else if (thirtytwo.innerHTML==="Red" && dice.innerHTML==="5") {
+thirtytwo.innerHTML="";}
+else if (thirtytwo.innerHTML==="Red" && dice.innerHTML==="5") { 
 five.innerHTML="Red";
-thirty.innerHTML="";}
-else if (thirtytwo.innerHTML==="Red" && dice.innerHTML==="6") {
+thirtytwo.innerHTML="";}
+else if (thirtytwo.innerHTML==="Red" && dice.innerHTML==="6") { 
 six.innerHTML="Red";
-thirty.innerHTML="";}
-
+thirtytwo.innerHTML="";}
 else if (one.innerHTML==="Yellow" && dice.innerHTML==="1") {
 two.innerHTML="Yellow";
 one.innerHTML="";}
@@ -4430,7 +4429,6 @@ thirty.innerHTML="";}
 else if (thirty.innerHTML==="Yellow" && dice.innerHTML==="6") {
 four.innerHTML="Yellow";
 thirty.innerHTML="";}
-
 else if (thirtyone.innerHTML==="Yellow" && dice.innerHTML==="1") {
 thirtytwo.innerHTML="Yellow";
 thirtyone.innerHTML="";}
@@ -5043,6 +5041,7 @@ thirtytwo.innerHTML="";}
 else if (thirtytwo.innerHTML==="Pink" && dice.innerHTML==="6") { 
 six.innerHTML="Pink";
 thirtytwo.innerHTML="";}}
+
 
 function playerTwo() {
 var dice=document.getElementById("node");
