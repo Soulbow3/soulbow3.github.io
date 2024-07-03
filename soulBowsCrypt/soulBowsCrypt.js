@@ -1062,14 +1062,16 @@ three.innerHTMl="Rent $150";
 back.style.background="red";}}
 
 function piece(element) {
-if (element.innerHTML!=="One") {
-element.innerHTML="Red";}
-else if (element.innerHTML==="Red") {
+if (element.innerHTML==="Red") {
 element.innerHTML="Yellow";}
 else if (element.innerHTML==="Yellow") {
 element.innerHTML="Pink";}
 else if (element.innerHTML==="Pink") {
 element.innerHTML="Red";}
+else if (element.innerHTML!=="One") {
+element.innerHTML="Red";}
+else if (element.innerHTML==="one")
+{element.style.background="red";}
 else if (element.innerHTML!=="Two") {
 element.innerHTML="Red";}}
 
