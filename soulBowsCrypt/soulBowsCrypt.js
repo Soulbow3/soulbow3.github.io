@@ -1061,24 +1061,16 @@ else if (one.innerHTML==="Two") {
 three.innerHTMl="Rent $150";
 back.style.background="red";}}
 
-function piece2(element) {
-if (element.innerHTML==="Two") {
+function piece(element) {
+if (element.innerHTML!=="One") {
 element.innerHTML="Red";}
 else if (element.innerHTML==="Red") {
 element.innerHTML="Yellow";}
 else if (element.innerHTML==="Yellow") {
 element.innerHTML="Pink";}
 else if (element.innerHTML==="Pink") {
-element.innerHTML="Two";}}
-
-function piece3(element) {
-if (element.innerHTML==="Red") {
-element.innerHTML="Yellow";}
-else if (element.innerHTML==="Yellow") {
-element.innerHTML="Pink";}
-else if (element.innerHTML==="Pink") {
-element.innerHTML="One";}
-else if (element.innerHTML==="One") {
+element.innerHTML="Red";}
+else if (element.innerHTML!=="Two") {
 element.innerHTML="Red";}}
 
 function card1() {
