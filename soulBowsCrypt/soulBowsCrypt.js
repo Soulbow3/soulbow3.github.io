@@ -3,7 +3,7 @@ var free1=document.getElementById("oneQ");
 var free2=document.getElementById("twoQ");
 var gold1=document.getElementById("fone");
 var gold2=document.getElementById("ftwo");
-var lock=document.getElementById("24");
+var lock=document.getElementById("id24");
 if (free.innerHTML==="One") {
  gold1.innerHTML="One";
 lock.style.background="silver";}
@@ -2200,7 +2200,7 @@ var twentynine=document.getElementById("cone");
 var thirty=document.getElementById("done");
 var thirtyone=document.getElementById("eone");
 var thirtytwo=document.getElementById("fone");
-var free=document.getElementById("24");
+var free=document.getElementById("id24");
 if (free.style.background==="black") {free.style.background=red;}
 else if (free.style.background==="red") {free.style.background=black;}
 else if (one.innerHTML==="One" && dice.innerHTML==="1") {
@@ -4569,7 +4569,7 @@ var twentynine=document.getElementById("ctwo");
 var thirty=document.getElementById("dtwo");
 var thirtyone=document.getElementById("etwo");
 var thirtytwo=document.getElementById("ftwo");
-var free=document.getElementById("24");
+var free=document.getElementById("id24");
 if (one.innerHTML==="Two" && dice.innerHTML==="1") {
 two.innerHTML="Two";
 one.innerHTML="";}
