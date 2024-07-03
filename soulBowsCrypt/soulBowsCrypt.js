@@ -4563,7 +4563,7 @@ var twentynine=document.getElementById("ctwo");
 var thirty=document.getElementById("dtwo");
 var thirtyone=document.getElementById("etwo");
 var thirtytwo=document.getElementById("ftwo");
-var free=document.getElementById("id24");
+var free=document.getElementById("id17");
 if (one.innerHTML==="Two" && dice.innerHTML==="1") {
 two.innerHTML="Two";
 one.innerHTML="";}
