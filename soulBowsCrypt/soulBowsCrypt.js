@@ -1,4 +1,4 @@
-function landgold() {
+function landGold() {
 var free1=document.getElementById("oneQ");
 var free2=document.getElementById("twoQ");
 var gold1=document.getElementById("fone");
