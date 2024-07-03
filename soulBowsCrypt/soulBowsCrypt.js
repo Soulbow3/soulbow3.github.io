@@ -1072,7 +1072,7 @@ else if (element.innerHTML==="Pink") {
 element.innerHTML="Two";}}
 
 function piece3(element) {
-else if (element.innerHTML==="Red") {
+if (element.innerHTML==="Red") {
 element.innerHTML="Yellow";}
 else if (element.innerHTML==="Yellow") {
 element.innerHTML="Pink";}
