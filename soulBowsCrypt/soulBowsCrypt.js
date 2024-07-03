@@ -118,7 +118,7 @@ var jailStartOne=document.getElementById("oneX");
 var jailStartTwo=document.getElementById("twoX");
 var jailOne=document.getElementById("oneH");
 var jailTwo=document.getElementById("twoH");
-var name=document.getElementById("id17");
+var name=document.getElementById("id24");
 if (jailStartOne.innerHTML==="One") {
 jailStartOne.innerHTML="";
 jailOne.innerHTML="One";
