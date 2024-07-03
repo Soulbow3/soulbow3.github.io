@@ -1,6 +1,6 @@
 body {background: linear-gradient(90deg, white, black, black, red, black, black, red, black, black, white);}
 table {background: linear-gradient(90deg, white, black, black, red, blue, green, red, black, black, white); opacity: 75%;}
-section {height: 30px; width: 20px; border: solid 4px;}
+section {height: 35px; width: 20px; border: solid 4px;}
 p {font-size: 7px; text-align: center;}
 h1 {font-size: 16px; text-align: center;}
 h6{font-size: 9px;}
