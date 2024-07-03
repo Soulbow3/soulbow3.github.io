@@ -2194,7 +2194,7 @@ var twentynine=document.getElementById("cone");
 var thirty=document.getElementById("done");
 var thirtyone=document.getElementById("eone");
 var thirtytwo=document.getElementById("fone");
-var free=document.getElementById("id24");
+var free=document.getElementById("id17");
 if (free.style.background==="black") {free.style.background=red;}
 else if (free.style.background==="red") {free.style.background=black;}
 else if (one.innerHTML==="One" && dice.innerHTML==="1") {
