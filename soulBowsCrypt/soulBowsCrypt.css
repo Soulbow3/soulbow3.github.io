@@ -1,7 +1,7 @@
 body {background: linear-gradient(90deg, white, black, black, red, black, black, red, black, black, white);}
 table {background: linear-gradient(90deg, white, black, black, red, blue, green, red, black, black, white); opacity: 75%;}
 section {height: 36px; width: 22px; border: solid 4px;}
-p {font-size: 7px; text-align: center; margin: 0 0 0 0;}
+p {font-size: 7px; text-align: center; margin: 2px 2px 2px 2px;}
 h1 {font-size: 16px; text-align: center;}
 h6{font-size: 9px;}
 h2 {font-size: 15px; font-family: cursive; color: red;}
