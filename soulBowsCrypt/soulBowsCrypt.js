@@ -123,10 +123,6 @@ if (jailStartOne.innerHTML==="One") {
 jailStartOne.innerHTML="";
 jailOne.innerHTML="One";
 lock.style.backround="silver";}
-else if (jailStartOne.innerHTML==="One") {
-jailStartOne.innerHTML="";
-jailOne.innerHTML="Two";
-lock.style.backround="silver";}
 else if (jailStartOne.innerHTML==="Red") {
 jailStartOne.innerHTML="";
 jailOne.innerHTML="Red";
