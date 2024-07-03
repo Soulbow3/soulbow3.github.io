@@ -118,47 +118,43 @@ var jailStartOne=document.getElementById("oneX");
 var jailStartTwo=document.getElementById("twoX");
 var jailOne=document.getElementById("oneH");
 var jailTwo=document.getElementById("twoH");
-var name=document.getElementById("id24");
+var lock=document.getElementById("id24");
 if (jailStartOne.innerHTML==="One") {
 jailStartOne.innerHTML="";
 jailOne.innerHTML="One";
-name.style.backround="silver";}
-else if (jailStartOne.innerHTML==="Two") {
+lock.style.backround="silver";}
+else if (jailStartOne.innerHTML==="One") {
 jailStartOne.innerHTML="";
 jailOne.innerHTML="Two";
-name.style.backround="silver";}
+lock.style.backround="silver";}
 else if (jailStartOne.innerHTML==="Red") {
 jailStartOne.innerHTML="";
 jailOne.innerHTML="Red";
-name.style.backround="silver";}
+lock.style.backround="silver";}
 else if (jailStartOne.innerHTML==="Yellow") {
 jailStartOne.innerHTML="";
 jailOne.innerHTML="Yellow";
-name.style.backround="silver";}
+lock.style.backround="silver";}
 else if (jailStartOne.innerHTML==="Pink") {
 jailStartOne.innerHTML="";
 jailOne.innerHTML="Pink";
-name.style.backround="silver";}
+lock.style.backround="silver";}
 else if (jailStartTwo.innerHTML==="Two") {
 jailStartTwo.innerHTML="";
 jailTwo.innerHTML="Two";
-name.style.backround="silver";}
-else if (jailStartTwo.innerHTML==="One") {
-jailStartTwo.innerHTML="";
-jailTwo.innerHTML="One";
-name.style.backround="silver";}
+lock.style.backround="silver";}
 else if (jailStartTwo.innerHTML==="Red") {
 jailStartTwo.innerHTML="";
 jailTwo.innerHTML="Red";
-name.style.backround="silver";}
+lock.style.backround="silver";}
 else if (jailStartTwo.innerHTML==="Yellow") {
 jailStartTwo.innerHTML="";
 jailTwo.innerHTML="Yelow";
-name.style.backround="silver";}
+lock.style.backround="silver";}
 else if (jailStartTwo.innerHTML==="Pink") {
 jailStartTwo.innerHTML="";
 jailTwo.innerHTML="Pink";
-name.style.backround="silver";}}
+lock.style.backround="silver";}}
 
 function start1() {
 var startOne=document.getElementById("cone");
