@@ -6143,7 +6143,8 @@ twentyeight.innerHTML="Yellow";
 twentytwo.innerHTML="";}
 else if (twentythree.innerHTML==="Yellow" && dice.innerHTML==="1") {
 twentyfour.innerHTML="Yellow";
-twentythree.innerHTML="";}
+twentythree.innerHTML="";
+free.style.background="black";}
 else if (twentythree.innerHTML==="Yellow" && dice.innerHTML==="2") {
 twentyfive.innerHTML="Yellow";
 twentythree.innerHTML="";}
