@@ -3,7 +3,7 @@ var free1=document.getElementById("oneQ");
 var free2=document.getElementById("twoQ");
 var gold1=document.getElementById("fone");
 var gold2=document.getElementById("ftwo");
-var lock=document.getElementById("id24");
+var lock=document.getElementById("id17");
 if (free.innerHTML==="One") {
  gold1.innerHTML="One";
 lock.style.background="silver";}
