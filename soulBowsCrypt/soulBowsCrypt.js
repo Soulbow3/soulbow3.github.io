@@ -2167,9 +2167,7 @@ var thirty=document.getElementById("done");
 var thirtyone=document.getElementById("eone");
 var thirtytwo=document.getElementById("fone");
 var free=document.getElementById("id24");
-if (free.style.background==="black") {free.style.background=red;}
-else if (free.style.background==="red") {free.style.background=black;}
-else if (one.innerHTML==="One" && dice.innerHTML==="1") {
+if (one.innerHTML==="One" && dice.innerHTML==="1") {
 two.innerHTML="One";
 one.innerHTML="";}
 else if (one.innerHTML==="One" && dice.innerHTML==="2") {
@@ -4536,9 +4534,7 @@ var thirty=document.getElementById("dtwo");
 var thirtyone=document.getElementById("etwo");
 var thirtytwo=document.getElementById("ftwo");
 var free=document.getElementById("id24");
-if (free.style.background==="black") {free.style.background=red;}
-else if (free.style.background==="red") {free.style.background=black;}
-else if (one.innerHTML==="Two" && dice.innerHTML==="1") {
+if (one.innerHTML==="Two" && dice.innerHTML==="1") {
 two.innerHTML="Two";
 one.innerHTML="";}
 else if (one.innerHTML==="Two" && dice.innerHTML==="2") {
