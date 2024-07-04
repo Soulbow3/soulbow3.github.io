@@ -91,7 +91,7 @@ var lock=document.getElementById("id24");
 if (jailStartOne.innerHTML==="One") {
 jailStartOne.innerHTML="";
 jailOne.innerHTML="One";
-lock.style.backround="silver";}
+lock.style.background="silver";}
 else if (jailStartOne.innerHTML==="Red") {
 jailStartOne.innerHTML="";
 jailOne.innerHTML="Red";
@@ -99,27 +99,27 @@ lock.style.backround="silver";}
 else if (jailStartOne.innerHTML==="Yellow") {
 jailStartOne.innerHTML="";
 jailOne.innerHTML="Yellow";
-lock.style.backround="silver";}
+lock.style.background="silver";}
 else if (jailStartOne.innerHTML==="Pink") {
 jailStartOne.innerHTML="";
 jailOne.innerHTML="Pink";
-lock.style.backround="silver";}
+lock.style.background="silver";}
 else if (jailStartTwo.innerHTML==="Two") {
 jailStartTwo.innerHTML="";
 jailTwo.innerHTML="Two";
-lock.style.backround="silver";}
+lock.style.background="silver";}
 else if (jailStartTwo.innerHTML==="Red") {
 jailStartTwo.innerHTML="";
 jailTwo.innerHTML="Red";
-lock.style.backround="silver";}
+lock.style.background="silver";}
 else if (jailStartTwo.innerHTML==="Yellow") {
 jailStartTwo.innerHTML="";
 jailTwo.innerHTML="Yelow";
-lock.style.backround="silver";}
+lock.style.background="silver";}
 else if (jailStartTwo.innerHTML==="Pink") {
 jailStartTwo.innerHTML="";
 jailTwo.innerHTML="Pink";
-lock.style.backround="silver";}}
+lock.style.background="silver";}}
 
 function start1() {
 var startOne=document.getElementById("cone");
