@@ -91,35 +91,43 @@ var lock=document.getElementById("id24");
 if (jailStartOne.innerHTML==="One") {
 jailStartOne.innerHTML="";
 jailOne.innerHTML="One";
-lock.style.background="silver";}
+lock.style.background="silver";
+jailOne.style.color="black";}
 else if (jailStartOne.innerHTML==="Red") {
 jailStartOne.innerHTML="";
 jailOne.innerHTML="Red";
-lock.style.backround="silver";}
+lock.style.backround="silver";
+jailOne.style.color="black";}
 else if (jailStartOne.innerHTML==="Yellow") {
 jailStartOne.innerHTML="";
 jailOne.innerHTML="Yellow";
-lock.style.background="silver";}
+lock.style.background="silver";
+jailOne.style.color="black";}
 else if (jailStartOne.innerHTML==="Pink") {
 jailStartOne.innerHTML="";
 jailOne.innerHTML="Pink";
-lock.style.background="silver";}
+lock.style.background="silver";
+jailOne.style.color="black";}
 else if (jailStartTwo.innerHTML==="Two") {
 jailStartTwo.innerHTML="";
 jailTwo.innerHTML="Two";
-lock.style.background="silver";}
+lock.style.background="silver";
+jailTwo.style.color="black";}
 else if (jailStartTwo.innerHTML==="Red") {
 jailStartTwo.innerHTML="";
 jailTwo.innerHTML="Red";
-lock.style.background="silver";}
+lock.style.background="silver";
+jailTwo.style.color="black";}
 else if (jailStartTwo.innerHTML==="Yellow") {
 jailStartTwo.innerHTML="";
 jailTwo.innerHTML="Yelow";
-lock.style.background="silver";}
+lock.style.background="silver";
+jailTwo.style.color="black";}
 else if (jailStartTwo.innerHTML==="Pink") {
 jailStartTwo.innerHTML="";
 jailTwo.innerHTML="Pink";
-lock.style.background="silver";}}
+lock.style.background="silver";
+jailTwo.style.color="black";}}
 
 function start1() {
 var startOne=document.getElementById("cone");
@@ -2491,7 +2499,8 @@ eighteen.innerHTML="";}
 else if (eighteen.innerHTML==="One" && dice.innerHTML==="6") {
 twentyfour.innerHTML="One";
 eighteen.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (nineteen.innerHTML==="One" && dice.innerHTML==="1") {
 twenty.innerHTML="One";
 nineteen.innerHTML="";}
@@ -2507,7 +2516,8 @@ nineteen.innerHTML="";}
 else if (nineteen.innerHTML==="One" && dice.innerHTML==="5") {
 twentyfour.innerHTML="One";
 nineteen.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (nineteen.innerHTML==="One" && dice.innerHTML==="6") {
 twentyfive.innerHTML="One";
 nineteen.innerHTML="";}
@@ -2523,7 +2533,8 @@ twenty.innerHTML="";}
 else if (twenty.innerHTML==="One" && dice.innerHTML==="4") {
 twentyfour.innerHTML="One";
 twenty.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (twenty.innerHTML==="One" && dice.innerHTML==="5") {
 twentyfive.innerHTML="One";
 twenty.innerHTML="";}
@@ -2539,7 +2550,8 @@ twentyone.innerHTML="";}
 else if (twentyone.innerHTML==="One" && dice.innerHTML==="3") {
 twentyfour.innerHTML="One";
 twentyone.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (twentyone.innerHTML==="One" && dice.innerHTML==="4") {
 twentyfive.innerHTML="One";
 twentyone.innerHTML="";}
@@ -2555,7 +2567,8 @@ twentytwo.innerHTML="";}
 else if (twentytwo.innerHTML==="One" && dice.innerHTML==="2") {
 twentyfour.innerHTML="One";
 twentytwo.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (twentytwo.innerHTML==="One" && dice.innerHTML==="3") {
 twentyfive.innerHTML="One";
 twentytwo.innerHTML="";}
@@ -2571,7 +2584,8 @@ twentytwo.innerHTML="";}
 else if (twentythree.innerHTML==="One" && dice.innerHTML==="1") {
 twentyfour.innerHTML="One";
 twentythree.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (twentythree.innerHTML==="One" && dice.innerHTML==="2") {
 twentyfive.innerHTML="One";
 twentythree.innerHTML="";}
@@ -3055,7 +3069,8 @@ eighteen.innerHTML="";}
 else if (eighteen.innerHTML==="Red" && dice.innerHTML==="6") {
 twentyfour.innerHTML="Red";
 eighteen.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (nineteen.innerHTML==="Red" && dice.innerHTML==="1") {
 twenty.innerHTML="Red";
 nineteen.innerHTML="";}
@@ -3071,7 +3086,8 @@ nineteen.innerHTML="";}
 else if (nineteen.innerHTML==="Red" && dice.innerHTML==="5") {
 twentyfour.innerHTML="Red";
 nineteen.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (nineteen.innerHTML==="Red" && dice.innerHTML==="6") {
 twentyfive.innerHTML="Red";
 nineteen.innerHTML="";}
@@ -3087,7 +3103,8 @@ twenty.innerHTML="";}
 else if (twenty.innerHTML==="Red" && dice.innerHTML==="4") {
 twentyfour.innerHTML="Red";
 twenty.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (twenty.innerHTML==="Red" && dice.innerHTML==="5") {
 twentyfive.innerHTML="Red";
 twenty.innerHTML="";}
@@ -3103,7 +3120,8 @@ twentyone.innerHTML="";}
 else if (twentyone.innerHTML==="Red" && dice.innerHTML==="3") {
 twentyfour.innerHTML="Red";
 twentyone.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (twentyone.innerHTML==="Red" && dice.innerHTML==="4") {
 twentyfive.innerHTML="Red";
 twentyone.innerHTML="";}
@@ -3119,7 +3137,8 @@ twentytwo.innerHTML="";}
 else if (twentytwo.innerHTML==="Red" && dice.innerHTML==="2") {
 twentyfour.innerHTML="Red";
 twentytwo.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (twentytwo.innerHTML==="Red" && dice.innerHTML==="3") {
 twentyfive.innerHTML="Red";
 twentytwo.innerHTML="";}
@@ -3135,7 +3154,8 @@ twentytwo.innerHTML="";}
 else if (twentythree.innerHTML==="Red" && dice.innerHTML==="1") {
 twentyfour.innerHTML="Red";
 twentythree.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (twentythree.innerHTML==="Red" && dice.innerHTML==="2") {
 twentyfive.innerHTML="Red";
 twentythree.innerHTML="";}
@@ -3619,7 +3639,8 @@ eighteen.innerHTML="";}
 else if (eighteen.innerHTML==="Yellow" && dice.innerHTML==="6") {
 twentyfour.innerHTML="Yellow";
 eighteen.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (nineteen.innerHTML==="Yellow" && dice.innerHTML==="1") {
 twenty.innerHTML="Yellow";
 nineteen.innerHTML="";}
@@ -3635,7 +3656,8 @@ nineteen.innerHTML="";}
 else if (nineteen.innerHTML==="Yellow" && dice.innerHTML==="5") {
 twentyfour.innerHTML="Yellow";
 nineteen.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (nineteen.innerHTML==="Yellow" && dice.innerHTML==="6") {
 twentyfive.innerHTML="Yellow";
 nineteen.innerHTML="";}
@@ -3651,7 +3673,8 @@ twenty.innerHTML="";}
 else if (twenty.innerHTML==="Yellow" && dice.innerHTML==="4") {
 twentyfour.innerHTML="Yellow";
 twenty.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (twenty.innerHTML==="Yellow" && dice.innerHTML==="5") {
 twentyfive.innerHTML="Yellow";
 twenty.innerHTML="";}
@@ -3667,7 +3690,8 @@ twentyone.innerHTML="";}
 else if (twentyone.innerHTML==="Yellow" && dice.innerHTML==="3") {
 twentyfour.innerHTML="Yellow";
 twentyone.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (twentyone.innerHTML==="Yellow" && dice.innerHTML==="4") {
 twentyfive.innerHTML="Yellow";
 twentyone.innerHTML="";}
@@ -3683,7 +3707,8 @@ twentytwo.innerHTML="";}
 else if (twentytwo.innerHTML==="Yellow" && dice.innerHTML==="2") {
 twentyfour.innerHTML="Yellow";
 twentytwo.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (twentytwo.innerHTML==="Yellow" && dice.innerHTML==="3") {
 twentyfive.innerHTML="Yellow";
 twentytwo.innerHTML="";}
@@ -3699,7 +3724,8 @@ twentytwo.innerHTML="";}
 else if (twentythree.innerHTML==="Yellow" && dice.innerHTML==="1") {
 twentyfour.innerHTML="Yellow";
 twentythree.innerHTML="";
-free.style.background="black"}
+free.style.background="black";
+free.style.color="white";}
 else if (twentythree.innerHTML==="Yellow" && dice.innerHTML==="2") {
 twentyfive.innerHTML="Yellow";
 twentythree.innerHTML="";}
@@ -4183,7 +4209,8 @@ eighteen.innerHTML="";}
 else if (eighteen.innerHTML==="Pink" && dice.innerHTML==="6") {
 twentyfour.innerHTML="Pink";
 eighteen.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (nineteen.innerHTML==="Pink" && dice.innerHTML==="1") {
 twenty.innerHTML="Pink";
 nineteen.innerHTML="";}
@@ -4199,7 +4226,8 @@ nineteen.innerHTML="";}
 else if (nineteen.innerHTML==="Pink" && dice.innerHTML==="5") {
 twentyfour.innerHTML="Pink";
 nineteen.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (nineteen.innerHTML==="Pink" && dice.innerHTML==="6") {
 twentyfive.innerHTML="Pink";
 nineteen.innerHTML="";}
@@ -4215,7 +4243,8 @@ twenty.innerHTML="";}
 else if (twenty.innerHTML==="Pink" && dice.innerHTML==="4") {
 twentyfour.innerHTML="Pink";
 twenty.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (twenty.innerHTML==="Pink" && dice.innerHTML==="5") {
 twentyfive.innerHTML="Pink";
 twenty.innerHTML="";}
@@ -4231,7 +4260,8 @@ twentyone.innerHTML="";}
 else if (twentyone.innerHTML==="Pink" && dice.innerHTML==="3") {
 twentyfour.innerHTML="Pink";
 twentyone.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (twentyone.innerHTML==="Pink" && dice.innerHTML==="4") {
 twentyfive.innerHTML="Pink";
 twentyone.innerHTML="";}
@@ -4247,7 +4277,8 @@ twentytwo.innerHTML="";}
 else if (twentytwo.innerHTML==="Pink" && dice.innerHTML==="2") {
 twentyfour.innerHTML="Pink";
 twentytwo.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (twentytwo.innerHTML==="Pink" && dice.innerHTML==="3") {
 twentyfive.innerHTML="Pink";
 twentytwo.innerHTML="";}
@@ -4263,7 +4294,8 @@ twentytwo.innerHTML="";}
 else if (twentythree.innerHTML==="Pink" && dice.innerHTML==="1") {
 twentyfour.innerHTML="Pink";
 twentythree.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (twentythree.innerHTML==="Pink" && dice.innerHTML==="2") {
 twentyfive.innerHTML="Pink";
 twentythree.innerHTML="";}
@@ -4784,7 +4816,8 @@ eighteen.innerHTML="";}
 else if (eighteen.innerHTML==="Two" && dice.innerHTML==="6") {
 twentyfour.innerHTML="Two";
 eighteen.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (nineteen.innerHTML==="Two" && dice.innerHTML==="1") {
 twenty.innerHTML="Two";
 nineteen.innerHTML="";}
@@ -4800,7 +4833,8 @@ nineteen.innerHTML="";}
 else if (nineteen.innerHTML==="Two" && dice.innerHTML==="5") {
 twentyfour.innerHTML="Two";
 nineteen.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (nineteen.innerHTML==="Two" && dice.innerHTML==="6") {
 twentyfive.innerHTML="Two";
 nineteen.innerHTML="";}
@@ -4816,7 +4850,8 @@ twenty.innerHTML="";}
 else if (twenty.innerHTML==="Two" && dice.innerHTML==="4") {
 twentyfour.innerHTML="Two";
 twenty.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (twenty.innerHTML==="Two" && dice.innerHTML==="5") {
 twentyfive.innerHTML="Two";
 twenty.innerHTML="";}
@@ -4832,7 +4867,8 @@ twentyone.innerHTML="";}
 else if (twentyone.innerHTML==="Two" && dice.innerHTML==="3") {
 twentyfour.innerHTML="Two";
 twentyone.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (twentyone.innerHTML==="Two" && dice.innerHTML==="4") {
 twentyfive.innerHTML="Two";
 twentyone.innerHTML="";}
@@ -4848,7 +4884,8 @@ twentytwo.innerHTML="";}
 else if (twentytwo.innerHTML==="Two" && dice.innerHTML==="2") {
 twentyfour.innerHTML="Two";
 twentytwo.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (twentytwo.innerHTML==="Two" && dice.innerHTML==="3") {
 twentyfive.innerHTML="Two";
 twentytwo.innerHTML="";}
@@ -4864,7 +4901,8 @@ twentytwo.innerHTML="";}
 else if (twentythree.innerHTML==="Two" && dice.innerHTML==="1") {
 twentyfour.innerHTML="Two";
 twentythree.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (twentythree.innerHTML==="Two" && dice.innerHTML==="2") {
 twentyfive.innerHTML="Two";
 twentythree.innerHTML="";}
@@ -5348,7 +5386,8 @@ eighteen.innerHTML="";}
 else if (eighteen.innerHTML==="Red" && dice.innerHTML==="6") {
 twentyfour.innerHTML="Red";
 eighteen.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (nineteen.innerHTML==="Red" && dice.innerHTML==="1") {
 twenty.innerHTML="Red";
 nineteen.innerHTML="";}
@@ -5364,7 +5403,8 @@ nineteen.innerHTML="";}
 else if (nineteen.innerHTML==="Red" && dice.innerHTML==="5") {
 twentyfour.innerHTML="Red";
 nineteen.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (nineteen.innerHTML==="Red" && dice.innerHTML==="6") {
 twentyfive.innerHTML="Red";
 nineteen.innerHTML="";}
@@ -5380,7 +5420,8 @@ twenty.innerHTML="";}
 else if (twenty.innerHTML==="Red" && dice.innerHTML==="4") {
 twentyfour.innerHTML="Red";
 twenty.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (twenty.innerHTML==="Red" && dice.innerHTML==="5") {
 twentyfive.innerHTML="Red";
 twenty.innerHTML="";}
@@ -5396,7 +5437,8 @@ twentyone.innerHTML="";}
 else if (twentyone.innerHTML==="Red" && dice.innerHTML==="3") {
 twentyfour.innerHTML="Red";
 twentyone.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (twentyone.innerHTML==="Red" && dice.innerHTML==="4") {
 twentyfive.innerHTML="Red";
 twentyone.innerHTML="";}
@@ -5412,7 +5454,8 @@ twentytwo.innerHTML="";}
 else if (twentytwo.innerHTML==="Red" && dice.innerHTML==="2") {
 twentyfour.innerHTML="Red";
 twentytwo.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (twentytwo.innerHTML==="Red" && dice.innerHTML==="3") {
 twentyfive.innerHTML="Red";
 twentytwo.innerHTML="";}
@@ -5428,7 +5471,8 @@ twentytwo.innerHTML="";}
 else if (twentythree.innerHTML==="Red" && dice.innerHTML==="1") {
 twentyfour.innerHTML="Red";
 twentythree.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (twentythree.innerHTML==="Red" && dice.innerHTML==="2") {
 twentyfive.innerHTML="Red";
 twentythree.innerHTML="";}
@@ -5912,7 +5956,8 @@ eighteen.innerHTML="";}
 else if (eighteen.innerHTML==="Yellow" && dice.innerHTML==="6") {
 twentyfour.innerHTML="Yellow";
 eighteen.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (nineteen.innerHTML==="Yellow" && dice.innerHTML==="1") {
 twenty.innerHTML="Yellow";
 nineteen.innerHTML="";}
@@ -5928,7 +5973,8 @@ nineteen.innerHTML="";}
 else if (nineteen.innerHTML==="Yellow" && dice.innerHTML==="5") {
 twentyfour.innerHTML="Yellow";
 nineteen.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (nineteen.innerHTML==="Yellow" && dice.innerHTML==="6") {
 twentyfive.innerHTML="Yellow";
 nineteen.innerHTML="";}
@@ -5944,7 +5990,8 @@ twenty.innerHTML="";}
 else if (twenty.innerHTML==="Yellow" && dice.innerHTML==="4") {
 twentyfour.innerHTML="Yellow";
 twenty.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (twenty.innerHTML==="Yellow" && dice.innerHTML==="5") {
 twentyfive.innerHTML="Yellow";
 twenty.innerHTML="";}
@@ -5960,7 +6007,8 @@ twentyone.innerHTML="";}
 else if (twentyone.innerHTML==="Yellow" && dice.innerHTML==="3") {
 twentyfour.innerHTML="Yellow";
 twentyone.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (twentyone.innerHTML==="Yellow" && dice.innerHTML==="4") {
 twentyfive.innerHTML="Yellow";
 twentyone.innerHTML="";}
@@ -5976,7 +6024,8 @@ twentytwo.innerHTML="";}
 else if (twentytwo.innerHTML==="Yellow" && dice.innerHTML==="2") {
 twentyfour.innerHTML="Yellow";
 twentytwo.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (twentytwo.innerHTML==="Yellow" && dice.innerHTML==="3") {
 twentyfive.innerHTML="Yellow";
 twentytwo.innerHTML="";}
@@ -5992,7 +6041,8 @@ twentytwo.innerHTML="";}
 else if (twentythree.innerHTML==="Yellow" && dice.innerHTML==="1") {
 twentyfour.innerHTML="Yellow";
 twentythree.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (twentythree.innerHTML==="Yellow" && dice.innerHTML==="2") {
 twentyfive.innerHTML="Yellow";
 twentythree.innerHTML="";}
@@ -6476,7 +6526,8 @@ eighteen.innerHTML="";}
 else if (eighteen.innerHTML==="Pink" && dice.innerHTML==="6") {
 twentyfour.innerHTML="Pink";
 eighteen.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (nineteen.innerHTML==="Pink" && dice.innerHTML==="1") {
 twenty.innerHTML="Pink";
 nineteen.innerHTML="";}
@@ -6492,7 +6543,8 @@ nineteen.innerHTML="";}
 else if (nineteen.innerHTML==="Pink" && dice.innerHTML==="5") {
 twentyfour.innerHTML="Pink";
 nineteen.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (nineteen.innerHTML==="Pink" && dice.innerHTML==="6") {
 twentyfive.innerHTML="Pink";
 nineteen.innerHTML="";}
@@ -6508,7 +6560,8 @@ twenty.innerHTML="";}
 else if (twenty.innerHTML==="Pink" && dice.innerHTML==="4") {
 twentyfour.innerHTML="Pink";
 twenty.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (twenty.innerHTML==="Pink" && dice.innerHTML==="5") {
 twentyfive.innerHTML="Pink";
 twenty.innerHTML="";}
@@ -6524,7 +6577,8 @@ twentyone.innerHTML="";}
 else if (twentyone.innerHTML==="Pink" && dice.innerHTML==="3") {
 twentyfour.innerHTML="Pink";
 twentyone.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (twentyone.innerHTML==="Pink" && dice.innerHTML==="4") {
 twentyfive.innerHTML="Pink";
 twentyone.innerHTML="";}
@@ -6540,7 +6594,8 @@ twentytwo.innerHTML="";}
 else if (twentytwo.innerHTML==="Pink" && dice.innerHTML==="2") {
 twentyfour.innerHTML="Pink";
 twentytwo.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (twentytwo.innerHTML==="Pink" && dice.innerHTML==="3") {
 twentyfive.innerHTML="Pink";
 twentytwo.innerHTML="";}
@@ -6556,7 +6611,8 @@ twentytwo.innerHTML="";}
 else if (twentythree.innerHTML==="Pink" && dice.innerHTML==="1") {
 twentyfour.innerHTML="Pink";
 twentythree.innerHTML="";
-free.style.background="black";}
+free.style.background="black";
+free.style.color="white";}
 else if (twentythree.innerHTML==="Pink" && dice.innerHTML==="2") {
 twentyfive.innerHTML="Pink";
 twentythree.innerHTML="";}
