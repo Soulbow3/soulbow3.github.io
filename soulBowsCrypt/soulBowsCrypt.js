@@ -2587,24 +2587,6 @@ twentythree.innerHTML="";}
 else if (twentythree.innerHTML==="One" && dice.innerHTML==="6") {
 twentynine.innerHTML="One";
 twentythree.innerHTML="";}
-else if (twentyfour.innerHTML==="One" && dice.innerHTML==="1") {
-twentyfive.innerHTML="One";
-twentyfour.innerHTML="";}
-else if (twentyfour.innerHTML==="One" && dice.innerHTML==="2") {
-twentysix.innerHTML="One";
-twentyfour.innerHTML="";}
-else if (twentyfour.innerHTML==="One" && dice.innerHTML==="3") {
-twentyseven.innerHTML="One";
-twentyfour.innerHTML="";}
-else if (twentyfour.innerHTML==="One" && dice.innerHTML==="4") {
-twentyeight.innerHTML="One";
-twentyfour.innerHTML="";}
-else if (twentyfour.innerHTML==="One" && dice.innerHTML==="5") {
-twentynine.innerHTML="One";
-twentyfour.innerHTML="";}
-else if (twentyfour.innerHTML==="One" && dice.innerHTML==="6") {
-thirty.innerHTML="One";
-twentyfour.innerHTML="";}
 else if  (twentyfive.innerHTML==="One" && dice.innerHTML==="1") {
 twentysix.innerHTML="One";
 twentyfive.innerHTML="";}
@@ -3169,25 +3151,6 @@ twentythree.innerHTML="";;}
 else if (twentythree.innerHTML==="Red" && dice.innerHTML==="6") {
 twentynine.innerHTML="Red";
 twentythree.innerHTML="";}
-else if (twentyfour.innerHTML==="Red" && dice.innerHTML==="1") {
-twentyfive.innerHTML="Red";
-twentyfour.innerHTML="";}
-else if (twentyfour.innerHTML==="Red" && dice.innerHTML==="2") {
-twentysix.innerHTML="Red";
-twentyfour.innerHTML="";}
-else if (twentyfour.innerHTML==="Red" && dice.innerHTML==="3") {
-twentyseven.innerHTML="Red";
-twentyfour.innerHTML="";}
-else if (twentyfour.innerHTML==="Red" && dice.innerHTML==="4") {
-twentyeight.innerHTML="Red";
-twentyfour.innerHTML="";}
-else if (twentyfour.innerHTML==="Red" && dice.innerHTML==="5") {
-twentynine.innerHTML="Red";
-twentyfour.innerHTML="";}
-else if (twentyfour.innerHTML==="Red" && dice.innerHTML==="6") {
-thirty.innerHTML="Red";
-twentyfour.innerHTML="";
-free.style.background="black";}
 else if  (twentyfive.innerHTML==="Red" && dice.innerHTML==="1") {
 twentysix.innerHTML="Red";
 twentyfive.innerHTML="";}
@@ -3752,25 +3715,6 @@ twentythree.innerHTML="";}
 else if (twentythree.innerHTML==="Yellow" && dice.innerHTML==="6") {
 twentynine.innerHTML="Yellow";
 twentythree.innerHTML="";}
-else if (twentyfour.innerHTML==="Yellow" && dice.innerHTML==="1") {
-twentyfive.innerHTML="Yellow";
-twentyfour.innerHTML="";
-free.style.background="black";}
-else if (twentyfour.innerHTML==="Yellow" && dice.innerHTML==="2") {
-twentysix.innerHTML="Yellow";
-twentyfour.innerHTML="";}
-else if (twentyfour.innerHTML==="Yellow" && dice.innerHTML==="3") {
-twentyseven.innerHTML="Yellow";
-twentyfour.innerHTML="";}
-else if (twentyfour.innerHTML==="Yellow" && dice.innerHTML==="4") {
-twentyeight.innerHTML="Yellow";
-twentyfour.innerHTML="";}
-else if (twentyfour.innerHTML==="Yellow" && dice.innerHTML==="5") {
-twentynine.innerHTML="Yellow";
-twentyfour.innerHTML="";}
-else if (twentyfour.innerHTML==="Yellow" && dice.innerHTML==="6") {
-thirty.innerHTML="Yellow";
-twentyfour.innerHTML="";}
 else if  (twentyfive.innerHTML==="Yellow" && dice.innerHTML==="1") {
 twentysix.innerHTML="Yellow";
 twentyfive.innerHTML="";}
@@ -4335,24 +4279,6 @@ twentythree.innerHTML="";}
 else if (twentythree.innerHTML==="Pink" && dice.innerHTML==="6") {
 twentynine.innerHTML="Pink";
 twentythree.innerHTML="";}
-else if (twentyfour.innerHTML==="Pink" && dice.innerHTML==="1") {
-twentyfive.innerHTML="Pink";
-twentyfour.innerHTML="";}
-else if (twentyfour.innerHTML==="Pink" && dice.innerHTML==="2") {
-twentysix.innerHTML="Pink";
-twentyfour.innerHTML="";}
-else if (twentyfour.innerHTML==="Pink" && dice.innerHTML==="3") {
-twentyseven.innerHTML="Pink";
-twentyfour.innerHTML="";}
-else if (twentyfour.innerHTML==="Pink" && dice.innerHTML==="4") {
-twentyeight.innerHTML="Pink";
-twentyfour.innerHTML="";}
-else if (twentyfour.innerHTML==="Pink" && dice.innerHTML==="5") {
-twentynine.innerHTML="Pink";
-twentyfour.innerHTML="";}
-else if (twentyfour.innerHTML==="Pink" && dice.innerHTML==="6") {
-thirty.innerHTML="Pink";
-twentyfour.innerHTML="";}
 else if  (twentyfive.innerHTML==="Pink" && dice.innerHTML==="1") {
 twentysix.innerHTML="Pink";
 twentyfive.innerHTML="";}
@@ -4954,24 +4880,6 @@ twentythree.innerHTML="";}
 else if (twentythree.innerHTML==="Two" && dice.innerHTML==="6") {
 twentynine.innerHTML="Two";
 twentythree.innerHTML="";}
-else if (twentyfour.innerHTML==="Two" && dice.innerHTML==="1") {
-twentyfive.innerHTML="Two";
-twentyfour.innerHTML="";}
-else if (twentyfour.innerHTML==="Two" && dice.innerHTML==="2") {
-twentysix.innerHTML="Two";
-twentyfour.innerHTML="";}
-else if (twentyfour.innerHTML==="Two" && dice.innerHTML==="3") {
-twentyseven.innerHTML="Two";
-twentyfour.innerHTML="";}
-else if (twentyfour.innerHTML==="Two" && dice.innerHTML==="4") {
-twentyeight.innerHTML="Two";
-twentyfour.innerHTML="";}
-else if (twentyfour.innerHTML==="Two" && dice.innerHTML==="5") {
-twentynine.innerHTML="Two";
-twentyfour.innerHTML="";}
-else if (twentyfour.innerHTML==="Two" && dice.innerHTML==="6") {
-thirty.innerHTML="Two";
-twentyfour.innerHTML="";}
 else if  (twentyfive.innerHTML==="Two" && dice.innerHTML==="1") {
 twentysix.innerHTML="Two";
 twentyfive.innerHTML="";}
@@ -5536,25 +5444,6 @@ twentythree.innerHTML="";;}
 else if (twentythree.innerHTML==="Red" && dice.innerHTML==="6") {
 twentynine.innerHTML="Red";
 twentythree.innerHTML="";}
-else if (twentyfour.innerHTML==="Red" && dice.innerHTML==="1") {
-twentyfive.innerHTML="Red";
-twentyfour.innerHTML="";}
-else if (twentyfour.innerHTML==="Red" && dice.innerHTML==="2") {
-twentysix.innerHTML="Red";
-twentyfour.innerHTML="";}
-else if (twentyfour.innerHTML==="Red" && dice.innerHTML==="3") {
-twentyseven.innerHTML="Red";
-twentyfour.innerHTML="";}
-else if (twentyfour.innerHTML==="Red" && dice.innerHTML==="4") {
-twentyeight.innerHTML="Red";
-twentyfour.innerHTML="";}
-else if (twentyfour.innerHTML==="Red" && dice.innerHTML==="5") {
-twentynine.innerHTML="Red";
-twentyfour.innerHTML="";}
-else if (twentyfour.innerHTML==="Red" && dice.innerHTML==="6") {
-thirty.innerHTML="Red";
-twentyfour.innerHTML="";
-free.style.background="black";}
 else if  (twentyfive.innerHTML==="Red" && dice.innerHTML==="1") {
 twentysix.innerHTML="Red";
 twentyfive.innerHTML="";}
@@ -6119,25 +6008,6 @@ twentythree.innerHTML="";}
 else if (twentythree.innerHTML==="Yellow" && dice.innerHTML==="6") {
 twentynine.innerHTML="Yellow";
 twentythree.innerHTML="";}
-else if (twentyfour.innerHTML==="Yellow" && dice.innerHTML==="1") {
-twentyfive.innerHTML="Yellow";
-twentyfour.innerHTML="";
-free.style.background="black";}
-else if (twentyfour.innerHTML==="Yellow" && dice.innerHTML==="2") {
-twentysix.innerHTML="Yellow";
-twentyfour.innerHTML="";}
-else if (twentyfour.innerHTML==="Yellow" && dice.innerHTML==="3") {
-twentyseven.innerHTML="Yellow";
-twentyfour.innerHTML="";}
-else if (twentyfour.innerHTML==="Yellow" && dice.innerHTML==="4") {
-twentyeight.innerHTML="Yellow";
-twentyfour.innerHTML="";}
-else if (twentyfour.innerHTML==="Yellow" && dice.innerHTML==="5") {
-twentynine.innerHTML="Yellow";
-twentyfour.innerHTML="";}
-else if (twentyfour.innerHTML==="Yellow" && dice.innerHTML==="6") {
-thirty.innerHTML="Yellow";
-twentyfour.innerHTML="";}
 else if  (twentyfive.innerHTML==="Yellow" && dice.innerHTML==="1") {
 twentysix.innerHTML="Yellow";
 twentyfive.innerHTML="";}
@@ -6702,24 +6572,6 @@ twentythree.innerHTML="";}
 else if (twentythree.innerHTML==="Pink" && dice.innerHTML==="6") {
 twentynine.innerHTML="Pink";
 twentythree.innerHTML="";}
-else if (twentyfour.innerHTML==="Pink" && dice.innerHTML==="1") {
-twentyfive.innerHTML="Pink";
-twentyfour.innerHTML="";}
-else if (twentyfour.innerHTML==="Pink" && dice.innerHTML==="2") {
-twentysix.innerHTML="Pink";
-twentyfour.innerHTML="";}
-else if (twentyfour.innerHTML==="Pink" && dice.innerHTML==="3") {
-twentyseven.innerHTML="Pink";
-twentyfour.innerHTML="";}
-else if (twentyfour.innerHTML==="Pink" && dice.innerHTML==="4") {
-twentyeight.innerHTML="Pink";
-twentyfour.innerHTML="";}
-else if (twentyfour.innerHTML==="Pink" && dice.innerHTML==="5") {
-twentynine.innerHTML="Pink";
-twentyfour.innerHTML="";}
-else if (twentyfour.innerHTML==="Pink" && dice.innerHTML==="6") {
-thirty.innerHTML="Pink";
-twentyfour.innerHTML="";}
 else if  (twentyfive.innerHTML==="Pink" && dice.innerHTML==="1") {
 twentysix.innerHTML="Pink";
 twentyfive.innerHTML="";}
