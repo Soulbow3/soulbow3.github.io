@@ -1151,7 +1151,7 @@ else if (
 acc.innerHTML==="+$150" && tile2a.innerHTML==="Two") {
 acc.innerHTML="Advance To Gold";
 gold.opacity="50%";
-gold2.innHTML="Two";
+gold2.innerHTML="Two";
 tile2a.innerHTML="";}
 else if (
 acc.innerHTML==="Advance To Gold" && tile2a.innerHTML==="Two") {
