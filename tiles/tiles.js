@@ -4,7 +4,7 @@ var three= document.getElementById("43");
 var four= document.getElementById("49");
 var tr= document.getElementById("51");
 var tl= document.getElementById("57");
-var bl= document.getbElementById("58");
+var bl= document.getElementById("58");
 var br= document.getElementById("59");
 
 function gold1() {
