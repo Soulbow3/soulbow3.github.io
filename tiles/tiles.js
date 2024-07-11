@@ -2157,37 +2157,23 @@ three.style.background="green";
 two.style.background="blue";}}
 
 function aFunc31(element) {
-var one= document.getElementById("42");
-var two= document.getElementById("51");
-var three= document.getElementById("58");
-var four= document.getElementById("49");
-if (element.style.background === "orange" && four.style.background==="blue") {
-element.style.background="orange";
-four.style.background="green";
+var one= document.getElementById("58");
+var two= document.getElementById("41");
+var three= document.getElementById("51");
+var four= document.getElementById("42");
+var tr= document.getElementById("49");
+var tl= document.getElementById("59");
+var bl= document.getbElementById("57");
+var br= document.getElementById("42");
 one.style.background="orange";
-three.style.background="blue";
-two.style.background="black";}
-else if (element.style.background === "pink" && four.style.background!=="orange") {element.style.background="orange";
-four.style.background="blue";
-one.style.background="green";
-three.style.background="black";
-two.style.background="orange";}
-else if (element.style.background === "pink" && four !== "black") {element.style.background="pink";
-four.style.background="black";
-one.style.background="blue";
+two.style.background="orange";
 three.style.background="orange";
-two.style.background="green";}
-else if (element.style.background !== "orange") {
-element.style.background="orange";
-four.style.background="blue";
-one.style.background="green";
-three.style.background="black";
-two.style.background="orange";}
-else if (element.style.background !== "black") {element.style.background="pink";
 four.style.background="orange";
-one.style.background="black";
-three.style.background="green";
-two.style.background="blue";}}
+tr.style.background="orange";
+tl.style.background="orange";
+bl.style.background="orange";
+br.style.background="orange";
+element.style.background="orange";}
 
 function aFunc32(element) {
 var one= document.getElementById("43");
