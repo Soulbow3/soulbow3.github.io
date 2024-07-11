@@ -335,7 +335,11 @@ document.getElementById("42").style.background="gold";
 document.getElementById("49").style.background="gold";
 document.getElementById("50").style.background="gold";
 document.getElementById("51").style.background="gold";
-document.getElementById("58").style.background="gold";}}
+document.getElementById("58").style.background="gold";
+document.getElementById("41").style.background="gold";
+document.getElementById("43").style.background="gold";
+document.getElementById("57").style.background="gold";
+document.getElementById("59").style.background="gold";}}
 function gold51() {
 if (document.getElementById("btn").style.background==="linear-gradient(90deg, black, red, yellow, red, black)") {
 document.getElementById("43").style.background="gold";
@@ -399,8 +403,7 @@ if (document.getElementById("btn").style.background==="linear-gradient(90deg, bl
 document.getElementById("52").style.background="gold";
 document.getElementById("59").style.background="gold";
 document.getElementById("60").style.background="gold";
-document.getElementById("61").style.background="gold";
-}}
+document.getElementById("61").style.background="gold";}}
 function gold61() {
 if (document.getElementById("btn").style.background==="linear-gradient(90deg, black, red, yellow, red, black)") {
 document.getElementById("53").style.background="gold";
