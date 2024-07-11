@@ -1,3 +1,12 @@
+var one= document.getElementById("41");
+var two= document.getElementById("42");
+var three= document.getElementById("43");
+var four= document.getElementById("49");
+var tr= document.getElementById("51");
+var tl= document.getElementById("57");
+var bl= document.getbElementById("58");
+var br= document.getElementById("59");
+
 function gold1() {
 if (document.getElementById("btn").style.background==="linear-gradient(90deg, black, red, yellow, red, black)") {
 document.getElementById("1").style.background="gold";
@@ -2157,14 +2166,6 @@ three.style.background="green";
 two.style.background="blue";}}
 
 function aFunc31(element) {
-var one= document.getElementById("41");
-var two= document.getElementById("42");
-var three= document.getElementById("43");
-var four= document.getElementById("49");
-var tr= document.getElementById("51");
-var tl= document.getElementById("57");
-var bl= document.getbElementById("58");
-var br= document.getElementById("59");
 one.style.background="orange";
 two.style.background="orange";
 three.style.background="orange";
