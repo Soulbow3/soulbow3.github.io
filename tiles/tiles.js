@@ -339,7 +339,8 @@ document.getElementById("58").style.background="gold";
 document.getElementById("41").style.background="gold";
 document.getElementById("43").style.background="gold";
 document.getElementById("57").style.background="gold";
-document.getElementById("59").style.background="gold";}}
+document.getElementById("59").style.background="gold";
+document.getElementById("36").style.background="gold";}}
 function gold51() {
 if (document.getElementById("btn").style.background==="linear-gradient(90deg, black, red, yellow, red, black)") {
 document.getElementById("43").style.background="gold";
