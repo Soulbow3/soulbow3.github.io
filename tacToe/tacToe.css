@@ -5,7 +5,7 @@ section {background: darkslategrey; height: 90px; width: 90px; border: solid 2px
 p {color: red; margin: 7px 7px 14px 7px; text-align: center;}
 main {width: 10px;}
 header {width: 333px; height:480px; opacity: 50%; background: linear-gradient(90deg, grey, white, yellow, white, red, grey); z-index: -1; position: absolute; border: solid 2px goldenrod;}
-footer {background: purple; width: 335px;}
+footer {background: darkslategrey; width: 335px;}
 h2 {text-align: center;}
 button {text-align: center; width: 335px; background: hotpink; height: 30px;}
 h5 {color: deeppink; text-align: center;}
