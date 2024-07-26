@@ -1,4 +1,5 @@
 function plus2() {
+var wallet2= document.getElementById('wal2");
 if (wallet2.innerHTML==="$0") {
 wallet2.innerHTML="$10";}
 else if (wallet2.innerHTML==="$10") {
@@ -433,6 +434,7 @@ else if (wallet2.innerHTML==="$2150") {
 wallet2.innerHTML="$2160";}}
 
 function minus2() {
+var wallet2= document.getElementById('wal2");
 if (wallet2.innerHTML==="$0") {
 wallet2.innerHTML="Bankrupt";}
 else if (wallet2.innerHTML==="$10") {
@@ -895,6 +897,7 @@ else if (wallet2.innerHTML==="$2150") {
 wallet2.innerHTML="$2140";}}
 
 function plus1() {
+var wallet1= document.getElementById('wal1");
 if (wallet1.innerHTML==="$0") {
 wallet1.innerHTML="$10";}
 else if (wallet1.innerHTML==="$10") {
@@ -1329,6 +1332,7 @@ else if (wallet1.innerHTML==="$2150") {
 wallet1.innerHTML="$2160";}}
 
 function minus1() {
+var wallet1= document.getElementById('wal1");
 if (wallet1.innerHTML==="$0") {
 wallet1.innerHTML="Bankrupt";}
 else if (wallet1.innerHTML==="$10") {
