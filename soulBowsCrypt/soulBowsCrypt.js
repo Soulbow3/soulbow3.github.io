@@ -894,7 +894,9 @@ wallet2.innerHTML="$2120";}
 else if (wallet2.innerHTML==="$2140") {
 wallet2.innerHTML="$2130";}
 else if (wallet2.innerHTML==="$2150") {
-wallet2.innerHTML="$2140";}}
+wallet2.innerHTML="$2140";}
+else if (wallet2.innerHTML==="$2160") {
+wallet2.innerHTML="$2150";}}
 
 function plus1() {
 var wallet1=document.getElementById("wal1");
@@ -1792,7 +1794,9 @@ wallet1.innerHTML="$2120";}
 else if (wallet1.innerHTML==="$2140") {
 wallet1.innerHTML="$2130";}
 else if (wallet1.innerHTML==="$2150") {
-wallet1.innerHTML="$2140";}}
+wallet1.innerHTML="$2140";}
+else if (wallet1.innerHTML==="$2160") {
+wallet1.innerHTML="$2150";}}
 
 function times1() {
 var one=document.getElementById("oneM");
