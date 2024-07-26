@@ -6,5 +6,5 @@ h1 {font-size: 16px; text-align: center;}
 h6{font-size: 9px;}
 h2 {font-size: 15px; font-family: cursive; color: red;}
 button {text-align: center; color: red; border-radius: 45px 45px 45px 45px; background: black; margin: 0 0 0 0; height: 30px; width: 30px; font-size: 7px; margin-top: 5px;}
-main {border: solid 1px gold;}
+main {border: solid 1px gold; height: 100%; width: 100%;}
 h6 {font-size: 20px; font-family: cursive; margin: 0 0 0 0;}
