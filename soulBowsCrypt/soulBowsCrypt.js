@@ -3261,7 +3261,7 @@ acc.innerHTML="+$100";}
 else if (
 acc.innerHTML==="+$100" && tile1a.innerHTML==="One") {
 acc.innerHTML="Ad- vance To Go";
-back1.innerHTML="One";
+go1.innerHTML="One";
 go.opacity="50%";
 tile1a.innerHTML="";}
 
@@ -3623,7 +3623,7 @@ acc.innerHTML="+$100";}
 else if (
 acc.innerHTML==="+$100" && tile1a.innerHTML==="One") {
 acc.innerHTML="Ad- vance To Go";
-back1.innerHTML="One";
+go1.innerHTML="One";
 go.opacity="50%";
 tile1a.innerHTML="";}
 
