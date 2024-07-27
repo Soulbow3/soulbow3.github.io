@@ -3213,7 +3213,7 @@ go2.innerHTML="Pink";
 go.opacity="50%";
 tile2a.innerHTML="";} 
 else if (acc.innerHTML==="") {
-acc.innerHTML="+150";}}
+acc.innerHTML="+$150";}}
  
 function card2() {
 var acc=document.getElementById("cardAcc");
