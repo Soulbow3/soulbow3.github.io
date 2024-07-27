@@ -3213,7 +3213,7 @@ go2.innerHTML="Pink";
 go.opacity="50%";
 tile2a.innerHTML="";} 
 else if (acc.innerHTML==="") {
-acc.innerHTML="Ad- vance To Go";}}
+acc.innerHTML="+150";}}
  
 function card2() {
 var acc=document.getElementById("cardAcc");
@@ -3576,7 +3576,7 @@ go2.innerHTML="Pink";
 go.opacity="50%";
 tile2a.innerHTML="";} 
 else if (acc.innerHTML==="") {
-acc.innerHTML="Jail";}}
+acc.innerHTML="No- thing";}}
 
 function card3() {
 var acc=document.getElementById("cardAcc");
@@ -3938,7 +3938,7 @@ go2.innerHTML="Pink";
 go.opacity="50%";
 tile2a.innerHTML="";} 
 else if (acc.innerHTML==="") {
-acc.innerHTML="Back 3";}}
+acc.innerHTML="-$100";}}
 
 function playerOne() {
 var dice=document.getElementById("node");
