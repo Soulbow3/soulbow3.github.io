@@ -2,7 +2,8 @@ function sum1() {
 var wallet1= document.getElementById("wal1");
 var text= document.getElementById("txt");
 var walletback= document.getElementById("back");
-
+var card= document.getElementById("cardAcc");
+  
 if (card.innerHTML==="-$100" && wallet1.innerHTML==="$0") {
 wallet1.innerHTML="Bankcrupt";
 card.innerHTML="";}
