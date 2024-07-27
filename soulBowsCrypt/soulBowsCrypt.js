@@ -3252,7 +3252,7 @@ acc.innerHTML==="Ad- vance To Gold" && tile1a.innerHTML==="One") {
 acc.innerHTML="-$100";}
 else if (acc.innerHTML==="-$100" && tile1a.innerHTML==="One") {
 acc.innerHTML="Back 3";
-go1.innerHTML="One";
+back1.innerHTML="One";
 go.opacity="50%";
 tile1a.innerHTML="";}
 else if (
@@ -3614,7 +3614,7 @@ acc.innerHTML==="Ad- vance To Gold" && tile1a.innerHTML==="One") {
 acc.innerHTML="-$100";}
 else if (acc.innerHTML==="-$100" && tile1a.innerHTML==="One") {
 acc.innerHTML="Back 3";
-go1.innerHTML="One";
+back1.innerHTML="One";
 go.opacity="50%";
 tile1a.innerHTML="";}
 else if (
