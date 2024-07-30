@@ -5403,8 +5403,8 @@ var jailStartOne=document.getElementById("oneX");
 var jailStartTwo=document.getElementById("twoX");
 var jailOne=document.getElementById("oneH");
 var jailTwo=document.getElementById("twoH");
-var jailStartThree=document.getElementById("ThreeX");
-var jailThree=document.getElementById("ThreeH");
+var jailStartThree=document.getElementById("threeX");
+var jailThree=document.getElementById("threeH");
 var lock=document.getElementById("id24");
 if (jailStartOne.innerHTML==="One") {
 jailStartOne.innerHTML="";
