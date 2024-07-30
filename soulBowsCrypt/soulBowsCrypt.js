@@ -7819,7 +7819,7 @@ var thirtytwo=document.getElementById("fone");
 var free=document.getElementById("id24");
 var buttonOne=document.getElementById("btn1");
 if (buttonOne.innerHTML==="One") {
-ButtonOne.innerHTML="P1";
+buttonOne.innerHTML="P1";
 one.innerHTML="One";}
 else if (one.innerHTML==="One" && dice.innerHTML==="1") {
 two.innerHTML="One";
@@ -12459,9 +12459,9 @@ var thirtyone=document.getElementById("ethree");
 var thirtytwo=document.getElementById("fthree");
 var free=document.getElementById("id24");
 var buttonThree=document.getElementById("btn3")
-if (buttonThree.innerHTML==="Two") {
+if (buttonThree.innerHTML==="Three") {
 buttonThree.innerHTML="P3";
-one.innerHTML="Two";}
+one.innerHTML="Three";}
 else if (one.innerHTML==="Three" && dice.innerHTML==="1") {
 two.innerHTML="Three";
 one.innerHTML="";}
@@ -12474,8 +12474,8 @@ one.innerHTML="";}
 else if (one.innerHTML==="Three" && dice.innerHTML==="4") {
 five.innerHTML="Three";
 one.innerHTML="";}
-else if (one.innerHTML==="Two" && dice.innerHTML==="5") {
-six.innerHTML="Two";
+else if (one.innerHTML==="Three" && dice.innerHTML==="5") {
+six.innerHTML="Three";
 one.innerHTML="";}
 else if (one.innerHTML==="Three" && dice.innerHTML==="6") {
 seven.innerHTML="Three";
@@ -12558,8 +12558,8 @@ six.innerHTML="";}
 else if (six.innerHTML==="Three" && dice.innerHTML==="2") {
 eight.innerHTML="Three";
 six.innerHTML="";}
-else if (six.innerHTML==="Two" && dice.innerHTML==="3") {
-nine.innerHTML="Two";
+else if (six.innerHTML==="Three" && dice.innerHTML==="3") {
+nine.innerHTML="THree";
 six.innerHTML="";}
 else if (six.innerHTML==="Three" && dice.innerHTML==="4") {
 ten.innerHTML="Three";
