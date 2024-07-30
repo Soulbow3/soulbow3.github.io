@@ -5447,7 +5447,7 @@ lock.style.background="silver";
 jailTwo.style.color="black";}
 else if (jailStartThree.innerHTML==="Three") {
 jailStartThree.innerHTML="";
-jailThree.innerHTML="THree";
+jailThree.innerHTML="Three";
 lock.style.background="silver";
 jailThree.style.color="black";}
 else if (jailStartThree.innerHTML==="Red") {
