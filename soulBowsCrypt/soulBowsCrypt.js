@@ -6538,23 +6538,15 @@ back.style.background="green";}}
 
 function piece(element) {
 if (element.innerHTML==="Red") {
-element.innerHTML="Yellow";
-element.style.color="yellow";}
+element.innerHTML="Yellow";}
 else if (element.innerHTML==="Yellow") {
-element.innerHTML="Pink";
-element.style.color="deeppink"}
+element.innerHTML="Pink";}
 else if (element.innerHTML==="Pink") {
-element.innerHTML="Red";
-element.style.color="red";}
+element.innerHTML="Red";}
 else if (element.innerHTML!=="One") {
-element.innerHTML="Red";
-element.style.color="red";}
-else if (element.innerHTML==="One")
-{element.style.background="red";
-element.style.color="red"}
-else if (element.innerHTML!=="Two") {
-element.innerHTML="Red";
-element.style.color="red";}}
+element.innerHTML="Red";}
+else if (element.innerHTML==="One") {
+element.innHTML="Red";}}
 
 function card1() {
 var acc=document.getElementById("cardAcc");
