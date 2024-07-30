@@ -5294,11 +5294,11 @@ var back=document.getElementById("timesBack1");
 var two=document.getElementById("twoM");
 var four=document.getElementById("threeM");
 if (back.style.background==="red") {
-back.style.background="red";}
-else if (back.style.background==="purple") {
 back.style.background="purple";}
-else if (back.style.background==="green") {
+else if (back.style.background==="purple") {
 back.style.background="green";}
+else if (back.style.background==="green") {
+back.style.background="red";}
 
 else if (one.innerHTML==="One") {
 three.innerHTML="x30";
@@ -5346,11 +5346,11 @@ var back=document.getElementById("timesBack2");
 var two=document.getElementById("dtwo");
 var four=document.getElementById("dthree");
 if (back.style.background==="red") {
-back.style.background="red";}
-else if (back.style.background==="purple") {
 back.style.background="purple";}
-else if (back.style.background==="green") {
+else if (back.style.background==="purple") {
 back.style.background="green";}
+else if (back.style.background==="green") {
+back.style.background="red";}
 
 else if (one.innerHTML==="One") {
 three.innerHTML="x40";
