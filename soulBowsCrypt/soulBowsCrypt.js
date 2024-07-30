@@ -2,40 +2,40 @@ function bacZ() {
 var change=document.getElementById("value1");
 var backa=document.getElementById("bac1a");
 var backb=document.getElementById("bac1b");
-if (change.style.background==="darkslategrey") {
-backa.style.background="drakstategrey";
-backb.style.background="darkslategrey";
-change.style.background="rebeccapurple";}
-else {
+if (change.style.background==="rebeccapurple") {
 backa.style.background="rebeccapurple";
 backb.style.background="rebeccapurple";
-change.style.background="darkslategrey";}}
+change.style.background="darkslategrey";}
+else {
+backa.style.background="drakstategrey";
+backb.style.background="darkslategrey";
+change.style.background="rebeccapurple";}}
 
 function bacY() {
 var change=document.getElementById("value2");
 var backa=document.getElementById("bac2a");
 var backb=document.getElementById("bac2b");
-if (change.style.background==="darkslategrey") {
-backa.style.background="drakstategrey";
-backb.style.background="darkslategrey";
-change.style.background="rebeccapurple";}
-else {
+if (change.style.background==="rebeccapurple") {
 backa.style.background="rebeccapurple";
 backb.style.background="rebeccapurple";
-change.style.background="darkslategrey";}}
+change.style.background="darkslategrey";}
+else {
+backa.style.background="drakstategrey";
+backb.style.background="darkslategrey";
+change.style.background="rebeccapurple";}}
 
 function bacX() {
 var change=document.getElementById("value3");
 var backa=document.getElementById("bac3a");
 var backb=document.getElementById("bac3b");
-if (change.style.background==="darkslategrey") {
-backa.style.background="drakstategrey";
-backb.style.background="darkslategrey";
-change.style.background="rebeccapurple";}
-else {
+if (change.style.background==="rebeccapurple") {
 backa.style.background="rebeccapurple";
 backb.style.background="rebeccapurple";
-change.style.background="darkslategrey";}}
+change.style.background="darkslategrey";}
+else {
+backa.style.background="drakstategrey";
+backb.style.background="darkslategrey";
+change.style.background="rebeccapurple";}}
 
 function plus3() {
 var wallet3=document.getElementById("wal3");
