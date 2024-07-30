@@ -7811,7 +7811,10 @@ var thirty=document.getElementById("done");
 var thirtyone=document.getElementById("eone");
 var thirtytwo=document.getElementById("fone");
 var free=document.getElementById("id24");
-if (one.innerHTML==="One" && dice.innerHTML==="1") {
+if (element.innerHTML==="One") {
+element.innerHTML="P1;
+one.innerHTML="One";}
+else if (one.innerHTML==="One" && dice.innerHTML==="1") {
 two.innerHTML="One";
 one.innerHTML="";}
 else if (one.innerHTML==="One" && dice.innerHTML==="2") {
@@ -10128,7 +10131,10 @@ var thirty=document.getElementById("dtwo");
 var thirtyone=document.getElementById("etwo");
 var thirtytwo=document.getElementById("ftwo");
 var free=document.getElementById("id24");
-if (one.innerHTML==="Two" && dice.innerHTML==="1") {
+if (element.innerHTML==="Two") {
+element.innerHTML="P2"
+one.innerHTML="Two";}
+else if (one.innerHTML==="Two" && dice.innerHTML==="1") {
 two.innerHTML="Two";
 one.innerHTML="";}
 else if (one.innerHTML==="Two" && dice.innerHTML==="2") {
@@ -12444,7 +12450,10 @@ var thirty=document.getElementById("dthree");
 var thirtyone=document.getElementById("ethree");
 var thirtytwo=document.getElementById("fthree");
 var free=document.getElementById("id24");
-if (one.innerHTML==="Three" && dice.innerHTML==="1") {
+if (element.innerHTML==="Two") {
+element="P3";
+one.innerHTML="Two";}
+else if (one.innerHTML==="Three" && dice.innerHTML==="1") {
 two.innerHTML="Three";
 one.innerHTML="";}
 else if (one.innerHTML==="Three" && dice.innerHTML==="2") {
