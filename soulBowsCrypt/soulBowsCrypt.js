@@ -5505,17 +5505,17 @@ else if (startTwo.innerHTML==="Pink") {
 startTwo.innerHTML="";
 homeTwo.innerHTML="Pink";}
 else if (startThree.innerHTML==="Three") {
-startOne.innerHTML="";
-homeOne.innerHTML="Three";}
+starThree.innerHTML="";
+homeThree.innerHTML="Three";}
 else if (startThree.innerHTML==="Red") {
-startOne.innerHTML="";
-homeOne.innerHTML="Red";}
+startThree.innerHTML="";
+homeThree.innerHTML="Red";}
 else if (startThree.innerHTML==="Yellow") {
-startOne.innerHTML="";
-homeOne.innerHTML="Yellow";}
+startThree.innerHTML="";
+homeThree.innerHTML="Yellow";}
 else if (startThree.innerHTML==="Pink") {
-startOne.innerHTML="";
-homeOne.innerHTML="Pink";}}
+startThree.innerHTML="";
+homeThree.innerHTML="Pink";}}
 
 function start2() {
 var startOne=document.getElementById("oneL");
@@ -5555,17 +5555,17 @@ else if (startTwo.innerHTML==="Pink") {
 startTwo.innerHTML="";
 homeTwo.innerHTML="Pink";}
 else if (startThree.innerHTML==="Three") {
-startOne.innerHTML="";
-homeOne.innerHTML="Three";}
+startThree.innerHTML="";
+homeThree.innerHTML="Three";}
 else if (startThree.innerHTML==="Red") {
-startOne.innerHTML="";
-homeOne.innerHTML="Red";}
+startThree.innerHTML="";
+homeThree.innerHTML="Red";}
 else if (startThree.innerHTML==="Yellow") {
-startOne.innerHTML="";
-homeOne.innerHTML="Yellow";}
+startThree.innerHTML="";
+homeThree.innerHTML="Yellow";}
 else if (startThree.innerHTML==="Pink") {
-startOne.innerHTML="";
-homeOne.innerHTML="Pink";}}
+startThree.innerHTML="";
+homeThree.innerHTML="Pink";}}
 
 function plum1() {
 var one=document.getElementById("oneB");
