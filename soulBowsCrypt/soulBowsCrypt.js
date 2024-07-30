@@ -1,32 +1,38 @@
-function bacZ() {
+function bacZ(element) {
 var backa="bac1a";
 var backb="bac1b";
-if (backa.style.background==="rebeccapurple") {
+if (element.style.background==="darkslategrey") {
 backa.style.background="drakstategrey";
-backb.style.background="darkslategrey";}
+backb.style.background="darkslategrey";
+element.style.background="rebeccapurple;}
 else {
 backa.style.background="rebeccapurple";
-backb.style.background="rebeccapurple";}}
+backb.style.background="rebeccapurple";
+element.style.background="darkslategrey;}}
 
-function bacY() {
+function bacY(element) {
 var backa="bac2a";
 var backb="bac2b";
-if (backa.style.background==="rebeccapurple") {
+if (element.style.background==="darkslategrey") {
 backa.style.background="drakstategrey";
-backb.style.background="darkslategrey";}
+backb.style.background="darkslategrey";
+element.style.background="rebeccapurple;}
 else {
 backa.style.background="rebeccapurple";
-backb.style.background="rebeccapurple";}}
+backb.style.background="rebeccapurple";
+element.style.background="darkslategrey;}}
 
-function bacX() {
+function bacX(element) {
 var backa="bac3a";
 var backb="bac3b";
-if (backa.style.background==="rebeccapurple") {
+if (element.style.background==="darkslategrey") {
 backa.style.background="drakstategrey";
-backb.style.background="darkslategrey";}
+backb.style.background="darkslategrey";
+element.style.background="rebeccapurple;}
 else {
 backa.style.background="rebeccapurple";
-backb.style.background="rebeccapurple";}}
+backb.style.background="rebeccapurple";
+element.style.background="darkslategrey;}}
 
 function plus3() {
 var wallet3=document.getElementById("wal3");
