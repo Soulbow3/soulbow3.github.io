@@ -5454,11 +5454,11 @@ jailThree.style.color="black";}
 else if (jailStartThree.innerHTML==="Red") {
 jailStartThree.innerHTML="";
 jailThree.innerHTML="Red";
-lock.style.backround="silver";
+lock.style.background="silver";
 jailThree.style.color="black";}
 else if (jailStartThree.innerHTML==="Yellow") {
 jailStartThree.innerHTML="";
-jailThree.innerHTML="Yellow";
+jailThree.innerHTML="Yelow";
 lock.style.background="silver";
 jailThree.style.color="black";}
 else if (jailStartThree.innerHTML==="Pink") {
