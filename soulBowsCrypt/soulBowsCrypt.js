@@ -1,3 +1,11 @@
+function bacZ() {
+if (backa.style.background==="rebeccapurple") {
+backa.style.background="drakstategrey";
+backb.style.background="darkslategrey";}
+else {
+backa.style.background="rebeccapurple";
+backb.style.background="rebeccapurple";}}
+ 
 function plus3() {
 var wallet3=document.getElementById("wal3");
 var back=document.getElementById("bac3a");
