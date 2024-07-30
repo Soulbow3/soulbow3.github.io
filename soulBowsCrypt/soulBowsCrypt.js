@@ -1,38 +1,33 @@
 function bacZ(element) {
 var backa="bac1a";
 var backb="bac1b";
-if (element.style.background==="darkslategrey") {
+if (element.style.background==="rebeccapurple") {
 backa.style.background="drakstategrey";
-backb.style.background="darkslategrey";
-element.style.background="rebeccapurple;}
+backb.style.background="darkslategrey";}
 else {
 backa.style.background="rebeccapurple";
-backb.style.background="rebeccapurple";
-element.style.background="darkslategrey;}}
+backb.style.background="rebeccapurple";}}
 
 function bacY(element) {
 var backa="bac2a";
 var backb="bac2b";
-if (element.style.background==="darkslategrey") {
+if (element.style.background==="rebeccapurple") {
 backa.style.background="drakstategrey";
-backb.style.background="darkslategrey";
-element.style.background="rebeccapurple;}
+backb.style.background="darkslategrey";}
 else {
 backa.style.background="rebeccapurple";
-backb.style.background="rebeccapurple";
-element.style.background="darkslategrey;}}
+backb.style.background="rebeccapurple";}}
 
 function bacX(element) {
 var backa="bac3a";
 var backb="bac3b";
-if (element.style.background==="darkslategrey") {
+if (element.style.background==="rebeccaPurple") {
 backa.style.background="drakstategrey";
 backb.style.background="darkslategrey";
-element.style.background="rebeccapurple;}
+}
 else {
 backa.style.background="rebeccapurple";
-backb.style.background="rebeccapurple";
-element.style.background="darkslategrey;}}
+backb.style.background="rebeccapurple";}}
 
 function plus3() {
 var wallet3=document.getElementById("wal3");
