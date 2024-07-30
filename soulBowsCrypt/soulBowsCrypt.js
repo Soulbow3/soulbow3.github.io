@@ -1,4 +1,5 @@
-function bacZ(element) {
+function bacZ() {
+var change="value1";
 var backa="bac1a";
 var backb="bac1b";
 if (element.style.background==="rebeccapurple") {
@@ -8,7 +9,8 @@ else {
 backa.style.background="rebeccapurple";
 backb.style.background="rebeccapurple";}}
 
-function bacY(element) {
+function bacY() {
+var change="value2";
 var backa="bac2a";
 var backb="bac2b";
 if (element.style.background==="rebeccapurple") {
@@ -18,13 +20,13 @@ else {
 backa.style.background="rebeccapurple";
 backb.style.background="rebeccapurple";}}
 
-function bacX(element) {
+function bacX() {
+var change="value3";
 var backa="bac3a";
 var backb="bac3b";
 if (element.style.background==="rebeccaPurple") {
 backa.style.background="drakstategrey";
-backb.style.background="darkslategrey";
-}
+backb.style.background="darkslategrey";}
 else {
 backa.style.background="rebeccapurple";
 backb.style.background="rebeccapurple";}}
