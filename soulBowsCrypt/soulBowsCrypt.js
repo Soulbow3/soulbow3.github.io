@@ -5253,10 +5253,13 @@ var one=document.getElementById("oneM");
 var three=document.getElementById("timesOne");
 var back=document.getElementById("timesBack1");
 var two=document.getElementById("twoM");
+var two=document.getElementById("dthree");
 if (back.style.background==="red") {
 back.style.background="red";}
 else if (back.style.background==="purple") {
 back.style.background="purple";}
+else if (back.style.background==="green") {
+back.style.background="green";}
 
 else if (one.innerHTML==="One") {
 three.innerHTML="x30";
@@ -5288,17 +5291,33 @@ three.innerHTML="x30";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
 three.innerHTMl="x30";
-back.style.background="purple";}}
+back.style.background="purple";}
+
+else if (four.innerHTML==="Three") {
+three.innerHTML="x30";
+back.style.background="green";}
+else if (four.innerHTML==="Pink") {
+three.innerHTML="x30";
+back.style.background="green";}
+else if (four.innerHTML==="Red") {
+three.innerHTML="x30";
+back.style.background="green";}
+else if (four.innerHTML==="Yellow") {
+three.innerHTML="x30";
+back.style.background="green";}}
 
 function times2() {
 var one=document.getElementById("done");
 var three=document.getElementById("timesTwo");
 var back=document.getElementById("timesBack2");
 var two=document.getElementById("dtwo");
+var four=document.getElementById("dthree");
 if (back.style.background==="red") {
 back.style.background="red";}
 else if (back.style.background==="purple") {
 back.style.background="purple";}
+else if (back.style.background==="green") {
+back.style.background="green";}
 
 else if (one.innerHTML==="One") {
 three.innerHTML="x40";
@@ -5330,7 +5349,20 @@ three.innerHTML="x40";
 back.style.background="purple";}
 else if (two.innerHTML==="One") {
 three.innerHTMl="x40";
-back.style.background="purple";}}
+back.style.background="purple";}
+ 
+else if (four.innerHTML==="Three") {
+three.innerHTML="x40";
+back.style.background="green";}
+else if (four.innerHTML==="Pink") {
+three.innerHTML="x40";
+back.style.background="green";}
+else if (four.innerHTML==="Red") {
+three.innerHTML="x40";
+back.style.background="green";}
+else if (four.innerHTML==="Yellow") {
+three.innerHTML="x40";
+back.style.background="green";}}
 
 function drunkTank() {
 var jailStartOne=document.getElementById("oneX");
