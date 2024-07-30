@@ -2,7 +2,7 @@ function bacZ() {
 var change=document.getElementById("value1");
 var backa=document.getElementById("bac1a");
 var backb=document.getElementById("bac1b");
-if (value1.style.background==="rebeccapurple") {
+if (change.style.background==="rebeccapurple") {
 backa.style.background="drakstategrey";
 backb.style.background="darkslategrey";}
 else {
@@ -13,7 +13,7 @@ function bacY() {
 var change=document.getElementById("value2");
 var backa=document.getElementById("bac2a");
 var backb=document.getElementById("bac2b");
-if (value2.style.background==="rebeccapurple") {
+if (change.style.background==="rebeccapurple") {
 backa.style.background="drakstategrey";
 backb.style.background="darkslategrey";}
 else {
@@ -24,7 +24,7 @@ function bacX() {
 var change=document.getElementById("value3");
 var backa=document.getElementById("bac3a");
 var backb=document.getElementById("bac3b");
-if (value3.style.background==="rebeccaPurple") {
+if (change.style.background==="rebeccaPurple") {
 backa.style.background="drakstategrey";
 backb.style.background="darkslategrey";}
 else {
