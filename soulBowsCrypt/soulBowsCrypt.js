@@ -6695,7 +6695,7 @@ else if (element.innerHTML==="one")
 element.background.color="red"}
 else if (element.innerHTML!=="Two") {
 element.innerHTML="Red";
-element.background.color="red';}}
+element.background.color="red";}}
 
 function card1() {
 var acc=document.getElementById("cardAcc");
@@ -7819,7 +7819,7 @@ var thirtytwo=document.getElementById("fone");
 var free=document.getElementById("id24");
 var buttonOne=document.getElementById("btn1");
 if (buttonOne.innerHTML==="One") {
-ButtonOne.innerHTML="P1;
+ButtonOne.innerHTML="P1";
 one.innerHTML="One";}
 else if (one.innerHTML==="One" && dice.innerHTML==="1") {
 two.innerHTML="One";
