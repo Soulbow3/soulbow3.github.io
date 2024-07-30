@@ -6545,7 +6545,7 @@ element.innerHTML="Red";}
 else if (element.innerHTML!=="One") {
 element.innerHTML="Red";}
 else if (element.innerHTML==="One") {
-element.innHTML="Red";}}
+element.innerHTML="Red";}}
 
 function card1() {
 var acc=document.getElementById("cardAcc");
