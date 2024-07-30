@@ -5339,7 +5339,6 @@ else if (four.innerHTML==="Yellow") {
 three.innerHTML="x30";
 back.style.background="green";}}
 
-
 function times2() {
 var one=document.getElementById("done");
 var three=document.getElementById("timesTwo");
@@ -5432,7 +5431,7 @@ lock.style.background="silver";
 jailTwo.style.color="black";}
 else if (jailStartTwo.innerHTML==="Yellow") {
 jailStartTwo.innerHTML="";
-jailTwo.innerHTML="Yelow";
+jailTwo.innerHTML="Yellow";
 lock.style.background="silver";
 jailTwo.style.color="black";}
 else if (jailStartTwo.innerHTML==="Pink") {
@@ -5452,7 +5451,7 @@ lock.style.background="silver";
 jailThree.style.color="black";}
 else if (jailStartThree.innerHTML==="Yellow") {
 jailStartThree.innerHTML="";
-jailThree.innerHTML="Yelow";
+jailThree.innerHTML="Yellow";
 lock.style.background="silver";
 jailThree.style.color="black";}
 else if (jailStartThree.innerHTML==="Pink") {
@@ -12410,7 +12409,7 @@ else if (six.innerHTML==="Three" && dice.innerHTML==="2") {
 eight.innerHTML="Three";
 six.innerHTML="";}
 else if (six.innerHTML==="Three" && dice.innerHTML==="3") {
-nine.innerHTML="THree";
+nine.innerHTML="Three";
 six.innerHTML="";}
 else if (six.innerHTML==="Three" && dice.innerHTML==="4") {
 ten.innerHTML="Three";
