@@ -5286,7 +5286,7 @@ var one=document.getElementById("oneM");
 var three=document.getElementById("timesOne");
 var back=document.getElementById("timesBack1");
 var two=document.getElementById("twoM");
-var three=document.getElementById("threeM");
+var four=document.getElementById("threeM");
 if (back.style.background==="red") {
 back.style.background="red";}
 else if (back.style.background==="purple") {
