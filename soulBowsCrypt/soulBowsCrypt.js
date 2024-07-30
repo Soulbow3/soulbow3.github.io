@@ -5325,7 +5325,7 @@ back.style.background="purple";}
 else if (two.innerHTML==="One") {
 three.innerHTMl="x30";
 back.style.background="purple";}
-
+ 
 else if (four.innerHTML==="Three") {
 three.innerHTML="x30";
 back.style.background="green";}
@@ -5338,6 +5338,7 @@ back.style.background="green";}
 else if (four.innerHTML==="Yellow") {
 three.innerHTML="x30";
 back.style.background="green";}}
+
 
 function times2() {
 var one=document.getElementById("done");
