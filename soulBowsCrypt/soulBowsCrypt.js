@@ -6685,15 +6685,15 @@ if (element.innerHTML==="Red") {
 element.innerHTML="Yellow";
 element.style.color="yellow";}
 else if (element.innerHTML==="Yellow") {
-element.innerHTML="pink";
+element.innerHTML="Pink";
 element.style.color="deeppink"}
-else if (element.innerHTML==="pink") {
+else if (element.innerHTML==="Pink") {
 element.innerHTML="Red";
 element.style.color="red";}
 else if (element.innerHTML!=="One") {
 element.innerHTML="Red";
 element.style.color="red";}
-else if (element.innerHTML==="one")
+else if (element.innerHTML==="One")
 {element.style.background="red";
 element.style.color="red"}
 else if (element.innerHTML!=="Two") {
