@@ -1,11 +1,33 @@
 function bacZ() {
+var backa="bac1a";
+var backb="bac1b";
 if (backa.style.background==="rebeccapurple") {
 backa.style.background="drakstategrey";
 backb.style.background="darkslategrey";}
 else {
 backa.style.background="rebeccapurple";
 backb.style.background="rebeccapurple";}}
- 
+
+function bacY() {
+var backa="bac2a";
+var backb="bac2b";
+if (backa.style.background==="rebeccapurple") {
+backa.style.background="drakstategrey";
+backb.style.background="darkslategrey";}
+else {
+backa.style.background="rebeccapurple";
+backb.style.background="rebeccapurple";}}
+
+function bacX() {
+var backa="bac3a";
+var backb="bac3b";
+if (backa.style.background==="rebeccapurple") {
+backa.style.background="drakstategrey";
+backb.style.background="darkslategrey";}
+else {
+backa.style.background="rebeccapurple";
+backb.style.background="rebeccapurple";}}
+
 function plus3() {
 var wallet3=document.getElementById("wal3");
 var back=document.getElementById("bac3a");
