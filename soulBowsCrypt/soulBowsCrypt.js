@@ -5,7 +5,7 @@ var backb=document.getElementById("bac1b");
 if (change.style.background==="darkslategrey") {
 backa.style.background="darkslategrey";
 backb.style.background="darkslategrey";
-change.style.background="rebeccapurple;}
+change.style.background="rebeccapurple";}
 else {
 backb.style.background="rebeccapurple";
 backa.style.background="rebeccapurple";
@@ -18,7 +18,7 @@ var backb=document.getElementById("bac2b");
 if (change.style.background==="darkslategrey") {
 backa.style.background="darkslategrey";
 backb.style.background="darkslategrey";
-change.style.background="rebeccapurple;}
+change.style.background="rebeccapurple";}
 else {
 backb.style.background="rebeccapurple";
 backa.style.background="rebeccapurple";
@@ -31,7 +31,7 @@ var backb=document.getElementById("bac3b");
 if (change.style.background==="darkslategrey") {
 backa.style.background="darkslategrey";
 backb.style.background="darkslategrey";
-change.style.background="rebeccapurple;}
+change.style.background="rebeccapurple";}
 else {
 backb.style.background="rebeccapurple";
 backa.style.background="rebeccapurple";
