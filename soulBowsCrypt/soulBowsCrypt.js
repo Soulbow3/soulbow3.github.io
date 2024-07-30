@@ -6292,7 +6292,7 @@ else if (four.innerHTML==="Yellow") {
 three.innerHTML="Rent $110";
 back.style.background="green";}
 else if (four.innerHTML==="Three") {
-three.innerHTMl]L="Rent $110";
+three.innerHTML="Rent $110";
 back.style.background="green";}}
 
 function lime1() {
