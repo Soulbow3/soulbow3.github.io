@@ -45,7 +45,7 @@ change.style.background="rebeccapurple";}}
 
 function plus3() {
 var wallet3=document.getElementById("wal3");
-var back=document.getElementById("bac3a");
+var back2=document.getElementById("bac3a");
 if (back2.style.background==="darkslategrey" && wallet2.innerHTML==="$0") {
 wallet2.innerHTML="$100";}
 else if (back2.style.background==="darkslategrey" && wallet2.innerHTML==="$10") {
