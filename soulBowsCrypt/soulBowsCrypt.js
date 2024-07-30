@@ -851,7 +851,7 @@ wallet3.innerHTML="$2160";}}
 function minus3() {
 var wallet3=document.getElementById("wal3");
 var back=document.getElementById("bac3b");
-else if (back.style.background==="darkslategrey" && wallet3.innerHTML==="$0") {
+if (back.style.background==="darkslategrey" && wallet3.innerHTML==="$0") {
 wallet3.innerHTML="Bankrupt";}
 else if (back.style.background==="darkslategrey" && wallet3.innerHTML==="$10") {
 wallet3.innerHTML="Bankrupt";}
@@ -1751,7 +1751,7 @@ wallet3.innerHTML="$2150";}}
 function plus2() {
 var wallet2=document.getElementById("wal2");
 var back2=document.getElementById("bac2a");
-else if (back2.style.background==="darkslategrey" && wallet2.innerHTML==="$0") {
+if (back2.style.background==="darkslategrey" && wallet2.innerHTML==="$0") {
 wallet2.innerHTML="$100";}
 else if (back2.style.background==="darkslategrey" && wallet2.innerHTML==="$10") {
 wallet2.innerHTML="$110";}
