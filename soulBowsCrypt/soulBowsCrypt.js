@@ -159,7 +159,7 @@ wallet3.innerHTML="$670";}
 else if (back2.style.background==="darkslategrey" && wallet3.innerHTML==="$580") {
 wallet3.innerHTML="$680";}
 else if (back2.style.background==="darkslategrey" && wallet3.innerHTML==="$590") {
-wallet3.innerHTML="$690";
+wallet3.innerHTML="$690";}
 else if (back2.style.background==="darkslategrey" && wallet3.innerHTML==="$600") {
 wallet3.innerHTML="$700";}
 else if (back2.style.background==="darkslategrey" && wallet3.innerHTML==="$610") {
