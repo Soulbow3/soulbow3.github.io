@@ -865,27 +865,7 @@ wallet3.innerHTML="$2040";}
 else if (wallet3.innerHTML==="$2040") {
 wallet3.innerHTML="$2050";}
 else if (wallet3.innerHTML==="$2050") {
-wallet3.innerHTML="$2060";}
-else if (wallet3.innerHTML==="$2060") {
-wallet3.innerHTML="$2070";}
-else if (wallet3.innerHTML==="$2070") {
-wallet3.innerHTML="$2080";}
-else if (wallet3.innerHTML==="$2080") {
-wallet3.innerHTML="$2090";}
-else if (wallet3.innerHTML==="$2090") {
-wallet3.innerHTML="$2100";}
-else if (wallet3.innerHTML==="$2100") {
-wallet3.innerHTML="$2110";}
-else if (wallet3.innerHTML==="$2110") {
-wallet3.innerHTML="$2120";}
-else if (wallet3.innerHTML==="$2120") {
-wallet3.innerHTML="$2130";}
-else if (wallet3.innerHTML==="$2130") {
-wallet3.innerHTML="$2140";}
-else if (wallet3.innerHTML==="$2140") {
-wallet3.innerHTML="$2150";}
-else if (wallet3.innerHTML==="$2150") {
-wallet3.innerHTML="$2160";}}
+wallet3.innerHTML="$2060";}}
 
 function minus3() {
 var wallet3=document.getElementById("wal3");
@@ -1304,26 +1284,6 @@ else if (back.style.background==="darkslategrey" && wallet3.innerHTML==="$2050")
 wallet3.innerHTML="$1950";}
 else if (back.style.background==="darkslategrey" && wallet3.innerHTML==="$2060") {
 wallet3.innerHTML="$1960";}
-else if (back.style.background==="darkslategrey" && wallet3.innerHTML==="$2070") {
-wallet3.innerHTML="$1970";}
-else if (back.style.background==="darkslategrey" && wallet3.innerHTML==="$2080") {
-wallet3.innerHTML="$1980";}
-else if (back.style.background==="darkslategrey" && wallet3.innerHTML==="$2090") {
-wallet3.innerHTML="$1990";}
-else if (back.style.background==="darkslategrey" && wallet3.innerHTML==="$2100") {
-wallet3.innerHTML="$2000";}
-else if (back.style.background==="darkslategrey" && wallet3.innerHTML==="$2110") {
-wallet3.innerHTML="$2010";}
-else if (back.style.background==="darkslategrey" && wallet3.innerHTML==="$2120") {
-wallet3.innerHTML="$2020";}
-else if (back.style.background==="darkslategrey" && wallet3.innerHTML==="$2130") {
-wallet3.innerHTML="$2030";}
-else if (back.style.background==="darkslategrey" && wallet3.innerHTML==="$2140") {
-wallet3.innerHTML="$2040";}
-else if (back.style.background==="darkslategrey" && wallet3.innerHTML==="$2150") {
-wallet3.innerHTML="$2050";}
-else if (back.style.background==="darkslategrey" && wallet3.innerHTML==="$2160") {
-wallet3.innerHTML="$2060";}
 else if (wallet3.innerHTML==="$0") {
 wallet3.innerHTML="Bankrupt";}
 else if (wallet3.innerHTML==="$10") {
@@ -1765,27 +1725,7 @@ wallet3.innerHTML="$2030";}
 else if (wallet3.innerHTML==="$2050") {
 wallet3.innerHTML="$2040";}
 else if (wallet3.innerHTML==="$2060") {
-wallet3.innerHTML="$2050";}
-else if (wallet3.innerHTML==="$2070") {
-wallet3.innerHTML="$2060";}
-else if (wallet3.innerHTML==="$2080") {
-wallet3.innerHTML="$2070";}
-else if (wallet3.innerHTML==="$2090") {
-wallet3.innerHTML="$2080";}
-else if (wallet3.innerHTML==="$2100") {
-wallet3.innerHTML="$2090";}
-else if (wallet3.innerHTML==="$2110") {
-wallet3.innerHTML="$2100";}
-else if (wallet3.innerHTML==="$2120") {
-wallet3.innerHTML="$2110";}
-else if (wallet3.innerHTML==="$2130") {
-wallet3.innerHTML="$2120";}
-else if (wallet3.innerHTML==="$2140") {
-wallet3.innerHTML="$2130";}
-else if (wallet3.innerHTML==="$2150") {
-wallet3.innerHTML="$2140";}
-else if (wallet3.innerHTML==="$2160") {
-wallet3.innerHTML="$2150";}}
+wallet3.innerHTML="$2050";}}
 
 function plus2() {
 var wallet2=document.getElementById("wal2");
@@ -2615,27 +2555,7 @@ wallet2.innerHTML="$2040";}
 else if (wallet2.innerHTML==="$2040") {
 wallet2.innerHTML="$2050";}
 else if (wallet2.innerHTML==="$2050") {
-wallet2.innerHTML="$2060";}
-else if (wallet2.innerHTML==="$2060") {
-wallet2.innerHTML="$2070";}
-else if (wallet2.innerHTML==="$2070") {
-wallet2.innerHTML="$2080";}
-else if (wallet2.innerHTML==="$2080") {
-wallet2.innerHTML="$2090";}
-else if (wallet2.innerHTML==="$2090") {
-wallet2.innerHTML="$2100";}
-else if (wallet2.innerHTML==="$2100") {
-wallet2.innerHTML="$2110";}
-else if (wallet2.innerHTML==="$2110") {
-wallet2.innerHTML="$2120";}
-else if (wallet2.innerHTML==="$2120") {
-wallet2.innerHTML="$2130";}
-else if (wallet2.innerHTML==="$2130") {
-wallet2.innerHTML="$2140";}
-else if (wallet2.innerHTML==="$2140") {
-wallet2.innerHTML="$2150";}
-else if (wallet2.innerHTML==="$2150") {
-wallet2.innerHTML="$2160";}}
+wallet2.innerHTML="$2060";}}
 
 function minus2() {
 var wallet2=document.getElementById("wal2");
@@ -3515,27 +3435,7 @@ wallet2.innerHTML="$2030";}
 else if (wallet2.innerHTML==="$2050") {
 wallet2.innerHTML="$2040";}
 else if (wallet2.innerHTML==="$2060") {
-wallet2.innerHTML="$2050";}
-else if (wallet2.innerHTML==="$2070") {
-wallet2.innerHTML="$2060";}
-else if (wallet2.innerHTML==="$2080") {
-wallet2.innerHTML="$2070";}
-else if (wallet2.innerHTML==="$2090") {
-wallet2.innerHTML="$2080";}
-else if (wallet2.innerHTML==="$2100") {
-wallet2.innerHTML="$2090";}
-else if (wallet2.innerHTML==="$2110") {
-wallet2.innerHTML="$2100";}
-else if (wallet2.innerHTML==="$2120") {
-wallet2.innerHTML="$2110";}
-else if (wallet2.innerHTML==="$2130") {
-wallet2.innerHTML="$2120";}
-else if (wallet2.innerHTML==="$2140") {
-wallet2.innerHTML="$2130";}
-else if (wallet2.innerHTML==="$2150") {
-wallet2.innerHTML="$2140";}
-else if (wallet2.innerHTML==="$2160") {
-wallet2.innerHTML="$2150";}}
+wallet2.innerHTML="$2050";}}
 
 function plus1() {
 var wallet1=document.getElementById("wal1");
@@ -4365,27 +4265,7 @@ wallet1.innerHTML="$2040";}
 else if (wallet1.innerHTML==="$2040") {
 wallet1.innerHTML="$2050";}
 else if (wallet1.innerHTML==="$2050") {
-wallet1.innerHTML="$2060";}
-else if (wallet1.innerHTML==="$2060") {
-wallet1.innerHTML="$2070";}
-else if (wallet1.innerHTML==="$2070") {
-wallet1.innerHTML="$2080";}
-else if (wallet1.innerHTML==="$2080") {
-wallet1.innerHTML="$2090";}
-else if (wallet1.innerHTML==="$2090") {
-wallet1.innerHTML="$2100";}
-else if (wallet1.innerHTML==="$2100") {
-wallet1.innerHTML="$2110";}
-else if (wallet1.innerHTML==="$2110") {
-wallet1.innerHTML="$2120";}
-else if (wallet1.innerHTML==="$2120") {
-wallet1.innerHTML="$2130";}
-else if (wallet1.innerHTML==="$2130") {
-wallet1.innerHTML="$2140";}
-else if (wallet1.innerHTML==="$2140") {
-wallet1.innerHTML="$2150";}
-else if (wallet1.innerHTML==="$2150") {
-wallet1.innerHTML="$2160";}}
+wallet1.innerHTML="$2060";}}
 
 function minus1() {
 var wallet1=document.getElementById("wal1");
@@ -5265,27 +5145,7 @@ wallet1.innerHTML="$2030";}
 else if (wallet1.innerHTML==="$2050") {
 wallet1.innerHTML="$2040";}
 else if (wallet1.innerHTML==="$2060") {
-wallet1.innerHTML="$2050";}
-else if (wallet1.innerHTML==="$2070") {
-wallet1.innerHTML="$2060";}
-else if (wallet1.innerHTML==="$2080") {
-wallet1.innerHTML="$2070";}
-else if (wallet1.innerHTML==="$2090") {
-wallet1.innerHTML="$2080";}
-else if (wallet1.innerHTML==="$2100") {
-wallet1.innerHTML="$2090";}
-else if (wallet1.innerHTML==="$2110") {
-wallet1.innerHTML="$2100";}
-else if (wallet1.innerHTML==="$2120") {
-wallet1.innerHTML="$2110";}
-else if (wallet1.innerHTML==="$2130") {
-wallet1.innerHTML="$2120";}
-else if (wallet1.innerHTML==="$2140") {
-wallet1.innerHTML="$2130";}
-else if (wallet1.innerHTML==="$2150") {
-wallet1.innerHTML="$2140";}
-else if (wallet1.innerHTML==="$2160") {
-wallet1.innerHTML="$2150";}}
+wallet1.innerHTML="$2050";}}
 
 function times1() {
 var one=document.getElementById("oneM");
