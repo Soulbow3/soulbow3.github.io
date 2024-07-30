@@ -6684,9 +6684,9 @@ if (element.innerHTML==="Red") {
 element.innerHTML="Yellow";
 element.style.color="yellow";}
 else if (element.innerHTML==="Yellow") {
-element.innerHTML="deeppink";
+element.innerHTML="pink";
 element.style.color="deeppink"}
-else if (element.innerHTML==="deeppink") {
+else if (element.innerHTML==="pink") {
 element.innerHTML="Red";
 element.style.color="red";}
 else if (element.innerHTML!=="One") {
