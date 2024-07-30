@@ -5306,9 +5306,6 @@ back.style.background="red";}
 else if (one.innerHTML==="Yellow") {
 three.innerHTML="x30";
 back.style.background="red";}
-else if (one.innerHTML==="Two") {
-three.innerHTMl="x30";
-back.style.background="Red";}
 
 else if (two.innerHTML==="Two") {
 three.innerHTML="x30";
@@ -5321,9 +5318,6 @@ three.innerHTML="x30";
 back.style.background="purple";}
 else if (two.innerHTML==="Yellow") {
 three.innerHTML="x30";
-back.style.background="purple";}
-else if (two.innerHTML==="One") {
-three.innerHTMl="x30";
 back.style.background="purple";}
  
 else if (four.innerHTML==="Three") {
@@ -5365,9 +5359,6 @@ back.style.background="red";}
 else if (one.innerHTML==="Yellow") {
 three.innerHTML="x40";
 back.style.background="red";}
-else if (one.innerHTML==="Two") {
-three.innerHTMl="x40";
-back.style.background="Red";}
 
 else if (two.innerHTML==="Two") {
 three.innerHTML="x40";
@@ -5380,9 +5371,6 @@ three.innerHTML="x40";
 back.style.background="purple";}
 else if (two.innerHTML==="Yellow") {
 three.innerHTML="x40";
-back.style.background="purple";}
-else if (two.innerHTML==="One") {
-three.innerHTMl="x40";
 back.style.background="purple";}
  
 else if (four.innerHTML==="Three") {
@@ -5477,9 +5465,6 @@ var homeThree=document.getElementById("threeA");
 if (startOne.innerHTML==="One") {
 startOne.innerHTML="";
 homeOne.innerHTML="One";}
-else if (startOne.innerHTML==="Two") {
-startOne.innerHTML="";
-homeOne.innerHTML="Two";}
 else if (startOne.innerHTML==="Red") {
 startOne.innerHTML="";
 homeOne.innerHTML="Red";}
@@ -5492,9 +5477,6 @@ homeOne.innerHTML="Pink";}
 else if (startTwo.innerHTML==="Two") {
 startTwo.innerHTML="";
 homeTwo.innerHTML="Two";}
-else if (startTwo.innerHTML==="One") {
-startTwo.innerHTML="";
-homeTwo.innerHTML="One";}
 else if (startTwo.innerHTML==="Red") {
 startTwo.innerHTML="";
 homeTwo.innerHTML="Red";}
@@ -5527,9 +5509,6 @@ var homeThree=document.getElementById("threeA");
 if (startOne.innerHTML==="One") {
 startOne.innerHTML="";
 homeOne.innerHTML="One";}
-else if (startOne.innerHTML==="Two") {
-startOne.innerHTML="";
-homeOne.innerHTML="Two";}
 else if (startOne.innerHTML==="Red") {
 startOne.innerHTML="";
 homeOne.innerHTML="Red";}
@@ -5542,9 +5521,6 @@ homeOne.innerHTML="Pink";}
 else if (startTwo.innerHTML==="Two") {
 startTwo.innerHTML="";
 homeTwo.innerHTML="Two";}
-else if (startTwo.innerHTML==="One") {
-startTwo.innerHTML="";
-homeTwo.innerHTML="One";}
 else if (startTwo.innerHTML==="Red") {
 startTwo.innerHTML="";
 homeTwo.innerHTML="Red";}
