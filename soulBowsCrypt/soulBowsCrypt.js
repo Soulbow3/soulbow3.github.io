@@ -12591,7 +12591,7 @@ else if (seven.innerHTML==="Three" && dice.innerHTML==="6") {
 thirteen.innerHTML="Three";
 seven.innerHTML="";}
 else if (eight.innerHTML==="Three" && dice.innerHTML==="1") {
-nine.innerHTML="Two";
+nine.innerHTML="Three";
 eight.innerHTML="";}
 else if (eight.innerHTML==="Three" && dice.innerHTML==="2") {
 ten.innerHTML="Three";
