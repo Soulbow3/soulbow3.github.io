@@ -4,8 +4,10 @@ var backa=document.getElementById("bac1a");
 var backb=document.getElementById("bac1b");
 if (change.style.background==="rebeccapurple") {
 backa.style.background="rebeccapurple";
-backb.style.background="rebeccapurple";
 change.style.background="darkslategrey";}
+else if (change.style.background==="greyslategrey") {
+backb.style.background="rebeccapurple";
+change.style.background="darkslateblue";}
 else {
 backa.style.background="drakstategrey";
 backb.style.background="darkslategrey";
@@ -17,8 +19,10 @@ var backa=document.getElementById("bac2a");
 var backb=document.getElementById("bac2b");
 if (change.style.background==="rebeccapurple") {
 backa.style.background="rebeccapurple";
-backb.style.background="rebeccapurple";
 change.style.background="darkslategrey";}
+else if (change.style.background==="greyslategrey") {
+backb.style.background="rebeccapurple";
+change.style.background="darkslateblue";}
 else {
 backa.style.background="drakstategrey";
 backb.style.background="darkslategrey";
@@ -30,8 +34,10 @@ var backa=document.getElementById("bac3a");
 var backb=document.getElementById("bac3b");
 if (change.style.background==="rebeccapurple") {
 backa.style.background="rebeccapurple";
-backb.style.background="rebeccapurple";
 change.style.background="darkslategrey";}
+else if (change.style.background==="greyslategrey") {
+backb.style.background="rebeccapurple";
+change.style.background="darkslateblue";}
 else {
 backa.style.background="drakstategrey";
 backb.style.background="darkslategrey";
