@@ -5337,6 +5337,8 @@ var jailStartOne=document.getElementById("oneX");
 var jailStartTwo=document.getElementById("twoX");
 var jailOne=document.getElementById("oneH");
 var jailTwo=document.getElementById("twoH");
+var jailStartThree=document.getElementById("ThreeX");
+var jailThree=document.getElementById("ThreeH");
 var lock=document.getElementById("id24");
 if (jailStartOne.innerHTML==="One") {
 jailStartOne.innerHTML="";
@@ -5377,7 +5379,27 @@ else if (jailStartTwo.innerHTML==="Pink") {
 jailStartTwo.innerHTML="";
 jailTwo.innerHTML="Pink";
 lock.style.background="silver";
-jailTwo.style.color="black";}}
+jailTwo.style.color="black";}
+else if (jailStartThree.innerHTML==="Three") {
+jailStartThree.innerHTML="";
+jailThree.innerHTML="THree";
+lock.style.background="silver";
+jailThree.style.color="black";}
+else if (jailStartThree.innerHTML==="Red") {
+jailStartThree.innerHTML="";
+jailThree.innerHTML="Red";
+lock.style.backround="silver";
+jailThree.style.color="black";}
+else if (jailStartThree.innerHTML==="Yellow") {
+jailStartThree.innerHTML="";
+jailThree.innerHTML="Yellow";
+lock.style.background="silver";
+jailThree.style.color="black";}
+else if (jailStartThree.innerHTML==="Pink") {
+jailStartThree.innerHTML="";
+jailThree.innerHTML="Pink";
+lock.style.background="silver";
+jailThree.style.color="black";}}
 
 function start1() {
 var startOne=document.getElementById("cone");
