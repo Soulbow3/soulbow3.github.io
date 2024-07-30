@@ -1,8 +1,8 @@
 function bacZ() {
-var change="value1";
-var backa="bac1a";
-var backb="bac1b";
-if (element.style.background==="rebeccapurple") {
+var change=document.getElementById("value1");
+var backa=document.getElementById("bac1a");
+var backb=document.getElementById("bac1b");
+if (value1.style.background==="rebeccapurple") {
 backa.style.background="drakstategrey";
 backb.style.background="darkslategrey";}
 else {
@@ -10,10 +10,10 @@ backa.style.background="rebeccapurple";
 backb.style.background="rebeccapurple";}}
 
 function bacY() {
-var change="value2";
-var backa="bac2a";
-var backb="bac2b";
-if (element.style.background==="rebeccapurple") {
+var change=document.getElementById("value2");
+var backa=document.getElementById("bac2a");
+var backb=document.getElementById("bac2b");
+if (value2.style.background==="rebeccapurple") {
 backa.style.background="drakstategrey";
 backb.style.background="darkslategrey";}
 else {
@@ -21,10 +21,10 @@ backa.style.background="rebeccapurple";
 backb.style.background="rebeccapurple";}}
 
 function bacX() {
-var change="value3";
-var backa="bac3a";
-var backb="bac3b";
-if (element.style.background==="rebeccaPurple") {
+var change=document.getElementById("value3");
+var backa=document.getElementById("bac3a");
+var backb=document.getElementById("bac3b");
+if (value3.style.background==="rebeccaPurple") {
 backa.style.background="drakstategrey";
 backb.style.background="darkslategrey";}
 else {
