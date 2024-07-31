@@ -6528,7 +6528,7 @@ else if (tile2b.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Go") {
 tile2b.innerHTML="";
 go2.innerHTML="Pink";}
  
-else if (tile3b.innerHTML==="One" && accept.innerHTML==="Ad- vance To Go") {
+else if (tile3b.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Go") {
 tile3b.innerHTML="";
 go3.innerHTML="One";}
 else if (tile3b.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Go") {
@@ -6554,7 +6554,7 @@ else if (tile1c.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Go") {
 tile1c.innerHTML="";
 go1.innerHTML="Pink";}
  
-else if (tile2c.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Go") {
+else if (tile2c.innerHTML==="Two" && accept.innerHTML==="Ad- vance To Go") {
 tile2c.innerHTML="";
 go2.innerHTML="Three";}
 else if (tile2c.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Go") {
@@ -6645,7 +6645,7 @@ else if (tile2b.innerHTML==="Pink" && accept.innerHTML==="Jail") {
 tile2b.innerHTML="";
 Jail2.innerHTML="Pink";}
  
-else if (tile3b.innerHTML==="One" && accept.innerHTML==="Jail") {
+else if (tile3b.innerHTML==="Three" && accept.innerHTML==="Jail") {
 tile3b.innerHTML="";
 Jail3.innerHTML="One";}
 else if (tile3b.innerHTML==="Red" && accept.innerHTML==="Jail") {
@@ -6671,7 +6671,7 @@ else if (tile1c.innerHTML==="Pink" && accept.innerHTML==="Jail") {
 tile1c.innerHTML="";
 Jail1.innerHTML="Pink";}
  
-else if (tile2c.innerHTML==="Three" && accept.innerHTML==="Jail") {
+else if (tile2c.innerHTML==="Two" && accept.innerHTML==="Jail") {
 tile2c.innerHTML="";
 Jail2.innerHTML="Three";}
 else if (tile2c.innerHTML==="Red" && accept.innerHTML==="Jail") {
@@ -6762,7 +6762,7 @@ else if (tile2b.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Gold") {
 tile2b.innerHTML="";
 gold2.innerHTML="Pink";}
  
-else if (tile3b.innerHTML==="One" && accept.innerHTML==="Ad- vance To Gold") {
+else if (tile3b.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Gold") {
 tile3b.innerHTML="";
 gold3.innerHTML="One";}
 else if (tile3b.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Gold") {
@@ -6788,7 +6788,7 @@ else if (tile1c.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Gold") {
 tile1c.innerHTML="";
 gold1.innerHTML="Pink";}
  
-else if (tile2c.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Gold") {
+else if (tile2c.innerHTML==="Two" && accept.innerHTML==="Ad- vance To Gold") {
 tile2c.innerHTML="";
 gold2.innerHTML="Three";}
 else if (tile2c.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Gold") {
@@ -6879,7 +6879,7 @@ else if (tile2b.innerHTML==="Pink" && accept.innerHTML==="Back 3") {
 tile2b.innerHTML="";
 back2b.innerHTML="Pink";}
  
-else if (tile3b.innerHTML==="One" && accept.innerHTML==="Back 3") {
+else if (tile3b.innerHTML==="Three" && accept.innerHTML==="Back 3") {
 tile3b.innerHTML="";
 back3b.innerHTML="One";}
 else if (tile3b.innerHTML==="Red" && accept.innerHTML==="Back 3") {
@@ -6905,7 +6905,7 @@ else if (tile1c.innerHTML==="Pink" && accept.innerHTML==="Back 3") {
 tile1c.innerHTML="";
 back1c.innerHTML="Pink";}
  
-else if (tile2c.innerHTML==="Three" && accept.innerHTML==="Back 3") {
+else if (tile2c.innerHTML==="Two" && accept.innerHTML==="Back 3") {
 tile2c.innerHTML="";
 back2c.innerHTML="Three";}
 else if (tile2c.innerHTML==="Red" && accept.innerHTML==="Back 3") {
