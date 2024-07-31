@@ -7502,7 +7502,7 @@ function card3() {
 var acc=document.getElementById("cardAcc");
 var tile1a= document.getElementById("bone");
 var tile2a= document.getElementById("btwo");
-var tile2a= document.getElementById("bthree");
+var tile3a= document.getElementById("bthree");
 if (acc.innerHTML==="Ad- vance To Go" && tile1a.innerHTML==="One") {
 acc.innerHTML="No- thing";}
 else if (
