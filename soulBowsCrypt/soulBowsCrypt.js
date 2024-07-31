@@ -871,25 +871,25 @@ function minus3() {
 var wallet3=document.getElementById("wal3");
 var back=document.getElementById("bac3b");
 if (back.style.background==="darkslategrey" && wallet3.innerHTML==="$0") {
-wallet3.innerHTML="Bankrupt";}
+wallet3.innerHTML="Bank rupt";}
 else if (back.style.background==="darkslategrey" && wallet3.innerHTML==="$10") {
-wallet3.innerHTML="Bankrupt";}
+wallet3.innerHTML="Bank rupt";}
 else if (back.style.background==="darkslategrey" && wallet3.innerHTML==="$20") {
 wallet3.innerHTML="Bankrupt";}
 else if (back.style.background==="darkslategrey" && wallet3.innerHTML==="$30") {
-wallet3.innerHTML="Bankrupt";}
+wallet3.innerHTML="Bank rupt";}
 else if (back.style.background==="darkslategrey" && wallet3.innerHTML==="$40") {
-wallet3.innerHTML="Bankrupt";}
+wallet3.innerHTML="Bank rupt";}
 else if (back.style.background==="darkslategrey" && wallet3.innerHTML==="$50") {
-wallet3.innerHTML="Bankrupt";}
+wallet3.innerHTML="Bank rupt";}
 else if (back.style.background==="darkslategrey" && wallet3.innerHTML==="$60") {
-wallet3.innerHTML="Bankrupt";}
+wallet3.innerHTML="Bank rupt";}
 else if (back.style.background==="darkslategrey" && wallet3.innerHTML==="$70") {
-wallet3.innerHTML="Bankrupt";}
+wallet3.innerHTML="Bank rupt";}
 else if (back.style.background==="darkslategrey" && wallet3.innerHTML==="$80") {
-wallet3.innerHTML="Bankrupt";}
+wallet3.innerHTML="Bank rupt";}
 else if (back.style.background==="darkslategrey" && wallet3.innerHTML==="$90") {
-wallet3.innerHTML="Bankrupt";}
+wallet3.innerHTML="Bank rupt";}
 else if (back.style.background==="darkslategrey" && wallet3.innerHTML==="$100") {
 wallet3.innerHTML="$0";}
 else if (back.style.background==="darkslategrey" && wallet3.innerHTML==="$110") {
@@ -1285,7 +1285,7 @@ wallet3.innerHTML="$1950";}
 else if (back.style.background==="darkslategrey" && wallet3.innerHTML==="$2060") {
 wallet3.innerHTML="$1960";}
 else if (wallet3.innerHTML==="$0") {
-wallet3.innerHTML="Bankrupt";}
+wallet3.innerHTML="Bank rupt";}
 else if (wallet3.innerHTML==="$10") {
 wallet3.innerHTML="$0";}
 else if (wallet3.innerHTML==="$20") {
@@ -2561,25 +2561,25 @@ function minus2() {
 var wallet2=document.getElementById("wal2");
 var back=document.getElementById("bac2b");
 if (back.style.background==="darkslategrey" && wallet2.innerHTML==="$0") {
-wallet2.innerHTML="Bankrupt";}
+wallet2.innerHTML="Bank rupt";}
 else if (back.style.background==="darkslategrey" && wallet2.innerHTML==="$10") {
-wallet2.innerHTML="Bankrupt";}
+wallet2.innerHTML="Bank rupt";}
 else if (back.style.background==="darkslategrey" && wallet2.innerHTML==="$20") {
-wallet2.innerHTML="Bankrupt";}
+wallet2.innerHTML="Bank rupt";}
 else if (back.style.background==="darkslategrey" && wallet2.innerHTML==="$30") {
-wallet2.innerHTML="Bankrupt";}
+wallet2.innerHTML="Bank rupt";}
 else if (back.style.background==="darkslategrey" && wallet2.innerHTML==="$40") {
-wallet2.innerHTML="Bankrupt";}
+wallet2.innerHTML="Bank rupt";}
 else if (back.style.background==="darkslategrey" && wallet2.innerHTML==="$50") {
-wallet2.innerHTML="Bankrupt";}
+wallet2.innerHTML="Bank rupt";}
 else if (back.style.background==="darkslategrey" && wallet2.innerHTML==="$60") {
-wallet2.innerHTML="Bankrupt";}
+wallet2.innerHTML="Bank rupt";}
 else if (back.style.background==="darkslategrey" && wallet2.innerHTML==="$70") {
-wallet2.innerHTML="Bankrupt";}
+wallet2.innerHTML="Bank rupt";}
 else if (back.style.background==="darkslategrey" && wallet2.innerHTML==="$80") {
-wallet2.innerHTML="Bankrupt";}
+wallet2.innerHTML="Bank rupt";}
 else if (back.style.background==="darkslategrey" && wallet2.innerHTML==="$90") {
-wallet2.innerHTML="Bankrupt";}
+wallet2.innerHTML="Bank rupt";}
 else if (back.style.background==="darkslategrey" && wallet2.innerHTML==="$100") {
 wallet2.innerHTML="$0";}
 else if (back.style.background==="darkslategrey" && wallet2.innerHTML==="$110") {
@@ -2995,7 +2995,7 @@ wallet2.innerHTML="$2050";}
 else if (back.style.background==="darkslategrey" && wallet2.innerHTML==="$2160") {
 wallet2.innerHTML="$2060";}
 else if (wallet2.innerHTML==="$0") {
-wallet2.innerHTML="Bankrupt";}
+wallet2.innerHTML="Bank rupt";}
 else if (wallet2.innerHTML==="$10") {
 wallet2.innerHTML="$0";}
 else if (wallet2.innerHTML==="$20") {
@@ -4271,25 +4271,25 @@ function minus1() {
 var wallet1=document.getElementById("wal1");
 var back=document.getElementById("bac1b");
 if (back.style.background==="darkslategrey" && wallet1.innerHTML==="$0") {
-wallet1.innerHTML="Bankrupt";}
+wallet1.innerHTML="Bank rupt";}
 else if (back.style.background==="darkslategrey" && wallet1.innerHTML==="$10") {
-wallet1.innerHTML="Bankrupt";}
+wallet1.innerHTML="Bank rupt";}
 else if (back.style.background==="darkslategrey" && wallet1.innerHTML==="$20") {
-wallet1.innerHTML="Bankrupt";}
+wallet1.innerHTML="Bank rupt";}
 else if (back.style.background==="darkslategrey" && wallet1.innerHTML==="$30") {
-wallet1.innerHTML="Bankrupt";}
+wallet1.innerHTML="Bank rupt";}
 else if (back.style.background==="darkslategrey" && wallet1.innerHTML==="$40") {
-wallet1.innerHTML="Bankrupt";}
+wallet1.innerHTML="Bank rupt";}
 else if (back.style.background==="darkslategrey" && wallet1.innerHTML==="$50") {
-wallet1.innerHTML="Bankrupt";}
+wallet1.innerHTML="Bank rupt";}
 else if (back.style.background==="darkslategrey" && wallet1.innerHTML==="$60") {
-wallet1.innerHTML="Bankrupt";}
+wallet1.innerHTML="Bank rupt";}
 else if (back.style.background==="darkslategrey" && wallet1.innerHTML==="$70") {
-wallet1.innerHTML="Bankrupt";}
+wallet1.innerHTML="Bank rupt";}
 else if (back.style.background==="darkslategrey" && wallet1.innerHTML==="$80") {
-wallet1.innerHTML="Bankrupt";}
+wallet1.innerHTML="Bank rupt";}
 else if (back.style.background==="darkslategrey" && wallet1.innerHTML==="$90") {
-wallet1.innerHTML="Bankrupt";}
+wallet1.innerHTML="Bank rupt";}
 else if (back.style.background==="darkslategrey" && wallet1.innerHTML==="$100") {
 wallet1.innerHTML="$0";}
 else if (back.style.background==="darkslategrey" && wallet1.innerHTML==="$110") {
@@ -4705,7 +4705,7 @@ wallet1.innerHTML="$2050";}
 else if (back.style.background==="darkslategrey" && wallet1.innerHTML==="$2160") {
 wallet1.innerHTML="$2060";}
 else if (wallet1.innerHTML==="$0") {
-wallet1.innerHTML="Bankrupt";}
+wallet1.innerHTML="Bank rupt";}
 else if (wallet1.innerHTML==="$10") {
 wallet1.innerHTML="$0";}
 else if (wallet1.innerHTML==="$20") {
