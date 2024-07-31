@@ -6476,7 +6476,7 @@ else if (tile1a.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Go") {
 tile1a.innerHTML="";
 go1.innerHTML="Pink";}
 
-else if (tile2a.innerHTML==="Two" && accept.innerHTML==="Ad- vance To Go") {
+else if (tile1a.innerHTML==="Two" && accept.innerHTML==="Ad- vance To Go") {
 tile2a.innerHTML="";
 go2.innerHTML="Two";}
 else if (tile2a.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Go") {
@@ -6514,7 +6514,7 @@ go1.innerHTML="Yellow";}
 else if (tile1b.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Go") {
 tile1b.innerHTML="";
 go1.innerHTML="Pink";}
-
+ 
 else if (tile2b.innerHTML==="Two" && accept.innerHTML==="Ad- vance To Go") {
 tile2b.innerHTML="";
 go2.innerHTML="Two";}
@@ -6527,14 +6527,14 @@ go2.innerHTML="Yellow";}
 else if (tile2b.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Go") {
 tile2b.innerHTML="";
 go2.innerHTML="Pink";}
-
-else if (tile3b.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Go") {
+ 
+else if (tile3b.innerHTML==="One" && accept.innerHTML==="Ad- vance To Go") {
 tile3b.innerHTML="";
-go3.innerHTML="Three";}
+go3.innerHTML="One";}
 else if (tile3b.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Go") {
 tile3b.innerHTML="";
 go3.innerHTML="Red";}
-else if (tile3a.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Go") {
+else if (tile3b.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Go") {
 tile3b.innerHTML="";
 go3.innerHTML="Yellow";}
 else if (tile3b.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Go") {
@@ -6553,10 +6553,10 @@ go1.innerHTML="Yellow";}
 else if (tile1c.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Go") {
 tile1c.innerHTML="";
 go1.innerHTML="Pink";}
-
-else if (tile2c.innerHTML==="Two" && accept.innerHTML==="Ad- vance To Go") {
+ 
+else if (tile2c.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Go") {
 tile2c.innerHTML="";
-go2.innerHTML="Two";}
+go2.innerHTML="Three";}
 else if (tile2c.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Go") {
 tile2c.innerHTML="";
 go2.innerHTML="Red";}
