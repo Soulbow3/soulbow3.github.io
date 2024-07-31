@@ -6438,7 +6438,149 @@ three.innerHTML="Rent $150";
 back.style.background="green";}}
 
 function piece(element) {
-if (element.innerHTML==="Red") {
+var go1= document.getElementById("oneA");
+var go2= document.getElementById("twoA");
+var go3= document.getElementById("threeA");
+var gold1=document.getElementById("fone");
+var gold2=document.getElementById("ftwo");
+var gold3=document.getElementById("fthree");
+var jail1=document.getElementById("oneH");
+var jail2=document.getElementById("twoH");
+var jail3=document.getElementById("threeH");
+var back1b= document.getElementById("oneR");
+var back2b= document.getElementById("twoR");
+var back3b= document.getElementById("threeR");
+var back1C=document.getElementById("oneY");
+var back2C=document.getElementById("twoY");
+var tile1a= document.getElementById("oneD");
+var tile1b= document.getElementById("twoD");
+var tile1c= document.getElementById("threeD");
+var tile2a= document.getElementById("oneU");
+var tile2b= document.getElementById("twoU");
+var tile2c= document.getElementById("threeU");
+var tile3a= document.getElementById("bone");
+var tile3b= document.getElementById("btwo");
+var tile3c= document.getElementById("three");
+var accept=document.getElementById("cardAcc");
+ 
+if (tile1a.innerHTML==="One" && accept.innerHTML==="Ad- vance To Go") {
+tile1a.innerHTML="";
+go1.innerHTML="One";}
+else if (tile1a.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Go") {
+tile1a.innerHTML="";
+go1.innerHTML="Red";}
+else if (tile1a.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Go") {
+tile1a.innerHTML="";
+go1.innerHTML="Yellow";}
+else if (tile1a.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Go") {
+tile1a.innerHTML="";
+go1.innerHTML="Pink";}
+
+else if (tile2a.innerHTML==="Two" && accept.innerHTML==="Ad- vance To Go") {
+tile2a.innerHTML="";
+go2.innerHTML="Two";}
+else if (tile2a.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Go") {
+tile2a.innerHTML="";
+go2.innerHTML="Red";}
+else if (tile2a.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Go") {
+tile2a.innerHTML="";
+go2.innerHTML="Yellow";}
+else if (tile2a.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Go") {
+tile2a.innerHTML="";
+go2.innerHTML="Pink";}
+
+else if (tile3a.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Go") {
+tile3a.innerHTML="";
+go3.innerHTML="Three";}
+else if (tile3a.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Go") {
+tile3a.innerHTML="";
+go3.innerHTML="Red";}
+else if (tile3a.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Go") {
+tile3a.innerHTML="";
+go3.innerHTML="Yellow";}
+else if (tile3a.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Go") {
+tile3a.innerHTML="";
+go3.innerHTML="Pink";}
+
+else if (tile1b.innerHTML==="One" && accept.innerHTML==="Ad- vance To Go") {
+tile1b.innerHTML="";
+go1.innerHTML="One";}
+else if (tile1b.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Go") {
+tile1b.innerHTML="";
+go1.innerHTML="Red";}
+else if (tile1b.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Go") {
+tile1b.innerHTML="";
+go1.innerHTML="Yellow";}
+else if (tile1b.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Go") {
+tile1b.innerHTML="";
+go1.innerHTML="Pink";}
+
+else if (tile2b.innerHTML==="Two" && accept.innerHTML==="Ad- vance To Go") {
+tile2b.innerHTML="";
+go2.innerHTML="Two";}
+else if (tile2b.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Go") {
+tile2b.innerHTML="";
+go2.innerHTML="Red";}
+else if (tile2b.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Go") {
+tile2b.innerHTML="";
+go2.innerHTML="Yellow";}
+else if (tile2b.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Go") {
+tile2b.innerHTML="";
+go2.innerHTML="Pink";}
+
+else if (tile3b.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Go") {
+tile3b.innerHTML="";
+go3.innerHTML="Three";}
+else if (tile3b.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Go") {
+tile3b.innerHTML="";
+go3.innerHTML="Red";}
+else if (tile3a.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Go") {
+tile3b.innerHTML="";
+go3.innerHTML="Yellow";}
+else if (tile3b.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Go") {
+tile3b.innerHTML="";
+go3.innerHTML="Pink";}
+
+else if (tile1c.innerHTML==="One" && accept.innerHTML==="Ad- vance To Go") {
+tile1c.innerHTML="";
+go1.innerHTML="One";}
+else if (tile1c.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Go") {
+tile1c.innerHTML="";
+go1.innerHTML="Red";}
+else if (tile1c.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Go") {
+tile1c.innerHTML="";
+go1.innerHTML="Yellow";}
+else if (tile1c.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Go") {
+tile1c.innerHTML="";
+go1.innerHTML="Pink";}
+
+else if (tile2c.innerHTML==="Two" && accept.innerHTML==="Ad- vance To Go") {
+tile2c.innerHTML="";
+go2.innerHTML="Two";}
+else if (tile2c.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Go") {
+tile2c.innerHTML="";
+go2.innerHTML="Red";}
+else if (tile2c.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Go") {
+tile2c.innerHTML="";
+go2.innerHTML="Yellow";}
+else if (tile2c.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Go") {
+tile2c.innerHTML="";
+go2.innerHTML="Pink";}
+
+else if (tile3c.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Go") {
+tile3c.innerHTML="";
+go3.innerHTML="Three";}
+else if (tile3c.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Go") {
+tile3c.innerHTML="";
+go3.innerHTML="Red";}
+else if (tile3c.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Go") {
+tile3c.innerHTML="";
+go3.innerHTML="Yellow";}
+else if (tile3c.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Go") {
+tile3c.innerHTML="";
+go3.innerHTML="Pink";}
+ 
+else if (element.innerHTML==="Red") {
 element.innerHTML="Yellow";}
 else if (element.innerHTML==="Yellow") {
 element.innerHTML="Pink";}
@@ -6453,334 +6595,214 @@ function card1() {
 var acc=document.getElementById("cardAcc");
 var tile1a= document.getElementById("oneD");
 var tile2a= document.getElementById("twoD");
-var jail1=document.getElementById("oneH");
-var jail2=document.getElementById("twoH");
-var jail=document.getElementById("jail");
-var gold1=document.getElementById("fone");
-var gold2=document.getElementById("ftwo");
-var gold=document.getElementById("gold");
-var go1= document.getElementById("oneA");
-var go2= document.getElementById("twoA");
-var go=document.getElementById("start");
 if (acc.innerHTML==="Ad- vance To Go" && tile1a.innerHTML==="One") {
 acc.innerHTML="No- thing";}
 else if (
 acc.innerHTML==="No- thing" && tile1a.innerHTML==="One") {
-acc.innerHTML="Jail";
-jail.opacity="50%";
-jail1.innerHTML="One";
-tile1a.innerHTML="";}
-else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="One") 
-{acc.innerHTML="+$150";}
+acc.innerHTML="Jail";}
+else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="One") {
+acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile1a.innerHTML==="One") {
 acc.innerHTML="Ad- vance To Gold";
-gold.opacity="50%";
-gold1.innerHTML="One";
-tile1a.innerHTML="";}
 else if (
-acc.innerHTML==="Ad- vance To Gold" && tile1a.innerHTML==="One") {
+]acc.innerHTML==="Ad- vance To Gold" && tile1a.innerHTML==="One") {
 acc.innerHTML="-$100";}
 else if (acc.innerHTML==="-$100" && tile1a.innerHTML==="One") {
-acc.innerHTML="Back 3";
-go1.innerHTML="One";
-go.opacity="50%";
-tile1a.innerHTML="";}
+acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile1a.innerHTML==="One") {
 acc.innerHTML="+$100";}
 else if (
 acc.innerHTML==="+$100" && tile1a.innerHTML==="One") {
-acc.innerHTML="Ad- vance To Go";
-go1.innerHTML="One";
-go.opacity="50%";
-tile1a.innerHTML="";}
+acc.innerHTML="Ad- vance To Go";}
 
 else if (acc.innerHTML==="Ad- vance To Go" && tile1a.innerHTML==="Two") {
 acc.innerHTML="No- thing";}
 else if (
 acc.innerHTML==="No- thing" && tile1a.innerHTML==="Two") {
-acc.innerHTML="Jail";
-jail.opacity="50%";
-jail1.innerHTML="Two";
-tile1a.innerHTML="";}
+acc.innerHTML="Jail";}
 else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="Two") 
 {acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile1a.innerHTML==="Two") {
-acc.innerHTML="Ad- vance To Gold";
-gold.opacity="50%";
-gold1.innerHTML="Two";
-tile1a.innerHTML="";}
+acc.innerHTML="Ad- vance To Gold";}
 else if (
 acc.innerHTML==="Ad- vance To Gold" && tile1a.innerHTML==="Two") {
 acc.innerHTML="-$100";}
 else if (acc.innerHTML==="-$100" && tile1a.innerHTML==="Two") {
-acc.innerHTML="Back 3";
-go1.innerHTML="Two";
-go.opacity="50%";
-tile1a.innerHTML="";}
+acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile1a.innerHTML==="Two") {
 acc.innerHTML="+$100";}
 else if (
 acc.innerHTML==="+$100" && tile1a.innerHTML==="Two") {
-acc.innerHTML="Ad- vance To Go";
-go1.innerHTML="Two";
-go.opacity="50%";
-tile1a.innerHTML="";}
+acc.innerHTML="Ad- vance To Go";}
 
 else if (
 acc.innerHTML==="Ad- vance To Go" && tile2a.innerHTML==="Two") {
 acc.innerHTML="No- thing";} 
 else if (
 acc.innerHTML==="No- thing" && tile2a.innerHTML==="Two") {
-acc.innerHTML="Jail";
-jail.opacity="50%";
-jail2.innerHTML="Two";
-tile2a.innerHTML="";}
+acc.innerHTML="Jail";}
 else if (acc.innerHTML==="Jail" && tile2a.innerHTML==="Two") 
 {acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile2a.innerHTML==="Two") {
-acc.innerHTML="Ad- vance To Gold";
-gold.opacity="50%";
-gold2.innerHTML="Two";
-tile2a.innerHTML="";}
+acc.innerHTML="Ad- vance To Gold";}
 else if (
 acc.innerHTML==="Ad- vance To Gold" && tile2a.innerHTML==="Two") {
 acc.innerHTML="-$100";}
 else if (acc.innerHTML==="-$100" && tile2a.innerHTML==="Two") {
-acc.innerHTML="Back 3";
-go2.innerHTML="Two";
-go.opacity="50%";
-tile2a.innerHTML="";}
+acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile2a.innerHTML==="Two") {
 acc.innerHTML="+$100";}
 else if (
 acc.innerHTML==="+$100" && tile2a.innerHTML==="Two") {
-acc.innerHTML="Ad- vance To Go";
-go2.innerHTML="Two";
-go.opacity="50%";
-tile2a.innerHTML="";}
+acc.innerHTML="Ad- vance To Go";}
 
 else if (
 acc.innerHTML==="Ad- vance To Go" && tile2a.innerHTML==="One") {
 acc.innerHTML="No- thing";} 
 else if (
 acc.innerHTML==="No- thing" && tile2a.innerHTML==="One") {
-acc.innerHTML="Jail";
-jail.opacity="50%";
-jail2.innerHTml="One";
-tile2a.innerHTML="";}
+acc.innerHTML="Jail";}
 else if (acc.innerHTML==="Jail" && tile2a.innerHTML==="One") 
 {acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile2a.innerHTML==="One") {
-acc.innerHTML="Ad- vance To Gold";
-gold.opacity="50%";
-gold2.innerHTML="One";
-tile2a.innerHTML="";}
+acc.innerHTML="Ad- vance To Gold";}
 else if (
 acc.innerHTML==="Ad- vance To Gold" && tile2a.innerHTML==="One") {
 acc.innerHTML="-$100";}
 else if (acc.innerHTML==="-$100" && tile2a.innerHTML==="One") {
-acc.innerHTML="Back 3";
-go2.innerHTML="One";
-go.opacity="50%";
-tile2a.innerHTML="";}
+acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile2a.innerHTML==="One") {
 acc.innerHTML="+$100";}
 else if (
 acc.innerHTML==="+$100" && tile2a.innerHTML==="One") {
-acc.innerHTML="Ad- vance To Go";
-go2.innerHTML="One";
-go.opacity="50%";
-tile2a.innerHTML="";}
+acc.innerHTML="Ad- vance To Go";}
  
 else if (acc.innerHTML==="Ad- vance To Go" && tile1a.innerHTML==="Yellow") {
 acc.innerHTML="No- thing";}
 else if (
 acc.innerHTML==="No- thing" && tile1a.innerHTML==="Yellow") {
-acc.innerHTML="Jail";
-jail.opacity="50%";
-jail1.innerHTML="Yellow";
-tile1a.innerHTML="";}
+acc.innerHTML="Jail";}
 else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="Yellow") 
 {acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile1a.innerHTML==="Yellow") {
-acc.innerHTML="Ad- vance To Gold";
-gold.opacity="50%";
-gold1.innerHTML="Yellow";
-tile1a.innerHTML="";}
+acc.innerHTML="Ad- vance To Gold";}
 else if (
 acc.innerHTML==="Ad- vance To Gold" && tile1a.innerHTML==="Yellow") {
 acc.innerHTML="-$100";}
 else if (acc.innerHTML==="-$100" && tile1a.innerHTML==="Yellow") {
-acc.innerHTML="Back 3";
-go1.innerHTML="Yellow";
-go.opacity="50%";
-tile1a.innerHTML="";}
+acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile1a.innerHTML==="Yellow") {
 acc.innerHTML="+$100";}
 else if (
 acc.innerHTML==="+$100" && tile1a.innerHTML==="Yellow") {
-acc.innerHTML="Ad- vance To Go";
-go1.innerHTML="Yellow";
-go.opacity="50%";
-tile1a.innerHTML="";}
+acc.innerHTML="Ad- vance To Go";}
 
 else if (
 acc.innerHTML==="Ad- vance To Go" && tile2a.innerHTML==="Yellow") {
 acc.innerHTML="No- thing";} 
 else if (
 acc.innerHTML==="No- thing" && tile2a.innerHTML==="Yellow") {
-acc.innerHTML="Jail";
-jail.opacity="50%";
-jail2.innerHTML="Yellow";
-tile2a.innerHTML="";}
+acc.innerHTML="Jail";}
 else if (acc.innerHTML==="Jail" && tile2a.innerHTML==="Yellow") 
 {acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile2a.innerHTML==="Yellow") {
-acc.innerHTML="Ad- vance To Gold";
-gold.opacity="50%";
-gold2.innerHTML="Yellow";
-tile2a.innerHTML="";}
+acc.innerHTML="Ad- vance To Gold";}
 else if (
 acc.innerHTML==="Ad- vance To Gold" && tile2a.innerHTML==="Yellow") {
 acc.innerHTML="-$100";}
 else if (acc.innerHTML==="-$100" && tile2a.innerHTML==="Yellow") {
-acc.innerHTML="Back 3";
-go2.innerHTML="Yellow";
-go.opacity="50%";
-tile2a.innerHTML="";}
+acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile2a.innerHTML==="Yellow") {
 acc.innerHTML="+$100";}
 else if (
 acc.innerHTML==="+$100" && tile2a.innerHTML==="Yellow") {
-acc.innerHTML="Ad- vance To Go";
-go2.innerHTML="Yellow";
-go.opacity="50%";
-tile2a.innerHTML="";}
+acc.innerHTML="Ad- vance To Go";}
 
 else if (acc.innerHTML==="Ad- vance To Go" && tile1a.innerHTML==="Red") {
 acc.innerHTML="No- thing";}
 else if (
 acc.innerHTML==="No- thing" && tile1a.innerHTML==="Red") {
-acc.innerHTML="Jail";
-jail.opacity="50%";
-jail1.innerHTML="Red";
-tile1a.innerHTML="";}
+acc.innerHTML="Jail";}
 else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="Red") 
 {acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile1a.innerHTML==="Red") {
-acc.innerHTML="Ad- vance To Gold";
-gold.opacity="50%";
-gold1.innerHTML="Red";
-tile1a.innerHTML="";}
+acc.innerHTML="Ad- vance To Gold";}
 else if (
 acc.innerHTML==="Ad- vance To Gold" && tile1a.innerHTML==="Red") {
 acc.innerHTML="-$100";}
 else if (acc.innerHTML==="-$100" && tile1a.innerHTML==="Red") {
-acc.innerHTML="Back 3";
-go1.innerHTML="Red";
-go.opacity="50%";
-tile1a.innerHTML="";}
+acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile1a.innerHTML==="Red") {
 acc.innerHTML="+$100";}
 else if (
 acc.innerHTML==="+$100" && tile1a.innerHTML==="Red") {
-acc.innerHTML="Ad- vance To Go";
-go1.innerHTML="Red";
-go.opacity="50%";
-tile1a.innerHTML="";}
+acc.innerHTML="Ad- vance To Go";}
 
 else if (
 acc.innerHTML==="Ad- vance To Go" && tile2a.innerHTML==="Red") {
 acc.innerHTML="No- thing";} 
 else if (
 acc.innerHTML==="No- thing" && tile2a.innerHTML==="Red") {
-acc.innerHTML="Jail";
-jail.opacity="50%";
-jail2.innerHTML="Red";
-tile2a.innerHTML="";}
+acc.innerHTML="Jail";}
 else if (acc.innerHTML==="Jail" && tile2a.innerHTML==="Red") 
 {acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile2a.innerHTML==="Red") {
-acc.innerHTML="Ad- vance To Gold";
-gold.opacity="50%";
-gold2.innerHTML="Red";
-tile2a.innerHTML="";}
+acc.innerHTML="Ad- vance To Gold";}
 else if (
 acc.innerHTML==="Ad- vance To Gold" && tile2a.innerHTML==="Red") {
 acc.innerHTML="-$100";}
 else if (acc.innerHTML==="-$100" && tile2a.innerHTML==="Red") {
-acc.innerHTML="Back 3";
-go2.innerHTML="Red";
-go.opacity="50%";
-tile2a.innerHTML="";}
+acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile2a.innerHTML==="Red") {
 acc.innerHTML="+$100";}
 else if (
 acc.innerHTML==="+$100" && tile2a.innerHTML==="Red") {
-acc.innerHTML="Ad- vance To Go";
-go2.innerHTML="Red";
-go.opacity="50%";
-tile2a.innerHTML="";}
+acc.innerHTML="Ad- vance To Go";}
 
 else if (acc.innerHTML==="Ad- vance To Go" && tile1a.innerHTML==="Pink") {
 acc.innerHTML="No- thing";}
 else if (
 acc.innerHTML==="No- thing" && tile1a.innerHTML==="Pink") {
-acc.innerHTML="Jail";
-jail.opacity="50%";
-jail1.innerHTML="Pink";
-tile1a.innerHTML="";}
+acc.innerHTML="Jail";}
 else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="Pink") 
 {acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile1a.innerHTML==="Pink") {
-acc.innerHTML="Ad- vance To Gold";
-gold.opacity="50%";
-gold1.innerHTML="Pink";
-tile1a.innerHTML="";}
+acc.innerHTML="Ad- vance To Gold";}
 else if (
 acc.innerHTML==="Ad- vance To Gold" && tile1a.innerHTML==="Pink") {
 acc.innerHTML="-$100";}
 else if (acc.innerHTML==="-$100" && tile1a.innerHTML==="Pink") {
-acc.innerHTML="Back 3";
-go1.innerHTML="Pink";
-go.opacity="50%";
-tile1a.innerHTML="";}
+acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile1a.innerHTML==="Pink") {
 acc.innerHTML="+$100";}
 else if (
 acc.innerHTML==="+$100" && tile1a.innerHTML==="Pink") {
-acc.innerHTML="Ad- vance To Go";
-go1.innerHTML="Pink";
-go.opacity="50%";
-tile1a.innerHTML="";}
+acc.innerHTML="Ad- vance To Go";}
 
 else if (
 acc.innerHTML==="Ad- vance To Go" && tile2a.innerHTML==="Pink") {
 acc.innerHTML="No- thing";} 
 else if (
 acc.innerHTML==="No- thing" && tile2a.innerHTML==="Pink") {
-acc.innerHTML="Jail";
-jail.opacity="50%";
-jail2.innerHTML="Pink";
-tile2a.innerHTML="";}
+acc.innerHTML="Jail";}
 else if (acc.innerHTML==="Jail" && tile2a.innerHTML==="Pink") 
 {acc.innerHTML="+$150";}
 else if (
@@ -6793,19 +6815,13 @@ else if (
 acc.innerHTML==="Ad- vance To Gold" && tile2a.innerHTML==="Pink") {
 acc.innerHTML="-$100";}
 else if (acc.innerHTML==="-$100" && tile2a.innerHTML==="Pink") {
-acc.innerHTML="Back 3";
-go2.innerHTML="Pink";
-go.opacity="50%";
-tile2a.innerHTML="";}
+acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile2a.innerHTML==="Pink") {
 acc.innerHTML="+$100";}
 else if (
 acc.innerHTML==="+$100" && tile2a.innerHTML==="Pink") {
-acc.innerHTML="Ad- vance To Go";
-go2.innerHTML="Pink";
-go.opacity="50%";
-tile2a.innerHTML="";} 
+acc.innerHTML="Ad- vance To Go";} 
 else if (acc.innerHTML==="") {
 acc.innerHTML="+$150";}}
  
@@ -6813,337 +6829,214 @@ function card2() {
 var acc=document.getElementById("cardAcc");
 var tile1a= document.getElementById("oneU");
 var tile2a= document.getElementById("twoU");
-var jail1=document.getElementById("oneH");
-var jail2=document.getElementById("twoH");
-var jail=document.getElementById("jail");
-var gold1=document.getElementById("fone");
-var gold2=document.getElementById("ftwo");
-var gold=document.getElementById("gold");
-var go1= document.getElementById("oneA");
-var go2= document.getElementById("twoA");
-var go=document.getElementById("start");
-var back1= document.getElementById("oneR");
-var back2= document.getElementById("twoR");
-var back= document.getElementById("back2");
 if (acc.innerHTML==="Ad- vance To Go" && tile1a.innerHTML==="One") {
 acc.innerHTML="No- thing";}
 else if (
 acc.innerHTML==="No- thing" && tile1a.innerHTML==="One") {
-acc.innerHTML="Jail";
-jail.opacity="50%";
-jail1.innerHTML="One";
-tile1a.innerHTML="";}
-else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="One") 
-{acc.innerHTML="+$150";}
+acc.innerHTML="Jail";}
+else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="One") {
+acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile1a.innerHTML==="One") {
 acc.innerHTML="Ad- vance To Gold";
-gold.opacity="50%";
-gold1.innerHTML="One";
-tile1a.innerHTML="";}
 else if (
-acc.innerHTML==="Ad- vance To Gold" && tile1a.innerHTML==="One") {
+]acc.innerHTML==="Ad- vance To Gold" && tile1a.innerHTML==="One") {
 acc.innerHTML="-$100";}
 else if (acc.innerHTML==="-$100" && tile1a.innerHTML==="One") {
-acc.innerHTML="Back 3";
-back1.innerHTML="One";
-go.opacity="50%";
-tile1a.innerHTML="";}
+acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile1a.innerHTML==="One") {
 acc.innerHTML="+$100";}
 else if (
 acc.innerHTML==="+$100" && tile1a.innerHTML==="One") {
-acc.innerHTML="Ad- vance To Go";
-go1.innerHTML="One";
-go.opacity="50%";
-tile1a.innerHTML="";}
+acc.innerHTML="Ad- vance To Go";}
 
 else if (acc.innerHTML==="Ad- vance To Go" && tile1a.innerHTML==="Two") {
 acc.innerHTML="No- thing";}
 else if (
 acc.innerHTML==="No- thing" && tile1a.innerHTML==="Two") {
-acc.innerHTML="Jail";
-jail.opacity="50%";
-jail1.innerHTML="Two";
-tile1a.innerHTML="";}
+acc.innerHTML="Jail";}
 else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="Two") 
 {acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile1a.innerHTML==="Two") {
-acc.innerHTML="Ad- vance To Gold";
-gold.opacity="50%";
-gold1.innerHTML="Two";
-tile1a.innerHTML="";}
+acc.innerHTML="Ad- vance To Gold";}
 else if (
 acc.innerHTML==="Ad- vance To Gold" && tile1a.innerHTML==="Two") {
 acc.innerHTML="-$100";}
 else if (acc.innerHTML==="-$100" && tile1a.innerHTML==="Two") {
-acc.innerHTML="Back 3";
-back1.innerHTML="Two";
-go.opacity="50%";
-tile1a.innerHTML="";}
+acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile1a.innerHTML==="Two") {
 acc.innerHTML="+$100";}
 else if (
 acc.innerHTML==="+$100" && tile1a.innerHTML==="Two") {
-acc.innerHTML="Ad- vance To Go";
-go1.innerHTML="Two";
-go.opacity="50%";
-tile1a.innerHTML="";}
+acc.innerHTML="Ad- vance To Go";}
 
 else if (
 acc.innerHTML==="Ad- vance To Go" && tile2a.innerHTML==="Two") {
 acc.innerHTML="No- thing";} 
 else if (
 acc.innerHTML==="No- thing" && tile2a.innerHTML==="Two") {
-acc.innerHTML="Jail";
-jail.opacity="50%";
-jail2.innerHTML="Two";
-tile2a.innerHTML="";}
+acc.innerHTML="Jail";}
 else if (acc.innerHTML==="Jail" && tile2a.innerHTML==="Two") 
 {acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile2a.innerHTML==="Two") {
-acc.innerHTML="Ad- vance To Gold";
-gold.opacity="50%";
-gold2.innerHTML="Two";
-tile2a.innerHTML="";}
+acc.innerHTML="Ad- vance To Gold";}
 else if (
 acc.innerHTML==="Ad- vance To Gold" && tile2a.innerHTML==="Two") {
 acc.innerHTML="-$100";}
 else if (acc.innerHTML==="-$100" && tile2a.innerHTML==="Two") {
-acc.innerHTML="Back 3";
-back2.innerHTML="Two";
-go.opacity="50%";
-tile2a.innerHTML="";}
+acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile2a.innerHTML==="Two") {
 acc.innerHTML="+$100";}
 else if (
 acc.innerHTML==="+$100" && tile2a.innerHTML==="Two") {
-acc.innerHTML="Ad- vance To Go";
-go2.innerHTML="Two";
-go.opacity="50%";
-tile2a.innerHTML="";}
+acc.innerHTML="Ad- vance To Go";}
 
 else if (
 acc.innerHTML==="Ad- vance To Go" && tile2a.innerHTML==="One") {
 acc.innerHTML="No- thing";} 
 else if (
 acc.innerHTML==="No- thing" && tile2a.innerHTML==="One") {
-acc.innerHTML="Jail";
-jail.opacity="50%";
-jail2.innerHTml="One";
-tile2a.innerHTML="";}
+acc.innerHTML="Jail";}
 else if (acc.innerHTML==="Jail" && tile2a.innerHTML==="One") 
 {acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile2a.innerHTML==="One") {
-acc.innerHTML="Ad- vance To Gold";
-gold.opacity="50%";
-gold2.innerHTML="One";
-tile2a.innerHTML="";}
+acc.innerHTML="Ad- vance To Gold";}
 else if (
 acc.innerHTML==="Ad- vance To Gold" && tile2a.innerHTML==="One") {
 acc.innerHTML="-$100";}
 else if (acc.innerHTML==="-$100" && tile2a.innerHTML==="One") {
-acc.innerHTML="Back 3";
-back2.innerHTML="One";
-go.opacity="50%";
-tile2a.innerHTML="";}
+acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile2a.innerHTML==="One") {
 acc.innerHTML="+$100";}
 else if (
 acc.innerHTML==="+$100" && tile2a.innerHTML==="One") {
-acc.innerHTML="Ad- vance To Go";
-go2.innerHTML="One";
-go.opacity="50%";
-tile2a.innerHTML="";}
+acc.innerHTML="Ad- vance To Go";}
  
 else if (acc.innerHTML==="Ad- vance To Go" && tile1a.innerHTML==="Yellow") {
 acc.innerHTML="No- thing";}
 else if (
 acc.innerHTML==="No- thing" && tile1a.innerHTML==="Yellow") {
-acc.innerHTML="Jail";
-jail.opacity="50%";
-jail1.innerHTML="Yellow";
-tile1a.innerHTML="";}
+acc.innerHTML="Jail";}
 else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="Yellow") 
 {acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile1a.innerHTML==="Yellow") {
-acc.innerHTML="Ad- vance To Gold";
-gold.opacity="50%";
-gold1.innerHTML="Yellow";
-tile1a.innerHTML="";}
+acc.innerHTML="Ad- vance To Gold";}
 else if (
 acc.innerHTML==="Ad- vance To Gold" && tile1a.innerHTML==="Yellow") {
 acc.innerHTML="-$100";}
 else if (acc.innerHTML==="-$100" && tile1a.innerHTML==="Yellow") {
-acc.innerHTML="Back 3";
-back1.innerHTML="Yellow";
-go.opacity="50%";
-tile1a.innerHTML="";}
+acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile1a.innerHTML==="Yellow") {
 acc.innerHTML="+$100";}
 else if (
 acc.innerHTML==="+$100" && tile1a.innerHTML==="Yellow") {
-acc.innerHTML="Ad- vance To Go";
-go1.innerHTML="Yellow";
-go.opacity="50%";
-tile1a.innerHTML="";}
+acc.innerHTML="Ad- vance To Go";}
 
 else if (
 acc.innerHTML==="Ad- vance To Go" && tile2a.innerHTML==="Yellow") {
 acc.innerHTML="No- thing";} 
 else if (
 acc.innerHTML==="No- thing" && tile2a.innerHTML==="Yellow") {
-acc.innerHTML="Jail";
-jail.opacity="50%";
-jail2.innerHTML="Yellow";
-tile2a.innerHTML="";}
+acc.innerHTML="Jail";}
 else if (acc.innerHTML==="Jail" && tile2a.innerHTML==="Yellow") 
 {acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile2a.innerHTML==="Yellow") {
-acc.innerHTML="Ad- vance To Gold";
-gold.opacity="50%";
-gold2.innerHTML="Yellow";
-tile2a.innerHTML="";}
+acc.innerHTML="Ad- vance To Gold";}
 else if (
 acc.innerHTML==="Ad- vance To Gold" && tile2a.innerHTML==="Yellow") {
 acc.innerHTML="-$100";}
 else if (acc.innerHTML==="-$100" && tile2a.innerHTML==="Yellow") {
-acc.innerHTML="Back 3";
-back2.innerHTML="Yellow";
-go.opacity="50%";
-tile2a.innerHTML="";}
+acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile2a.innerHTML==="Yellow") {
 acc.innerHTML="+$100";}
 else if (
 acc.innerHTML==="+$100" && tile2a.innerHTML==="Yellow") {
-acc.innerHTML="Ad- vance To Go";
-go2.innerHTML="Yellow";
-go.opacity="50%";
-tile2a.innerHTML="";}
+acc.innerHTML="Ad- vance To Go";}
 
 else if (acc.innerHTML==="Ad- vance To Go" && tile1a.innerHTML==="Red") {
 acc.innerHTML="No- thing";}
 else if (
 acc.innerHTML==="No- thing" && tile1a.innerHTML==="Red") {
-acc.innerHTML="Jail";
-jail.opacity="50%";
-jail1.innerHTML="Red";
-tile1a.innerHTML="";}
+acc.innerHTML="Jail";}
 else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="Red") 
 {acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile1a.innerHTML==="Red") {
-acc.innerHTML="Ad- vance To Gold";
-gold.opacity="50%";
-gold1.innerHTML="Red";
-tile1a.innerHTML="";}
+acc.innerHTML="Ad- vance To Gold";}
 else if (
 acc.innerHTML==="Ad- vance To Gold" && tile1a.innerHTML==="Red") {
 acc.innerHTML="-$100";}
 else if (acc.innerHTML==="-$100" && tile1a.innerHTML==="Red") {
-acc.innerHTML="Back 3";
-back1.innerHTML="Red";
-go.opacity="50%";
-tile1a.innerHTML="";}
+acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile1a.innerHTML==="Red") {
 acc.innerHTML="+$100";}
 else if (
 acc.innerHTML==="+$100" && tile1a.innerHTML==="Red") {
-acc.innerHTML="Ad- vance To Go";
-go1.innerHTML="Red";
-go.opacity="50%";
-tile1a.innerHTML="";}
+acc.innerHTML="Ad- vance To Go";}
 
 else if (
 acc.innerHTML==="Ad- vance To Go" && tile2a.innerHTML==="Red") {
 acc.innerHTML="No- thing";} 
 else if (
 acc.innerHTML==="No- thing" && tile2a.innerHTML==="Red") {
-acc.innerHTML="Jail";
-jail.opacity="50%";
-jail2.innerHTML="Red";
-tile2a.innerHTML="";}
+acc.innerHTML="Jail";}
 else if (acc.innerHTML==="Jail" && tile2a.innerHTML==="Red") 
 {acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile2a.innerHTML==="Red") {
-acc.innerHTML="Ad- vance To Gold";
-gold.opacity="50%";
-gold2.innerHTML="Red";
-tile2a.innerHTML="";}
+acc.innerHTML="Ad- vance To Gold";}
 else if (
 acc.innerHTML==="Ad- vance To Gold" && tile2a.innerHTML==="Red") {
 acc.innerHTML="-$100";}
 else if (acc.innerHTML==="-$100" && tile2a.innerHTML==="Red") {
-acc.innerHTML="Back 3";
-back2.innerHTML="Red";
-go.opacity="50%";
-tile2a.innerHTML="";}
+acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile2a.innerHTML==="Red") {
 acc.innerHTML="+$100";}
 else if (
 acc.innerHTML==="+$100" && tile2a.innerHTML==="Red") {
-acc.innerHTML="Ad- vance To Go";
-go2.innerHTML="Red";
-go.opacity="50%";
-tile2a.innerHTML="";}
+acc.innerHTML="Ad- vance To Go";}
 
 else if (acc.innerHTML==="Ad- vance To Go" && tile1a.innerHTML==="Pink") {
 acc.innerHTML="No- thing";}
 else if (
 acc.innerHTML==="No- thing" && tile1a.innerHTML==="Pink") {
-acc.innerHTML="Jail";
-jail.opacity="50%";
-jail1.innerHTML="Pink";
-tile1a.innerHTML="";}
+acc.innerHTML="Jail";}
 else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="Pink") 
 {acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile1a.innerHTML==="Pink") {
-acc.innerHTML="Ad- vance To Gold";
-gold.opacity="50%";
-gold1.innerHTML="Pink";
-tile1a.innerHTML="";}
+acc.innerHTML="Ad- vance To Gold";}
 else if (
 acc.innerHTML==="Ad- vance To Gold" && tile1a.innerHTML==="Pink") {
 acc.innerHTML="-$100";}
 else if (acc.innerHTML==="-$100" && tile1a.innerHTML==="Pink") {
-acc.innerHTML="Back 3";
-back1.innerHTML="Pink";
-go.opacity="50%";
-tile1a.innerHTML="";}
+acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile1a.innerHTML==="Pink") {
 acc.innerHTML="+$100";}
 else if (
 acc.innerHTML==="+$100" && tile1a.innerHTML==="Pink") {
-acc.innerHTML="Ad- vance To Go";
-go1.innerHTML="Pink";
-go.opacity="50%";
-tile1a.innerHTML="";}
+acc.innerHTML="Ad- vance To Go";}
 
 else if (
 acc.innerHTML==="Ad- vance To Go" && tile2a.innerHTML==="Pink") {
 acc.innerHTML="No- thing";} 
 else if (
 acc.innerHTML==="No- thing" && tile2a.innerHTML==="Pink") {
-acc.innerHTML="Jail";
-jail.opacity="50%";
-jail2.innerHTML="Pink";
-tile2a.innerHTML="";}
+acc.innerHTML="Jail";}
 else if (acc.innerHTML==="Jail" && tile2a.innerHTML==="Pink") 
 {acc.innerHTML="+$150";}
 else if (
@@ -7156,356 +7049,228 @@ else if (
 acc.innerHTML==="Ad- vance To Gold" && tile2a.innerHTML==="Pink") {
 acc.innerHTML="-$100";}
 else if (acc.innerHTML==="-$100" && tile2a.innerHTML==="Pink") {
-acc.innerHTML="Back 3";
-back2.innerHTML="Pink";
-go.opacity="50%";
-tile2a.innerHTML="";}
+acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile2a.innerHTML==="Pink") {
 acc.innerHTML="+$100";}
 else if (
 acc.innerHTML==="+$100" && tile2a.innerHTML==="Pink") {
-acc.innerHTML="Ad- vance To Go";
-go2.innerHTML="Pink";
-go.opacity="50%";
-tile2a.innerHTML="";} 
+acc.innerHTML="Ad- vance To Go";} 
 else if (acc.innerHTML==="") {
-acc.innerHTML="No- thing";}}
+acc.innerHTML="+$150";}}
 
 function card3() {
 var acc=document.getElementById("cardAcc");
-var back1=document.getElementById("oneY");
-var back2=document.getElementById("twoY");
-var back=document.getElementById("back3")
 var tile1a= document.getElementById("bone");
 var tile2a= document.getElementById("btwo");
-var jail1=document.getElementById("oneH");
-var jail2=document.getElementById("twoH");
-var jail=document.getElementById("jail");
-var gold1=document.getElementById("fone");
-var gold2=document.getElementById("ftwo");
-var go1= document.getElementById("oneA");
-var go2= document.getElementById("twoA");
-var go=document.getElementById("start");
 if (acc.innerHTML==="Ad- vance To Go" && tile1a.innerHTML==="One") {
 acc.innerHTML="No- thing";}
 else if (
 acc.innerHTML==="No- thing" && tile1a.innerHTML==="One") {
-acc.innerHTML="Jail";
-jail.opacity="50%";
-jail1.innerHTML="One";
-tile1a.innerHTML="";}
-else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="One") 
-{acc.innerHTML="+$150";}
+acc.innerHTML="Jail";}
+else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="One") {
+acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile1a.innerHTML==="One") {
 acc.innerHTML="Ad- vance To Gold";
-gold.opacity="50%";
-gold1.innerHTML="One";
-tile1a.innerHTML="";}
 else if (
-acc.innerHTML==="Ad- vance To Gold" && tile1a.innerHTML==="One") {
+]acc.innerHTML==="Ad- vance To Gold" && tile1a.innerHTML==="One") {
 acc.innerHTML="-$100";}
 else if (acc.innerHTML==="-$100" && tile1a.innerHTML==="One") {
-acc.innerHTML="Back 3";
-back1.innerHTML="One";
-go.opacity="50%";
-tile1a.innerHTML="";}
+acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile1a.innerHTML==="One") {
 acc.innerHTML="+$100";}
 else if (
 acc.innerHTML==="+$100" && tile1a.innerHTML==="One") {
-acc.innerHTML="Ad- vance To Go";
-go1.innerHTML="One";
-go.opacity="50%";
-tile1a.innerHTML="";}
+acc.innerHTML="Ad- vance To Go";}
 
 else if (acc.innerHTML==="Ad- vance To Go" && tile1a.innerHTML==="Two") {
 acc.innerHTML="No- thing";}
 else if (
 acc.innerHTML==="No- thing" && tile1a.innerHTML==="Two") {
-acc.innerHTML="Jail";
-jail.opacity="50%";
-jail1.innerHTML="Two";
-tile1a.innerHTML="";}
+acc.innerHTML="Jail";}
 else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="Two") 
 {acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile1a.innerHTML==="Two") {
-acc.innerHTML="Ad- vance To Gold";
-gold.opacity="50%";
-gold1.innerHTML="Two";
-tile1a.innerHTML="";}
+acc.innerHTML="Ad- vance To Gold";}
 else if (
 acc.innerHTML==="Ad- vance To Gold" && tile1a.innerHTML==="Two") {
 acc.innerHTML="-$100";}
 else if (acc.innerHTML==="-$100" && tile1a.innerHTML==="Two") {
-acc.innerHTML="Back 3";
-back1.innerHTML="Two";
-go.opacity="50%";
-tile1a.innerHTML="";}
+acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile1a.innerHTML==="Two") {
 acc.innerHTML="+$100";}
 else if (
 acc.innerHTML==="+$100" && tile1a.innerHTML==="Two") {
-acc.innerHTML="Ad- vance To Go";
-go1.innerHTML="Two";
-go.opacity="50%";
-tile1a.innerHTML="";}
+acc.innerHTML="Ad- vance To Go";}
 
 else if (
 acc.innerHTML==="Ad- vance To Go" && tile2a.innerHTML==="Two") {
 acc.innerHTML="No- thing";} 
 else if (
 acc.innerHTML==="No- thing" && tile2a.innerHTML==="Two") {
-acc.innerHTML="Jail";
-jail.opacity="50%";
-jail2.innerHTML="Two";
-tile2a.innerHTML="";}
+acc.innerHTML="Jail";}
 else if (acc.innerHTML==="Jail" && tile2a.innerHTML==="Two") 
 {acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile2a.innerHTML==="Two") {
-acc.innerHTML="Ad- vance To Gold";
-gold.opacity="50%";
-gold2.innerHTML="Two";
-tile2a.innerHTML="";}
+acc.innerHTML="Ad- vance To Gold";}
 else if (
 acc.innerHTML==="Ad- vance To Gold" && tile2a.innerHTML==="Two") {
 acc.innerHTML="-$100";}
 else if (acc.innerHTML==="-$100" && tile2a.innerHTML==="Two") {
-acc.innerHTML="Back 3";
-back2.innerHTML="Two";
-go.opacity="50%";
-tile2a.innerHTML="";}
+acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile2a.innerHTML==="Two") {
 acc.innerHTML="+$100";}
 else if (
 acc.innerHTML==="+$100" && tile2a.innerHTML==="Two") {
-acc.innerHTML="Ad- vance To Go";
-go2.innerHTML="Two";
-go.opacity="50%";
-tile2a.innerHTML="";}
+acc.innerHTML="Ad- vance To Go";}
 
 else if (
 acc.innerHTML==="Ad- vance To Go" && tile2a.innerHTML==="One") {
 acc.innerHTML="No- thing";} 
 else if (
 acc.innerHTML==="No- thing" && tile2a.innerHTML==="One") {
-acc.innerHTML="Jail";
-jail.opacity="50%";
-jail2.innerHTml="One";
-tile2a.innerHTML="";}
+acc.innerHTML="Jail";}
 else if (acc.innerHTML==="Jail" && tile2a.innerHTML==="One") 
 {acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile2a.innerHTML==="One") {
-acc.innerHTML="Ad- vance To Gold";
-gold.opacity="50%";
-gold2.innerHTML="One";
-tile2a.innerHTML="";}
+acc.innerHTML="Ad- vance To Gold";}
 else if (
 acc.innerHTML==="Ad- vance To Gold" && tile2a.innerHTML==="One") {
 acc.innerHTML="-$100";}
 else if (acc.innerHTML==="-$100" && tile2a.innerHTML==="One") {
-acc.innerHTML="Back 3";
-back2.innerHTML="One";
-go.opacity="50%";
-tile2a.innerHTML="";}
+acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile2a.innerHTML==="One") {
 acc.innerHTML="+$100";}
 else if (
 acc.innerHTML==="+$100" && tile2a.innerHTML==="One") {
-acc.innerHTML="Ad- vance To Go";
-go2.innerHTML="One";
-go.opacity="50%";
-tile2a.innerHTML="";}
+acc.innerHTML="Ad- vance To Go";}
  
 else if (acc.innerHTML==="Ad- vance To Go" && tile1a.innerHTML==="Yellow") {
 acc.innerHTML="No- thing";}
 else if (
 acc.innerHTML==="No- thing" && tile1a.innerHTML==="Yellow") {
-acc.innerHTML="Jail";
-jail.opacity="50%";
-jail1.innerHTML="Yellow";
-tile1a.innerHTML="";}
+acc.innerHTML="Jail";}
 else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="Yellow") 
 {acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile1a.innerHTML==="Yellow") {
-acc.innerHTML="Ad- vance To Gold";
-gold.opacity="50%";
-gold1.innerHTML="Yellow";
-tile1a.innerHTML="";}
+acc.innerHTML="Ad- vance To Gold";}
 else if (
 acc.innerHTML==="Ad- vance To Gold" && tile1a.innerHTML==="Yellow") {
 acc.innerHTML="-$100";}
 else if (acc.innerHTML==="-$100" && tile1a.innerHTML==="Yellow") {
-acc.innerHTML="Back 3";
-back1.innerHTML="Yellow";
-go.opacity="50%";
-tile1a.innerHTML="";}
+acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile1a.innerHTML==="Yellow") {
 acc.innerHTML="+$100";}
 else if (
 acc.innerHTML==="+$100" && tile1a.innerHTML==="Yellow") {
-acc.innerHTML="Ad- vance To Go";
-go1.innerHTML="Yellow";
-go.opacity="50%";
-tile1a.innerHTML="";}
+acc.innerHTML="Ad- vance To Go";}
 
 else if (
 acc.innerHTML==="Ad- vance To Go" && tile2a.innerHTML==="Yellow") {
 acc.innerHTML="No- thing";} 
 else if (
 acc.innerHTML==="No- thing" && tile2a.innerHTML==="Yellow") {
-acc.innerHTML="Jail";
-jail.opacity="50%";
-jail2.innerHTML="Yellow";
-tile2a.innerHTML="";}
+acc.innerHTML="Jail";}
 else if (acc.innerHTML==="Jail" && tile2a.innerHTML==="Yellow") 
 {acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile2a.innerHTML==="Yellow") {
-acc.innerHTML="Ad- vance To Gold";
-gold.opacity="50%";
-gold2.innerHTML="Yellow";
-tile2a.innerHTML="";}
+acc.innerHTML="Ad- vance To Gold";}
 else if (
 acc.innerHTML==="Ad- vance To Gold" && tile2a.innerHTML==="Yellow") {
 acc.innerHTML="-$100";}
 else if (acc.innerHTML==="-$100" && tile2a.innerHTML==="Yellow") {
-acc.innerHTML="Back 3";
-back2.innerHTML="Yellow";
-go.opacity="50%";
-tile2a.innerHTML="";}
+acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile2a.innerHTML==="Yellow") {
 acc.innerHTML="+$100";}
 else if (
 acc.innerHTML==="+$100" && tile2a.innerHTML==="Yellow") {
-acc.innerHTML="Ad- vance To Go";
-go2.innerHTML="Yellow";
-go.opacity="50%";
-tile2a.innerHTML="";}
+acc.innerHTML="Ad- vance To Go";}
 
 else if (acc.innerHTML==="Ad- vance To Go" && tile1a.innerHTML==="Red") {
 acc.innerHTML="No- thing";}
 else if (
 acc.innerHTML==="No- thing" && tile1a.innerHTML==="Red") {
-acc.innerHTML="Jail";
-jail.opacity="50%";
-jail1.innerHTML="Red";
-tile1a.innerHTML="";}
+acc.innerHTML="Jail";}
 else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="Red") 
 {acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile1a.innerHTML==="Red") {
-acc.innerHTML="Ad- vance To Gold";
-gold.opacity="50%";
-gold1.innerHTML="Red";
-tile1a.innerHTML="";}
+acc.innerHTML="Ad- vance To Gold";}
 else if (
 acc.innerHTML==="Ad- vance To Gold" && tile1a.innerHTML==="Red") {
 acc.innerHTML="-$100";}
 else if (acc.innerHTML==="-$100" && tile1a.innerHTML==="Red") {
-acc.innerHTML="Back 3";
-back1.innerHTML="Red";
-go.opacity="50%";
-tile1a.innerHTML="";}
+acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile1a.innerHTML==="Red") {
 acc.innerHTML="+$100";}
 else if (
 acc.innerHTML==="+$100" && tile1a.innerHTML==="Red") {
-acc.innerHTML="Ad- vance To Go";
-go1.innerHTML="Red";
-go.opacity="50%";
-tile1a.innerHTML="";}
+acc.innerHTML="Ad- vance To Go";}
 
 else if (
 acc.innerHTML==="Ad- vance To Go" && tile2a.innerHTML==="Red") {
 acc.innerHTML="No- thing";} 
 else if (
 acc.innerHTML==="No- thing" && tile2a.innerHTML==="Red") {
-acc.innerHTML="Jail";
-jail.opacity="50%";
-jail2.innerHTML="Red";
-tile2a.innerHTML="";}
+acc.innerHTML="Jail";}
 else if (acc.innerHTML==="Jail" && tile2a.innerHTML==="Red") 
 {acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile2a.innerHTML==="Red") {
-acc.innerHTML="Ad- vance To Gold";
-gold.opacity="50%";
-gold2.innerHTML="Red";
-tile2a.innerHTML="";}
+acc.innerHTML="Ad- vance To Gold";}
 else if (
 acc.innerHTML==="Ad- vance To Gold" && tile2a.innerHTML==="Red") {
 acc.innerHTML="-$100";}
 else if (acc.innerHTML==="-$100" && tile2a.innerHTML==="Red") {
-acc.innerHTML="Back 3";
-back2.innerHTML="Red";
-go.opacity="50%";
-tile2a.innerHTML="";}
+acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile2a.innerHTML==="Red") {
 acc.innerHTML="+$100";}
 else if (
 acc.innerHTML==="+$100" && tile2a.innerHTML==="Red") {
-acc.innerHTML="Ad- vance To Go";
-go2.innerHTML="Red";
-go.opacity="50%";
-tile2a.innerHTML="";}
+acc.innerHTML="Ad- vance To Go";}
 
 else if (acc.innerHTML==="Ad- vance To Go" && tile1a.innerHTML==="Pink") {
 acc.innerHTML="No- thing";}
 else if (
 acc.innerHTML==="No- thing" && tile1a.innerHTML==="Pink") {
-acc.innerHTML="Jail";
-jail.opacity="50%";
-jail1.innerHTML="Pink";
-tile1a.innerHTML="";}
+acc.innerHTML="Jail";}
 else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="Pink") 
 {acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile1a.innerHTML==="Pink") {
-acc.innerHTML="Ad- vance To Gold";
-gold.opacity="50%";
-gold1.innerHTML="Pink";
-tile1a.innerHTML="";}
+acc.innerHTML="Ad- vance To Gold";}
 else if (
 acc.innerHTML==="Ad- vance To Gold" && tile1a.innerHTML==="Pink") {
 acc.innerHTML="-$100";}
 else if (acc.innerHTML==="-$100" && tile1a.innerHTML==="Pink") {
-acc.innerHTML="Back 3";
-back1.innerHTML="Pink";
-go.opacity="50%";
-tile1a.innerHTML="";}
+acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile1a.innerHTML==="Pink") {
 acc.innerHTML="+$100";}
 else if (
 acc.innerHTML==="+$100" && tile1a.innerHTML==="Pink") {
-acc.innerHTML="Ad- vance To Go";
-go1.innerHTML="Pink";
-go.opacity="50%";
-tile1a.innerHTML="";}
+acc.innerHTML="Ad- vance To Go";}
 
 else if (
 acc.innerHTML==="Ad- vance To Go" && tile2a.innerHTML==="Pink") {
 acc.innerHTML="No- thing";} 
 else if (
 acc.innerHTML==="No- thing" && tile2a.innerHTML==="Pink") {
-acc.innerHTML="Jail";
-jail.opacity="50%";
-jail2.innerHTML="Pink";
-tile2a.innerHTML="";}
+acc.innerHTML="Jail";}
 else if (acc.innerHTML==="Jail" && tile2a.innerHTML==="Pink") 
 {acc.innerHTML="+$150";}
 else if (
@@ -7518,21 +7283,15 @@ else if (
 acc.innerHTML==="Ad- vance To Gold" && tile2a.innerHTML==="Pink") {
 acc.innerHTML="-$100";}
 else if (acc.innerHTML==="-$100" && tile2a.innerHTML==="Pink") {
-acc.innerHTML="Back 3";
-back2.innerHTML="Pink";
-go.opacity="50%";
-tile2a.innerHTML="";}
+acc.innerHTML="Back 3";}
 else if (
 acc.innerHTML==="Back 3" && tile2a.innerHTML==="Pink") {
 acc.innerHTML="+$100";}
 else if (
 acc.innerHTML==="+$100" && tile2a.innerHTML==="Pink") {
-acc.innerHTML="Ad- vance To Go";
-go2.innerHTML="Pink";
-go.opacity="50%";
-tile2a.innerHTML="";} 
+acc.innerHTML="Ad- vance To Go";} 
 else if (acc.innerHTML==="") {
-acc.innerHTML="-$100";}}
+acc.innerHTML="+$150";}}
 
 function playerOne() {
 var dice=document.getElementById("node");
