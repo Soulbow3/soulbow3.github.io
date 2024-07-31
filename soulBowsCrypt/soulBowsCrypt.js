@@ -12378,8 +12378,8 @@ fifteen.innerHTML="";}
 else if (sixteen.innerHTML==="Three" && dice.innerHTML==="1") {
 seventeen.innerHTML="Three";
 sixteen.innerHTML="";}
-else if (sixteen.innerHTML==="Two" && dice.innerHTML==="2") {
-eighteen.innerHTML="Two";
+else if (sixteen.innerHTML==="Three" && dice.innerHTML==="2") {
+eighteen.innerHTML="Three";
 sixteen.innerHTML="";}
 else if (sixteen.innerHTML==="Three" && dice.innerHTML==="3") {
 nineteen.innerHTML="Three";
