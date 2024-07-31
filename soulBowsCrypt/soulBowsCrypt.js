@@ -6452,6 +6452,7 @@ var back2b= document.getElementById("twoR");
 var back3b= document.getElementById("threeR");
 var back1C=document.getElementById("oneY");
 var back2C=document.getElementById("twoY");
+var back3C=document.getElementById("threeY");
 var tile1a= document.getElementById("oneD");
 var tile1b= document.getElementById("twoD");
 var tile1c= document.getElementById("threeD");
@@ -6462,7 +6463,6 @@ var tile3a= document.getElementById("bone");
 var tile3b= document.getElementById("btwo");
 var tile3c= document.getElementById("three");
 var accept=document.getElementById("cardAcc");
- 
 if (tile1a.innerHTML==="One" && accept.innerHTML==="Ad- vance To Go") {
 tile1a.innerHTML="";
 go1.innerHTML="One";}
