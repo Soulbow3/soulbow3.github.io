@@ -6605,9 +6605,9 @@ else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="One") {
 acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile1a.innerHTML==="One") {
-acc.innerHTML="Ad- vance To Gold";
+acc.innerHTML="Ad- vance To Gold";}
 else if (
-]acc.innerHTML==="Ad- vance To Gold" && tile1a.innerHTML==="One") {
+acc.innerHTML==="Ad- vance To Gold" && tile1a.innerHTML==="One") {
 acc.innerHTML="-$100";}
 else if (acc.innerHTML==="-$100" && tile1a.innerHTML==="One") {
 acc.innerHTML="Back 3";}
@@ -6650,7 +6650,7 @@ else if (acc.innerHTML==="Jail" && tile3a.innerHTML==="Three") {
 acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile3a.innerHTML==="Three") {
-acc.innerHTML="Ad- vance To Gold";
+acc.innerHTML="Ad- vance To Gold";}
 else if (
 acc.innerHTML==="Ad- vance To Gold" && tile3a.innerHTML==="Three") {
 acc.innerHTML="-$100";}
@@ -6883,9 +6883,9 @@ else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="One") {
 acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile1a.innerHTML==="One") {
-acc.innerHTML="Ad- vance To Gold";
+acc.innerHTML="Ad- vance To Gold";}
 else if (
-]acc.innerHTML==="Ad- vance To Gold" && tile1a.innerHTML==="One") {
+acc.innerHTML==="Ad- vance To Gold" && tile1a.innerHTML==="One") {
 acc.innerHTML="-$100";}
 else if (acc.innerHTML==="-$100" && tile1a.innerHTML==="One") {
 acc.innerHTML="Back 3";}
@@ -6928,7 +6928,7 @@ else if (acc.innerHTML==="Jail" && tile3a.innerHTML==="Three") {
 acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile3a.innerHTML==="Three") {
-acc.innerHTML="Ad- vance To Gold";
+acc.innerHTML="Ad- vance To Gold";}
 else if (
 acc.innerHTML==="Ad- vance To Gold" && tile3a.innerHTML==="Three") {
 acc.innerHTML="-$100";}
@@ -7161,9 +7161,9 @@ else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="One") {
 acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile1a.innerHTML==="One") {
-acc.innerHTML="Ad- vance To Gold";
+acc.innerHTML="Ad- vance To Gold";}
 else if (
-]acc.innerHTML==="Ad- vance To Gold" && tile1a.innerHTML==="One") {
+acc.innerHTML==="Ad- vance To Gold" && tile1a.innerHTML==="One") {
 acc.innerHTML="-$100";}
 else if (acc.innerHTML==="-$100" && tile1a.innerHTML==="One") {
 acc.innerHTML="Back 3";}
@@ -7206,7 +7206,7 @@ else if (acc.innerHTML==="Jail" && tile3a.innerHTML==="Three") {
 acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile3a.innerHTML==="Three") {
-acc.innerHTML="Ad- vance To Gold";
+acc.innerHTML="Ad- vance To Gold";}
 else if (
 acc.innerHTML==="Ad- vance To Gold" && tile3a.innerHTML==="Three") {
 acc.innerHTML="-$100";}
