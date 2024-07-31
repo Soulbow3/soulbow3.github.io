@@ -6450,9 +6450,9 @@ var jail3=document.getElementById("threeH");
 var back1b= document.getElementById("oneR");
 var back2b= document.getElementById("twoR");
 var back3b= document.getElementById("threeR");
-var back1C=document.getElementById("oneY");
-var back2C=document.getElementById("twoY");
-var back3C=document.getElementById("threeY");
+var back1c=document.getElementById("oneY");
+var back2c=document.getElementById("twoY");
+var back3c=document.getElementById("threeY");
 var tile1a= document.getElementById("oneD");
 var tile1b= document.getElementById("twoD");
 var tile1c= document.getElementById("threeD");
@@ -7736,10 +7736,7 @@ else if (acc.innerHTML==="Jail" && tile2a.innerHTML==="Pink")
 {acc.innerHTML="+$150";}
 else if (
 acc.innerHTML==="+$150" && tile2a.innerHTML==="Pink") {
-acc.innerHTML="Ad- vance To Gold";
-gold.opacity="50%";
-gold2.innerHTML="Pink";
-tile2a.innerHTML="";}
+acc.innerHTML="Ad- vance To Gold";}
 else if (
 acc.innerHTML==="Ad- vance To Gold" && tile2a.innerHTML==="Pink") {
 acc.innerHTML="-$100";}
