@@ -6461,7 +6461,7 @@ var tile2b= document.getElementById("twoU");
 var tile2c= document.getElementById("threeU");
 var tile3a= document.getElementById("bone");
 var tile3b= document.getElementById("btwo");
-var tile3c= document.getElementById("three");
+var tile3c= document.getElementById("bthree");
 var accept=document.getElementById("cardAcc");
 if (tile1a.innerHTML==="One" && accept.innerHTML==="Ad- vance To Go") {
 tile1a.innerHTML="";
