@@ -6580,7 +6580,7 @@ else if (tile3c.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Go") {
 tile3c.innerHTML="";
 go3.innerHTML="Pink";}
 
-if (tile1a.innerHTML==="One" && accept.innerHTML==="Jail") {
+else if (tile1a.innerHTML==="One" && accept.innerHTML==="Jail") {
 tile1a.innerHTML="";
 Jail1.innerHTML="One";}
 else if (tile1a.innerHTML==="Red" && accept.innerHTML==="Jail") {
@@ -6697,6 +6697,124 @@ else if (tile3c.innerHTML==="Pink" && accept.innerHTML==="Jail") {
 tile3c.innerHTML="";
 Jail3.innerHTML="Pink";}
 
+
+
+else if (tile1a.innerHTML==="One" && accept.innerHTML==="Ad- vance To Gold") {
+tile1a.innerHTML="";
+gold1.innerHTML="One";}
+else if (tile1a.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Gold") {
+tile1a.innerHTML="";
+gold1.innerHTML="Red";}
+else if (tile1a.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Gold") {
+tile1a.innerHTML="";
+gold1.innerHTML="Yellow";}
+else if (tile1a.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Gold") {
+tile1a.innerHTML="";
+gold1.innerHTML="Pink";}
+
+else if (tile1a.innerHTML==="Two" && accept.innerHTML==="Ad- vance To Gold") {
+tile2a.innerHTML="";
+gold2.innerHTML="Two";}
+else if (tile2a.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Gold") {
+tile2a.innerHTML="";
+gold2.innerHTML="Red";}
+else if (tile2a.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Gold") {
+tile2a.innerHTML="";
+gold2.innerHTML="Yellow";}
+else if (tile2a.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Gold") {
+tile2a.innerHTML="";
+gold2.innerHTML="Pink";}
+
+else if (tile3a.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Gold") {
+tile3a.innerHTML="";
+gold3.innerHTML="Three";}
+else if (tile3a.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Gold") {
+tile3a.innerHTML="";
+gold3.innerHTML="Red";}
+else if (tile3a.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Gold") {
+tile3a.innerHTML="";
+gold3.innerHTML="Yellow";}
+else if (tile3a.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Gold") {
+tile3a.innerHTML="";
+gold3.innerHTML="Pink";}
+
+else if (tile1b.innerHTML==="One" && accept.innerHTML==="Ad- vance To Gold") {
+tile1b.innerHTML="";
+gold1.innerHTML="One";}
+else if (tile1b.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Gold") {
+tile1b.innerHTML="";
+gold1.innerHTML="Red";}
+else if (tile1b.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Gold") {
+tile1b.innerHTML="";
+gold1.innerHTML="Yellow";}
+else if (tile1b.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Gold") {
+tile1b.innerHTML="";
+gold1.innerHTML="Pink";}
+ 
+else if (tile2b.innerHTML==="Two" && accept.innerHTML==="Ad- vance To Gold") {
+tile2b.innerHTML="";
+gold2.innerHTML="Two";}
+else if (tile2b.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Gold") {
+tile2b.innerHTML="";
+gold2.innerHTML="Red";}
+else if (tile2b.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Gold") {
+tile2b.innerHTML="";
+gold2.innerHTML="Yellow";}
+else if (tile2b.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Gold") {
+tile2b.innerHTML="";
+gold2.innerHTML="Pink";}
+ 
+else if (tile3b.innerHTML==="One" && accept.innerHTML==="Ad- vance To Gold") {
+tile3b.innerHTML="";
+gold3.innerHTML="One";}
+else if (tile3b.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Gold") {
+tile3b.innerHTML="";
+gold3.innerHTML="Red";}
+else if (tile3b.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Gold") {
+tile3b.innerHTML="";
+gold3.innerHTML="Yellow";}
+else if (tile3b.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Gold") {
+tile3b.innerHTML="";
+gold3.innerHTML="Pink";}
+
+else if (tile1c.innerHTML==="One" && accept.innerHTML==="Ad- vance To Gold") {
+tile1c.innerHTML="";
+gold1.innerHTML="One";}
+else if (tile1c.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Gold") {
+tile1c.innerHTML="";
+gold1.innerHTML="Red";}
+else if (tile1c.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Gold") {
+tile1c.innerHTML="";
+gold1.innerHTML="Yellow";}
+else if (tile1c.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Gold") {
+tile1c.innerHTML="";
+gold1.innerHTML="Pink";}
+ 
+else if (tile2c.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Gold") {
+tile2c.innerHTML="";
+gold2.innerHTML="Three";}
+else if (tile2c.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Gold") {
+tile2c.innerHTML="";
+gold2.innerHTML="Red";}
+else if (tile2c.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Gold") {
+tile2c.innerHTML="";
+gold2.innerHTML="Yellow";}
+else if (tile2c.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Gold") {
+tile2c.innerHTML="";
+gold2.innerHTML="Pink";}
+
+else if (tile3c.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Gold") {
+tile3c.innerHTML="";
+gold3.innerHTML="Three";}
+else if (tile3c.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Gold") {
+tile3c.innerHTML="";
+gold3.innerHTML="Red";}
+else if (tile3c.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Gold") {
+tile3c.innerHTML="";
+gold3.innerHTML="Yellow";}
+else if (tile3c.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Gold") {
+tile3c.innerHTML="";
+gold3.innerHTML="Pink";}
  
  
 else if (element.innerHTML==="Red") {
