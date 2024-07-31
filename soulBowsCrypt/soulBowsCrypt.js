@@ -6855,16 +6855,16 @@ go1.innerHTML="Pink";}
 
 else if (tile1b.innerHTML==="Two" && accept.innerHTML==="Back 3") {
 tile1b.innerHTML="";
-back1b.innerHTML="Two";}
+go2.innerHTML="Two";}
 else if (tile1b.innerHTML==="Red" && accept.innerHTML==="Back 3") {
 tile1b.innerHTML="";
-back1b.innerHTML="Red";}
+go2.innerHTML="Red";}
 else if (tile1b.innerHTML==="Yellow" && accept.innerHTML==="Back 3") {
 tile1b.innerHTML="";
-back1b.innerHTML="Yellow";}
+go2.innerHTML="Yellow";}
 else if (tile1b.innerHTML==="Pink" && accept.innerHTML==="Back 3") {
 tile1b.innerHTML="";
-back1b.innerHTML="Pink";}
+go2.innerHTML="Pink";}
  
 else if (tile2b.innerHTML==="Two" && accept.innerHTML==="Back 3") {
 tile2b.innerHTML="";
