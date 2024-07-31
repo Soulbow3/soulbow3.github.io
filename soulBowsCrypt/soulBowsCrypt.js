@@ -6920,16 +6920,16 @@ back2b.innerHTML="Pink";}
 
 else if (tile3c.innerHTML==="Three" && accept.innerHTML==="Back 3") {
 tile3c.innerHTML="";
-back2b.innerHTML="Three";}
+back3c.innerHTML="Three";}
 else if (tile3c.innerHTML==="Red" && accept.innerHTML==="Back 3") {
 tile3c.innerHTML="";
-back2b.innerHTML="Red";}
+back3c.innerHTML="Red";}
 else if (tile3c.innerHTML==="Yellow" && accept.innerHTML==="Back 3") {
 tile3c.innerHTML="";
-back2b.innerHTML="Yellow";}
+back3c.innerHTML="Yellow";}
 else if (tile3c.innerHTML==="Pink" && accept.innerHTML==="Back 3") {
 tile3c.innerHTML="";
-back2b.innerHTML="Pink";}
+back3c.innerHTML="Pink";}
 
 else if (element.innerHTML==="Red") {
 element.innerHTML="Yellow";}
