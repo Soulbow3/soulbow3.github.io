@@ -1,6 +1,6 @@
 body {background: linear-gradient(90deg, white, black, black, red, black, black, red, black, black, white);}
 table {background: linear-gradient(90deg, white, black, black, red, blue, green, red, black, black, white); opacity: 75%;}
-section {height: 44px; width: 44px; border: solid 1px goldenrod;}
+section {height: 44px; width: 36px; border: solid 1px goldenrod;}
 p {font-size: 9px; text-align: center; margin: 0 0 0 0;}
 h2 {font-size: 15px; font-family: cursive; color: red; margin: 6px 5px 6px 5px;}
 button {color: red; border-radius: 45px 45px 45px 45px; background: black; height: 30px; width: 30px; font-size: 7px; margin-top: 5px;}
