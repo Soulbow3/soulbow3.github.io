@@ -7634,33 +7634,33 @@ var toggle3=document.getElementById("sel3");
 var button1=document.getElementById("btn1");
 var button2=document.getElementById("btn2");
 var button3=document.getElementById("btn3");
-if (element.innerHTML==="Red" && toggle1.style.innerHTML==="white") {
+if (element.innerHTML==="Red" && toggle1.style.background==="white") {
 element.innerHTML="One";}
-else if (element.innerHTML==="Pink" && toggle1.style.innerHTML==="white") {
+else if (element.innerHTML==="Pink" && toggle1.style.background==="white") {
 element.innerHTML="One";}
-else if (element.innerHTML==="Yellow" && toggle1.style.innerHTML==="white") {
+else if (element.innerHTML==="Yellow" && toggle1.style.background==="white") {
 element.innerHTML="One";}
 
 else if (toggle1.style.background==="white" && element.innerHTML==="One") {
 element.innerHTML="";
 button1.innerHTML="One";}
 
-else if (element.innerHTML==="Red" && toggle2.style.innerHTML==="white") {
+else if (element.innerHTML==="Red" && toggle2.style.background==="white") {
 element.innerHTML="Two";}
-else if (element.innerHTML==="Pink" && toggle2.style.innerHTML==="white") {
+else if (element.innerHTML==="Pink" && toggle2.style.background==="white") {
 element.innerHTML="Two";}
-else if (element.innerHTML==="Yellow" && toggle2.style.innerHTML==="white") {
+else if (element.innerHTML==="Yellow" && toggle2.style.background==="white") {
 element.innerHTML="Two";}
 
 else if (toggle2.style.background==="white" && element.innerHTML==="Two") {
 element.innerHTML="";
 button2.innerHTML="Two";}
 
-else if (element.innerHTML==="Red" && toggle3.style.innerHTML==="white") {
+else if (element.innerHTML==="Red" && toggle3.style.background==="white") {
 element.innerHTML="Three";}
-else if (element.innerHTML==="Pink" && toggle3.style.innerHTML==="white") {
+else if (element.innerHTML==="Pink" && toggle3.style.background==="white") {
 element.innerHTML="Three";}
-else if (element.innerHTML==="Yellow" && toggle3.style.innerHTML==="white") {
+else if (element.innerHTML==="Yellow" && toggle3.style.background==="white") {
 element.innerHTML="Three";}
 
 else if (toggle3.style.background==="white" && element.innerHTML==="Three") {
