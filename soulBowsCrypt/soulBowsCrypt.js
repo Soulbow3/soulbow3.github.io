@@ -43,7 +43,7 @@ var backa=document.getElementById("bac1a");
 var backb=document.getElementById("bac1b");
 var y=document.getElementById("+a");
 var z=document.getElementById("-a");
-var abc=document.getElementById("a1");
+var abc=document.getElementById("a111");
 if (change.style.background==="darkslategrey" && abc.innerHTML==="P1") {
 backa.style.background="darkslategrey";
 backb.style.background="darkslategrey";
@@ -63,7 +63,7 @@ var backa=document.getElementById("bac2a");
 var backb=document.getElementById("bac2b");
 var y=document.getElementById("+b");
 var z=document.getElementById("-b");
-var abc=document.getElementById("a3");
+var abc=document.getElementById("b111");
 if (change.style.background==="darkslategrey" && abc.innerHTML==="P3") {
 backa.style.background="darkslategrey";
 backb.style.background="darkslategrey";
@@ -83,7 +83,7 @@ var backa=document.getElementById("bac3a");
 var backb=document.getElementById("bac3b");
 var y=document.getElementById("+c");
 var z=document.getElementById("-c");
-var abc=document.getElementById("c1");
+var abc=document.getElementById("c111");
 if (change.style.background==="darkslategrey" && abc.innerHTML==="P2") {
 backa.style.background="darkslategrey";
 backb.style.background="darkslategrey";
