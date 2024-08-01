@@ -138,7 +138,7 @@ wallet3.innerHTML="$280";}
 else if (back2.style.background==="darkslategrey" && wallet3.innerHTML==="$190") {
 wallet3.innerHTML="$290";}
 else if (back2.style.background==="darkslategrey" && wallet3.innerHTML==="$200") {
-wallet3.innerHTML="300";}
+wallet3.innerHTML="$300";}
 else if (back2.style.background==="darkslategrey" && wallet3.innerHTML==="$210") {
 wallet3.innerHTML="$310";}
 else if (back2.style.background==="darkslategrey" && wallet3.innerHTML==="$220") {
@@ -5848,19 +5848,19 @@ var sell1=document.getElementById("sel1");
 var sell2=document.getElementById("sel2");
 var sell3=document.getElementById("sel3");
 if (sell1.style.background==="grey" && three.innerHTML==="Rent $40") 
-{back.stlye.background="grey";
+{back.style.background="grey";
 three.innerHTML="Sold";}
 else if (three.innerHTML==="Sold" && sell1.style.background==="black") 
 {back.style.background="red";
 three.innerHTML="Rent $40";}
 else if (sell2.style.background==="grey" && three.innerHTML==="Rent $40") 
-{back.stlye.background="grey";
+{back.style.background="grey";
 three.innerHTML="Sold";}
 else if (three.innerHTML==="Sold" && sell2.style.background==="black") 
 {back.style.background="purple";
 three.innerHTML="Rent $40";}
 else if (sell3.style.background==="grey" && three.innerHTML==="Rent $40") 
-{back.stlye.background="grey";
+{back.style.background="grey";
 three.innerHTML="Sold";}
 else if (three.innerHTML==="Sold" && sell3.style.background==="black") 
 {back.style.background="green";
@@ -5927,7 +5927,7 @@ var sell1=document.getElementById("sel1");
 var sell2=document.getElementById("sel2");
 var sell3=document.getElementById("sel3");
 if (sell1.style.background==="grey" && three.innerHTML==="Rent $60") 
-{back.stlye.background="grey";
+{back.style.background="grey";
 three.innerHTML="Sold";}
 else if (three.innerHTML==="Sold" && sell1.style.background==="black") 
 {back.style.background="red";
