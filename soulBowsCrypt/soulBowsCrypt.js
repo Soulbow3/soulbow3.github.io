@@ -7030,7 +7030,7 @@ else if (four.innerHTML==="Three") {
 three.innerHTML="Rent $120";
 back.style.background="green";}}
 
-function gold2() {
+function gold1() {
 var one=document.getElementById("fone");
 var three=document.getElementById("goldOne");
 var back=document.getElementById("goldBack1");
@@ -7109,7 +7109,7 @@ else if (four.innerHTML==="Three") {
 three.innerHTML="Rent $160";
 back.style.background="green";}}
 
-function gold1() {
+function gold2() {
 var one=document.getElementById("eone");
 var three=document.getElementById("goldTwo");
 var back=document.getElementById("goldBack2");
