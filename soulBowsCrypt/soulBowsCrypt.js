@@ -9019,7 +9019,7 @@ var buttonOne=document.getElementById("btn1");
 var wallet=document.getElementById("wal1");
 var y=document.getElementById("+a");
 var z=document.getElementById("-a");
-var x=document.getElementById("a11");
+var x=document.getElementById("a111");
 if (buttonOne.innerHTML==="One") {
 buttonOne.innerHTML="P1";
 one.innerHTML="One";
@@ -11348,7 +11348,7 @@ var buttonTwo=document.getElementById("btn2");
 var wallet=document.getElementById("wal3");
 var y=document.getElementById("+c");
 var z=document.getElementById("-c");
-var x=document.getElementById("c11");
+var x=document.getElementById("c111");
 if (buttonTwo.innerHTML==="Two") {
 buttonTwo.innerHTML="P2"
 one.innerHTML="Two";
@@ -13676,7 +13676,7 @@ var buttonThree=document.getElementById("btn3")
 var wallet=document.getElementById("wal2");
 var y=document.getElementById("+b");
 var z=document.getElementById("-b");
-var x=document.getElementById("b11");
+var x=document.getElementById("b111");
 if (buttonThree.innerHTML==="Three") {
 buttonThree.innerHTML="P3";
 one.innerHTML="Three";
