@@ -7628,6 +7628,39 @@ var tile3a= document.getElementById("bone");
 var tile3b= document.getElementById("btwo");
 var tile3c= document.getElementById("bthree");
 var accept=document.getElementById("cardAcc");
+if (element.innerHTML==="Red"; && sell1.style.innerHTML==="black") {
+element.innerHTML="One";}
+else if (element.innerHTML==="Pink"; && sell1.style.innerHTML==="black") {
+element.innerHTML="One";}
+else if (element.innerHTML==="Yellow"; && sell1.style.innerHTML==="black") {
+element.innerHTML="One";}
+
+else if (sell1.style.background==="black" && element.innerHTML==="One") {
+element.innerHTML="";
+btn1.innerHTML="One";}
+
+else if (element.innerHTML==="Red"; && sell2.style.innerHTML==="black") {
+element.innerHTML="Two";}
+else if (element.innerHTML==="Pink"; && sell2.style.innerHTML==="black") {
+element.innerHTML="Two";}
+else if (element.innerHTML==="Yellow"; && sell2.style.innerHTML==="black") {
+element.innerHTML="Two";}
+
+else if (sell2.style.background==="black" && element.innerHTML==="Two") {
+element.innerHTML="";
+btn2.innerHTML="Two";}
+
+else if (element.innerHTML==="Red"; && sell3.style.innerHTML==="black") {
+element.innerHTML="Three";}
+else if (element.innerHTML==="Pink"; && sell3.style.innerHTML==="black") {
+element.innerHTML="Three";}
+else if (element.innerHTML==="Yellow"; && sell3.style.innerHTML==="black") {
+element.innerHTML="Three";}
+
+else if (sell3.style.background==="black" && element.innerHTML==="Three") {
+element.innerHTML="";
+btn3.innerHTML="Three";}
+ 
 if (tile1a.innerHTML==="One" && accept.innerHTML==="Ad- vance To Go") {
 tile1a.innerHTML="";
 go1.innerHTML="One";}
