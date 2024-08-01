@@ -5,7 +5,11 @@ element.innerHTML="Sell";}
 else if (element.style.background==="grey") {
 element.style.background="black";
 element.innerHTML="Place";}
-else {element.style.background="silver";}}
+else if (element.style.background==="black") {
+element.style.background="white";
+element.innerHTML="Remove";}
+else {element.style.background="silver";
+element.innerHTML="Toggle Off";}}
 
 function change2(element) {
 if (element.style.background==="silver") {
@@ -14,7 +18,11 @@ element.innerHTML="Sell";}
 else if (element.style.background==="grey") {
 element.style.background="black";
 element.innerHTML="Place";}
-else {element.style.background="silver";}}
+else if (element.style.background==="black") {
+element.style.background="white";
+element.innerHTML="Remove";}
+else {element.style.background="silver";
+element.innerHTML="Toggle Off";}}
 
 function change3(element) {
 if (element.style.background==="silver") {
@@ -23,22 +31,11 @@ element.innerHTML="Sell";}
 else if (element.style.background==="grey") {
 element.style.background="black";
 element.innerHTML="Place";}
-else {element.style.background="silver";}}
-
-function remove1(element) {
-if (element.style.background==="silver") {
-element.style.background="grey";}
-else {element.style.background="silver";}}
-
-function remove2(element) {
-if (element.style.background==="silver") {
-element.style.background="grey";}
-else {element.style.background="silver";}}
-
-function remove3(element) {
-if (element.style.background==="silver") {
-element.style.background="grey";}
-else {element.style.background="silver";}}
+else if (element.style.background==="black") {
+element.style.background="white";
+element.innerHTML="Remove";}
+else {element.style.background="silver";
+element.innerHTML="Toggle Off";}}
 
 function bacZ() {
 var change=document.getElementById("value1");
