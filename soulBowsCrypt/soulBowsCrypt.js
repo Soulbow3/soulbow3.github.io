@@ -9013,9 +9013,11 @@ var thirtyone=document.getElementById("eone");
 var thirtytwo=document.getElementById("fone");
 var free=document.getElementById("id24");
 var buttonOne=document.getElementById("btn1");
+var wallet=document.getElementById{"wal1");
 if (buttonOne.innerHTML==="One") {
 buttonOne.innerHTML="P1";
-one.innerHTML="One";}
+one.innerHTML="One";
+wallet.innerHTML="$1000";}
 else if (one.innerHTML==="One" && dice.innerHTML==="1") {
 two.innerHTML="One";
 one.innerHTML="";}
@@ -11334,9 +11336,11 @@ var thirtyone=document.getElementById("etwo");
 var thirtytwo=document.getElementById("ftwo");
 var free=document.getElementById("id24");
 var buttonTwo=document.getElementById("btn2");
+var wallet=document.getElementById{"wal2");
 if (buttonTwo.innerHTML==="Two") {
 buttonTwo.innerHTML="P2"
-one.innerHTML="Two";}
+one.innerHTML="Two";
+wallet.innerHTML="$1000";}
 else if (one.innerHTML==="Two" && dice.innerHTML==="1") {
 two.innerHTML="Two";
 one.innerHTML="";}
@@ -13654,9 +13658,11 @@ var thirtyone=document.getElementById("ethree");
 var thirtytwo=document.getElementById("fthree");
 var free=document.getElementById("id24");
 var buttonThree=document.getElementById("btn3")
+var wallet=document.getElementById{"wal3");
 if (buttonThree.innerHTML==="Three") {
 buttonThree.innerHTML="P3";
-one.innerHTML="Three";}
+one.innerHTML="Three";
+wallet.innerHTML="$1000";}
 else if (one.innerHTML==="Three" && dice.innerHTML==="1") {
 two.innerHTML="Three";
 one.innerHTML="";}
