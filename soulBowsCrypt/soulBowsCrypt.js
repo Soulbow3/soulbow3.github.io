@@ -7039,32 +7039,32 @@ var four=document.getElementById("fthree");
 var sell1=document.getElementById("sel1");
 var sell2=document.getElementById("sel2");
 var sell3=document.getElementById("sel3");
-if (sell1.style.background==="grey" && three.innerHTML==="Rent $150") 
+if (sell1.style.background==="grey" && three.innerHTML==="Rent $160") 
 {back.style.background="grey";
 three.innerHTML="Sold";}
 else if (three.innerHTML==="Sold" && sell1.style.background==="black") 
 {back.style.background="red";
-three.innerHTML="Rent $150";}
-else if (sell2.style.background==="grey" && three.innerHTML==="Rent $150") 
+three.innerHTML="Rent $160";}
+else if (sell2.style.background==="grey" && three.innerHTML==="Rent $160") 
 {back.style.background="grey";
 three.innerHTML="Sold";}
 else if (three.innerHTML==="Sold" && sell2.style.background==="black") 
 {back.style.background="purple";
-three.innerHTML="Rent $150";}
-else if (sell3.style.background==="grey" && three.innerHTML==="Rent $150") 
+three.innerHTML="Rent $160";}
+else if (sell3.style.background==="grey" && three.innerHTML==="Rent $160") 
 {back.style.background="grey";
 three.innerHTML="Sold";}
 else if (three.innerHTML==="Sold" && sell3.style.background==="black") 
 {back.style.background="green";
-three.innerHTML="Rent $150";}
-else if (sell1.style.background==="white" && three.innerHTML==="Rent $150") {
-three.innerHTML="Gold $300";
+three.innerHTML="Rent $160";}
+else if (sell1.style.background==="white" && three.innerHTML==="Rent $160") {
+three.innerHTML="Gold $350";
 back.style.background="orange";}
-else if (sell2.style.background==="white" && three.innerHTML==="Rent $150") {
-three.innerHTML="Gold $300";
+else if (sell2.style.background==="white" && three.innerHTML==="Rent $160") {
+three.innerHTML="Gold $350";
 back.style.background="orange";}
-else if (sell3.style.background==="white" && three.innerHTML==="Rent $150") {
-three.innerHTML="Gold $300";
+else if (sell3.style.background==="white" && three.innerHTML==="Rent $160") {
+three.innerHTML="Gold $350";
 back.style.background="orange";}
 else if (back.style.background==="red") {
 back.style.background="purple";}
@@ -7118,32 +7118,32 @@ var four=document.getElementById("ethree");
 var sell1=document.getElementById("sel1");
 var sell2=document.getElementById("sel2");
 var sell3=document.getElementById("sel3");
-if (sell1.style.background==="grey" && three.innerHTML==="Rent $160") 
+if (sell1.style.background==="grey" && three.innerHTML==="Rent $150") 
 {back.style.background="grey";
 three.innerHTML="Sold";}
 else if (three.innerHTML==="Sold" && sell1.style.background==="black") 
 {back.style.background="red";
-three.innerHTML="Rent $160";}
-else if (sell2.style.background==="grey" && three.innerHTML==="Rent $160") 
+three.innerHTML="Rent $150";}
+else if (sell2.style.background==="grey" && three.innerHTML==="Rent $150") 
 {back.style.background="grey";
 three.innerHTML="Sold";}
 else if (three.innerHTML==="Sold" && sell2.style.background==="black") 
 {back.style.background="purple";
-three.innerHTML="Rent $160";}
-else if (sell3.style.background==="grey" && three.innerHTML==="Rent $160") 
+three.innerHTML="Rent $150";}
+else if (sell3.style.background==="grey" && three.innerHTML==="Rent $150") 
 {back.style.background="grey";
 three.innerHTML="Sold";}
 else if (three.innerHTML==="Sold" && sell3.style.background==="black") 
 {back.style.background="green";
-three.innerHTML="Rent $160";}
-else if (sell1.style.background==="white" && three.innerHTML==="Rent $160") {
-three.innerHTML="Gold $350";
+three.innerHTML="Rent $150";}
+else if (sell1.style.background==="white" && three.innerHTML==="Rent $150") {
+three.innerHTML="Gold $300";
 back.style.background="orange";}
-else if (sell2.style.background==="white" && three.innerHTML==="Rent $160") {
-three.innerHTML="Gold $350";
+else if (sell2.style.background==="white" && three.innerHTML==="Rent $150") {
+three.innerHTML="Gold $300";
 back.style.background="orange";}
-else if (sell3.style.background==="white" && three.innerHTML==="Rent $160") {
-three.innerHTML="Gold $350";
+else if (sell3.style.background==="white" && three.innerHTML==="Rent $150") {
+three.innerHTML="Gold $300";
 back.style.background="orange";}
 else if (back.style.background==="red") {
 back.style.background="purple";}
