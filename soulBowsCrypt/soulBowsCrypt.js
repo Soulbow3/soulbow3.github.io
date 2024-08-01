@@ -5549,9 +5549,6 @@ var toggle3=document.getElementById("tog3");
 var sell1=document.getElementById("sel1");
 var sell2=document.getElementById("sel2");
 var sell3=document.getElementById("sel3");
-var toggle1b=document.getElementById("tog1b");
-var toggle2b=document.getElementById("tog2b");
-var toggle3b=document.getElementById("tog3b");
 if (sell1.style.background==="grey" && three.innerHTML="Rent $20") 
 {back.stlye.background="grey";
 three.innerHTML="Sold";}
@@ -5579,17 +5576,6 @@ back.style.background="orange";}
 else if (toggle3.style.background==="grey" && three.innerHTML==="Rent $20") {
 three.innerHTML="Plum $60";
 back.style.background="orange";}
-
-else if (toggle1b.style.background==="grey" && three.innerHTML==="Plum $60") {
-three.innerHTML="Rent $20";
-back.style.background="red";}
-else if (toggle2b.style.background==="grey" && three.innerHTML==="Plum $60") {
-three.innerHTML="Rent $20";
-back.style.background="purple";}
-else if (toggle3b.style.background==="grey" && three.innerHTML==="Plum $60") {
-three.innerHTML="Rent $20";
-back.style.background="green";}
-
 else if (one.innerHTML==="One") {
 three.innerHTML="Rent $20";
 back.style.background="red";}
