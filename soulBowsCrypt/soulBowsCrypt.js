@@ -7628,36 +7628,39 @@ var tile3a= document.getElementById("bone");
 var tile3b= document.getElementById("btwo");
 var tile3c= document.getElementById("bthree");
 var accept=document.getElementById("cardAcc");
-if (element.innerHTML==="Red"; && sell1.style.innerHTML==="black") {
+var toggle1=document.getElementById("sel1");
+var toggle2=document.getElementById("sel2");
+var toggle3=document.getElementById("sel3");
+if (element.innerHTML==="Red"; && toggle1.style.innerHTML==="black") {
 element.innerHTML="One";}
-else if (element.innerHTML==="Pink"; && sell1.style.innerHTML==="black") {
+else if (element.innerHTML==="Pink"; && toggle1.style.innerHTML==="black") {
 element.innerHTML="One";}
-else if (element.innerHTML==="Yellow"; && sell1.style.innerHTML==="black") {
+else if (element.innerHTML==="Yellow"; && toggle1.style.innerHTML==="black") {
 element.innerHTML="One";}
 
-else if (sell1.style.background==="black" && element.innerHTML==="One") {
+else if (toggle1.style.background==="black" && element.innerHTML==="One") {
 element.innerHTML="";
 btn1.innerHTML="One";}
 
-else if (element.innerHTML==="Red"; && sell2.style.innerHTML==="black") {
+else if (element.innerHTML==="Red"; && toggle2.style.innerHTML==="black") {
 element.innerHTML="Two";}
-else if (element.innerHTML==="Pink"; && sell2.style.innerHTML==="black") {
+else if (element.innerHTML==="Pink"; && toggle2.style.innerHTML==="black") {
 element.innerHTML="Two";}
-else if (element.innerHTML==="Yellow"; && sell2.style.innerHTML==="black") {
+else if (element.innerHTML==="Yellow"; && toggle2.style.innerHTML==="black") {
 element.innerHTML="Two";}
 
-else if (sell2.style.background==="black" && element.innerHTML==="Two") {
+else if (toggle2.style.background==="black" && element.innerHTML==="Two") {
 element.innerHTML="";
 btn2.innerHTML="Two";}
 
-else if (element.innerHTML==="Red"; && sell3.style.innerHTML==="black") {
+else if (element.innerHTML==="Red"; && toggle3.style.innerHTML==="black") {
 element.innerHTML="Three";}
-else if (element.innerHTML==="Pink"; && sell3.style.innerHTML==="black") {
+else if (element.innerHTML==="Pink"; && toggle3.style.innerHTML==="black") {
 element.innerHTML="Three";}
-else if (element.innerHTML==="Yellow"; && sell3.style.innerHTML==="black") {
+else if (element.innerHTML==="Yellow"; && toggle3.style.innerHTML==="black") {
 element.innerHTML="Three";}
 
-else if (sell3.style.background==="black" && element.innerHTML==="Three") {
+else if (toggle3.style.background==="black" && element.innerHTML==="Three") {
 element.innerHTML="";
 btn3.innerHTML="Three";}
  
