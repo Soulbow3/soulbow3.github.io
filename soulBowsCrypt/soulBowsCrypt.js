@@ -7631,6 +7631,9 @@ var accept=document.getElementById("cardAcc");
 var toggle1=document.getElementById("sel1");
 var toggle2=document.getElementById("sel2");
 var toggle3=document.getElementById("sel3");
+var button1=document.getElementById("btn1");
+var button2=document.getElementById("btn2");
+var button3=document.getElementById("btn3");
 if (element.innerHTML==="Red" && toggle1.style.innerHTML==="white") {
 element.innerHTML="One";}
 else if (element.innerHTML==="Pink" && toggle1.style.innerHTML==="white") {
@@ -7640,7 +7643,7 @@ element.innerHTML="One";}
 
 else if (toggle1.style.background==="white" && element.innerHTML==="One") {
 element.innerHTML="";
-btn1.innerHTML="One";}
+button1.innerHTML="One";}
 
 else if (element.innerHTML==="Red" && toggle2.style.innerHTML==="white") {
 element.innerHTML="Two";}
@@ -7651,7 +7654,7 @@ element.innerHTML="Two";}
 
 else if (toggle2.style.background==="white" && element.innerHTML==="Two") {
 element.innerHTML="";
-btn2.innerHTML="Two";}
+button2.innerHTML="Two";}
 
 else if (element.innerHTML==="Red" && toggle3.style.innerHTML==="white") {
 element.innerHTML="Three";}
@@ -7662,7 +7665,7 @@ element.innerHTML="Three";}
 
 else if (toggle3.style.background==="white" && element.innerHTML==="Three") {
 element.innerHTML="";
-btn3.innerHTML="Three";}
+button3.innerHTML="Three";}
  
 if (tile1a.innerHTML==="One" && accept.innerHTML==="Ad- vance To Go") {
 tile1a.innerHTML="";
