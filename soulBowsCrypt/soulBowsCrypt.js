@@ -5264,40 +5264,40 @@ else if (back.style.background==="purple") {
 back.style.background="green";}
 else if (back.style.background==="green") {
 back.style.background="red";}
-else if (one.innerHTML==="One") {
+else if (one.innerHTML==="One" && back.style.background==="orange") {
 three.innerHTML="x30";
 back.style.background="red";}
-else if (one.innerHTML==="Pink") {
+else if (one.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="x30";
 back.style.background="red";}
-else if (one.innerHTML==="Red") {
+else if (one.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="x30";
 back.style.background="red";}
-else if (one.innerHTML==="Yellow") {
+else if (one.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="x30";
 back.style.background="red";}
-else if (two.innerHTML==="Two") {
+else if (two.innerHTML==="Two" && back.style.background==="orange") {
 three.innerHTML="x30";
 back.style.background="purple";}
-else if (two.innerHTML==="Pink") {
+else if (two.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="x30";
 back.style.background="purple";}
-else if (two.innerHTML==="Red") {
+else if (two.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="x30";
 back.style.background="purple";}
-else if (two.innerHTML==="Yellow") {
+else if (two.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="x30";
 back.style.background="purple";}
-else if (four.innerHTML==="Three") {
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
 three.innerHTML="x30";
 back.style.background="green";}
-else if (four.innerHTML==="Pink") {
+else if (four.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="x30";
 back.style.background="green";}
-else if (four.innerHTML==="Red") {
+else if (four.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="x30";
 back.style.background="green";}
-else if (four.innerHTML==="Yellow") {
+else if (four.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="x30";
 back.style.background="green";}}
 
@@ -5361,40 +5361,40 @@ else if (back.style.background==="purple") {
 back.style.background="green";}
 else if (back.style.background==="green") {
 back.style.background="red";}
-else if (one.innerHTML==="One") {
+else if (one.innerHTML==="One" && back.style.background==="orange") {
 three.innerHTML="x40";
 back.style.background="red";}
-else if (one.innerHTML==="Pink") {
+else if (one.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="x40";
 back.style.background="red";}
-else if (one.innerHTML==="Red") {
+else if (one.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="x40";
 back.style.background="red";}
-else if (one.innerHTML==="Yellow") {
+else if (one.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="x40";
 back.style.background="red";}
-else if (two.innerHTML==="Two") {
+else if (two.innerHTML==="Two" && back.style.background==="orange") {
 three.innerHTML="x40";
 back.style.background="purple";}
-else if (two.innerHTML==="Pink") {
+else if (two.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="x40";
 back.style.background="purple";}
-else if (two.innerHTML==="Red") {
+else if (two.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="x40";
 back.style.background="purple";}
-else if (two.innerHTML==="Yellow") {
+else if (two.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="x40";
 back.style.background="purple";}
-else if (four.innerHTML==="Three") {
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
 three.innerHTML="x40";
 back.style.background="green";}
-else if (four.innerHTML==="Pink") {
+else if (four.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="x40";
 back.style.background="green";}
-else if (four.innerHTML==="Red") {
+else if (four.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="x40";
 back.style.background="green";}
-else if (four.innerHTML==="Yellow") {
+else if (four.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="x40";
 back.style.background="green";}}
 
@@ -5618,40 +5618,40 @@ else if (back.style.background==="purple") {
 back.style.background="green";}
 else if (back.style.background==="green") {
 back.style.background="red";}
-else if (one.innerHTML==="One") {
+else if (one.innerHTML==="One" && back.style.background==="orange") {
 three.innerHTML="Rent $20";
 back.style.background="red";}
-else if (one.innerHTML==="Pink") {
+else if (one.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $20";
 back.style.background="red";}
-else if (one.innerHTML==="Red") {
+else if (one.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $20";
 back.style.background="red";}
-else if (one.innerHTML==="Yellow") {
+else if (one.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $20";
 back.style.background="red";}
-else if (two.innerHTML==="Two") {
+else if (two.innerHTML==="Two" && back.style.background==="orange") {
 three.innerHTML="Rent $20";
 back.style.background="purple";}
-else if (two.innerHTML==="Pink") {
+else if (two.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $20";
 back.style.background="purple";}
-else if (two.innerHTML==="Red") {
+else if (two.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $20";
 back.style.background="purple";}
-else if (two.innerHTML==="Yellow") {
+else if (two.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $20";
 back.style.background="purple";}
-else if (four.innerHTML==="Pink") {
+else if (four.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $20";
 back.style.background="green";}
-else if (four.innerHTML==="Red") {
+else if (four.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $20";
 back.style.background="green";}
-else if (four.innerHTML==="Yellow") {
+else if (four.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $20";
 back.style.background="green";}
-else if (four.innerHTML==="Three") {
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
 three.innerHTML="Rent $20";
 back.style.background="green";}}
 
@@ -5715,40 +5715,40 @@ else if (back.style.background==="purple") {
 back.style.background="green";}
 else if (back.style.background==="green") {
 back.style.background="red";}
-else if (two.innerHTML==="Two") {
+else if (two.innerHTML==="Two" && back.style.background==="orange") {
 three.innerHTML="Rent $20";
 back.style.background="purple";}
-else if (one.innerHTML==="One") {
+else if (one.innerHTML==="One" && back.style.background==="orange") {
 three.innerHTML="Rent $20";
 back.style.background="red";}
-else if (one.innerHTML==="Pink") {
+else if (one.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $20";
 back.style.background="red";}
-else if (one.innerHTML==="Red") {
+else if (one.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $20";
 back.style.background="red";}
-else if (one.innerHTML==="Yellow") {
+else if (one.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $20";
 back.style.background="red";}
-else if (two.innerHTML==="Pink") {
+else if (two.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $20";
 back.style.background="purple";}
-else if (two.innerHTML==="Red") {
+else if (two.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $20";
 back.style.background="purple";}
-else if (two.innerHTML==="Yellow") {
+else if (two.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $20";
 back.style.background="purple";}
-else if (four.innerHTML==="Pink") {
+else if (four.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $20";
 back.style.background="green";}
-else if (four.innerHTML==="Red") {
+else if (four.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $20";
 back.style.background="green";}
-else if (four.innerHTML==="Yellow") {
+else if (four.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $20";
 back.style.background="green";}
-else if (four.innerHTML==="Three") {
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
 three.innerHTML="Rent $20";
 back.style.background="green";}}
 
@@ -5812,40 +5812,40 @@ else if (back.style.background==="purple") {
 back.style.background="green";}
 else if (back.style.background==="green") {
 back.style.background="red";}
-else if (two.innerHTML==="Two") {
+else if (two.innerHTML==="Two" && back.style.background==="orange") {
 three.innerHTML="Rent $30";
 back.style.background="purple";}
-else if (one.innerHTML==="One") {
+else if (one.innerHTML==="One" && back.style.background==="orange") {
 three.innerHTML="Rent $30";
 back.style.background="red";}
-else if (one.innerHTML==="Pink") {
+else if (one.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $30";
 back.style.background="red";}
-else if (one.innerHTML==="Red") {
+else if (one.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $30";
 back.style.background="red";}
-else if (one.innerHTML==="Yellow") {
+else if (one.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $30";
 back.style.background="red";}
-else if (two.innerHTML==="Pink") {
+else if (two.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $30";
 back.style.background="purple";}
-else if (two.innerHTML==="Red") {
+else if (two.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $30";
 back.style.background="purple";}
-else if (two.innerHTML==="Yellow") {
+else if (two.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $30";
 back.style.background="purple";}
-else if (four.innerHTML==="Pink") {
+else if (four.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $30";
 back.style.background="green";}
-else if (four.innerHTML==="Red") {
+else if (four.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $30";
 back.style.background="green";}
-else if (four.innerHTML==="Yellow") {
+else if (four.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $30";
 back.style.background="green";}
-else if (four.innerHTML==="Three") {
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
 three.innerHTML="Rent $30";
 back.style.background="green";}}
 
@@ -5909,40 +5909,40 @@ else if (back.style.background==="purple") {
 back.style.background="green";}
 else if (back.style.background==="green") {
 back.style.background="red";}
-else if (two.innerHTML==="Two") {
+else if (two.innerHTML==="Two" && back.style.background==="orange") {
 three.innerHTML="Rent $30";
 back.style.background="purple";}
-else if (one.innerHTML==="One") {
+else if (one.innerHTML==="One" && back.style.background==="orange") {
 three.innerHTML="Rent $30";
 back.style.background="red";}
-else if (one.innerHTML==="Pink") {
+else if (one.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $30";
 back.style.background="red";}
-else if (one.innerHTML==="Red") {
+else if (one.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $30";
 back.style.background="red";}
-else if (one.innerHTML==="Yellow") {
+else if (one.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $30";
 back.style.background="red";}
-else if (two.innerHTML==="Pink") {
+else if (two.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $30";
 back.style.background="purple";}
-else if (two.innerHTML==="Red") {
+else if (two.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $30";
 back.style.background="purple";}
-else if (two.innerHTML==="Yellow") {
+else if (two.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $30";
 back.style.background="purple";}
-else if (four.innerHTML==="Pink") {
+else if (four.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $30";
 back.style.background="green";}
-else if (four.innerHTML==="Red") {
+else if (four.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $30";
 back.style.background="green";}
-else if (four.innerHTML==="Yellow") {
+else if (four.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $30";
 back.style.background="green";}
-else if (four.innerHTML==="Three") {
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
 three.innerHTML="Rent $30";
 back.style.background="green";}}
 
@@ -6006,40 +6006,40 @@ else if (back.style.background==="purple") {
 back.style.background="green";}
 else if (back.style.background==="green") {
 back.style.background="red";}
-else if (two.innerHTML==="Two") {
+else if (two.innerHTML==="Two" && back.style.background==="orange") {
 three.innerHTML="Rent $40";
 back.style.background="purple";}
-else if (one.innerHTML==="One") {
+else if (one.innerHTML==="One" && back.style.background==="orange") {
 three.innerHTML="Rent $40";
 back.style.background="red";}
-else if (one.innerHTML==="Pink") {
+else if (one.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $40";
 back.style.background="red";}
-else if (one.innerHTML==="Red") {
+else if (one.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $40";
 back.style.background="red";}
-else if (one.innerHTML==="Yellow") {
+else if (one.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $40";
 back.style.background="red";}
-else if (two.innerHTML==="Pink") {
+else if (two.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $40";
 back.style.background="purple";}
-else if (two.innerHTML==="Red") {
+else if (two.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $40";
 back.style.background="purple";}
-else if (two.innerHTML==="Yellow") {
+else if (two.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $40";
 back.style.background="purple";}
-else if (four.innerHTML==="Pink") {
+else if (four.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $40";
 back.style.background="green";}
-else if (four.innerHTML==="Red") {
+else if (four.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $40";
 back.style.background="green";}
-else if (four.innerHTML==="Yellow") {
+else if (four.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $40";
 back.style.background="green";}
-else if (four.innerHTML==="Three") {
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
 three.innerHTML="Rent $40";
 back.style.background="green";}}
 
@@ -6103,40 +6103,40 @@ else if (back.style.background==="purple") {
 back.style.background="green";}
 else if (back.style.background==="green") {
 back.style.background="red";}
-else if (two.innerHTML==="Two") {
+else if (two.innerHTML==="Two" && back.style.background==="orange") {
 three.innerHTML="Rent $60";
 back.style.background="purple";}
-else if (one.innerHTML==="One") {
+else if (one.innerHTML==="One" && back.style.background==="orange") {
 three.innerHTML="Rent $60";
 back.style.background="red";}
-else if (one.innerHTML==="Pink") {
+else if (one.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $60";
 back.style.background="red";}
-else if (one.innerHTML==="Red") {
+else if (one.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $60";
 back.style.background="red";}
-else if (one.innerHTML==="Yellow") {
+else if (one.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $60";
 back.style.background="red";}
-else if (two.innerHTML==="Pink") {
+else if (two.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $60";
 back.style.background="purple";}
-else if (two.innerHTML==="Red") {
+else if (two.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $60";
 back.style.background="purple";}
-else if (two.innerHTML==="Yellow") {
+else if (two.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $60";
 back.style.background="purple";}
-else if (four.innerHTML==="Pink") {
+else if (four.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $60";
 back.style.background="green";}
-else if (four.innerHTML==="Red") {
+else if (four.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $60";
 back.style.background="green";}
-else if (four.innerHTML==="Yellow") {
+else if (four.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $60";
 back.style.background="green";}
-else if (four.innerHTML==="Three") {
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
 three.innerHTML="Rent $60";
 back.style.background="green";}}
 
@@ -6200,40 +6200,40 @@ else if (back.style.background==="purple") {
 back.style.background="green";}
 else if (back.style.background==="green") {
 back.style.background="red";}
-else if (two.innerHTML==="Two") {
+else if (two.innerHTML==="Two" && back.style.background==="orange") {
 three.innerHTML="Rent $60";
 back.style.background="purple";}
-else if (one.innerHTML==="One") {
+else if (one.innerHTML==="One" && back.style.background==="orange") {
 three.innerHTML="Rent $60";
 back.style.background="red";}
-else if (one.innerHTML==="Pink") {
+else if (one.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $60";
 back.style.background="red";}
-else if (one.innerHTML==="Red") {
+else if (one.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $60";
 back.style.background="red";}
-else if (one.innerHTML==="Yellow") {
+else if (one.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $60";
 back.style.background="red";}
-else if (two.innerHTML==="Pink") {
+else if (two.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $60";
 back.style.background="purple";}
-else if (two.innerHTML==="Red") {
+else if (two.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $60";
 back.style.background="purple";}
-else if (two.innerHTML==="Yellow") {
+else if (two.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $60";
 back.style.background="purple";}
-else if (four.innerHTML==="Pink") {
+else if (four.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $60";
 back.style.background="green";}
-else if (four.innerHTML==="Red") {
+else if (four.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $60";
 back.style.background="green";}
-else if (four.innerHTML==="Yellow") {
+else if (four.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $60";
 back.style.background="green";}
-else if (four.innerHTML==="Three") {
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
 three.innerHTML="Rent $60";
 back.style.background="green";}}
 
@@ -6300,40 +6300,40 @@ else if (back.style.background==="purple") {
 back.style.background="green";}
 else if (back.style.background==="green") {
 back.style.background="red";}
-else if (two.innerHTML==="Two") {
+else if (two.innerHTML==="Two" && back.style.background==="orange") {
 three.innerHTML="Rent $70";
 back.style.background="purple";}
-else if (one.innerHTML==="One") {
+else if (one.innerHTML==="One" && back.style.background==="orange") {
 three.innerHTML="Rent $70";
 back.style.background="red";}
-else if (one.innerHTML==="Pink") {
+else if (one.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $70";
 back.style.background="red";}
-else if (one.innerHTML==="Red") {
+else if (one.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $70";
 back.style.background="red";}
-else if (one.innerHTML==="Yellow") {
+else if (one.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $70";
 back.style.background="red";}
-else if (two.innerHTML==="Pink") {
+else if (two.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $70";
 back.style.background="purple";}
-else if (two.innerHTML==="Red") {
+else if (two.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $70";
 back.style.background="purple";}
-else if (two.innerHTML==="Yellow") {
+else if (two.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $70";
 back.style.background="purple";}
-else if (four.innerHTML==="Pink") {
+else if (four.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $70";
 back.style.background="green";}
-else if (four.innerHTML==="Red") {
+else if (four.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $70";
 back.style.background="green";}
-else if (four.innerHTML==="Yellow") {
+else if (four.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $70";
 back.style.background="green";}
-else if (four.innerHTML==="Three") {
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
 three.innerHTML="Rent $70";
 back.style.background="green";}}
 
@@ -6398,40 +6398,40 @@ else if (back.style.background==="purple") {
 back.style.background="green";}
 else if (back.style.background==="green") {
 back.style.background="red";}
-else if (two.innerHTML==="Two") {
+else if (two.innerHTML==="Two" && back.style.background==="orange") {
 three.innerHTML="Rent $70";
 back.style.background="purple";}
-else if (one.innerHTML==="One") {
+else if (one.innerHTML==="One" && back.style.background==="orange") {
 three.innerHTML="Rent $70";
 back.style.background="red";}
-else if (one.innerHTML==="Pink") {
+else if (one.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $70";
 back.style.background="red";}
-else if (one.innerHTML==="Red") {
+else if (one.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $70";
 back.style.background="red";}
-else if (one.innerHTML==="Yellow") {
+else if (one.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $70";
 back.style.background="red";}
-else if (two.innerHTML==="Pink") {
+else if (two.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent ";
 back.style.background="purple";}
-else if (two.innerHTML==="Red") {
+else if (two.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $70";
 back.style.background="purple";}
-else if (two.innerHTML==="Yellow") {
+else if (two.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $70";
 back.style.background="purple";}
-else if (four.innerHTML==="Pink") {
+else if (four.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $70";
 back.style.background="green";}
-else if (four.innerHTML==="Red") {
+else if (four.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $70";
 back.style.background="green";}
-else if (four.innerHTML==="Yellow") {
+else if (four.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $70";
 back.style.background="green";}
-else if (four.innerHTML==="Three") {
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
 three.innerHTML="Rent $70";
 back.style.background="green";}}
 
@@ -6495,40 +6495,40 @@ else if (back.style.background==="purple") {
 back.style.background="green";}
 else if (back.style.background==="green") {
 back.style.background="red";}
-else if (two.innerHTML==="Two") {
+else if (two.innerHTML==="Two" && back.style.background==="orange") {
 three.innerHTML="Rent $80";
 back.style.background="purple";}
-else if (one.innerHTML==="One") {
+else if (one.innerHTML==="One" && back.style.background==="orange") {
 three.innerHTML="Rent $80";
 back.style.background="red";}
-else if (one.innerHTML==="Pink") {
+else if (one.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $80";
 back.style.background="red";}
-else if (one.innerHTML==="Red") {
+else if (one.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $80";
 back.style.background="red";}
-else if (one.innerHTML==="Yellow") {
+else if (one.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $80";
 back.style.background="red";}
-else if (two.innerHTML==="Pink") {
+else if (two.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $80";
 back.style.background="purple";}
-else if (two.innerHTML==="Red") {
+else if (two.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $80";
 back.style.background="purple";}
-else if (two.innerHTML==="Yellow") {
+else if (two.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $80";
 back.style.background="purple";}
-else if (four.innerHTML==="Pink") {
+else if (four.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $80";
 back.style.background="green";}
-else if (four.innerHTML==="Red") {
+else if (four.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $80";
 back.style.background="green";}
-else if (four.innerHTML==="Yellow") {
+else if (four.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $80";
 back.style.background="green";}
-else if (four.innerHTML==="Three") {
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
 three.innerHTML="Rent $80";
 back.style.background="green";}}
 
@@ -6592,40 +6592,40 @@ else if (back.style.background==="purple") {
 back.style.background="green";}
 else if (back.style.background==="green") {
 back.style.background="red";}
-else if (two.innerHTML==="Two") {
+else if (two.innerHTML==="Two" && back.style.background==="orange") {
 three.innerHTML="Rent $90";
 back.style.background="purple";}
-else if (one.innerHTML==="One") {
+else if (one.innerHTML==="One" && back.style.background==="orange") {
 three.innerHTML="Rent $90";
 back.style.background="red";}
-else if (one.innerHTML==="Pink") {
+else if (one.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $90";
 back.style.background="red";}
-else if (one.innerHTML==="Red") {
+else if (one.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $90";
 back.style.background="red";}
-else if (one.innerHTML==="Yellow") {
+else if (one.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $90";
 back.style.background="red";}
-else if (two.innerHTML==="Pink") {
+else if (two.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $90";
 back.style.background="purple";}
-else if (two.innerHTML==="Red") {
+else if (two.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $90";
 back.style.background="purple";}
-else if (two.innerHTML==="Yellow") {
+else if (two.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $90";
 back.style.background="purple";}
-else if (four.innerHTML==="Pink") {
+else if (four.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $90";
 back.style.background="green";}
-else if (four.innerHTML==="Red") {
+else if (four.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $90";
 back.style.background="green";}
-else if (four.innerHTML==="Yellow") {
+else if (four.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $90";
 back.style.background="green";}
-else if (four.innerHTML==="Three") {
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
 three.innerHTML="Rent $90";
 back.style.background="green";}}
 
@@ -6689,40 +6689,40 @@ else if (back.style.background==="purple") {
 back.style.background="green";}
 else if (back.style.background==="green") {
 back.style.background="red";}
-else if (two.innerHTML==="Two") {
+else if (two.innerHTML==="Two" && back.style.background==="orange") {
 three.innerHTML="Rent $90";
 back.style.background="purple";}
-else if (one.innerHTML==="One") {
+else if (one.innerHTML==="One" && back.style.background==="orange") {
 three.innerHTML="Rent $90";
 back.style.background="red";}
-else if (one.innerHTML==="Pink") {
+else if (one.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $90";
 back.style.background="red";}
-else if (one.innerHTML==="Red") {
+else if (one.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $90";
 back.style.background="red";}
-else if (one.innerHTML==="Yellow") {
+else if (one.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $90";
 back.style.background="red";}
-else if (two.innerHTML==="Pink") {
+else if (two.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $90";
 back.style.background="purple";}
-else if (two.innerHTML==="Red") {
+else if (two.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $90";
 back.style.background="purple";}
-else if (two.innerHTML==="Yellow") {
+else if (two.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $90";
 back.style.background="purple";}
-else if (four.innerHTML==="Pink") {
+else if (four.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $90";
 back.style.background="green";}
-else if (four.innerHTML==="Red") {
+else if (four.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $90";
 back.style.background="green";}
-else if (four.innerHTML==="Yellow") {
+else if (four.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $90";
 back.style.background="green";}
-else if (four.innerHTML==="Three") {
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
 three.innerHTML="Rent $90";
 back.style.background="green";}}
 
@@ -6786,40 +6786,40 @@ else if (back.style.background==="purple") {
 back.style.background="green";}
 else if (back.style.background==="green") {
 back.style.background="red";}
-else if (two.innerHTML==="Two") {
+else if (two.innerHTML==="Two" && back.style.background==="orange") {
 three.innerHTML="Rent $90";
 back.style.background="purple";}
-else if (one.innerHTML==="One") {
+else if (one.innerHTML==="One" && back.style.background==="orange") {
 three.innerHTML="Rent $90";
 back.style.background="red";}
- else if (one.innerHTML==="Pink") {
+ else if (one.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $90";
 back.style.background="red";}
-else if (one.innerHTML==="Red") {
+else if (one.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $90";
 back.style.background="red";}
-else if (one.innerHTML==="Yellow") {
+else if (one.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $90";
 back.style.background="red";}
-else if (two.innerHTML==="Pink") {
+else if (two.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $90";
 back.style.background="purple";}
-else if (two.innerHTML==="Red") {
+else if (two.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $90";
 back.style.background="purple";}
-else if (two.innerHTML==="Yellow") {
+else if (two.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $90";
 back.style.background="purple";}
-else if (four.innerHTML==="Pink") {
+else if (four.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $90";
 back.style.background="green";}
-else if (four.innerHTML==="Red") {
+else if (four.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $90";
 back.style.background="green";}
-else if (four.innerHTML==="Yellow") {
+else if (four.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $90";
 back.style.background="green";}
-else if (four.innerHTML==="Three") {
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
 three.innerHTML="Rent $90";
 back.style.background="green";}}
 
@@ -6883,40 +6883,40 @@ else if (back.style.background==="purple") {
 back.style.background="green";}
 else if (back.style.background==="green") {
 back.style.background="red";}
-else if (two.innerHTML==="Two") {
+else if (two.innerHTML==="Two" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="purple";}
-else if (one.innerHTML==="One") {
+else if (one.innerHTML==="One" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="red";}
-else if (one.innerHTML==="Pink") {
+else if (one.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="red";}
-else if (one.innerHTML==="Red") {
+else if (one.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="red";}
-else if (one.innerHTML==="Yellow") {
+else if (one.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="red";}
-else if (two.innerHTML==="Pink") {
+else if (two.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="purple";}
-else if (two.innerHTML==="Red") {
+else if (two.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="purple";}
-else if (two.innerHTML==="Yellow") {
+else if (two.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="purple";}
-else if (four.innerHTML==="Pink") {
+else if (four.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="green";}
-else if (four.innerHTML==="Red") {
+else if (four.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="green";}
-else if (four.innerHTML==="Yellow") {
+else if (four.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="green";}
-else if (four.innerHTML==="Three") {
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="green";}}
 
@@ -6980,40 +6980,40 @@ else if (back.style.background==="purple") {
 back.style.background="green";}
 else if (back.style.background==="green") {
 back.style.background="red";}
-else if (two.innerHTML==="Two") {
+else if (two.innerHTML==="Two" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="purple";}
-else if (one.innerHTML==="One") {
+else if (one.innerHTML==="One" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="red";}
-else if (one.innerHTML==="Pink") {
+else if (one.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $00";
 back.style.background="red";}
-else if (one.innerHTML==="Red") {
+else if (one.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="red";}
-else if (one.innerHTML==="Yellow") {
+else if (one.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="red";}
-else if (two.innerHTML==="Pink") {
+else if (two.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="purple";}
-else if (two.innerHTML==="Red") {
+else if (two.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="purple";}
-else if (two.innerHTML==="Yellow") {
+else if (two.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="purple";}
-else if (four.innerHTML==="Pink") {
+else if (four.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="green";}
-else if (four.innerHTML==="Red") {
+else if (four.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="green";}
-else if (four.innerHTML==="Yellow") {
+else if (four.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="green";}
-else if (four.innerHTML==="Three") {
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="green";}}
 
@@ -7080,40 +7080,40 @@ else if (back.style.background==="purple") {
 back.style.background="green";}
 else if (back.style.background==="green") {
 back.style.background="red";}
-else if (two.innerHTML==="Two") {
+else if (two.innerHTML==="Two" && back.style.background==="orange") {
 three.innerHTML="Rent $110";
 back.style.background="purple";}
-else if (one.innerHTML==="One") {
+else if (one.innerHTML==="One" && back.style.background==="orange") {
 three.innerHTML="Rent $110";
 back.style.background="red";}
-else if (one.innerHTML==="Pink") {
+else if (one.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $110";
 back.style.background="red";}
-else if (one.innerHTML==="Red") {
+else if (one.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $110";
 back.style.background="red";}
-else if (one.innerHTML==="Yellow") {
+else if (one.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $110";
 back.style.background="red";}
-else if (two.innerHTML==="Pink") {
+else if (two.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $110";
 back.style.background="purple";}
-else if (two.innerHTML==="Red") {
+else if (two.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $110";
 back.style.background="purple";}
-else if (two.innerHTML==="Yellow") {
+else if (two.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $110";
 back.style.background="purple";}
-else if (four.innerHTML==="Pink") {
+else if (four.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $110";
 back.style.background="green";}
-else if (four.innerHTML==="Red") {
+else if (four.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $110";
 back.style.background="green";}
-else if (four.innerHTML==="Yellow") {
+else if (four.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $110";
 back.style.background="green";}
-else if (four.innerHTML==="Three") {
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
 three.innerHTML="Rent $110";
 back.style.background="green";}}
 
@@ -7177,40 +7177,40 @@ else if (back.style.background==="purple") {
 back.style.background="green";}
 else if (back.style.background==="green") {
 back.style.background="red";}
-else if (two.innerHTML==="Two") {
+else if (two.innerHTML==="Two" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="purple";}
-else if (one.innerHTML==="One") {
+else if (one.innerHTML==="One" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="red";}
-else if (one.innerHTML==="Pink") {
+else if (one.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $00";
 back.style.background="red";}
-else if (one.innerHTML==="Red") {
+else if (one.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="red";}
-else if (one.innerHTML==="Yellow") {
+else if (one.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="red";}
-else if (two.innerHTML==="Pink") {
+else if (two.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="purple";}
-else if (two.innerHTML==="Red") {
+else if (two.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="purple";}
-else if (two.innerHTML==="Yellow") {
+else if (two.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="purple";}
-else if (four.innerHTML==="Pink") {
+else if (four.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="green";}
-else if (four.innerHTML==="Red") {
+else if (four.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="green";}
-else if (four.innerHTML==="Yellow") {
+else if (four.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="green";}
-else if (four.innerHTML==="Three") {
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="green";}}
 
@@ -7274,40 +7274,40 @@ else if (back.style.background==="purple") {
 back.style.background="green";}
 else if (back.style.background==="green") {
 back.style.background="red";}
-else if (two.innerHTML==="Two") {
+else if (two.innerHTML==="Two" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="purple";}
-else if (one.innerHTML==="One") {
+else if (one.innerHTML==="One" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="red";}
-else if (one.innerHTML==="Pink") {
+else if (one.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="red";}
-else if (one.innerHTML==="Red") {
+else if (one.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="red";}
-else if (one.innerHTML==="Yellow") {
+else if (one.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="red";}
-else if (two.innerHTML==="Pink") {
+else if (two.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="purple";}
-else if (two.innerHTML==="Red") {
+else if (two.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="purple";}
-else if (two.innerHTML==="Yellow") {
+else if (two.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="purple";}
-else if (four.innerHTML==="Pink") {
+else if (four.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="green";}
-else if (four.innerHTML==="Red") {
+else if (four.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="green";}
-else if (four.innerHTML==="Yellow") {
+else if (four.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="green";}
-else if (four.innerHTML==="Three") {
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
 three.innerHTML="Rent $100";
 back.style.background="green";}}
 
@@ -7371,40 +7371,40 @@ else if (back.style.background==="purple") {
 back.style.background="green";}
 else if (back.style.background==="green") {
 back.style.background="red";}
-else if (two.innerHTML==="Two") {
+else if (two.innerHTML==="Two" && back.style.background==="orange") {
 three.innerHTML="Rent $120";
 back.style.background="purple";}
-else if (one.innerHTML==="One") {
+else if (one.innerHTML==="One" && back.style.background==="orange") {
 three.innerHTML="Rent $120";
 back.style.background="red";}
-else if (one.innerHTML==="Pink") {
+else if (one.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $120";
 back.style.background="red";}
-else if (one.innerHTML==="Red") {
+else if (one.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $120";
 back.style.background="red";}
-else if (one.innerHTML==="Yellow") {
+else if (one.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $120";
 back.style.background="red";}
-else if (two.innerHTML==="Pink") {
+else if (two.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $120";
 back.style.background="purple";}
-else if (two.innerHTML==="Red") {
+else if (two.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $120";
 back.style.background="purple";}
-else if (two.innerHTML==="Yellow") {
+else if (two.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $120";
 back.style.background="purple";}
-else if (four.innerHTML==="Pink") {
+else if (four.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $120";
 back.style.background="green";}
-else if (four.innerHTML==="Red") {
+else if (four.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $120";
 back.style.background="green";}
-else if (four.innerHTML==="Yellow") {
+else if (four.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $120";
 back.style.background="green";}
-else if (four.innerHTML==="Three") {
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
 three.innerHTML="Rent $120";
 back.style.background="green";}}
 
@@ -7468,40 +7468,40 @@ else if (back.style.background==="purple") {
 back.style.background="green";}
 else if (back.style.background==="green") {
 back.style.background="red";}
-else if (two.innerHTML==="Two") {
+else if (two.innerHTML==="Two" && back.style.background==="orange") {
 three.innerHTML="Rent $160";
 back.style.background="purple";}
-else if (one.innerHTML==="One") {
+else if (one.innerHTML==="One" && back.style.background==="orange") {
 three.innerHTML="Rent $160";
 back.style.background="red";}
-else if (one.innerHTML==="Pink") {
+else if (one.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $160";
 back.style.background="red";}
-else if (one.innerHTML==="Red") {
+else if (one.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $160";
 back.style.background="red";}
-else if (one.innerHTML==="Yellow") {
+else if (one.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $160";
 back.style.background="red";}
-else if (two.innerHTML==="Pink") {
+else if (two.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $160";
 back.style.background="purple";}
-else if (two.innerHTML==="Red") {
+else if (two.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $160";
 back.style.background="purple";}
-else if (two.innerHTML==="Yellow") {
+else if (two.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $160";
 back.style.background="purple";}
-else if (four.innerHTML==="Pink") {
+else if (four.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $160";
 back.style.background="green";}
-else if (four.innerHTML==="Red") {
+else if (four.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $160";
 back.style.background="green";}
-else if (four.innerHTML==="Yellow") {
+else if (four.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $160";
 back.style.background="green";}
-else if (four.innerHTML==="Three") {
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
 three.innerHTML="Rent $160";
 back.style.background="green";}}
 
@@ -7565,40 +7565,40 @@ else if (back.style.background==="purple") {
 back.style.background="green";}
 else if (back.style.background==="green") {
 back.style.background="red";}
-else if (two.innerHTML==="Two") {
+else if (two.innerHTML==="Two" && back.style.background==="orange") {
 three.innerHTML="Rent $150";
 back.style.background="purple";}
-else if (one.innerHTML==="One") {
+else if (one.innerHTML==="One" && back.style.background==="orange") {
 three.innerHTML="Rent $150";
 back.style.background="red";}
-else if (one.innerHTML==="Pink") {
+else if (one.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $150";
 back.style.background="red";}
-else if (one.innerHTML==="Red") {
+else if (one.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $150";
 back.style.background="red";}
-else if (one.innerHTML==="Yellow") {
+else if (one.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $150";
 back.style.background="red";}
-else if (two.innerHTML==="Pink") {
+else if (two.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $150";
 back.style.background="purple";}
-else if (two.innerHTML==="Red") {
+else if (two.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $150";
 back.style.background="purple";}
-else if (two.innerHTML==="Yellow") {
+else if (two.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $150";
 back.style.background="purple";}
-else if (four.innerHTML==="Pink") {
+else if (four.innerHTML==="Pink" && back.style.background==="orange") {
 three.innerHTML="Rent $150";
 back.style.background="green";}
-else if (four.innerHTML==="Red") {
+else if (four.innerHTML==="Red" && back.style.background==="orange") {
 three.innerHTML="Rent $150";
 back.style.background="green";}
-else if (four.innerHTML==="Yellow") {
+else if (four.innerHTML==="Yellow" && back.style.background==="orange") {
 three.innerHTML="Rent $150";
 back.style.background="green";}
-else if (four.innerHTML==="Three") {
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
 three.innerHTML="Rent $150";
 back.style.background="green";}}
 
