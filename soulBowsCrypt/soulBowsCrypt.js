@@ -43,7 +43,8 @@ var backa=document.getElementById("bac1a");
 var backb=document.getElementById("bac1b");
 var y=document.getElementById("+a");
 var z=document.getElementById("-a");
-if (change.style.background==="darkslategrey") {
+var abc=document.getElementById("a1");
+if (change.style.background==="darkslategrey" && abc.innerHTML==="P1") {
 backa.style.background="darkslategrey";
 backb.style.background="darkslategrey";
 change.style.background="rebeccapurple";
@@ -62,7 +63,8 @@ var backa=document.getElementById("bac2a");
 var backb=document.getElementById("bac2b");
 var y=document.getElementById("+b");
 var z=document.getElementById("-b");
-if (change.style.background==="darkslategrey") {
+var abc=document.getElementById("a3");
+if (change.style.background==="darkslategrey" && abc.innerHTML==="P3") {
 backa.style.background="darkslategrey";
 backb.style.background="darkslategrey";
 change.style.background="rebeccapurple";
@@ -81,7 +83,8 @@ var backa=document.getElementById("bac3a");
 var backb=document.getElementById("bac3b");
 var y=document.getElementById("+c");
 var z=document.getElementById("-c");
-if (change.style.background==="darkslategrey") {
+var abc=document.getElementById("c1");
+if (change.style.background==="darkslategrey" && abc.innerHTML==="P2") {
 backa.style.background="darkslategrey";
 backb.style.background="darkslategrey";
 change.style.background="rebeccapurple";
@@ -9014,10 +9017,16 @@ var thirtytwo=document.getElementById("fone");
 var free=document.getElementById("id24");
 var buttonOne=document.getElementById("btn1");
 var wallet=document.getElementById{"wal1");
+var y=document.getElementById("+a");
+var z=document.getElementById("-a");
+var x=document.getElementById("a1");
 if (buttonOne.innerHTML==="One") {
 buttonOne.innerHTML="P1";
 one.innerHTML="One";
-wallet.innerHTML="$1000";}
+wallet.innerHTML="$1000";
+y.innerHTML="+$10";
+z.innerHTML="-$10";
+x.innerHTML="P1";}
 else if (one.innerHTML==="One" && dice.innerHTML==="1") {
 two.innerHTML="One";
 one.innerHTML="";}
@@ -11337,10 +11346,16 @@ var thirtytwo=document.getElementById("ftwo");
 var free=document.getElementById("id24");
 var buttonTwo=document.getElementById("btn2");
 var wallet=document.getElementById{"wal2");
+var y=document.getElementById("+c");
+var z=document.getElementById("-c");
+var x=document.getElementById("a3");
 if (buttonTwo.innerHTML==="Two") {
 buttonTwo.innerHTML="P2"
 one.innerHTML="Two";
-wallet.innerHTML="$1000";}
+wallet.innerHTML="$1000";
+y.innerHTML="+$10";
+z.innerHTML="-$10";
+x.innerHTML="P2";}
 else if (one.innerHTML==="Two" && dice.innerHTML==="1") {
 two.innerHTML="Two";
 one.innerHTML="";}
@@ -13659,10 +13674,16 @@ var thirtytwo=document.getElementById("fthree");
 var free=document.getElementById("id24");
 var buttonThree=document.getElementById("btn3")
 var wallet=document.getElementById{"wal3");
+var y=document.getElementById("+b");
+var z=document.getElementById("-b");
+var x=document.getElementById("a3");
 if (buttonThree.innerHTML==="Three") {
 buttonThree.innerHTML="P3";
 one.innerHTML="Three";
-wallet.innerHTML="$1000";}
+wallet.innerHTML="$1000";
+y.innerHTML="+$10";
+z.innerHTML="-$10";
+x.innerHTML="P3";}
 else if (one.innerHTML==="Three" && dice.innerHTML==="1") {
 two.innerHTML="Three";
 one.innerHTML="";}
