@@ -15985,7 +15985,7 @@ document.getElementById("node").innerHTML="5";}
 function selectTileSix() {
 document.getElementById("node").innerHTML="6";}
 
-
+document.getElementById("a1").addEventListener("click", selectTileOne);
 document.getElementById("b1").addEventListener("click", selectTileTwo);
 document.getElementById("c1").addEventListener("click", selectTileThree);
 document.getElementById("d1").addEventListener("click", selectTileFour);
