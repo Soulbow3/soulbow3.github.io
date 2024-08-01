@@ -5210,9 +5210,6 @@ var three=document.getElementById("timesOne");
 var back=document.getElementById("timesBack1");
 var two=document.getElementById("twoM");
 var four=document.getElementById("threeM");
-var toggle1=document.getElementById("tog1");
-var toggle2=document.getElementById("tog2");
-var toggle3=document.getElementById("tog3");
 var sell1=document.getElementById("sel1");
 var sell2=document.getElementById("sel2");
 var sell3=document.getElementById("sel3");
@@ -5234,13 +5231,13 @@ three.innerHTML="Sold";}
 else if (three.innerHTML==="Sold" && sell3.style.background==="black") 
 {back.style.background="green";
 three.innerHTML="x30";}
-else if (toggle1.style.background==="grey" && back.style.background==="red") {
+else if (sell1.style.background==="white" && back.style.background==="red") {
 three.innerHTML="x30 $100";
 back.style.background="orange";}
-else if (toggle2.style.background==="grey" && back.style.background==="purple") {
+else if (sell2.style.background==="white" && back.style.background==="purple") {
 three.innerHTML="x30 $100";
 back.style.background="orange";}
-else if (toggle3.style.background==="grey" && back.style.background==="green") {
+else if (sell3.style.background==="white" && back.style.background==="green") {
 three.innerHTML="x30 $100";
 back.style.background="orange";}
 else if (one.innerHTML==="One") {
@@ -5292,9 +5289,6 @@ var three=document.getElementById("timesTwo");
 var back=document.getElementById("timesBack2");
 var two=document.getElementById("dtwo");
 var four=document.getElementById("dthree");
-var toggle1=document.getElementById("tog1");
-var toggle2=document.getElementById("tog2");
-var toggle3=document.getElementById("tog3");
 var sell1=document.getElementById("sel1");
 var sell2=document.getElementById("sel2");
 var sell3=document.getElementById("sel3");
@@ -5316,13 +5310,13 @@ three.innerHTML="Sold";}
 else if (three.innerHTML==="Sold" && sell3.style.background==="black") 
 {back.style.background="green";
 three.innerHTML="x40";}
-else if (toggle1.style.background==="grey" && back.style.background==="red") {
+else if (sell1.style.background==="white" && back.style.background==="red") {
 three.innerHTML="x40 $100";
 back.style.background="orange";}
-else if (toggle2.style.background==="grey" && back.style.background==="purple") {
+else if (sell2.style.background==="white" && back.style.background==="purple") {
 three.innerHTML="x40 $100";
 back.style.background="orange";}
-else if (toggle3.style.background==="grey" && back.style.background==="green") {
+else if (sell3.style.background==="white" && back.style.background==="green") {
 three.innerHTML="x40 $100";
 back.style.background="orange";}
 else if (one.innerHTML==="One") {
