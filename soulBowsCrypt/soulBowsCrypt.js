@@ -7,7 +7,7 @@ element.style.background="black";
 element.innerHTML="Place";}
 else if (element.style.background==="black") {
 element.style.background="white";
-element.innerHTML="Remove";}
+element.innerHTML="Re- move";}
 else {element.style.background="silver";
 element.innerHTML="Toggle Off";}}
 
@@ -20,7 +20,7 @@ element.style.background="black";
 element.innerHTML="Place";}
 else if (element.style.background==="black") {
 element.style.background="white";
-element.innerHTML="Remove";}
+element.innerHTML="Re- move";}
 else {element.style.background="silver";
 element.innerHTML="Toggle Off";}}
 
@@ -33,7 +33,7 @@ element.style.background="black";
 element.innerHTML="Place";}
 else if (element.style.background==="black") {
 element.style.background="white";
-element.innerHTML="Remove";}
+element.innerHTML="Re- move";}
 else {element.style.background="silver";
 element.innerHTML="Toggle Off";}}
 
