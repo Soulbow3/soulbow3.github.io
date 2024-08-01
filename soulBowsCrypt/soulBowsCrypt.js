@@ -34,21 +34,6 @@ if (element.style.background==="silver") {
 element.style.background="grey";}
 else {element.style.background="silver";}}
 
-function place1(element) {
-if (element.style.background==="silver") {
-element.style.background="grey";}
-else {element.style.background="silver";}}
-
-function place2(element) {
-if (element.style.background==="silver") {
-element.style.background="grey";}
-else {element.style.background="silver";}}
-
-function place3(element) {
-if (element.style.background==="silver") {
-element.style.background="grey";}
-else {element.style.background="silver";}}
-
 function bacZ() {
 var change=document.getElementById("value1");
 var backa=document.getElementById("bac1a");
