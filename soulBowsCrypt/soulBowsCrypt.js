@@ -2,40 +2,58 @@ function bacZ() {
 var change=document.getElementById("value1");
 var backa=document.getElementById("bac1a");
 var backb=document.getElementById("bac1b");
+var y=document.getElementById("+a");
+var z=document.getElementById("-a");
 if (change.style.background==="darkslategrey") {
 backa.style.background="darkslategrey";
 backb.style.background="darkslategrey";
-change.style.background="rebeccapurple";}
+change.style.background="rebeccapurple";
+y.innerHTML="+$100";
+z.innerHTML="-$100";}
 else {
 backb.style.background="rebeccapurple";
 backa.style.background="rebeccapurple";
-change.style.background="darkslategrey";}}
+change.style.background="darkslategrey";
+y.innerHTML="+$10";
+z.innerHTML="-$10";}}
 
 function bacY() {
 var change=document.getElementById("value2");
 var backa=document.getElementById("bac2a");
 var backb=document.getElementById("bac2b");
+var y=document.getElementById("+b");
+var z=document.getElementById("-b");
 if (change.style.background==="darkslategrey") {
 backa.style.background="darkslategrey";
 backb.style.background="darkslategrey";
-change.style.background="rebeccapurple";}
+change.style.background="rebeccapurple";
+y.innerHTML="+$100";
+z.innerHTML="-$100";}
 else {
 backb.style.background="rebeccapurple";
 backa.style.background="rebeccapurple";
-change.style.background="darkslategrey";}}
+change.style.background="darkslategrey";
+y.innerHTML="+$10";
+z.innerHTML="-$10";}}
 
 function bacX() {
 var change=document.getElementById("value3");
 var backa=document.getElementById("bac3a");
 var backb=document.getElementById("bac3b");
+var y=document.getElementById("+c");
+var z=document.getElementById("-c");
 if (change.style.background==="darkslategrey") {
 backa.style.background="darkslategrey";
 backb.style.background="darkslategrey";
-change.style.background="rebeccapurple";}
+change.style.background="rebeccapurple";
+y.innerHTML="+$100";
+z.innerHTML="-$100";}
 else {
 backb.style.background="rebeccapurple";
 backa.style.background="rebeccapurple";
-change.style.background="darkslategrey";}}
+change.style.background="darkslategrey";
+y.innerHTML="+$10";
+z.innerHTML="-$10";}}
 
 function plus3() {
 var wallet3=document.getElementById("wal3");
