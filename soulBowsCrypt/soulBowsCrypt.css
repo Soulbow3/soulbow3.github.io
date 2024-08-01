@@ -3,4 +3,4 @@ table {background: linear-gradient(90deg, white, black, black, red, blue, green,
 section {height: 44px; width: 34px; border: solid 1px goldenrod;}
 p {font-size: 9px; text-align: center; margin: 0 0 0 0;}
 h2 {font-size: 15px; font-family: cursive; color: red; margin: 6px 5px 6px 5px;}
-button {text-align: center; color: red; border-radius: 45px 45px 45px 45px; background: black; height: 30px; width: 30px; font-size: 7px; margin-top: 5px;}
+button {color: red; border-radius: 45px 45px 45px 45px; background: black; height: 30px; width: 30px; font-size: 7px; margin-top: 5px;}
