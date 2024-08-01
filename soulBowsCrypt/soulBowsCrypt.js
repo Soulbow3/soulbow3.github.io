@@ -7637,40 +7637,44 @@ var toggle3=document.getElementById("sel3");
 var button1=document.getElementById("btn1");
 var button2=document.getElementById("btn2");
 var button3=document.getElementById("btn3");
-if (element.innerHTML==="Red" && toggle1.style.background==="white") {
-element.innerHTML="One";}
-else if (element.innerHTML==="Pink" && toggle1.style.background==="white") {
-element.innerHTML="One";}
-else if (element.innerHTML==="Yellow" && toggle1.style.background==="white") {
-element.innerHTML="One";}
+var wallet=document.getElementById("wal1");
+var y=document.getElementById("+a");
+var z=document.getElementById("-a");
+var x=document.getElementById("a111");
+var wallet2=document.getElementById("wal2");
+var y2=document.getElementById("+c");
+var z2=document.getElementById("-c");
+var x2=document.getElementById("c111");
+var wallet3=document.getElementById("wal3");
+var y3=document.getElementById("+b");
+var z3=document.getElementById("-b");
+var x3=document.getElementById("b111");
 
-else if (toggle1.style.background==="white" && element.innerHTML==="One") {
+if (toggle1.style.background==="white") {
 element.innerHTML="";
-button1.innerHTML="One";}
+button1.innerHTML="One";
+wallet.innerHTML="";
+y.innerHTML="";
+z.innerHTML="";
+x.innerHTML="";}
 
-else if (element.innerHTML==="Red" && toggle2.style.background==="white") {
-element.innerHTML="Two";}
-else if (element.innerHTML==="Pink" && toggle2.style.background==="white") {
-element.innerHTML="Two";}
-else if (element.innerHTML==="Yellow" && toggle2.style.background==="white") {
-element.innerHTML="Two";}
-
-else if (toggle2.style.background==="white" && element.innerHTML==="Two") {
+else if (toggle2.style.background==="white") {
 element.innerHTML="";
-button2.innerHTML="Two";}
+button2.innerHTML="Two";
+wallet2.innerHTML="";
+y2.innerHTML="";
+z2.innerHTML="";
+x2.innerHTML="";}
 
-else if (element.innerHTML==="Red" && toggle3.style.background==="white") {
-element.innerHTML="Three";}
-else if (element.innerHTML==="Pink" && toggle3.style.background==="white") {
-element.innerHTML="Three";}
-else if (element.innerHTML==="Yellow" && toggle3.style.background==="white") {
-element.innerHTML="Three";}
-
-else if (toggle3.style.background==="white" && element.innerHTML==="Three") {
+else if (toggle3.style.background==="white") {
 element.innerHTML="";
-button3.innerHTML="Three";}
+button3.innerHTML="Three";
+wallet3.innerHTML="";
+y3.innerHTML="";
+z3.innerHTML="";
+x3.innerHTML="";}
  
-if (tile1a.innerHTML==="One" && accept.innerHTML==="Ad- vance To Go") {
+else if (tile1a.innerHTML==="One" && accept.innerHTML==="Ad- vance To Go") {
 tile1a.innerHTML="";
 go1.innerHTML="One";}
 else if (tile1a.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Go") {
