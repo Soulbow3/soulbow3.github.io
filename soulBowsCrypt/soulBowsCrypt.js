@@ -7679,10 +7679,10 @@ var athirtyone=document.getElementById("etwo");
 var athirtytwo=document.getElementById("ftwo");
 var atoggle1=document.getElementById("sel2");
 var abutton1=document.getElementById("btn2");
-var awallet=document.getElementById("wal2");
-var ay=document.getElementById("+b");
-var az=document.getElementById("-b");
-var ax=document.getElementById("b111");
+var bwallet=document.getElementById("wal2");
+var by=document.getElementById("+b");
+var bz=document.getElementById("-b");
+var bx=document.getElementById("b111");
 var accept=document.getElementById("cardAcc");
 
 var bone=document.getElementById("threeA");
@@ -7719,10 +7719,10 @@ var bthirtyone=document.getElementById("ethree");
 var bthirtytwo=document.getElementById("fthree");
 var btoggle1=document.getElementById("sel3");
 var bbtntton1=document.getElementById("btn3");
-var bwallet=document.getElementById("wal3");
-var by=document.getElementById("+c");
-var bz=document.getElementById("-c");
-var bx=document.getElementById("c111");
+var awallet=document.getElementById("wal3");
+var ay=document.getElementById("+c");
+var az=document.getElementById("-c");
+var ax=document.getElementById("c111");
  
 if (toggle1.style.background==="white" && one.innerHTML==="One") {
 element.innerHTML="";
