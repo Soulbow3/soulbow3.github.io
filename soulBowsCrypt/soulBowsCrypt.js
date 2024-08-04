@@ -10457,7 +10457,7 @@ var tile3b= document.getElementById("btwo");
 var tile3c= document.getElementById("bthree");
 var accept=document.getElementById("cardAcc");
  
-if (tile1a.innerHTML==="One" && accept.innerHTML==="Ad- vance To Go") {
+else if (tile1a.innerHTML==="One" && accept.innerHTML==="Ad- vance To Go") {
 tile1a.innerHTML="";
 go1.innerHTML="One";}
 else if (tile1a.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Go") {
