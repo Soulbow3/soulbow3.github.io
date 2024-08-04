@@ -7683,6 +7683,7 @@ var awallet=document.getElementById("wal3");
 var ay=document.getElementById("+b");
 var az=document.getElementById("-b");
 var ax=document.getElementById("b111");
+var accept=document.getElementById("cardAcc");
 
 var one=document.getElementById("threeA");
 var two=document.getElementById("threeB");
@@ -10431,499 +10432,473 @@ by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
  
-var go1= document.getElementById("oneA");
-var go2= document.getElementById("twoA");
-var go3= document.getElementById("threeA");
-var gold1=document.getElementById("fone");
-var gold2=document.getElementById("ftwo");
-var gold3=document.getElementById("fthree");
-var jail1=document.getElementById("oneH");
-var jail2=document.getElementById("twoH");
-var jail3=document.getElementById("threeH");
-var back1b= document.getElementById("oneR");
-var back2b= document.getElementById("twoR");
-var back3b= document.getElementById("threeR");
-var back1c=document.getElementById("oneY");
-var back2c=document.getElementById("twoY");
-var back3c=document.getElementById("threeY");
-var tile1a= document.getElementById("oneD");
-var tile1b= document.getElementById("twoD");
-var tile1c= document.getElementById("threeD");
-var tile2a= document.getElementById("oneU");
-var tile2b= document.getElementById("twoU");
-var tile2c= document.getElementById("threeU");
-var tile3a= document.getElementById("bone");
-var tile3b= document.getElementById("btwo");
-var tile3c= document.getElementById("bthree");
-var accept=document.getElementById("cardAcc");
+else if (four.innerHTML==="One" && accept.innerHTML==="Ad- vance To Go") {
+four.innerHTML="";
+one.innerHTML="One";}
+else if (four.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Go") {
+four.innerHTML="";
+one.innerHTML="Red";}
+else if (four.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Go") {
+four.innerHTML="";
+one.innerHTML="Yellow";}
+else if (four.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Go") {
+four.innerHTML="";
+one.innerHTML="Pink";}
+
+else if (twentyone.innerHTML==="One" && accept.innerHTML==="Ad- vance To Go") {
+twentyone.innerHTML="";
+one.innerHTML="One";}
+else if (twentyone.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Go") {
+twentyone.innerHTML="";
+one.innerHTML="Red";}
+else if (twentyone.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Go") {
+twentyone.innerHTML="";
+one.innerHTML="Yellow";}
+else if (twentyone.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Go") {
+twentyone.innerHTML="";
+one.innerHTML="Pink";}
+
+else if (two.innerHTML==="One" && accept.innerHTML==="Ad- vance To Go") {
+two.innerHTML="";
+one.innerHTML="One";}
+else if (two.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Go") {
+two.innerHTML="";
+one.innerHTML="Red";}
+else if (two.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Go") {
+two.innerHTML="";
+one.innerHTML="Yellow";}
+else if (two.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Go") {
+two.innerHTML="";
+one.innerHTML="Pink";}
+
+else if (afour.innerHTML==="Two" && accept.innerHTML==="Ad- vance To Go") {
+afour.innerHTML="";
+aone.innerHTML="Two";}
+else if (afour.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Go") {
+afour.innerHTML="";
+aone.innerHTML="Red";}
+else if (afour.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Go") {
+afour.innerHTML="";
+aone.innerHTML="Yellow";}
+else if (afour.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Go") {
+afour.innerHTML="";
+aone.innerHTML="Pink";}
  
-else if (tile1a.innerHTML==="One" && accept.innerHTML==="Ad- vance To Go") {
-tile1a.innerHTML="";
-go1.innerHTML="One";}
-else if (tile1a.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Go") {
-tile1a.innerHTML="";
-go1.innerHTML="Red";}
-else if (tile1a.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Go") {
-tile1a.innerHTML="";
-go1.innerHTML="Yellow";}
-else if (tile1a.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Go") {
-tile1a.innerHTML="";
-go1.innerHTML="Pink";}
-
-else if (tile2a.innerHTML==="One" && accept.innerHTML==="Ad- vance To Go") {
-tile2a.innerHTML="";
-go1.innerHTML="One";}
-else if (tile2a.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Go") {
-tile2a.innerHTML="";
-go1.innerHTML="Red";}
-else if (tile2a.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Go") {
-tile2a.innerHTML="";
-go1.innerHTML="Yellow";}
-else if (tile2a.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Go") {
-tile2a.innerHTML="";
-go1.innerHTML="Pink";}
-
-else if (tile3a.innerHTML==="One" && accept.innerHTML==="Ad- vance To Go") {
-tile3a.innerHTML="";
-go1.innerHTML="One";}
-else if (tile3a.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Go") {
-tile3a.innerHTML="";
-go1.innerHTML="Red";}
-else if (tile3a.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Go") {
-tile3a.innerHTML="";
-go1.innerHTML="Yellow";}
-else if (tile3a.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Go") {
-tile3a.innerHTML="";
-go1.innerHTML="Pink";}
-
-else if (tile1b.innerHTML==="Two" && accept.innerHTML==="Ad- vance To Go") {
-tile1b.innerHTML="";
-go2.innerHTML="Two";}
-else if (tile1b.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Go") {
-tile1b.innerHTML="";
-go2.innerHTML="Red";}
-else if (tile1b.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Go") {
-tile1b.innerHTML="";
-go2.innerHTML="Yellow";}
-else if (tile1b.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Go") {
-tile1b.innerHTML="";
-go2.innerHTML="Pink";}
+else if (atwentyone.innerHTML==="Two" && accept.innerHTML==="Ad- vance To Go") {
+atwentyone.innerHTML="";
+aone.innerHTML="Two";}
+else if (atwentyone.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Go") {
+atwentyone.innerHTML="";
+aone.innerHTML="Red";}
+else if (atwentyone.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Go") {
+atwentyone.innerHTML="";
+aone.innerHTML="Yellow";}
+else if (atwentyone.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Go") {
+atwentyone.innerHTML="";
+aone.innerHTML="Pink";}
  
-else if (tile2b.innerHTML==="Two" && accept.innerHTML==="Ad- vance To Go") {
-tile2b.innerHTML="";
-go2.innerHTML="Two";}
-else if (tile2b.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Go") {
-tile2b.innerHTML="";
-go2.innerHTML="Red";}
-else if (tile2b.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Go") {
-tile2b.innerHTML="";
-go2.innerHTML="Yellow";}
-else if (tile2b.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Go") {
-tile2b.innerHTML="";
-go2.innerHTML="Pink";}
+else if (atwo.innerHTML==="Two" && accept.innerHTML==="Ad- vance To Go") {
+atwo.innerHTML="";
+aone.innerHTML="Two";}
+else if (atwo.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Go") {
+atwo.innerHTML="";
+aone.innerHTML="Red";}
+else if (atwo.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Go") {
+atwo.innerHTML="";
+aone.innerHTML="Yellow";}
+else if (atwo.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Go") {
+atwo.innerHTML="";
+aone.innerHTML="Pink";}
+
+else if (bfour.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Go") {
+bfour.innerHTML="";
+athree.innerHTML="Three";}
+else if (bfour.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Go") {
+bfour.innerHTML="";
+athree.innerHTML="Red";}
+else if (bfour.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Go") {
+bfour.innerHTML="";
+athree.innerHTML="Yellow";}
+else if (bfour.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Go") {
+bfour.innerHTML="";
+athree.innerHTML="Pink";}
  
-else if (tile3b.innerHTML==="Two" && accept.innerHTML==="Ad- vance To Go") {
-tile3b.innerHTML="";
-go2.innerHTML="Two";}
-else if (tile3b.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Go") {
-tile3b.innerHTML="";
-go2.innerHTML="Red";}
-else if (tile3b.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Go") {
-tile3b.innerHTML="";
-go2.innerHTML="Yellow";}
-else if (tile3b.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Go") {
-tile3b.innerHTML="";
-go2.innerHTML="Pink";}
+else if (btwentyone.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Go") {
+btwentyone.innerHTML="";
+athree.innerHTML="Three";}
+else if (btwentyone.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Go") {
+btwentyone.innerHTML="";
+athree.innerHTML="Red";}
+else if (btwentyone.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Go") {
+btwentyone.innerHTML="";
+athree.innerHTML="Yellow";}
+else if (btwentyone.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Go") {
+btwentyone.innerHTML="";
+athree.innerHTML="Pink";}
 
-else if (tile1c.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Go") {
-tile1c.innerHTML="";
-go3.innerHTML="Three";}
-else if (tile1c.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Go") {
-tile1c.innerHTML="";
-go3.innerHTML="Red";}
-else if (tile1c.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Go") {
-tile1c.innerHTML="";
-go3.innerHTML="Yellow";}
-else if (tile1c.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Go") {
-tile1c.innerHTML="";
-go3.innerHTML="Pink";}
+else if (btwo.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Go") {
+btwo.innerHTML="";
+athree.innerHTML="Three";}
+else if (btwo.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Go") {
+btwo.innerHTML="";
+athree.innerHTML="Red";}
+else if (btwo.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Go") {
+btwo.innerHTML="";
+athree.innerHTML="Yellow";}
+else if (btwo.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Go") {
+btwo.innerHTML="";
+athree.innerHTML="Pink";}
+
+else if (four.innerHTML==="One" && accept.innerHTML==="Jail") {
+four.innerHTML="";
+eight.innerHTML="One";}
+else if (four.innerHTML==="Red" && accept.innerHTML==="Jail") {
+four.innerHTML="";
+eight.innerHTML="Red";}
+else if (four.innerHTML==="Yellow" && accept.innerHTML==="Jail") {
+four.innerHTML="";
+eight.innerHTML="Yellow";}
+else if (four.innerHTML==="Pink" && accept.innerHTML==="Jail") {
+four.innerHTML="";
+eight.innerHTML="Pink";}
+
+else if (twentyone.innerHTML==="One" && accept.innerHTML==="Jail") {
+twentyone.innerHTML="";
+eight.innerHTML="One";}
+else if (twentyone.innerHTML==="Red" && accept.innerHTML==="Jail") {
+twentyone.innerHTML="";
+eight.innerHTML="Red";}
+else if (twentyone.innerHTML==="Yellow" && accept.innerHTML==="Jail") {
+twentyone.innerHTML="";
+eight.innerHTML="Yellow";}
+else if (twentyone.innerHTML==="Pink" && accept.innerHTML==="Jail") {
+twentyone.innerHTML="";
+eight.innerHTML="Pink";}
+
+else if (two.innerHTML==="One" && accept.innerHTML==="Jail") {
+two.innerHTML="";
+eight.innerHTML="One";}
+else if (two.innerHTML==="Red" && accept.innerHTML==="Jail") {
+two.innerHTML="";
+eight.innerHTML="Red";}
+else if (two.innerHTML==="Yellow" && accept.innerHTML==="Jail") {
+two.innerHTML="";
+eight.innerHTML="Yellow";}
+else if (two.innerHTML==="Pink" && accept.innerHTML==="Jail") {
+two.innerHTML="";
+eight.innerHTML="Pink";}
+
+else if (afour.innerHTML==="Two" && accept.innerHTML==="Jail") {
+afour.innerHTML="";
+aeight.innerHTML="Two";}
+else if (afour.innerHTML==="Red" && accept.innerHTML==="Jail") {
+afour.innerHTML="";
+aeight.innerHTML="Red";}
+else if (afour.innerHTML==="Yellow" && accept.innerHTML==="Jail") {
+afour.innerHTML="";
+aeight.innerHTML="Yellow";}
+else if (afour.innerHTML==="Pink" && accept.innerHTML==="Jail") {
+afour.innerHTML="";
+aeight.innerHTML="Pink";}
  
-else if (tile2c.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Go") {
-tile2c.innerHTML="";
-go3.innerHTML="Three";}
-else if (tile2c.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Go") {
-tile2c.innerHTML="";
-go3.innerHTML="Red";}
-else if (tile2c.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Go") {
-tile2c.innerHTML="";
-go3.innerHTML="Yellow";}
-else if (tile2c.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Go") {
-tile2c.innerHTML="";
-go3.innerHTML="Pink";}
-
-else if (tile3c.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Go") {
-tile3c.innerHTML="";
-go3.innerHTML="Three";}
-else if (tile3c.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Go") {
-tile3c.innerHTML="";
-go3.innerHTML="Red";}
-else if (tile3c.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Go") {
-tile3c.innerHTML="";
-go3.innerHTML="Yellow";}
-else if (tile3c.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Go") {
-tile3c.innerHTML="";
-go3.innerHTML="Pink";}
-
-else if (tile1a.innerHTML==="One" && accept.innerHTML==="Jail") {
-tile1a.innerHTML="";
-jail1.innerHTML="One";}
-else if (tile1a.innerHTML==="Red" && accept.innerHTML==="Jail") {
-tile1a.innerHTML="";
-jail1.innerHTML="Red";}
-else if (tile1a.innerHTML==="Yellow" && accept.innerHTML==="Jail") {
-tile1a.innerHTML="";
-jail1.innerHTML="Yellow";}
-else if (tile1a.innerHTML==="Pink" && accept.innerHTML==="Jail") {
-tile1a.innerHTML="";
-jail1.innerHTML="Pink";}
-
-else if (tile2a.innerHTML==="One" && accept.innerHTML==="Jail") {
-tile2a.innerHTML="";
-jail1.innerHTML="One";}
-else if (tile2a.innerHTML==="Red" && accept.innerHTML==="Jail") {
-tile2a.innerHTML="";
-jail1.innerHTML="Red";}
-else if (tile2a.innerHTML==="Yellow" && accept.innerHTML==="Jail") {
-tile2a.innerHTML="";
-jail1.innerHTML="Yellow";}
-else if (tile2a.innerHTML==="Pink" && accept.innerHTML==="Jail") {
-tile2a.innerHTML="";
-jail1.innerHTML="Pink";}
-
-else if (tile3a.innerHTML==="One" && accept.innerHTML==="Jail") {
-tile3a.innerHTML="";
-jail1.innerHTML="One";}
-else if (tile3a.innerHTML==="Red" && accept.innerHTML==="Jail") {
-tile3a.innerHTML="";
-jail1.innerHTML="Red";}
-else if (tile3a.innerHTML==="Yellow" && accept.innerHTML==="Jail") {
-tile3a.innerHTML="";
-jail1.innerHTML="Yellow";}
-else if (tile3a.innerHTML==="Pink" && accept.innerHTML==="Jail") {
-tile3a.innerHTML="";
-jail1.innerHTML="Pink";}
-
-else if (tile1b.innerHTML==="Two" && accept.innerHTML==="Jail") {
-tile1b.innerHTML="";
-jail2.innerHTML="Two";}
-else if (tile1b.innerHTML==="Red" && accept.innerHTML==="Jail") {
-tile1b.innerHTML="";
-jail2.innerHTML="Red";}
-else if (tile1b.innerHTML==="Yellow" && accept.innerHTML==="Jail") {
-tile1b.innerHTML="";
-jail2.innerHTML="Yellow";}
-else if (tile1b.innerHTML==="Pink" && accept.innerHTML==="Jail") {
-tile1b.innerHTML="";
-jail2.innerHTML="Pink";}
+else if (atwentyone.innerHTML==="Two" && accept.innerHTML==="Jail") {
+atwentyone.innerHTML="";
+aeight.innerHTML="Two";}
+else if (atwentyone.innerHTML==="Red" && accept.innerHTML==="Jail") {
+atwentyone.innerHTML="";
+aeight.innerHTML="Red";}
+else if (atwentyone.innerHTML==="Yellow" && accept.innerHTML==="Jail") {
+atwentyone.innerHTML="";
+aeight.innerHTML="Yellow";}
+else if (atwentyone.innerHTML==="Pink" && accept.innerHTML==="Jail") {
+atwentyone.innerHTML="";
+aeight.innerHTML="Pink";}
  
-else if (tile2b.innerHTML==="Two" && accept.innerHTML==="Jail") {
-tile2b.innerHTML="";
-jail2.innerHTML="Two";}
-else if (tile2b.innerHTML==="Red" && accept.innerHTML==="Jail") {
-tile2b.innerHTML="";
-jail2.innerHTML="Red";}
-else if (tile2b.innerHTML==="Yellow" && accept.innerHTML==="Jail") {
-tile2b.innerHTML="";
-jail2.innerHTML="Yellow";}
-else if (tile2b.innerHTML==="Pink" && accept.innerHTML==="Jail") {
-tile2b.innerHTML="";
-jail2.innerHTML="Pink";}
+else if (atwo.innerHTML==="Two" && accept.innerHTML==="Jail") {
+atwo.innerHTML="";
+aeight.innerHTML="Two";}
+else if (atwo.innerHTML==="Red" && accept.innerHTML==="Jail") {
+atwo.innerHTML="";
+aeight.innerHTML="Red";}
+else if (atwo.innerHTML==="Yellow" && accept.innerHTML==="Jail") {
+atwo.innerHTML="";
+aeight.innerHTML="Yellow";}
+else if (atwo.innerHTML==="Pink" && accept.innerHTML==="Jail") {
+atwo.innerHTML="";
+aeight.innerHTML="Pink";}
+
+else if (bfour.innerHTML==="Three" && accept.innerHTML==="Jail") {
+bfour.innerHTML="";
+beight.innerHTML="Three";}
+else if (bfour.innerHTML==="Red" && accept.innerHTML==="Jail") {
+bfour.innerHTML="";
+beight.innerHTML="Red";}
+else if (bfour.innerHTML==="Yellow" && accept.innerHTML==="Jail") {
+bfour.innerHTML="";
+beight.innerHTML="Yellow";}
+else if (bfour.innerHTML==="Pink" && accept.innerHTML==="Jail") {
+bfour.innerHTML="";
+beight.innerHTML="Pink";}
  
-else if (tile3b.innerHTML==="Two" && accept.innerHTML==="Jail") {
-tile3b.innerHTML="";
-jail2.innerHTML="Two";}
-else if (tile3b.innerHTML==="Red" && accept.innerHTML==="Jail") {
-tile3b.innerHTML="";
-jail2.innerHTML="Red";}
-else if (tile3b.innerHTML==="Yellow" && accept.innerHTML==="Jail") {
-tile3b.innerHTML="";
-jail2.innerHTML="Yellow";}
-else if (tile3b.innerHTML==="Pink" && accept.innerHTML==="Jail") {
-tile3b.innerHTML="";
-jail2.innerHTML="Pink";}
+else if (btwentyone.innerHTML==="THree" && accept.innerHTML==="Jail") {
+btwentyone.innerHTML="";
+beight.innerHTML="Three";}
+else if (btwentyone.innerHTML==="Red" && accept.innerHTML==="Jail") {
+btwentyone.innerHTML="";
+beight.innerHTML="Red";}
+else if (btwentyone.innerHTML==="Yellow" && accept.innerHTML==="Jail") {
+btwentyone.innerHTML="";
+beight.innerHTML="Yellow";}
+else if (btwentyone.innerHTML==="Pink" && accept.innerHTML==="Jail") {
+btwentyone.innerHTML="";
+beight.innerHTML="Pink";}
 
-else if (tile1c.innerHTML==="Three" && accept.innerHTML==="Jail") {
-tile1c.innerHTML="";
-jail3.innerHTML="Three";}
-else if (tile1c.innerHTML==="Red" && accept.innerHTML==="Jail") {
-tile1c.innerHTML="";
-jail3.innerHTML="Red";}
-else if (tile1c.innerHTML==="Yellow" && accept.innerHTML==="Jail") {
-tile1c.innerHTML="";
-jail3.innerHTML="Yellow";}
-else if (tile1c.innerHTML==="Pink" && accept.innerHTML==="Jail") {
-tile1c.innerHTML="";
-jail3.innerHTML="Pink";}
+else if (btwo.innerHTML==="Three" && accept.innerHTML==="Jail") {
+btwo.innerHTML="";
+beight.innerHTML="Three";}
+else if (btwo.innerHTML==="Red" && accept.innerHTML==="Jail") {
+btwo.innerHTML="";
+beight.innerHTML="Red";}
+else if (btwo.innerHTML==="Yellow" && accept.innerHTML==="Jail") {
+btwo.innerHTML="";
+beight.innerHTML="Yellow";}
+else if (btwo.innerHTML==="Pink" && accept.innerHTML==="Jail") {
+btwo.innerHTML="";
+beight.innerHTML="Pink";}
+
+else if (four.innerHTML==="One" && accept.innerHTML==="Ad- vance To Gold") {
+four.innerHTML="";
+six.innerHTML="One";}
+else if (four.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Gold") {
+four.innerHTML="";
+six.innerHTML="Red";}
+else if (four.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Gold") {
+four.innerHTML="";
+six.innerHTML="Yellow";}
+else if (four.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Gold") {
+four.innerHTML="";
+six.innerHTML="Pink";}
+
+else if (twentyone.innerHTML==="One" && accept.innerHTML==="Ad- vance To Gold") {
+twentyone.innerHTML="";
+six.innerHTML="One";}
+else if (twentyone.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Gold") {
+twentyone.innerHTML="";
+six.innerHTML="Red";}
+else if (twentyone.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Gold") {
+twentyone.innerHTML="";
+six.innerHTML="Yellow";}
+else if (twentyone.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Gold") {
+twentyone.innerHTML="";
+six.innerHTML="Pink";}
+
+else if (two.innerHTML==="One" && accept.innerHTML==="Ad- vance To Gold") {
+two.innerHTML="";
+six.innerHTML="One";}
+else if (two.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Gold") {
+two.innerHTML="";
+six.innerHTML="Red";}
+else if (two.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Gold") {
+two.innerHTML="";
+six.innerHTML="Yellow";}
+else if (two.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Gold") {
+two.innerHTML="";
+six.innerHTML="Pink";}
+
+else if (afour.innerHTML==="Two" && accept.innerHTML==="Ad- vance To Gold") {
+afour.innerHTML="";
+asix.innerHTML="Two";}
+else if (afour.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Gold") {
+afour.innerHTML="";
+asix.innerHTML="Red";}
+else if (afour.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Gold") {
+afour.innerHTML="";
+asix.innerHTML="Yellow";}
+else if (afour.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Gold") {
+afour.innerHTML="";
+asix.innerHTML="Pink";}
  
-else if (tile2c.innerHTML==="THree" && accept.innerHTML==="Jail") {
-tile2c.innerHTML="";
-jail3.innerHTML="Three";}
-else if (tile2c.innerHTML==="Red" && accept.innerHTML==="Jail") {
-tile2c.innerHTML="";
-jail3.innerHTML="Red";}
-else if (tile2c.innerHTML==="Yellow" && accept.innerHTML==="Jail") {
-tile2c.innerHTML="";
-jail3.innerHTML="Yellow";}
-else if (tile2c.innerHTML==="Pink" && accept.innerHTML==="Jail") {
-tile2c.innerHTML="";
-jail3.innerHTML="Pink";}
-
-else if (tile3c.innerHTML==="Three" && accept.innerHTML==="Jail") {
-tile3c.innerHTML="";
-jail3.innerHTML="Three";}
-else if (tile3c.innerHTML==="Red" && accept.innerHTML==="Jail") {
-tile3c.innerHTML="";
-jail3.innerHTML="Red";}
-else if (tile3c.innerHTML==="Yellow" && accept.innerHTML==="Jail") {
-tile3c.innerHTML="";
-jail3.innerHTML="Yellow";}
-else if (tile3c.innerHTML==="Pink" && accept.innerHTML==="Jail") {
-tile3c.innerHTML="";
-jail3.innerHTML="Pink";}
-
-else if (tile1a.innerHTML==="One" && accept.innerHTML==="Ad- vance To Gold") {
-tile1a.innerHTML="";
-gold1.innerHTML="One";}
-else if (tile1a.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Gold") {
-tile1a.innerHTML="";
-gold1.innerHTML="Red";}
-else if (tile1a.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Gold") {
-tile1a.innerHTML="";
-gold1.innerHTML="Yellow";}
-else if (tile1a.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Gold") {
-tile1a.innerHTML="";
-gold1.innerHTML="Pink";}
-
-else if (tile2a.innerHTML==="One" && accept.innerHTML==="Ad- vance To Gold") {
-tile2a.innerHTML="";
-gold1.innerHTML="One";}
-else if (tile2a.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Gold") {
-tile2a.innerHTML="";
-gold1.innerHTML="Red";}
-else if (tile2a.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Gold") {
-tile2a.innerHTML="";
-gold1.innerHTML="Yellow";}
-else if (tile2a.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Gold") {
-tile2a.innerHTML="";
-gold1.innerHTML="Pink";}
-
-else if (tile3a.innerHTML==="One" && accept.innerHTML==="Ad- vance To Gold") {
-tile3a.innerHTML="";
-gold1.innerHTML="One";}
-else if (tile3a.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Gold") {
-tile3a.innerHTML="";
-gold1.innerHTML="Red";}
-else if (tile3a.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Gold") {
-tile3a.innerHTML="";
-gold1.innerHTML="Yellow";}
-else if (tile3a.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Gold") {
-tile3a.innerHTML="";
-gold1.innerHTML="Pink";}
-
-else if (tile1b.innerHTML==="Two" && accept.innerHTML==="Ad- vance To Gold") {
-tile1b.innerHTML="";
-gold2.innerHTML="Two";}
-else if (tile1b.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Gold") {
-tile1b.innerHTML="";
-gold2.innerHTML="Red";}
-else if (tile1b.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Gold") {
-tile1b.innerHTML="";
-gold2.innerHTML="Yellow";}
-else if (tile1b.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Gold") {
-tile1b.innerHTML="";
-gold2.innerHTML="Pink";}
+else if (atwentyone.innerHTML==="Two" && accept.innerHTML==="Ad- vance To Gold") {
+atwentyone.innerHTML="";
+asix.innerHTML="Two";}
+else if (atwentyone.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Gold") {
+atwentyone.innerHTML="";
+asix.innerHTML="Red";}
+else if (atwentyone.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Gold") {
+atwentyone.innerHTML="";
+asix.innerHTML="Yellow";}
+else if (atwentyone.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Gold") {
+atwentyone.innerHTML="";
+asix.innerHTML="Pink";}
  
-else if (tile2b.innerHTML==="Two" && accept.innerHTML==="Ad- vance To Gold") {
-tile2b.innerHTML="";
-gold2.innerHTML="Two";}
-else if (tile2b.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Gold") {
-tile2b.innerHTML="";
-gold2.innerHTML="Red";}
-else if (tile2b.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Gold") {
-tile2b.innerHTML="";
-gold2.innerHTML="Yellow";}
-else if (tile2b.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Gold") {
-tile2b.innerHTML="";
-gold2.innerHTML="Pink";}
+else if (atwo.innerHTML==="Two" && accept.innerHTML==="Ad- vance To Gold") {
+atwo.innerHTML="";
+asix.innerHTML="Two";}
+else if (atwo.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Gold") {
+atwo.innerHTML="";
+asix.innerHTML="Red";}
+else if (atwo.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Gold") {
+atwo.innerHTML="";
+asix.innerHTML="Yellow";}
+else if (atwo.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Gold") {
+atwo.innerHTML="";
+asix.innerHTML="Pink";}
+
+else if (bfour.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Gold") {
+bfour.innerHTML="";
+bsix.innerHTML="Three";}
+else if (bfour.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Gold") {
+bfour.innerHTML="";
+bsix.innerHTML="Red";}
+else if (bfour.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Gold") {
+bfour.innerHTML="";
+bsix.innerHTML="Yellow";}
+else if (bfour.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Gold") {
+bfour.innerHTML="";
+bsix.innerHTML="Pink";}
  
-else if (tile3b.innerHTML==="Two" && accept.innerHTML==="Ad- vance To Gold") {
-tile3b.innerHTML="";
-gold2.innerHTML="Two";}
-else if (tile3b.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Gold") {
-tile3b.innerHTML="";
-gold2.innerHTML="Red";}
-else if (tile3b.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Gold") {
-tile3b.innerHTML="";
-gold2.innerHTML="Yellow";}
-else if (tile3b.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Gold") {
-tile3b.innerHTML="";
-gold2.innerHTML="Pink";}
+else if (btwentyone.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Gold") {
+btwentyone.innerHTML="";
+bsix.innerHTML="Three";}
+else if (btwentyone.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Gold") {
+btwentyone.innerHTML="";
+bsix.innerHTML="Red";}
+else if (btwentyone.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Gold") {
+btwentyone.innerHTML="";
+bsix.innerHTML="Yellow";}
+else if (btwentyone.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Gold") {
+btwentyone.innerHTML="";
+bsix.innerHTML="Pink";}
 
-else if (tile1c.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Gold") {
-tile1c.innerHTML="";
-gold3.innerHTML="Three";}
-else if (tile1c.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Gold") {
-tile1c.innerHTML="";
-gold3.innerHTML="Red";}
-else if (tile1c.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Gold") {
-tile1c.innerHTML="";
-gold3.innerHTML="Yellow";}
-else if (tile1c.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Gold") {
-tile1c.innerHTML="";
-gold3.innerHTML="Pink";}
+else if (btwo.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Gold") {
+btwo.innerHTML="";
+bsix.innerHTML="Three";}
+else if (btwo.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Gold") {
+btwo.innerHTML="";
+bsix.innerHTML="Red";}
+else if (btwo.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Gold") {
+btwo.innerHTML="";
+bsix.innerHTML="Yellow";}
+else if (btwo.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Gold") {
+btwo.innerHTML="";
+bsix.innerHTML="Pink";}
+
+else if (four.innerHTML==="One" && accept.innerHTML==="Back 3") {
+four.innerHTML="";
+one.innerHTML="One";}
+else if (four.innerHTML==="Red" && accept.innerHTML==="Back 3") {
+four.innerHTML="";
+one.innerHTML="Red";}
+else if (four.innerHTML==="Yellow" && accept.innerHTML==="Back 3") {
+four.innerHTML="";
+one.innerHTML="Yellow";}
+else if (four.innerHTML==="Pink" && accept.innerHTML==="Back 3") {
+four.innerHTML="";
+one.innerHTML="Pink";}
+
+else if (twentyone.innerHTML==="One" && accept.innerHTML==="Back 3") {
+twentyone.innerHTML="";
+eighteen.innerHTML="One";}
+else if (twentyone.innerHTML==="Red" && accept.innerHTML==="Back 3") {
+twentyone.innerHTML="";
+eighteen.innerHTML="Red";}
+else if (twentyone.innerHTML==="Yellow" && accept.innerHTML==="Back 3") {
+twentyone.innerHTML="";
+eighteen.innerHTML="Yellow";}
+else if (twentyone.innerHTML==="Pink" && accept.innerHTML==="Back 3") {
+twentyone.innerHTML="";
+eighteen.innerHTML="Pink";}
+
+else if (two.innerHTML==="One" && accept.innerHTML==="Back 3") {
+two.innerHTML="";
+twentyfive.innerHTML="One";}
+else if (two.innerHTML==="Red" && accept.innerHTML==="Back 3") {
+two.innerHTML="";
+twentyfive.innerHTML="Red";}
+else if (two.innerHTML==="Yellow" && accept.innerHTML==="Back 3") {
+two.innerHTML="";
+twentyfive.innerHTML="Yellow";}
+else if (two.innerHTML==="Pink" && accept.innerHTML==="Back 3") {
+two.innerHTML="";
+twentyfive.innerHTML="Pink";}
+
+else if (afour.innerHTML==="Two" && accept.innerHTML==="Back 3") {
+afour.innerHTML="";
+aone.innerHTML="Two";}
+else if (afour.innerHTML==="Red" && accept.innerHTML==="Back 3") {
+afour.innerHTML="";
+aone.innerHTML="Red";}
+else if (afour.innerHTML==="Yellow" && accept.innerHTML==="Back 3") {
+afour.innerHTML="";
+aone.innerHTML="Yellow";}
+else if (afour.innerHTML==="Pink" && accept.innerHTML==="Back 3") {
+afour.innerHTML="";
+aone.innerHTML="Pink";}
  
-else if (tile2c.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Gold") {
-tile2c.innerHTML="";
-gold3.innerHTML="Three";}
-else if (tile2c.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Gold") {
-tile2c.innerHTML="";
-gold3.innerHTML="Red";}
-else if (tile2c.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Gold") {
-tile2c.innerHTML="";
-gold3.innerHTML="Yellow";}
-else if (tile2c.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Gold") {
-tile2c.innerHTML="";
-gold3.innerHTML="Pink";}
-
-else if (tile3c.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Gold") {
-tile3c.innerHTML="";
-gold3.innerHTML="Three";}
-else if (tile3c.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Gold") {
-tile3c.innerHTML="";
-gold3.innerHTML="Red";}
-else if (tile3c.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Gold") {
-tile3c.innerHTML="";
-gold3.innerHTML="Yellow";}
-else if (tile3c.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Gold") {
-tile3c.innerHTML="";
-gold3.innerHTML="Pink";}
-
-else if (tile1a.innerHTML==="One" && accept.innerHTML==="Back 3") {
-tile1a.innerHTML="";
-go1.innerHTML="One";}
-else if (tile1a.innerHTML==="Red" && accept.innerHTML==="Back 3") {
-tile1a.innerHTML="";
-go1.innerHTML="Red";}
-else if (tile1a.innerHTML==="Yellow" && accept.innerHTML==="Back 3") {
-tile1a.innerHTML="";
-go1.innerHTML="Yellow";}
-else if (tile1a.innerHTML==="Pink" && accept.innerHTML==="Back 3") {
-tile1a.innerHTML="";
-go1.innerHTML="Pink";}
-
-else if (tile2a.innerHTML==="One" && accept.innerHTML==="Back 3") {
-tile2a.innerHTML="";
-back1b.innerHTML="One";}
-else if (tile2a.innerHTML==="Red" && accept.innerHTML==="Back 3") {
-tile2a.innerHTML="";
-back1b.innerHTML="Red";}
-else if (tile2a.innerHTML==="Yellow" && accept.innerHTML==="Back 3") {
-tile2a.innerHTML="";
-back1b.innerHTML="Yellow";}
-else if (tile2a.innerHTML==="Pink" && accept.innerHTML==="Back 3") {
-tile2a.innerHTML="";
-back1b.innerHTML="Pink";}
-
-else if (tile3a.innerHTML==="One" && accept.innerHTML==="Back 3") {
-tile3a.innerHTML="";
-back1c.innerHTML="One";}
-else if (tile3a.innerHTML==="Red" && accept.innerHTML==="Back 3") {
-tile3a.innerHTML="";
-back1c.innerHTML="Red";}
-else if (tile3a.innerHTML==="Yellow" && accept.innerHTML==="Back 3") {
-tile3a.innerHTML="";
-back1c.innerHTML="Yellow";}
-else if (tile3a.innerHTML==="Pink" && accept.innerHTML==="Back 3") {
-tile3a.innerHTML="";
-back1c.innerHTML="Pink";}
-
-else if (tile1b.innerHTML==="Two" && accept.innerHTML==="Back 3") {
-tile1b.innerHTML="";
-go2.innerHTML="Two";}
-else if (tile1b.innerHTML==="Red" && accept.innerHTML==="Back 3") {
-tile1b.innerHTML="";
-go2.innerHTML="Red";}
-else if (tile1b.innerHTML==="Yellow" && accept.innerHTML==="Back 3") {
-tile1b.innerHTML="";
-go2.innerHTML="Yellow";}
-else if (tile1b.innerHTML==="Pink" && accept.innerHTML==="Back 3") {
-tile1b.innerHTML="";
-go2.innerHTML="Pink";}
+else if (atwentyone.innerHTML==="Two" && accept.innerHTML==="Back 3") {
+atwentyone.innerHTML="";
+aeighteen.innerHTML="Two";}
+else if (atwentyone.innerHTML==="Red" && accept.innerHTML==="Back 3") {
+atwentyone.innerHTML="";
+aeighteen.innerHTML="Red";}
+else if (atwentyone.innerHTML==="Yellow" && accept.innerHTML==="Back 3") {
+atwentyone.innerHTML="";
+aeighteen.innerHTML="Yellow";}
+else if (atwentyone.innerHTML==="Pink" && accept.innerHTML==="Back 3") {
+atwentyone.innerHTML="";
+aeighteen.innerHTML="Pink";}
  
-else if (tile2b.innerHTML==="Two" && accept.innerHTML==="Back 3") {
-tile2b.innerHTML="";
-back2b.innerHTML="Two";}
-else if (tile2b.innerHTML==="Red" && accept.innerHTML==="Back 3") {
-tile2b.innerHTML="";
-back2b.innerHTML="Red";}
-else if (tile2b.innerHTML==="Yellow" && accept.innerHTML==="Back 3") {
-tile2b.innerHTML="";
-back2b.innerHTML="Yellow";}
-else if (tile2b.innerHTML==="Pink" && accept.innerHTML==="Back 3") {
-tile2b.innerHTML="";
-back2b.innerHTML="Pink";}
- 
-else if (tile3b.innerHTML==="Two" && accept.innerHTML==="Back 3") {
-tile3b.innerHTML="";
-back2c.innerHTML="Two";}
-else if (tile3b.innerHTML==="Red" && accept.innerHTML==="Back 3") {
-tile3b.innerHTML="";
-back2c.innerHTML="Red";}
-else if (tile3b.innerHTML==="Yellow" && accept.innerHTML==="Back 3") {
-tile3b.innerHTML="";
-back2c.innerHTML="Yellow";}
-else if (tile3b.innerHTML==="Pink" && accept.innerHTML==="Back 3") {
-tile3b.innerHTML="";
-back2c.innerHTML="Pink";}
+else if (atwo.innerHTML==="Two" && accept.innerHTML==="Back 3") {
+atwo.innerHTML="";
+atwentyfive.innerHTML="Two";}
+else if (atwo.innerHTML==="Red" && accept.innerHTML==="Back 3") {
+atwo.innerHTML="";
+atwentyfive.innerHTML="Red";}
+else if (atwo.innerHTML==="Yellow" && accept.innerHTML==="Back 3") {
+atwo.innerHTML="";
+atwentyfive.innerHTML="Yellow";}
+else if (atwo.innerHTML==="Pink" && accept.innerHTML==="Back 3") {
+atwo.innerHTML="";
+atwentyfive.innerHTML="Pink";}
 
-else if (tile1c.innerHTML==="Three" && accept.innerHTML==="Back 3") {
-tile1c.innerHTML="";
-go3.innerHTML="Three";}
-else if (tile1c.innerHTML==="Red" && accept.innerHTML==="Back 3") {
-tile1c.innerHTML="";
-go3.innerHTML="Red";}
-else if (tile1c.innerHTML==="Yellow" && accept.innerHTML==="Back 3") {
-tile1c.innerHTML="";
-go3.innerHTML="Yellow";}
-else if (tile1c.innerHTML==="Pink" && accept.innerHTML==="Back 3") {
-tile1c.innerHTML="";
-go3.innerHTML="Pink";}
+else if (bfour.innerHTML==="Three" && accept.innerHTML==="Back 3") {
+bfour.innerHTML="";
+athree.innerHTML="Three";}
+else if (bfour.innerHTML==="Red" && accept.innerHTML==="Back 3") {
+bfour.innerHTML="";
+athree.innerHTML="Red";}
+else if (bfour.innerHTML==="Yellow" && accept.innerHTML==="Back 3") {
+bfour.innerHTML="";
+athree.innerHTML="Yellow";}
+else if (bfour.innerHTML==="Pink" && accept.innerHTML==="Back 3") {
+bfour.innerHTML="";
+athree.innerHTML="Pink";}
  
-else if (tile2c.innerHTML==="Three" && accept.innerHTML==="Back 3") {
-tile2c.innerHTML="";
-back3b.innerHTML="Three";}
-else if (tile2c.innerHTML==="Red" && accept.innerHTML==="Back 3") {
-tile2c.innerHTML="";
-back3b.innerHTML="Red";}
-else if (tile2c.innerHTML==="Yellow" && accept.innerHTML==="Back 3") {
-tile2c.innerHTML="";
-back3b.innerHTML="Yellow";}
-else if (tile2c.innerHTML==="Pink" && accept.innerHTML==="Back 3") {
-tile2c.innerHTML="";
-back3b.innerHTML="Pink";}
+else if (btwentyone.innerHTML==="Three" && accept.innerHTML==="Back 3") {
+btwentyone.innerHTML="";
+beighteen.innerHTML="Three";}
+else if (btwentyone.innerHTML==="Red" && accept.innerHTML==="Back 3") {
+btwentyone.innerHTML="";
+beighteen.innerHTML="Red";}
+else if (btwentyone.innerHTML==="Yellow" && accept.innerHTML==="Back 3") {
+btwentyone.innerHTML="";
+beighteen.innerHTML="Yellow";}
+else if (btwentyone.innerHTML==="Pink" && accept.innerHTML==="Back 3") {
+btwentyone.innerHTML="";
+beighteen.innerHTML="Pink";}
 
-else if (tile3c.innerHTML==="Three" && accept.innerHTML==="Back 3") {
-tile3c.innerHTML="";
-back3c.innerHTML="Three";}
-else if (tile3c.innerHTML==="Red" && accept.innerHTML==="Back 3") {
-tile3c.innerHTML="";
-back3c.innerHTML="Red";}
-else if (tile3c.innerHTML==="Yellow" && accept.innerHTML==="Back 3") {
-tile3c.innerHTML="";
-back3c.innerHTML="Yellow";}
-else if (tile3c.innerHTML==="Pink" && accept.innerHTML==="Back 3") {
-tile3c.innerHTML="";
-back3c.innerHTML="Pink";}
+else if (btwo.innerHTML==="Three" && accept.innerHTML==="Back 3") {
+btwo.innerHTML="";
+btwentyfive.innerHTML="Three";}
+else if (btwo.innerHTML==="Red" && accept.innerHTML==="Back 3") {
+btwo.innerHTML="";
+btwentyfive.innerHTML="Red";}
+else if (btwo.innerHTML==="Yellow" && accept.innerHTML==="Back 3") {
+btwo.innerHTML="";
+btwentyfive.innerHTML="Yellow";}
+else if (btwo.innerHTML==="Pink" && accept.innerHTML==="Back 3") {
+btwo.innerHTML="";
+btwentyfive.innerHTML="Pink";}
 
 else if (element.innerHTML==="Red") {
 element.innerHTML="Yellow";}
