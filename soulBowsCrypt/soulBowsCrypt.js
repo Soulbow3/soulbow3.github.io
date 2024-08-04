@@ -10668,120 +10668,120 @@ beight.innerHTML="Pink";}
 
 else if (four.innerHTML==="One" && accept.innerHTML==="Ad- vance To Gold") {
 four.innerHTML="";
-thirttwo.innerHTML="One";}
+thirtytwo.innerHTML="One";}
 else if (four.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Gold") {
 four.innerHTML="";
-thirttwo.innerHTML="Red";}
+thirtytwo.innerHTML="Red";}
 else if (four.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Gold") {
 four.innerHTML="";
-thirttwo.innerHTML="Yellow";}
+thirtytwo.innerHTML="Yellow";}
 else if (four.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Gold") {
 four.innerHTML="";
-thirttwo.innerHTML="Pink";}
+thirtytwo.innerHTML="Pink";}
 
 else if (twentyone.innerHTML==="One" && accept.innerHTML==="Ad- vance To Gold") {
 twentyone.innerHTML="";
-thirttwo.innerHTML="One";}
+thirtytwo.innerHTML="One";}
 else if (twentyone.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Gold") {
 twentyone.innerHTML="";
-thirttwo.innerHTML="Red";}
+thirtytwo.innerHTML="Red";}
 else if (twentyone.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Gold") {
 twentyone.innerHTML="";
-thirttwo.innerHTML="Yellow";}
+thirtytwo.innerHTML="Yellow";}
 else if (twentyone.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Gold") {
 twentyone.innerHTML="";
-thirttwo.innerHTML="Pink";}
+thirtytwo.innerHTML="Pink";}
 
 else if (two.innerHTML==="One" && accept.innerHTML==="Ad- vance To Gold") {
 two.innerHTML="";
-thirttwo.innerHTML="One";}
+thirtytwo.innerHTML="One";}
 else if (two.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Gold") {
 two.innerHTML="";
-thirttwo.innerHTML="Red";}
+thirtytwo.innerHTML="Red";}
 else if (two.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Gold") {
 two.innerHTML="";
-thirttwo.innerHTML="Yellow";}
+thirtytwo.innerHTML="Yellow";}
 else if (two.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Gold") {
 two.innerHTML="";
-thirttwo.innerHTML="Pink";}
+thirtytwo.innerHTML="Pink";}
 
 else if (afour.innerHTML==="Two" && accept.innerHTML==="Ad- vance To Gold") {
 afour.innerHTML="";
-athitytwo.innerHTML="Two";}
+athirtytwo.innerHTML="Two";}
 else if (afour.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Gold") {
 afour.innerHTML="";
-athitytwo.innerHTML="Red";}
+athirtytwo.innerHTML="Red";}
 else if (afour.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Gold") {
 afour.innerHTML="";
-athitytwo.innerHTML="Yellow";}
+athirtytwo.innerHTML="Yellow";}
 else if (afour.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Gold") {
 afour.innerHTML="";
-athitytwo.innerHTML="Pink";}
+athirtytwo.innerHTML="Pink";}
  
 else if (atwentyone.innerHTML==="Two" && accept.innerHTML==="Ad- vance To Gold") {
 atwentyone.innerHTML="";
-athitytwo.innerHTML="Two";}
+athirtytwo.innerHTML="Two";}
 else if (atwentyone.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Gold") {
 atwentyone.innerHTML="";
-athitytwo.innerHTML="Red";}
+athirtytwo.innerHTML="Red";}
 else if (atwentyone.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Gold") {
 atwentyone.innerHTML="";
-athitytwo.innerHTML="Yellow";}
+athirtytwo.innerHTML="Yellow";}
 else if (atwentyone.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Gold") {
 atwentyone.innerHTML="";
-athitytwo.innerHTML="Pink";}
+athirtytwo.innerHTML="Pink";}
  
 else if (atwo.innerHTML==="Two" && accept.innerHTML==="Ad- vance To Gold") {
 atwo.innerHTML="";
-athitytwo.innerHTML="Two";}
+athirtytwo.innerHTML="Two";}
 else if (atwo.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Gold") {
 atwo.innerHTML="";
-athitytwo.innerHTML="Red";}
+athirtytwo.innerHTML="Red";}
 else if (atwo.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Gold") {
 atwo.innerHTML="";
-athitytwo.innerHTML="Yellow";}
+athirtytwo.innerHTML="Yellow";}
 else if (atwo.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Gold") {
 atwo.innerHTML="";
-athitytwo.innerHTML="Pink";}
+athirtytwo.innerHTML="Pink";}
 
 else if (bfour.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Gold") {
 bfour.innerHTML="";
-bthitytwo.innerHTML="Three";}
+bthirtytwo.innerHTML="Three";}
 else if (bfour.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Gold") {
 bfour.innerHTML="";
-bthitytwo.innerHTML="Red";}
+bthirtytwo.innerHTML="Red";}
 else if (bfour.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Gold") {
 bfour.innerHTML="";
-bthitytwo.innerHTML="Yellow";}
+bthirtytwo.innerHTML="Yellow";}
 else if (bfour.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Gold") {
 bfour.innerHTML="";
-bthitytwo.innerHTML="Pink";}
+bthirtytwo.innerHTML="Pink";}
  
 else if (btwentyone.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Gold") {
 btwentyone.innerHTML="";
-bthitytwo.innerHTML="Three";}
+bthirtytwo.innerHTML="Three";}
 else if (btwentyone.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Gold") {
 btwentyone.innerHTML="";
-bthitytwo.innerHTML="Red";}
+bthirtytwo.innerHTML="Red";}
 else if (btwentyone.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Gold") {
 btwentyone.innerHTML="";
-bthitytwo.innerHTML="Yellow";}
+bthirtytwo.innerHTML="Yellow";}
 else if (btwentyone.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Gold") {
 btwentyone.innerHTML="";
-bthitytwo.innerHTML="Pink";}
+bthirtytwo.innerHTML="Pink";}
 
 else if (btwo.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Gold") {
 btwo.innerHTML="";
-bthitytwo.innerHTML="Three";}
+bthirtytwo.innerHTML="Three";}
 else if (btwo.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Gold") {
 btwo.innerHTML="";
-bthitytwo.innerHTML="Red";}
+bthirtytwo.innerHTML="Red";}
 else if (btwo.innerHTML==="Yellow" && accept.innerHTML==="Ad- vance To Gold") {
 btwo.innerHTML="";
-bthitytwo.innerHTML="Yellow";}
+bthirtytwo.innerHTML="Yellow";}
 else if (btwo.innerHTML==="Pink" && accept.innerHTML==="Ad- vance To Gold") {
 btwo.innerHTML="";
-bthitytwo.innerHTML="Pink";}
+bthirtytwo.innerHTML="Pink";}
 
 else if (four.innerHTML==="One" && accept.innerHTML==="Back 3") {
 four.innerHTML="";
