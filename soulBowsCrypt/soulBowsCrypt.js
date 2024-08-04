@@ -8589,224 +8589,224 @@ var toggle1=document.getElementById("sel2");
 var button1=document.getElementById("btn2");
 else if (toggle1.style.background==="white" && one.innerHTML==="Two") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && two.innerHTML==="Two") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && three.innerHTML==="Two") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && four.innerHTML==="Two") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && five.innerHTML==="Two") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && six.innerHTML==="Two") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && seven.innerHTML==="Two") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && eight.innerHTML==="Two") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && nine.innerHTML==="Two") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && ten.innerHTML==="Two") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && eleven.innerHTML==="One") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twelve.innerHTML==="Two") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && thirteen.innerHTML==="Two") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && fourteen.innerHTML==="Two") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && fifteen.innerHTML==="Two") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && sixteen.innerHTML==="Two") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && seventeen.innerHTML==="Two") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && eighteen.innerHTML==="Two") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && nineteen.innerHTML==="Two") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twenty.innerHTML==="Two") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twentyone.innerHTML==="Two") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twentytwo.innerHTML==="Two") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twentythree.innerHTML==="Two") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twentyfour.innerHTML==="Two") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twentyfive.innerHTML==="Two") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twentysix.innerHTML==="Two") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twentyseven.innerHTML==="Two") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twentyeight.innerHTML==="Two") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twentynine.innerHTML==="Two") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && thirty.innerHTML==="Two") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && thirtyone.innerHTML==="Two") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && thirtytwo.innerHTML==="Two") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
@@ -8814,224 +8814,224 @@ x.innerHTML="";}
 
 else if (toggle1.style.background==="white" && one.innerHTML==="Red") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && two.innerHTML==="Red") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && three.innerHTML==="Red") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && four.innerHTML==="Red") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && five.innerHTML==="Red") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && six.innerHTML==="Red") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && seven.innerHTML==="Red") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && eight.innerHTML==="Red") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && nine.innerHTML==="Red") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && ten.innerHTML==="Red") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && eleven.innerHTML==="Red") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twelve.innerHTML==="Red") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && thirteen.innerHTML==="Red") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && fourteen.innerHTML==="Red") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && fifteen.innerHTML==="Red") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && sixteen.innerHTML==="Red") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && seventeen.innerHTML==="Red") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && eighteen.innerHTML==="Red") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && nineteen.innerHTML==="Red") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twenty.innerHTML==="Red") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twentyone.innerHTML==="Red") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twentytwo.innerHTML==="Red") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twentythree.innerHTML==="Red") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twentyfour.innerHTML==="Red") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twentyfive.innerHTML==="Red") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twentysix.innerHTML==="Red") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twentyseven.innerHTML==="Red") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twentyeight.innerHTML==="Red") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twentynine.innerHTML==="Red") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && thirty.innerHTML==="Red") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && thirtyone.innerHTML==="Red") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && thirtytwo.innerHTML==="Red") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
@@ -9039,224 +9039,224 @@ x.innerHTML="";}
 
 else if (toggle1.style.background==="white" && one.innerHTML==="Yellow") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && two.innerHTML==="Yellow") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && three.innerHTML==="Yellow") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && four.innerHTML==="Yellow") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && five.innerHTML==="Yellow") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && six.innerHTML==="Yellow") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && seven.innerHTML==="Yellow") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && eight.innerHTML==="Yellow") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && nine.innerHTML==="Yellow") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && ten.innerHTML==="Yellow") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && eleven.innerHTML==="Yellow") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twelve.innerHTML==="Yellow") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && thirteen.innerHTML==="Yellow") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && fourteen.innerHTML==="Yellow") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && fifteen.innerHTML==="Yellow") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && sixteen.innerHTML==="Yellow") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && seventeen.innerHTML==="Yellow") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && eighteen.innerHTML==="Yellow") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && nineteen.innerHTML==="Yellow") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twenty.innerHTML==="Yellow") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twentyone.innerHTML==="Yellow") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twentytwo.innerHTML==="Yellow") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twentythree.innerHTML==="Yellow") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twentyfour.innerHTML==="Yellow") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twentyfive.innerHTML==="Yellow") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twentysix.innerHTML==="Yellow") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twentyseven.innerHTML==="Yellow") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twentyeight.innerHTML==="Yellow") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twentynine.innerHTML==="Yellow") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && thirty.innerHTML==="Yellow") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && thirtyone.innerHTML==="Yellow") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && thirtytwo.innerHTML==="Yellow") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
@@ -9264,224 +9264,224 @@ x.innerHTML="";}
 
 else if (toggle1.style.background==="white" && one.innerHTML==="Pink") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && two.innerHTML==="Pink") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && three.innerHTML==="Pink") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && four.innerHTML==="Pink") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && five.innerHTML==="Pink") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && six.innerHTML==="Pink") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && seven.innerHTML==="Pink") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && eight.innerHTML==="Pink") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && nine.innerHTML==="Pink") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && ten.innerHTML==="Pink") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && eleven.innerHTML==="Pink") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twelve.innerHTML==="Pink") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && thirteen.innerHTML==="Pink") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && fourteen.innerHTML==="Pink") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && fifteen.innerHTML==="Pink") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && sixteen.innerHTML==="Pink") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && seventeen.innerHTML==="Pink") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && eighteen.innerHTML==="Pink") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && nineteen.innerHTML==="Pink") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twenty.innerHTML==="Pink") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twentyone.innerHTML==="Pink") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twentytwo.innerHTML==="Pink") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twentythree.innerHTML==="Pink") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twentyfour.innerHTML==="Pink") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twentyfive.innerHTML==="Pink") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twentysix.innerHTML==="Pink") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twentyseven.innerHTML==="Pink") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twentyeight.innerHTML==="Pink") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && twentynine.innerHTML==="Pink") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && thirty.innerHTML==="Pink") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && thirtyone.innerHTML==="Pink") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 else if (toggle1.style.background==="white" && thirtytwo.innerHTML==="Pink") {
 element.innerHTML="";
-button1.innerHTML="One";
+button1.innerHTML="Two";
 wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
