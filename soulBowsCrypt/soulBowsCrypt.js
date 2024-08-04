@@ -9539,7 +9539,7 @@ bwabllet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && bThree.innerHTML==="Three") {
+else if (btoggle1.style.bbackground==="white" && bTwo.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
 bwabllet.innerHTML="";
@@ -9764,7 +9764,7 @@ bwabllet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && bThree.innerHTML==="Red") {
+else if (btoggle1.style.bbackground==="white" && bTwo.innerHTML==="Red") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
 bwabllet.innerHTML="";
@@ -9989,7 +9989,7 @@ bwabllet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && bThree.innerHTML==="yellow") {
+else if (btoggle1.style.bbackground==="white" && bTwo.innerHTML==="yellow") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
 bwabllet.innerHTML="";
@@ -10214,7 +10214,7 @@ bwabllet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && bThree.innerHTML==="Pink") {
+else if (btoggle1.style.bbackground==="white" && bTwo.innerHTML==="Pink") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
 bwabllet.innerHTML="";
