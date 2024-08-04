@@ -8583,7 +8583,7 @@ var wallet=document.getElementById("wal3");
 var y=document.getElementById("+b");
 var z=document.getElementById("-b");
 var x=document.getElementById("b111");
-else if (toggle1.style.background==="white" && one.innerHTML==="Two") {
+if (toggle1.style.background==="white" && one.innerHTML==="Two") {
 element.innerHTML="";
 button1.innerHTML="Two";
 wallet.innerHTML="";
@@ -9521,7 +9521,7 @@ var wallet=document.getElementById("wal2");
 var y=document.getElementById("+c");
 var z=document.getElementById("-c");
 var x=document.getElementById("c111");
-else if (toggle1.style.background==="white" && one.innerHTML==="Three") {
+if (toggle1.style.background==="white" && one.innerHTML==="Three") {
 element.innerHTML="";
 button1.innerHTML="Three";
 wallet.innerHTML="";
@@ -10447,7 +10447,7 @@ var tile3b= document.getElementById("btwo");
 var tile3c= document.getElementById("bthree");
 var accept=document.getElementById("cardAcc");
  
-else if (tile1a.innerHTML==="One" && accept.innerHTML==="Ad- vance To Go") {
+if (tile1a.innerHTML==="One" && accept.innerHTML==="Ad- vance To Go") {
 tile1a.innerHTML="";
 go1.innerHTML="One";}
 else if (tile1a.innerHTML==="Red" && accept.innerHTML==="Ad- vance To Go") {
