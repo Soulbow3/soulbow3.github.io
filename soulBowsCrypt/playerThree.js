@@ -4,13 +4,6 @@ var wallet=document.getElementById("wal2");
 var y=document.getElementById("+b");
 var z=document.getElementById("-b");
 var x=document.getElementById("b111");
-if (buttonThree.innerHTML==="Three") {
-buttonThree.innerHTML="P3";
-one.innerHTML="Three";
-wallet.innerHTML="$1000";
-y.innerHTML="+$10";
-z.innerHTML="-$10";
-x.innerHTML="P3";}
 var dice=document.getElementById("node");
 var aone=document.getElementById("oneA");
 var atwo=document.getElementById("oneB");
@@ -77,6 +70,13 @@ var twentynine=document.getElementById("cthree");
 var thirty=document.getElementById("dthree");
 var thirtyone=document.getElementById("ethree");
 var thirtytwo=document.getElementById("fthree");
+if (buttonThree.innerHTML==="Three") {
+buttonThree.innerHTML="P3";
+one.innerHTML="Three";
+wallet.innerHTML="$1000";
+y.innerHTML="+$10";
+z.innerHTML="-$10";
+x.innerHTML="P3";}
 else if (one.innerHTML==="Three" && dice.style.color==="green") {
 two.innerHTML="Three";
 one.innerHTML="";
