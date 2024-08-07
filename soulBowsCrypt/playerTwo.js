@@ -2023,7 +2023,7 @@ athirtytwo.style.color="black";}
 else if (ten.innerHTML==="Two" && dice.style.color==="purple") {
 eleven.innerHTML="Two";
 ten.innerHTML="";
-eleven.style.color="purple";}
+eleven.style.color="purple";
 aone.style.color="black";
 atwo.style.color="black";
 athree.style.color="black";
@@ -3028,7 +3028,7 @@ atwentynine.style.color="black";
 athirty.style.color="black";
 athirtyone.style.color="black";
 athirtytwo.style.color="black";}
-else if (fourteen..innerHTML==="Two" && dice.style.color==="plum") {
+else if (fourteen.innerHTML==="Two" && dice.style.color==="plum") {
 nineteen.innerHTML="Two";
 fourteen.innerHTML="";
 nineteen.style.color="purple";
@@ -5382,7 +5382,7 @@ athirtytwo.style.color="black";}
 else if (twentysix.innerHTML==="Two" && dice.style.color==="violet") {
 thirty.innerHTML="Two";
 twentysix.innerHTML="";
-thirty.style.color="purple";}
+thirty.style.color="purple";
 aone.style.color="black";
 atwo.style.color="black";
 athree.style.color="black";
@@ -8809,7 +8809,7 @@ athirtytwo.style.color="black";}
 else if (ten.innerHTML==="Red" && dice.style.color==="purple") {
 eleven.innerHTML="Red"
 ten.innerHTML="";
-eleven.style.color="purple";}
+eleven.style.color="purple";
 aone.style.color="black";
 atwo.style.color="black";
 athree.style.color="black";
@@ -9814,7 +9814,7 @@ atwentynine.style.color="black";
 athirty.style.color="black";
 athirtyone.style.color="black";
 athirtytwo.style.color="black";}
-else if (fourteen..innerHTML==="Red" && dice.style.color==="plum") {
+else if (fourteen.innerHTML==="Red" && dice.style.color==="plum") {
 nineteen.innerHTML="Red"
 fourteen.innerHTML="";
 nineteen.style.color="purple";
@@ -12168,7 +12168,7 @@ athirtytwo.style.color="black";}
 else if (twentysix.innerHTML==="Red" && dice.style.color==="violet") {
 thirty.innerHTML="Red"
 twentysix.innerHTML="";
-thirty.style.color="purple";}
+thirty.style.color="purple";
 aone.style.color="black";
 atwo.style.color="black";
 athree.style.color="black";
@@ -15595,7 +15595,7 @@ athirtytwo.style.color="black";}
 else if (ten.innerHTML==="Yellow" && dice.style.color==="purple") {
 eleven.innerHTML="Yellow";
 ten.innerHTML="";
-eleven.style.color="purple";}
+eleven.style.color="purple";
 aone.style.color="black";
 atwo.style.color="black";
 athree.style.color="black";
@@ -16600,7 +16600,7 @@ atwentynine.style.color="black";
 athirty.style.color="black";
 athirtyone.style.color="black";
 athirtytwo.style.color="black";}
-else if (fourteen..innerHTML==="Yellow" && dice.style.color==="plum") {
+else if (fourteen.innerHTML==="Yellow" && dice.style.color==="plum") {
 nineteen.innerHTML="Yellow";
 fourteen.innerHTML="";
 nineteen.style.color="purple";
@@ -18954,7 +18954,7 @@ athirtytwo.style.color="black";}
 else if (twentysix.innerHTML==="Yellow" && dice.style.color==="violet") {
 thirty.innerHTML="Yellow";
 twentysix.innerHTML="";
-thirty.style.color="purple";}
+thirty.style.color="purple";
 aone.style.color="black";
 atwo.style.color="black";
 athree.style.color="black";
@@ -23386,7 +23386,7 @@ atwentynine.style.color="black";
 athirty.style.color="black";
 athirtyone.style.color="black";
 athirtytwo.style.color="black";}
-else if (fourteen..innerHTML==="Pink" && dice.style.color==="plum") {
+else if (fourteen.innerHTML==="Pink" && dice.style.color==="plum") {
 nineteen.innerHTML="Pink";
 fourteen.innerHTML="";
 nineteen.style.color="purple";
@@ -25740,7 +25740,7 @@ athirtytwo.style.color="black";}
 else if (twentysix.innerHTML==="Pink" && dice.style.color==="violet") {
 thirty.innerHTML="Pink";
 twentysix.innerHTML="";
-thirty.style.color="purple";}
+thirty.style.color="purple";
 aone.style.color="black";
 atwo.style.color="black";
 athree.style.color="black";
