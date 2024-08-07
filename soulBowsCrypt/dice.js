@@ -2938,7 +2938,7 @@ document.getElementById("e22").addEventListener("click", selectTileFiveb);
 document.getElementById("f22").addEventListener("click", selectTileSixb);
 document.getElementById("a23").addEventListener("click", selectTileOneb);
 document.getElementById("b23").addEventListener("click", selectTileTwob);
-document.getElementById("c23").addEventListener("click", selectTileThree)b;
+document.getElementById("c23").addEventListener("click", selectTileThreeb);
 document.getElementById("d23").addEventListener("click", selectTileFourb);
 document.getElementById("e23").addEventListener("click", selectTileFiveb);
 document.getElementById("f23").addEventListener("click", selectTileSixb);
