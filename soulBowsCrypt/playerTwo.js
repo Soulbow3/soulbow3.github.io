@@ -69,7 +69,7 @@ var athirty=document.getElementById("done");
 var athirtyone=document.getElementById("eone");
 var athirtytwo=document.getElementById("fone");
 if (buttonTwo.innerHTML==="Two") {
-buttonTwo.innerHTML="P2"
+buttonTwo.innerHTML="P2";
 one.innerHTML="Two";
 one.style.color="purple";
 aone.style.color="black";
