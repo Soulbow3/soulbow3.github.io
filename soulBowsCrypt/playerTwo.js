@@ -27699,100 +27699,100 @@ var twentynine=document.getElementById("cone");
 var thirty=document.getElementById("done");
 var thirtyone=document.getElementById("eone");
 var thirtytwo=document.getElementById("fone");
-if (one.style.color==="Red") {
+if (one.style.color==="red") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="plum";}
-else if (two.style.color==="Red") {
+else if (two.style.color==="red") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="plum";}
-else if (three.style.color==="Red") {
+else if (three.style.color==="red") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="plum";}
-else if (four.style.color==="Red") {
+else if (four.style.color==="red") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="plum";}
-else if (five.style.color==="Red") {
+else if (five.style.color==="red") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="plum";}
-else if (six.style.color==="Red") {
+else if (six.style.color==="red") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="plum";}
-else if (seven.style.color==="Red") {
+else if (seven.style.color==="red") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="plum";}
-else if (eight.style.color==="Red") {
+else if (eight.style.color==="red") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="plum";}
-else if (nine.style.color==="Red") {
+else if (nine.style.color==="red") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="plum";}
-else if (ten.style.color==="Red") {
+else if (ten.style.color==="red") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="plum";}
-else if (eleven.style.color==="Red") {
+else if (eleven.style.color==="red") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="plum";}
-else if (twelve.style.color==="Red") {
+else if (twelve.style.color==="red") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="plum";}
-else if (thirteen.style.color==="Red") {
+else if (thirteen.style.color==="red") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="plum";}
-else if (fourteen.style.color==="Red") {
+else if (fourteen.style.color==="red") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="plum";}
-else if (fifteen.style.color==="Red") {
+else if (fifteen.style.color==="red") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="plum";}
-else if (sixteen.style.color==="Red") {
+else if (sixteen.style.color==="red") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="plum";}
-else if (seventeen.style.color==="Red") {
+else if (seventeen.style.color==="red") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="plum";}
-else if (eighteen.style.color==="Red") {
+else if (eighteen.style.color==="red") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="plum";}
-else if (nineteen.style.color==="Red") {
+else if (nineteen.style.color==="red") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="plum";}
-else if (twenty.style.color==="Red") {
+else if (twenty.style.color==="red") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="plum";}
-else if (twentyone.style.color==="Red") {
+else if (twentyone.style.color==="red") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="plum";}
-else if (twentytwo.style.color==="Red") {
+else if (twentytwo.style.color==="red") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="plum";}
-else if (twentythree.style.color==="Red") {
+else if (twentythree.style.color==="red") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="plum";}
-else if (twentyfour.style.color==="Red") {
+else if (twentyfour.style.color==="red") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="plum";}
-else if (twentyfive.style.color==="Red") {
+else if (twentyfive.style.color==="red") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="plum";}
-else if (twentysix.style.color==="Red") {
+else if (twentysix.style.color==="red") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="plum";}
-else if (twentyseven.style.color==="Red") {
+else if (twentyseven.style.color==="red") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="plum";}
-else if (twentyeight.style.color==="purple") {
+else if (twentyeight.style.color==="red") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="plum";}
-else if (twentynine.style.color==="Red") {
+else if (twentynine.style.color==="red") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="plum";}
-else if (thirty.style.color==="Red") {
+else if (thirty.style.color==="red") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="plum";}
-else if (thirtyone.style.color==="Red") {
+else if (thirtyone.style.color==="red") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="plum";}
-else if (thirtytwo.style.color==="Red") {
+else if (thirtytwo.style.color==="red") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="plum";}}
 
@@ -27829,100 +27829,100 @@ var twentynine=document.getElementById("cone");
 var thirty=document.getElementById("done");
 var thirtyone=document.getElementById("eone");
 var thirtytwo=document.getElementById("fone");
-if (one.style.color==="Red") {
+if (one.style.color==="red") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="darkblue";}
-else if (two.style.color==="Red") {
+else if (two.style.color==="red") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="darkblue";}
-else if (three.style.color==="Red") {
+else if (three.style.color==="red") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="darkblue";}
-else if (four.style.color==="Red") {
+else if (four.style.color==="red") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="darkblue";}
-else if (five.style.color==="Red") {
+else if (five.style.color==="red") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="darkblue";}
-else if (six.style.color==="Red") {
+else if (six.style.color==="red") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="darkblue";}
-else if (seven.style.color==="Red") {
+else if (seven.style.color==="red") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="darkblue";}
-else if (eight.style.color==="Red") {
+else if (eight.style.color==="red") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="darkblue";}
-else if (nine.style.color==="Red") {
+else if (nine.style.color==="red") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="darkblue";}
-else if (ten.style.color==="Red") {
+else if (ten.style.color==="red") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="darkblue";}
-else if (eleven.style.color==="purple") {
+else if (eleven.style.color==="red") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="darkblue";}
-else if (twelve.style.color==="Red") {
+else if (twelve.style.color==="red") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="darkblue";}
-else if (thirteen.style.color==="Red") {
+else if (thirteen.style.color==="red") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="darkblue";}
-else if (fourteen.style.color==="Red") {
+else if (fourteen.style.color==="red") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="darkblue";}
-else if (fifteen.style.color==="Red") {
+else if (fifteen.style.color==="red") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="darkblue";}
-else if (sixteen.style.color==="Red") {
+else if (sixteen.style.color==="red") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="darkblue";}
-else if (seventeen.style.color==="Red") {
+else if (seventeen.style.color==="red") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="darkblue";}
-else if (eighteen.style.color==="Red") {
+else if (eighteen.style.color==="red") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="darkblue";}
-else if (nineteen.style.color==="Red") {
+else if (nineteen.style.color==="red") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="darkblue";}
-else if (twenty.style.color==="Red") {
+else if (twenty.style.color==="red") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="darkblue";}
-else if (twentyone.style.color==="Red") {
+else if (twentyone.style.color==="red") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="darkblue";}
-else if (twentytwo.style.color==="Red") {
+else if (twentytwo.style.color==="red") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="darkblue";}
-else if (twentythree.style.color==="Red") {
+else if (twentythree.style.color==="red") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="darkblue";}
-else if (twentyfour.style.color==="Red") {
+else if (twentyfour.style.color==="red") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="darkblue";}
-else if (twentyfive.style.color==="Red") {
+else if (twentyfive.style.color==="red") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="darkblue";}
-else if (twentysix.style.color==="Red") {
+else if (twentysix.style.color==="red") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="darkblue";}
-else if (twentyseven.style.color==="Red") {
+else if (twentyseven.style.color==="red") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="darkblue";}
-else if (twentyeight.style.color==="Red") {
+else if (twentyeight.style.color==="red") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="darkblue";}
-else if (twentynine.style.color==="Red") {
+else if (twentynine.style.color==="red") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="darkblue";}
-else if (thirty.style.color==="Red") {
+else if (thirty.style.color==="red") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="darkblue";}
-else if (thirtyone.style.color==="Red") {
+else if (thirtyone.style.color==="red") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="darkblue";}
-else if (thirtytwo.style.color==="Red") {
+else if (thirtytwo.style.color==="red") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="darkblue";}}
 
