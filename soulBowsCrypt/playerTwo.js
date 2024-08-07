@@ -27143,20 +27143,628 @@ athirtyone.style.color="black";
 athirtytwo.style.color="black";}}
 
 function resetDice() {
-document.getElementById("node").innerHTML="";}
+document.getElementById("node").innerHTML="";
+document.getElementById("node").style.color="";}
 
 function selectTileOne() {
-document.getElementById("node").innerHTML="1";}
+var one=document.getElementById("oneA");
+var two=document.getElementById("oneB");
+var three=document.getElementById("oneC");
+var four=document.getElementById("oneD");
+var five=document.getElementById("oneE");
+var six=document.getElementById("oneF");
+var seven=document.getElementById("oneG");
+var eight=document.getElementById("oneH");
+var nine=document.getElementById("oneI");
+var ten=document.getElementById("oneJ");
+var eleven=document.getElementById("oneK");
+var twelve=document.getElementById("oneL");
+var thirteen=document.getElementById("oneM");
+var fourteen=document.getElementById("oneN");
+var fifteen=document.getElementById("oneO");
+var sixteen=document.getElementById("oneP");
+var seventeen=document.getElementById("oneQ");
+var eighteen=document.getElementById("oneR");
+var nineteen=document.getElementById("oneS");
+var twenty=document.getElementById("oneT");
+var twentyone=document.getElementById("oneU");
+var twentytwo=document.getElementById("oneV");
+var twentythree=document.getElementById("oneW");
+var twentyfour=document.getElementById("oneX");
+var twentyfive=document.getElementById("oneY");
+var twentysix=document.getElementById("oneZ");
+var twentyseven=document.getElementById("aone");
+var twentyeight=document.getElementById("bone");
+var twentynine=document.getElementById("cone");
+var thirty=document.getElementById("done");
+var thirtyone=document.getElementById("eone");
+var thirtytwo=document.getElementById("fone");
+if (one.style.color==="red") {
+document.getElementById("node").innerHTML="1";
+document.getElementById("node").style.color="purple";}
+else if (two.style.color==="red") {
+document.getElementById("node").innerHTML="1";
+document.getElementById("node").style.color="purple";}
+else if (three.style.color==="red") {
+document.getElementById("node").innerHTML="1";
+document.getElementById("node").style.color="purple";}
+else if (four.style.color==="red") {
+document.getElementById("node").innerHTML="1";
+document.getElementById("node").style.color="purple";}
+else if (five.style.color==="red") {
+document.getElementById("node").innerHTML="1";
+document.getElementById("node").style.color="purple";}
+else if (six.style.color==="red") {
+document.getElementById("node").innerHTML="1";
+document.getElementById("node").style.color="purple";}
+else if (seven.style.color==="red") {
+document.getElementById("node").innerHTML="1";
+document.getElementById("node").style.color="purple";}
+else if (eight.style.color==="red") {
+document.getElementById("node").innerHTML="1";
+document.getElementById("node").style.color="purple";}
+else if (nine.style.color==="red") {
+document.getElementById("node").innerHTML="1";
+document.getElementById("node").style.color="purple";}
+else if (ten.style.color==="red") {
+document.getElementById("node").innerHTML="1";
+document.getElementById("node").style.color="purple";}
+else if (eleven.style.color==="red") {
+document.getElementById("node").innerHTML="1";
+document.getElementById("node").style.color="purple";}
+else if (twelve.style.color==="red") {
+document.getElementById("node").innerHTML="1";
+document.getElementById("node").style.color="purple";}
+else if (thirteen.style.color==="red") {
+document.getElementById("node").innerHTML="1";
+document.getElementById("node").style.color="purple";}
+else if (fourteen.style.color==="red") {
+document.getElementById("node").innerHTML="1";
+document.getElementById("node").style.color="purple";}
+else if (fifteen.style.color==="red") {
+document.getElementById("node").innerHTML="1";
+document.getElementById("node").style.color="purple";}
+else if (sixteen.style.color==="red") {
+document.getElementById("node").innerHTML="1";
+document.getElementById("node").style.color="purple";}
+else if (seventeen.style.color==="red") {
+document.getElementById("node").innerHTML="1";
+document.getElementById("node").style.color="purple";}
+else if (eighteen.style.color==="red") {
+document.getElementById("node").innerHTML="1";
+document.getElementById("node").style.color="purple";}
+else if (nineteen.style.color==="red") {
+document.getElementById("node").innerHTML="1";
+document.getElementById("node").style.color="purple";}
+else if (twenty.style.color==="red") {
+document.getElementById("node").innerHTML="1";
+document.getElementById("node").style.color="purple";}
+else if (twentyone.style.color==="red") {
+document.getElementById("node").innerHTML="1";
+document.getElementById("node").style.color="purple";}
+else if (twentytwo.style.color==="red") {
+document.getElementById("node").innerHTML="1";
+document.getElementById("node").style.color="purple";}
+else if (twentythree.style.color==="red") {
+document.getElementById("node").innerHTML="1";
+document.getElementById("node").style.color="purple";}
+else if (twentyfour.style.color==="red") {
+document.getElementById("node").innerHTML="1";
+document.getElementById("node").style.color="purple";}
+else if (twentyfive.style.color==="red") {
+document.getElementById("node").innerHTML="1";
+document.getElementById("node").style.color="purple";}
+else if (twentysix.style.color==="red") {
+document.getElementById("node").innerHTML="1";
+document.getElementById("node").style.color="purple";}
+else if (twentyseven.style.color==="red") {
+document.getElementById("node").innerHTML="1";
+document.getElementById("node").style.color="purple";}
+else if (twentyeight.style.color==="red") {
+document.getElementById("node").innerHTML="1";
+document.getElementById("node").style.color="purple";}
+else if (twentynine.style.color==="red") {
+document.getElementById("node").innerHTML="1";
+document.getElementById("node").style.color="purple";}
+else if (thirty.style.color==="red") {
+document.getElementById("node").innerHTML="1";
+document.getElementById("node").style.color="purple";}
+else if (thirtyone.style.color==="red") {
+document.getElementById("node").innerHTML="1";
+document.getElementById("node").style.color="purple";}
+else if (thirtytwo.style.color==="red") {
+document.getElementById("node").innerHTML="1";
+document.getElementById("node").style.color="purple";}}
+
 function selectTileTwo() {
-document.getElementById("node").innerHTML="2";}
+if (one.style.color==="red") {
+document.getElementById("node").innerHTML="2";
+document.getElementById("node").style.color="blue";}
+else if (two.style.color==="red") {
+document.getElementById("node").innerHTML="2";
+document.getElementById("node").style.color="blue";}
+else if (three.style.color==="red") {
+document.getElementById("node").innerHTML="2";
+document.getElementById("node").style.color="blue";}
+else if (four.style.color==="red") {
+document.getElementById("node").innerHTML="2";
+document.getElementById("node").style.color="blue";}
+else if (five.style.color==="red") {
+document.getElementById("node").innerHTML="2";
+document.getElementById("node").style.color="blue";}
+else if (six.style.color==="red") {
+document.getElementById("node").innerHTML="2";
+document.getElementById("node").style.color="blue";}
+else if (seven.style.color==="red") {
+document.getElementById("node").innerHTML="2";
+document.getElementById("node").style.color="blue";}
+else if (eight.style.color==="red") {
+document.getElementById("node").innerHTML="2";
+document.getElementById("node").style.color="blue";}
+else if (nine.style.color==="red") {
+document.getElementById("node").innerHTML="2";
+document.getElementById("node").style.color="blue";}
+else if (ten.style.color==="red") {
+document.getElementById("node").innerHTML="2";
+document.getElementById("node").style.color="blue";}
+else if (eleven.style.color==="red") {
+document.getElementById("node").innerHTML="2";
+document.getElementById("node").style.color="blue";}
+else if (twelve.style.color==="red") {
+document.getElementById("node").innerHTML="2";
+document.getElementById("node").style.color="blue";}
+else if (thirteen.style.color==="red") {
+document.getElementById("node").innerHTML="2";
+document.getElementById("node").style.color="blue";}
+else if (fourteen.style.color==="red") {
+document.getElementById("node").innerHTML="2";
+document.getElementById("node").style.color="blue";}
+else if (fifteen.style.color==="red") {
+document.getElementById("node").innerHTML="2";
+document.getElementById("node").style.color="blue";}
+else if (sixteen.style.color==="red") {
+document.getElementById("node").innerHTML="2";
+document.getElementById("node").style.color="blue";}
+else if (seventeen.style.color==="red") {
+document.getElementById("node").innerHTML="2";
+document.getElementById("node").style.color="blue";}
+else if (eighteen.style.color==="red") {
+document.getElementById("node").innerHTML="2";
+document.getElementById("node").style.color="blue";}
+else if (nineteen.style.color==="red") {
+document.getElementById("node").innerHTML="2";
+document.getElementById("node").style.color="blue";}
+else if (twenty.style.color==="red") {
+document.getElementById("node").innerHTML="2";
+document.getElementById("node").style.color="blue";}
+else if (twentyone.style.color==="red") {
+document.getElementById("node").innerHTML="2";
+document.getElementById("node").style.color="blue";}
+else if (twentytwo.style.color==="red") {
+document.getElementById("node").innerHTML="2";
+document.getElementById("node").style.color="blue";}
+else if (twentythree.style.color==="red") {
+document.getElementById("node").innerHTML="2";
+document.getElementById("node").style.color="blue";}
+else if (twentyfour.style.color==="red") {
+document.getElementById("node").innerHTML="2";
+document.getElementById("node").style.color="blue";}
+else if (twentyfive.style.color==="red") {
+document.getElementById("node").innerHTML="2";
+document.getElementById("node").style.color="blue";}
+else if (twentysix.style.color==="red") {
+document.getElementById("node").innerHTML="2";
+document.getElementById("node").style.color="blue";}
+else if (twentyseven.style.color==="red") {
+document.getElementById("node").innerHTML="2";
+document.getElementById("node").style.color="blue";}
+else if (twentyeight.style.color==="red") {
+document.getElementById("node").innerHTML="2";
+document.getElementById("node").style.color="blue";}
+else if (twentynine.style.color==="red") {
+document.getElementById("node").innerHTML="2";
+document.getElementById("node").style.color="blue";}
+else if (thirty.style.color==="red") {
+document.getElementById("node").innerHTML="2";
+document.getElementById("node").style.color="blue";}
+else if (thirtyone.style.color==="red") {
+document.getElementById("node").innerHTML="2";
+document.getElementById("node").style.color="blue";}
+else if (thirtytwo.style.color==="red") {
+document.getElementById("node").innerHTML="2";
+document.getElementById("node").style.color="blue";}}
+
 function selectTileThree() {
-document.getElementById("node").innerHTML="3";}
+if (one.style.color==="red") {
+document.getElementById("node").innerHTML="3";
+document.getElementById("node").style.color="rebeccapurple";}
+else if (two.style.color==="red") {
+document.getElementById("node").innerHTML="3";
+document.getElementById("node").style.color="rebeccapurple";}
+else if (three.style.color==="red") {
+document.getElementById("node").innerHTML="3";
+document.getElementById("node").style.color="rebeccapurple";}
+else if (four.style.color==="red") {
+document.getElementById("node").innerHTML="3";
+document.getElementById("node").style.color="rebeccapurple";}
+else if (five.style.color==="red") {
+document.getElementById("node").innerHTML="3";
+document.getElementById("node").style.color="rebeccapurple";}
+else if (six.style.color==="red") {
+document.getElementById("node").innerHTML="3";
+document.getElementById("node").style.color="rebeccapurple";}
+else if (seven.style.color==="red") {
+document.getElementById("node").innerHTML="3";
+document.getElementById("node").style.color="rebeccapurple";}
+else if (eight.style.color==="red") {
+document.getElementById("node").innerHTML="3";
+document.getElementById("node").style.color="rebeccapurple";}
+else if (nine.style.color==="red") {
+document.getElementById("node").innerHTML="3";
+document.getElementById("node").style.color="rebeccapurple";}
+else if (ten.style.color==="red") {
+document.getElementById("node").innerHTML="3";
+document.getElementById("node").style.color="rebeccapurple";}
+else if (eleven.style.color==="red") {
+document.getElementById("node").innerHTML="3";
+document.getElementById("node").style.color="rebeccapurple";}
+else if (twelve.style.color==="red") {
+document.getElementById("node").innerHTML="3";
+document.getElementById("node").style.color="rebeccapurple";}
+else if (thirteen.style.color==="red") {
+document.getElementById("node").innerHTML="3";
+document.getElementById("node").style.color="rebeccapurple";}
+else if (fourteen.style.color==="red") {
+document.getElementById("node").innerHTML="3";
+document.getElementById("node").style.color="rebeccapurple";}
+else if (fifteen.style.color==="red") {
+document.getElementById("node").innerHTML="3";
+document.getElementById("node").style.color="rebeccapurple";}
+else if (sixteen.style.color==="red") {
+document.getElementById("node").innerHTML="3";
+document.getElementById("node").style.color="rebeccapurple";}
+else if (seventeen.style.color==="red") {
+document.getElementById("node").innerHTML="3";
+document.getElementById("node").style.color="rebeccapurple";}
+else if (eighteen.style.color==="red") {
+document.getElementById("node").innerHTML="3";
+document.getElementById("node").style.color="rebeccapurple";}
+else if (nineteen.style.color==="red") {
+document.getElementById("node").innerHTML="3";
+document.getElementById("node").style.color="rebeccapurple";}
+else if (twenty.style.color==="red") {
+document.getElementById("node").innerHTML="3";
+document.getElementById("node").style.color="rebeccapurple";}
+else if (twentyone.style.color==="red") {
+document.getElementById("node").innerHTML="3";
+document.getElementById("node").style.color="rebeccapurple";}
+else if (twentytwo.style.color==="red") {
+document.getElementById("node").innerHTML="3";
+document.getElementById("node").style.color="rebeccapurple";}
+else if (twentythree.style.color==="red") {
+document.getElementById("node").innerHTML="3";
+document.getElementById("node").style.color="rebeccapurple";}
+else if (twentyfour.style.color==="red") {
+document.getElementById("node").innerHTML="3";
+document.getElementById("node").style.color="rebeccapurple";}
+else if (twentyfive.style.color==="red") {
+document.getElementById("node").innerHTML="3";
+document.getElementById("node").style.color="rebeccapurple";}
+else if (twentysix.style.color==="red") {
+document.getElementById("node").innerHTML="3";
+document.getElementById("node").style.color="rebeccapurple";}
+else if (twentyseven.style.color==="red") {
+document.getElementById("node").innerHTML="3";
+document.getElementById("node").style.color="rebeccapurple";}
+else if (twentyeight.style.color==="red") {
+document.getElementById("node").innerHTML="3";
+document.getElementById("node").style.color="rebeccapurple";}
+else if (twentynine.style.color==="red") {
+document.getElementById("node").innerHTML="3";
+document.getElementById("node").style.color="rebeccapurple";}
+else if (thirty.style.color==="red") {
+document.getElementById("node").innerHTML="3";
+document.getElementById("node").style.color="rebeccapurple";}
+else if (thirtyone.style.color==="red") {
+document.getElementById("node").innerHTML="3";
+document.getElementById("node").style.color="rebeccapurple";}
+else if (thirtytwo.style.color==="red") {
+document.getElementById("node").innerHTML="3";
+document.getElementById("node").style.color="rebeccapurple";}}
+
 function selectTileFour() {
-document.getElementById("node").innerHTML="4";}
+if (one.style.color==="red") {
+document.getElementById("node").innerHTML="4";
+document.getElementById("node").style.color="violet";}
+else if (two.style.color==="red") {
+document.getElementById("node").innerHTML="4";
+document.getElementById("node").style.color="violet";}
+else if (three.style.color==="red") {
+document.getElementById("node").innerHTML="4";
+document.getElementById("node").style.color="violet";}
+else if (four.style.color==="red") {
+document.getElementById("node").innerHTML="4";
+document.getElementById("node").style.color="violet";}
+else if (five.style.color==="red") {
+document.getElementById("node").innerHTML="4";
+document.getElementById("node").style.color="violet";}
+else if (six.style.color==="red") {
+document.getElementById("node").innerHTML="4";
+document.getElementById("node").style.color="violet";}
+else if (seven.style.color==="red") {
+document.getElementById("node").innerHTML="4";
+document.getElementById("node").style.color="violet";}
+else if (eight.style.color==="red") {
+document.getElementById("node").innerHTML="4";
+document.getElementById("node").style.color="violet";}
+else if (nine.style.color==="red") {
+document.getElementById("node").innerHTML="4";
+document.getElementById("node").style.color="violet";}
+else if (ten.style.color==="red") {
+document.getElementById("node").innerHTML="4";
+document.getElementById("node").style.color="violet";}
+else if (eleven.style.color==="red") {
+document.getElementById("node").innerHTML="4";
+document.getElementById("node").style.color="violet";}
+else if (twelve.style.color==="red") {
+document.getElementById("node").innerHTML="4";
+document.getElementById("node").style.color="violet";}
+else if (thirteen.style.color==="red") {
+document.getElementById("node").innerHTML="4";
+document.getElementById("node").style.color="violet";}
+else if (fourteen.style.color==="red") {
+document.getElementById("node").innerHTML="4";
+document.getElementById("node").style.color="violet";}
+else if (fifteen.style.color==="red") {
+document.getElementById("node").innerHTML="4";
+document.getElementById("node").style.color="violet";}
+else if (sixteen.style.color==="red") {
+document.getElementById("node").innerHTML="4";
+document.getElementById("node").style.color="violet";}
+else if (seventeen.style.color==="red") {
+document.getElementById("node").innerHTML="4";
+document.getElementById("node").style.color="violet";}
+else if (eighteen.style.color==="red") {
+document.getElementById("node").innerHTML="4";
+document.getElementById("node").style.color="violet";}
+else if (nineteen.style.color==="red") {
+document.getElementById("node").innerHTML="4";
+document.getElementById("node").style.color="violet";}
+else if (twenty.style.color==="red") {
+document.getElementById("node").innerHTML="4";
+document.getElementById("node").style.color="violet";}
+else if (twentyone.style.color==="red") {
+document.getElementById("node").innerHTML="4";
+document.getElementById("node").style.color="violet";}
+else if (twentytwo.style.color==="red") {
+document.getElementById("node").innerHTML="4";
+document.getElementById("node").style.color="violet";}
+else if (twentythree.style.color==="red") {
+document.getElementById("node").innerHTML="4";
+document.getElementById("node").style.color="violet";}
+else if (twentyfour.style.color==="red") {
+document.getElementById("node").innerHTML="4";
+document.getElementById("node").style.color="violet";}
+else if (twentyfive.style.color==="red") {
+document.getElementById("node").innerHTML="4";
+document.getElementById("node").style.color="violet";}
+else if (twentysix.style.color==="red") {
+document.getElementById("node").innerHTML="4";
+document.getElementById("node").style.color="violet";}
+else if (twentyseven.style.color==="red") {
+document.getElementById("node").innerHTML="4";
+document.getElementById("node").style.color="violet";}
+else if (twentyeight.style.color==="red") {
+document.getElementById("node").innerHTML="4";
+document.getElementById("node").style.color="violet";}
+else if (twentynine.style.color==="red") {
+document.getElementById("node").innerHTML="4";
+document.getElementById("node").style.color="violet";}
+else if (thirty.style.color==="red") {
+document.getElementById("node").innerHTML="4";
+document.getElementById("node").style.color="violet";}
+else if (thirtyone.style.color==="red") {
+document.getElementById("node").innerHTML="4";
+document.getElementById("node").style.color="violet";}
+else if (thirtytwo.style.color==="red") {
+document.getElementById("node").innerHTML="4";
+document.getElementById("node").style.color="violet";}}
+
 function selectTileFive() {
-document.getElementById("node").innerHTML="5";}
+if (one.style.color==="purple") {
+document.getElementById("node").innerHTML="5";
+document.getElementById("node").style.color="plum";}
+else if (two.style.color==="purple") {
+document.getElementById("node").innerHTML="5";
+document.getElementById("node").style.color="plum";}
+else if (three.style.color==="purple") {
+document.getElementById("node").innerHTML="5";
+document.getElementById("node").style.color="plum";}
+else if (four.style.color==="purple") {
+document.getElementById("node").innerHTML="5";
+document.getElementById("node").style.color="plum";}
+else if (five.style.color==="purple") {
+document.getElementById("node").innerHTML="5";
+document.getElementById("node").style.color="plum";}
+else if (six.style.color==="purple") {
+document.getElementById("node").innerHTML="5";
+document.getElementById("node").style.color="plum";}
+else if (seven.style.color==="purple") {
+document.getElementById("node").innerHTML="5";
+document.getElementById("node").style.color="plum";}
+else if (eight.style.color==="purple") {
+document.getElementById("node").innerHTML="5";
+document.getElementById("node").style.color="plum";}
+else if (nine.style.color==="purple") {
+document.getElementById("node").innerHTML="5";
+document.getElementById("node").style.color="plum";}
+else if (ten.style.color==="purple") {
+document.getElementById("node").innerHTML="5";
+document.getElementById("node").style.color="plum";}
+else if (eleven.style.color==="purple") {
+document.getElementById("node").innerHTML="5";
+document.getElementById("node").style.color="plum";}
+else if (twelve.style.color==="purple") {
+document.getElementById("node").innerHTML="5";
+document.getElementById("node").style.color="plum";}
+else if (thirteen.style.color==="purple") {
+document.getElementById("node").innerHTML="5";
+document.getElementById("node").style.color="plum";}
+else if (fourteen.style.color==="purple") {
+document.getElementById("node").innerHTML="5";
+document.getElementById("node").style.color="plum";}
+else if (fifteen.style.color==="purple") {
+document.getElementById("node").innerHTML="5";
+document.getElementById("node").style.color="plum";}
+else if (sixteen.style.color==="purple") {
+document.getElementById("node").innerHTML="5";
+document.getElementById("node").style.color="plum";}
+else if (seventeen.style.color==="purple") {
+document.getElementById("node").innerHTML="5";
+document.getElementById("node").style.color="plum";}
+else if (eighteen.style.color==="purple") {
+document.getElementById("node").innerHTML="5";
+document.getElementById("node").style.color="plum";}
+else if (nineteen.style.color==="purple") {
+document.getElementById("node").innerHTML="5";
+document.getElementById("node").style.color="plum";}
+else if (twenty.style.color==="purple") {
+document.getElementById("node").innerHTML="5";
+document.getElementById("node").style.color="plum";}
+else if (twentyone.style.color==="purple") {
+document.getElementById("node").innerHTML="5";
+document.getElementById("node").style.color="plum";}
+else if (twentytwo.style.color==="purple") {
+document.getElementById("node").innerHTML="5";
+document.getElementById("node").style.color="plum";}
+else if (twentythree.style.color==="purple") {
+document.getElementById("node").innerHTML="5";
+document.getElementById("node").style.color="plum";}
+else if (twentyfour.style.color==="purple") {
+document.getElementById("node").innerHTML="5";
+document.getElementById("node").style.color="plum";}
+else if (twentyfive.style.color==="purple") {
+document.getElementById("node").innerHTML="5";
+document.getElementById("node").style.color="plum";}
+else if (twentysix.style.color==="purple") {
+document.getElementById("node").innerHTML="5";
+document.getElementById("node").style.color="plum";}
+else if (twentyseven.style.color==="purple") {
+document.getElementById("node").innerHTML="5";
+document.getElementById("node").style.color="plum";}
+else if (twentyeight.style.color==="purple") {
+document.getElementById("node").innerHTML="5";
+document.getElementById("node").style.color="plum";}
+else if (twentynine.style.color==="purple") {
+document.getElementById("node").innerHTML="5";
+document.getElementById("node").style.color="plum";}
+else if (thirty.style.color==="purple") {
+document.getElementById("node").innerHTML="5";
+document.getElementById("node").style.color="plum";}
+else if (thirtyone.style.color==="purple") {
+document.getElementById("node").innerHTML="5";
+document.getElementById("node").style.color="plum";}
+else if (thirtytwo.style.color==="purple") {
+document.getElementById("node").innerHTML="5";
+document.getElementById("node").style.color="plum";}}
+
 function selectTileSix() {
-document.getElementById("node").innerHTML="6";}
+if (one.style.color==="purple") {
+document.getElementById("node").innerHTML="6";
+document.getElementById("node").style.color="darkblue";}
+else if (two.style.color==="purple") {
+document.getElementById("node").innerHTML="6";
+document.getElementById("node").style.color="darkblue";}
+else if (three.style.color==="purple") {
+document.getElementById("node").innerHTML="6";
+document.getElementById("node").style.color="darkblue";}
+else if (four.style.color==="purple") {
+document.getElementById("node").innerHTML="6";
+document.getElementById("node").style.color="darkblue";}
+else if (five.style.color==="purple") {
+document.getElementById("node").innerHTML="6";
+document.getElementById("node").style.color="darkblue";}
+else if (six.style.color==="purple") {
+document.getElementById("node").innerHTML="6";
+document.getElementById("node").style.color="darkblue";}
+else if (seven.style.color==="purple") {
+document.getElementById("node").innerHTML="6";
+document.getElementById("node").style.color="darkblue";}
+else if (eight.style.color==="purple") {
+document.getElementById("node").innerHTML="6";
+document.getElementById("node").style.color="darkblue";}
+else if (nine.style.color==="purple") {
+document.getElementById("node").innerHTML="6";
+document.getElementById("node").style.color="darkblue";}
+else if (ten.style.color==="purple") {
+document.getElementById("node").innerHTML="6";
+document.getElementById("node").style.color="darkblue";}
+else if (eleven.style.color==="purple") {
+document.getElementById("node").innerHTML="6";
+document.getElementById("node").style.color="darkblue";}
+else if (twelve.style.color==="purple") {
+document.getElementById("node").innerHTML="6";
+document.getElementById("node").style.color="darkblue";}
+else if (thirteen.style.color==="purple") {
+document.getElementById("node").innerHTML="6";
+document.getElementById("node").style.color="darkblue";}
+else if (fourteen.style.color==="purple") {
+document.getElementById("node").innerHTML="6";
+document.getElementById("node").style.color="darkblue";}
+else if (fifteen.style.color==="purple") {
+document.getElementById("node").innerHTML="6";
+document.getElementById("node").style.color="darkblue";}
+else if (sixteen.style.color==="purple") {
+document.getElementById("node").innerHTML="6";
+document.getElementById("node").style.color="darkblue";}
+else if (seventeen.style.color==="purple") {
+document.getElementById("node").innerHTML="6";
+document.getElementById("node").style.color="darkblue";}
+else if (eighteen.style.color==="purple") {
+document.getElementById("node").innerHTML="6";
+document.getElementById("node").style.color="darkblue";}
+else if (nineteen.style.color==="purple") {
+document.getElementById("node").innerHTML="6";
+document.getElementById("node").style.color="darkblue";}
+else if (twenty.style.color==="purple") {
+document.getElementById("node").innerHTML="6";
+document.getElementById("node").style.color="darkblue";}
+else if (twentyone.style.color==="purple") {
+document.getElementById("node").innerHTML="6";
+document.getElementById("node").style.color="darkblue";}
+else if (twentytwo.style.color==="purple") {
+document.getElementById("node").innerHTML="6";
+document.getElementById("node").style.color="darkblue";}
+else if (twentythree.style.color==="purple") {
+document.getElementById("node").innerHTML="6";
+document.getElementById("node").style.color="darkblue";}
+else if (twentyfour.style.color==="purple") {
+document.getElementById("node").innerHTML="6";
+document.getElementById("node").style.color="darkblue";}
+else if (twentyfive.style.color==="purple") {
+document.getElementById("node").innerHTML="6";
+document.getElementById("node").style.color="darkblue";}
+else if (twentysix.style.color==="purple") {
+document.getElementById("node").innerHTML="6";
+document.getElementById("node").style.color="darkblue";}
+else if (twentyseven.style.color==="purple") {
+document.getElementById("node").innerHTML="6";
+document.getElementById("node").style.color="darkblue";}
+else if (twentyeight.style.color==="purple") {
+document.getElementById("node").innerHTML="6";
+document.getElementById("node").style.color="darkblue";}
+else if (twentynine.style.color==="purple") {
+document.getElementById("node").innerHTML="6";
+document.getElementById("node").style.color="darkblue";}
+else if (thirty.style.color==="purple") {
+document.getElementById("node").innerHTML="6";
+document.getElementById("node").style.color="darkblue";}
+else if (thirtyone.style.color==="purple") {
+document.getElementById("node").innerHTML="6";
+document.getElementById("node").style.color="darkblue";}
+else if (thirtytwo.style.color==="purple") {
+document.getElementById("node").innerHTML="6";
+document.getElementById("node").style.color="darkblue";}}
 
 document.getElementById("a1").addEventListener("click", selectTileOne);
 document.getElementById("b1").addEventListener("click", selectTileTwo);
