@@ -71,6 +71,7 @@ var athirtytwo=document.getElementById("fone");
 if (buttonTwo.innerHTML==="Two") {
 buttonTwo.innerHTML="P2"
 one.innerHTML="Two";
+one.style.color="purple";
 wallet.innerHTML="$1000";
 y.innerHTML="+$10";
 z.innerHTML="-$10";
