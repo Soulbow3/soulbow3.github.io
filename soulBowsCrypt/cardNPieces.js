@@ -1,69 +1,17 @@
 function drunkTank() {
 var jailStartOne=document.getElementById("oneX");
-var jailStartTwo=document.getElementById("twoX");
 var jailOne=document.getElementById("oneH");
 var jailTwo=document.getElementById("twoH");
 var jailStartThree=document.getElementById("threeX");
-var jailThree=document.getElementById("threeH");
 var lock=document.getElementById("id24");
 if (jailStartOne.innerHTML==="One") {
 jailStartOne.innerHTML="";
 jailOne.innerHTML="One";
 lock.style.background="silver";
 jailOne.style.color="black";}
-else if (jailStartOne.innerHTML==="Red") {
-jailStartOne.innerHTML="";
-jailOne.innerHTML="Red";
-lock.style.backround="silver";
-jailOne.style.color="black";}
-else if (jailStartOne.innerHTML==="Yellow") {
-jailStartOne.innerHTML="";
-jailOne.innerHTML="Yellow";
-lock.style.background="silver";
-jailOne.style.color="black";}
-else if (jailStartOne.innerHTML==="Pink") {
-jailStartOne.innerHTML="";
-jailOne.innerHTML="Pink";
-lock.style.background="silver";
-jailOne.style.color="black";}
-else if (jailStartTwo.innerHTML==="Two") {
-jailStartTwo.innerHTML="";
-jailTwo.innerHTML="Two";
-lock.style.background="silver";
-jailTwo.style.color="black";}
-else if (jailStartTwo.innerHTML==="Red") {
-jailStartTwo.innerHTML="";
-jailTwo.innerHTML="Red";
-lock.style.background="silver";
-jailTwo.style.color="black";}
-else if (jailStartTwo.innerHTML==="Yellow") {
-jailStartTwo.innerHTML="";
-jailTwo.innerHTML="Yellow";
-lock.style.background="silver";
-jailTwo.style.color="black";}
-else if (jailStartTwo.innerHTML==="Pink") {
-jailStartTwo.innerHTML="";
-jailTwo.innerHTML="Pink";
-lock.style.background="silver";
-jailTwo.style.color="black";}
 else if (jailStartThree.innerHTML==="Three") {
 jailStartThree.innerHTML="";
 jailThree.innerHTML="Three";
-lock.style.background="silver";
-jailThree.style.color="black";}
-else if (jailStartThree.innerHTML==="Red") {
-jailStartThree.innerHTML="";
-jailThree.innerHTML="Red";
-lock.style.background="silver";
-jailThree.style.color="black";}
-else if (jailStartThree.innerHTML==="Yellow") {
-jailStartThree.innerHTML="";
-jailThree.innerHTML="Yellow";
-lock.style.background="silver";
-jailThree.style.color="black";}
-else if (jailStartThree.innerHTML==="Pink") {
-jailStartThree.innerHTML="";
-jailThree.innerHTML="Pink";
 lock.style.background="silver";
 jailThree.style.color="black";}}
 
@@ -77,83 +25,21 @@ var homeThree=document.getElementById("threeA");
 if (startOne.innerHTML==="One") {
 startOne.innerHTML="";
 homeOne.innerHTML="One";}
-else if (startOne.innerHTML==="Red") {
-startOne.innerHTML="";
-homeOne.innerHTML="Red";}
-else if (startOne.innerHTML==="Yellow") {
-startOne.innerHTML="";
-homeOne.innerHTML="Yellow";}
-else if (startOne.innerHTML==="Pink") {
-startOne.innerHTML="";
-homeOne.innerHTML="Pink";}
-else if (startTwo.innerHTML==="Two") {
-startTwo.innerHTML="";
-homeTwo.innerHTML="Two";}
-else if (startTwo.innerHTML==="Red") {
-startTwo.innerHTML="";
-homeTwo.innerHTML="Red";}
-else if (startTwo.innerHTML==="Yellow") {
-startTwo.innerHTML="";
-homeTwo.innerHTML="Yellow";}
-else if (startTwo.innerHTML==="Pink") {
-startTwo.innerHTML="";
-homeTwo.innerHTML="Pink";}
 else if (startThree.innerHTML==="Three") {
 starThree.innerHTML="";
-homeThree.innerHTML="Three";}
-else if (startThree.innerHTML==="Red") {
-startThree.innerHTML="";
-homeThree.innerHTML="Red";}
-else if (startThree.innerHTML==="Yellow") {
-startThree.innerHTML="";
-homeThree.innerHTML="Yellow";}
-else if (startThree.innerHTML==="Pink") {
-startThree.innerHTML="";
-homeThree.innerHTML="Pink";}}
+homeThree.innerHTML="Three";}}
 
 function start2() {
 var startOne=document.getElementById("oneL");
-var startTwo=document.getElementById("twoL");
 var homeOne=document.getElementById("oneA");
-var homeTwo=document.getElementById("twoA");
 var startThree=document.getElementById("threeL");
 var homeThree=document.getElementById("threeA");
 if (startOne.innerHTML==="One") {
 startOne.innerHTML="";
 homeOne.innerHTML="One";}
-else if (startOne.innerHTML==="Red") {
-startOne.innerHTML="";
-homeOne.innerHTML="Red";}
-else if (startOne.innerHTML==="Yellow") {
-startOne.innerHTML="";
-homeOne.innerHTML="Yellow";}
-else if (startOne.innerHTML==="Pink") {
-startOne.innerHTML="";
-homeOne.innerHTML="Pink";}
-else if (startTwo.innerHTML==="Two") {
-startTwo.innerHTML="";
-homeTwo.innerHTML="Two";}
-else if (startTwo.innerHTML==="Red") {
-startTwo.innerHTML="";
-homeTwo.innerHTML="Red";}
-else if (startTwo.innerHTML==="Yellow") {
-startTwo.innerHTML="";
-homeTwo.innerHTML="Yellow";}
-else if (startTwo.innerHTML==="Pink") {
-startTwo.innerHTML="";
-homeTwo.innerHTML="Pink";}
 else if (startThree.innerHTML==="Three") {
 startThree.innerHTML="";
-homeThree.innerHTML="Three";}
-else if (startThree.innerHTML==="Red") {
-startThree.innerHTML="";
-homeThree.innerHTML="Red";}
-else if (startThree.innerHTML==="Yellow") {
-startThree.innerHTML="";
-homeThree.innerHTML="Yellow";}
-else if (startThree.innerHTML==="Pink") {
-startThree.innerHTML="";
-homeThree.innerHTML="Pink";}}
+homeThree.innerHTML="Three";}}
 
 function piece(element) {
 var one=document.getElementById("oneA");
@@ -829,138 +715,6 @@ acc.innerHTML==="Back 3" && tile3a.innerHTML==="Three") {
 acc.innerHTML="+$100";}
 else if (
 acc.innerHTML==="+$100" && tile3a.innerHTML==="Three") {
-acc.innerHTML="Ad- vance To Go";}
- 
-else if (acc.innerHTML==="Ad- vance To Go" && tile1a.innerHTML==="Yellow") {
-acc.innerHTML="No- thing";}
-else if (
-acc.innerHTML==="No- thing" && tile1a.innerHTML==="Yellow") {
-acc.innerHTML="Jail";}
-else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="Yellow") 
-{acc.innerHTML="+$150";}
-else if (
-acc.innerHTML==="+$150" && tile1a.innerHTML==="Yellow") {
-acc.innerHTML="Ad- vance To Gold";}
-else if (
-acc.innerHTML==="Ad- vance To Gold" && tile1a.innerHTML==="Yellow") {
-acc.innerHTML="-$100";}
-else if (acc.innerHTML==="-$100" && tile1a.innerHTML==="Yellow") {
-acc.innerHTML="Back 3";}
-else if (
-acc.innerHTML==="Back 3" && tile1a.innerHTML==="Yellow") {
-acc.innerHTML="+$100";}
-else if (
-acc.innerHTML==="+$100" && tile1a.innerHTML==="Yellow") {
-acc.innerHTML="Ad- vance To Go";}
-
-else if (acc.innerHTML==="Ad- vance To Go" && tile3a.innerHTML==="Yellow") {
-acc.innerHTML="No- thing";}
-else if (
-acc.innerHTML==="No- thing" && tile3a.innerHTML==="Yellow") {
-acc.innerHTML="Jail";}
-else if (acc.innerHTML==="Jail" && tile3a.innerHTML==="Yellow") 
-{acc.innerHTML="+$150";}
-else if (
-acc.innerHTML==="+$150" && tile3a.innerHTML==="Yellow") {
-acc.innerHTML="Ad- vance To Gold";}
-else if (
-acc.innerHTML==="Ad- vance To Gold" && tile3a.innerHTML==="Yellow") {
-acc.innerHTML="-$100";}
-else if (acc.innerHTML==="-$100" && tile3a.innerHTML==="Yellow") {
-acc.innerHTML="Back 3";}
-else if (
-acc.innerHTML==="Back 3" && tile3a.innerHTML==="Yellow") {
-acc.innerHTML="+$100";}
-else if (
-acc.innerHTML==="+$100" && tile3a.innerHTML==="Yellow") {
-acc.innerHTML="Ad- vance To Go";}
-
-else if (acc.innerHTML==="Ad- vance To Go" && tile1a.innerHTML==="Red") {
-acc.innerHTML="No- thing";}
-else if (
-acc.innerHTML==="No- thing" && tile1a.innerHTML==="Red") {
-acc.innerHTML="Jail";}
-else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="Red") 
-{acc.innerHTML="+$150";}
-else if (
-acc.innerHTML==="+$150" && tile1a.innerHTML==="Red") {
-acc.innerHTML="Ad- vance To Gold";}
-else if (
-acc.innerHTML==="Ad- vance To Gold" && tile1a.innerHTML==="Red") {
-acc.innerHTML="-$100";}
-else if (acc.innerHTML==="-$100" && tile1a.innerHTML==="Red") {
-acc.innerHTML="Back 3";}
-else if (
-acc.innerHTML==="Back 3" && tile1a.innerHTML==="Red") {
-acc.innerHTML="+$100";}
-else if (
-acc.innerHTML==="+$100" && tile1a.innerHTML==="Red") {
-acc.innerHTML="Ad- vance To Go";}
-
-else if (acc.innerHTML==="Ad- vance To Go" && tile3a.innerHTML==="Red") {
-acc.innerHTML="No- thing";}
-else if (
-acc.innerHTML==="No- thing" && tile3a.innerHTML==="Red") {
-acc.innerHTML="Jail";}
-else if (acc.innerHTML==="Jail" && tile3a.innerHTML==="Red") 
-{acc.innerHTML="+$150";}
-else if (
-acc.innerHTML==="+$150" && tile3a.innerHTML==="Red") {
-acc.innerHTML="Ad- vance To Gold";}
-else if (
-acc.innerHTML==="Ad- vance To Gold" && tile3a.innerHTML==="Red") {
-acc.innerHTML="-$100";}
-else if (acc.innerHTML==="-$100" && tile3a.innerHTML==="Red") {
-acc.innerHTML="Back 3";}
-else if (
-acc.innerHTML==="Back 3" && tile3a.innerHTML==="Red") {
-acc.innerHTML="+$100";}
-else if (
-acc.innerHTML==="+$100" && tile3a.innerHTML==="Red") {
-acc.innerHTML="Ad- vance To Go";}
-
-else if (acc.innerHTML==="Ad- vance To Go" && tile1a.innerHTML==="Pink") {
-acc.innerHTML="No- thing";}
-else if (
-acc.innerHTML==="No- thing" && tile1a.innerHTML==="Pink") {
-acc.innerHTML="Jail";}
-else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="Pink") 
-{acc.innerHTML="+$150";}
-else if (
-acc.innerHTML==="+$150" && tile1a.innerHTML==="Pink") {
-acc.innerHTML="Ad- vance To Gold";}
-else if (
-acc.innerHTML==="Ad- vance To Gold" && tile1a.innerHTML==="Pink") {
-acc.innerHTML="-$100";}
-else if (acc.innerHTML==="-$100" && tile1a.innerHTML==="Pink") {
-acc.innerHTML="Back 3";}
-else if (
-acc.innerHTML==="Back 3" && tile1a.innerHTML==="Pink") {
-acc.innerHTML="+$100";}
-else if (
-acc.innerHTML==="+$100" && tile1a.innerHTML==="Pink") {
-acc.innerHTML="Ad- vance To Go";}
-
-else if (acc.innerHTML==="Ad- vance To Go" && tile3a.innerHTML==="Pink") {
-acc.innerHTML="No- thing";}
-else if (
-acc.innerHTML==="No- thing" && tile3a.innerHTML==="Pink") {
-acc.innerHTML="Jail";}
-else if (acc.innerHTML==="Jail" && tile3a.innerHTML==="Pink") 
-{acc.innerHTML="+$150";}
-else if (
-acc.innerHTML==="+$150" && tile3a.innerHTML==="Pink") {
-acc.innerHTML="Ad- vance To Gold";}
-else if (
-acc.innerHTML==="Ad- vance To Gold" && tile3a.innerHTML==="Pink") {
-acc.innerHTML="-$100";}
-else if (acc.innerHTML==="-$100" && tile3a.innerHTML==="Pink") {
-acc.innerHTML="Back 3";}
-else if (
-acc.innerHTML==="Back 3" && tile3a.innerHTML==="Pink") {
-acc.innerHTML="+$100";}
-else if (
-acc.innerHTML==="+$100" && tile3a.innerHTML==="Pink") {
 acc.innerHTML="Ad- vance To Go";}}
  
 function card2() {
@@ -1009,138 +763,6 @@ acc.innerHTML==="Back 3" && tile3a.innerHTML==="Three") {
 acc.innerHTML="+$100";}
 else if (
 acc.innerHTML==="+$100" && tile3a.innerHTML==="Three") {
-acc.innerHTML="Ad- vance To Go";}
- 
-else if (acc.innerHTML==="Ad- vance To Go" && tile1a.innerHTML==="Yellow") {
-acc.innerHTML="No- thing";}
-else if (
-acc.innerHTML==="No- thing" && tile1a.innerHTML==="Yellow") {
-acc.innerHTML="Jail";}
-else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="Yellow") 
-{acc.innerHTML="+$150";}
-else if (
-acc.innerHTML==="+$150" && tile1a.innerHTML==="Yellow") {
-acc.innerHTML="Ad- vance To Gold";}
-else if (
-acc.innerHTML==="Ad- vance To Gold" && tile1a.innerHTML==="Yellow") {
-acc.innerHTML="-$100";}
-else if (acc.innerHTML==="-$100" && tile1a.innerHTML==="Yellow") {
-acc.innerHTML="Back 3";}
-else if (
-acc.innerHTML==="Back 3" && tile1a.innerHTML==="Yellow") {
-acc.innerHTML="+$100";}
-else if (
-acc.innerHTML==="+$100" && tile1a.innerHTML==="Yellow") {
-acc.innerHTML="Ad- vance To Go";}
-
-else if (acc.innerHTML==="Ad- vance To Go" && tile3a.innerHTML==="Yellow") {
-acc.innerHTML="No- thing";}
-else if (
-acc.innerHTML==="No- thing" && tile3a.innerHTML==="Yellow") {
-acc.innerHTML="Jail";}
-else if (acc.innerHTML==="Jail" && tile3a.innerHTML==="Yellow") 
-{acc.innerHTML="+$150";}
-else if (
-acc.innerHTML==="+$150" && tile3a.innerHTML==="Yellow") {
-acc.innerHTML="Ad- vance To Gold";}
-else if (
-acc.innerHTML==="Ad- vance To Gold" && tile3a.innerHTML==="Yellow") {
-acc.innerHTML="-$100";}
-else if (acc.innerHTML==="-$100" && tile3a.innerHTML==="Yellow") {
-acc.innerHTML="Back 3";}
-else if (
-acc.innerHTML==="Back 3" && tile3a.innerHTML==="Yellow") {
-acc.innerHTML="+$100";}
-else if (
-acc.innerHTML==="+$100" && tile3a.innerHTML==="Yellow") {
-acc.innerHTML="Ad- vance To Go";}
-
-else if (acc.innerHTML==="Ad- vance To Go" && tile1a.innerHTML==="Red") {
-acc.innerHTML="No- thing";}
-else if (
-acc.innerHTML==="No- thing" && tile1a.innerHTML==="Red") {
-acc.innerHTML="Jail";}
-else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="Red") 
-{acc.innerHTML="+$150";}
-else if (
-acc.innerHTML==="+$150" && tile1a.innerHTML==="Red") {
-acc.innerHTML="Ad- vance To Gold";}
-else if (
-acc.innerHTML==="Ad- vance To Gold" && tile1a.innerHTML==="Red") {
-acc.innerHTML="-$100";}
-else if (acc.innerHTML==="-$100" && tile1a.innerHTML==="Red") {
-acc.innerHTML="Back 3";}
-else if (
-acc.innerHTML==="Back 3" && tile1a.innerHTML==="Red") {
-acc.innerHTML="+$100";}
-else if (
-acc.innerHTML==="+$100" && tile1a.innerHTML==="Red") {
-acc.innerHTML="Ad- vance To Go";}
-
-else if (acc.innerHTML==="Ad- vance To Go" && tile3a.innerHTML==="Red") {
-acc.innerHTML="No- thing";}
-else if (
-acc.innerHTML==="No- thing" && tile3a.innerHTML==="Red") {
-acc.innerHTML="Jail";}
-else if (acc.innerHTML==="Jail" && tile3a.innerHTML==="Red") 
-{acc.innerHTML="+$150";}
-else if (
-acc.innerHTML==="+$150" && tile3a.innerHTML==="Red") {
-acc.innerHTML="Ad- vance To Gold";}
-else if (
-acc.innerHTML==="Ad- vance To Gold" && tile3a.innerHTML==="Red") {
-acc.innerHTML="-$100";}
-else if (acc.innerHTML==="-$100" && tile3a.innerHTML==="Red") {
-acc.innerHTML="Back 3";}
-else if (
-acc.innerHTML==="Back 3" && tile3a.innerHTML==="Red") {
-acc.innerHTML="+$100";}
-else if (
-acc.innerHTML==="+$100" && tile3a.innerHTML==="Red") {
-acc.innerHTML="Ad- vance To Go";}
-
-else if (acc.innerHTML==="Ad- vance To Go" && tile1a.innerHTML==="Pink") {
-acc.innerHTML="No- thing";}
-else if (
-acc.innerHTML==="No- thing" && tile1a.innerHTML==="Pink") {
-acc.innerHTML="Jail";}
-else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="Pink") 
-{acc.innerHTML="+$150";}
-else if (
-acc.innerHTML==="+$150" && tile1a.innerHTML==="Pink") {
-acc.innerHTML="Ad- vance To Gold";}
-else if (
-acc.innerHTML==="Ad- vance To Gold" && tile1a.innerHTML==="Pink") {
-acc.innerHTML="-$100";}
-else if (acc.innerHTML==="-$100" && tile1a.innerHTML==="Pink") {
-acc.innerHTML="Back 3";}
-else if (
-acc.innerHTML==="Back 3" && tile1a.innerHTML==="Pink") {
-acc.innerHTML="+$100";}
-else if (
-acc.innerHTML==="+$100" && tile1a.innerHTML==="Pink") {
-acc.innerHTML="Ad- vance To Go";}
-
-else if (acc.innerHTML==="Ad- vance To Go" && tile3a.innerHTML==="Pink") {
-acc.innerHTML="No- thing";}
-else if (
-acc.innerHTML==="No- thing" && tile3a.innerHTML==="Pink") {
-acc.innerHTML="Jail";}
-else if (acc.innerHTML==="Jail" && tile3a.innerHTML==="Pink") 
-{acc.innerHTML="+$150";}
-else if (
-acc.innerHTML==="+$150" && tile3a.innerHTML==="Pink") {
-acc.innerHTML="Ad- vance To Gold";}
-else if (
-acc.innerHTML==="Ad- vance To Gold" && tile3a.innerHTML==="Pink") {
-acc.innerHTML="-$100";}
-else if (acc.innerHTML==="-$100" && tile3a.innerHTML==="Pink") {
-acc.innerHTML="Back 3";}
-else if (
-acc.innerHTML==="Back 3" && tile3a.innerHTML==="Pink") {
-acc.innerHTML="+$100";}
-else if (
-acc.innerHTML==="+$100" && tile3a.innerHTML==="Pink") {
 acc.innerHTML="Ad- vance To Go";}}
 
 function card3() {
@@ -1189,136 +811,4 @@ acc.innerHTML==="Back 3" && tile3a.innerHTML==="Three") {
 acc.innerHTML="+$100";}
 else if (
 acc.innerHTML==="+$100" && tile3a.innerHTML==="Three") {
-acc.innerHTML="Ad- vance To Go";}
- 
-else if (acc.innerHTML==="Ad- vance To Go" && tile1a.innerHTML==="Yellow") {
-acc.innerHTML="No- thing";}
-else if (
-acc.innerHTML==="No- thing" && tile1a.innerHTML==="Yellow") {
-acc.innerHTML="Jail";}
-else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="Yellow") 
-{acc.innerHTML="+$150";}
-else if (
-acc.innerHTML==="+$150" && tile1a.innerHTML==="Yellow") {
-acc.innerHTML="Ad- vance To Gold";}
-else if (
-acc.innerHTML==="Ad- vance To Gold" && tile1a.innerHTML==="Yellow") {
-acc.innerHTML="-$100";}
-else if (acc.innerHTML==="-$100" && tile1a.innerHTML==="Yellow") {
-acc.innerHTML="Back 3";}
-else if (
-acc.innerHTML==="Back 3" && tile1a.innerHTML==="Yellow") {
-acc.innerHTML="+$100";}
-else if (
-acc.innerHTML==="+$100" && tile1a.innerHTML==="Yellow") {
-acc.innerHTML="Ad- vance To Go";}
-
-else if (acc.innerHTML==="Ad- vance To Go" && tile3a.innerHTML==="Yellow") {
-acc.innerHTML="No- thing";}
-else if (
-acc.innerHTML==="No- thing" && tile3a.innerHTML==="Yellow") {
-acc.innerHTML="Jail";}
-else if (acc.innerHTML==="Jail" && tile3a.innerHTML==="Yellow") 
-{acc.innerHTML="+$150";}
-else if (
-acc.innerHTML==="+$150" && tile3a.innerHTML==="Yellow") {
-acc.innerHTML="Ad- vance To Gold";}
-else if (
-acc.innerHTML==="Ad- vance To Gold" && tile3a.innerHTML==="Yellow") {
-acc.innerHTML="-$100";}
-else if (acc.innerHTML==="-$100" && tile3a.innerHTML==="Yellow") {
-acc.innerHTML="Back 3";}
-else if (
-acc.innerHTML==="Back 3" && tile3a.innerHTML==="Yellow") {
-acc.innerHTML="+$100";}
-else if (
-acc.innerHTML==="+$100" && tile3a.innerHTML==="Yellow") {
-acc.innerHTML="Ad- vance To Go";}
-
-else if (acc.innerHTML==="Ad- vance To Go" && tile1a.innerHTML==="Red") {
-acc.innerHTML="No- thing";}
-else if (
-acc.innerHTML==="No- thing" && tile1a.innerHTML==="Red") {
-acc.innerHTML="Jail";}
-else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="Red") 
-{acc.innerHTML="+$150";}
-else if (
-acc.innerHTML==="+$150" && tile1a.innerHTML==="Red") {
-acc.innerHTML="Ad- vance To Gold";}
-else if (
-acc.innerHTML==="Ad- vance To Gold" && tile1a.innerHTML==="Red") {
-acc.innerHTML="-$100";}
-else if (acc.innerHTML==="-$100" && tile1a.innerHTML==="Red") {
-acc.innerHTML="Back 3";}
-else if (
-acc.innerHTML==="Back 3" && tile1a.innerHTML==="Red") {
-acc.innerHTML="+$100";}
-else if (
-acc.innerHTML==="+$100" && tile1a.innerHTML==="Red") {
-acc.innerHTML="Ad- vance To Go";}
-
-else if (acc.innerHTML==="Ad- vance To Go" && tile3a.innerHTML==="Red") {
-acc.innerHTML="No- thing";}
-else if (
-acc.innerHTML==="No- thing" && tile3a.innerHTML==="Red") {
-acc.innerHTML="Jail";}
-else if (acc.innerHTML==="Jail" && tile3a.innerHTML==="Red") 
-{acc.innerHTML="+$150";}
-else if (
-acc.innerHTML==="+$150" && tile3a.innerHTML==="Red") {
-acc.innerHTML="Ad- vance To Gold";}
-else if (
-acc.innerHTML==="Ad- vance To Gold" && tile3a.innerHTML==="Red") {
-acc.innerHTML="-$100";}
-else if (acc.innerHTML==="-$100" && tile3a.innerHTML==="Red") {
-acc.innerHTML="Back 3";}
-else if (
-acc.innerHTML==="Back 3" && tile3a.innerHTML==="Red") {
-acc.innerHTML="+$100";}
-else if (
-acc.innerHTML==="+$100" && tile3a.innerHTML==="Red") {
-acc.innerHTML="Ad- vance To Go";}
-
-else if (acc.innerHTML==="Ad- vance To Go" && tile1a.innerHTML==="Pink") {
-acc.innerHTML="No- thing";}
-else if (
-acc.innerHTML==="No- thing" && tile1a.innerHTML==="Pink") {
-acc.innerHTML="Jail";}
-else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="Pink") 
-{acc.innerHTML="+$150";}
-else if (
-acc.innerHTML==="+$150" && tile1a.innerHTML==="Pink") {
-acc.innerHTML="Ad- vance To Gold";}
-else if (
-acc.innerHTML==="Ad- vance To Gold" && tile1a.innerHTML==="Pink") {
-acc.innerHTML="-$100";}
-else if (acc.innerHTML==="-$100" && tile1a.innerHTML==="Pink") {
-acc.innerHTML="Back 3";}
-else if (
-acc.innerHTML==="Back 3" && tile1a.innerHTML==="Pink") {
-acc.innerHTML="+$100";}
-else if (
-acc.innerHTML==="+$100" && tile1a.innerHTML==="Pink") {
-acc.innerHTML="Ad- vance To Go";}
-
-else if (acc.innerHTML==="Ad- vance To Go" && tile3a.innerHTML==="Pink") {
-acc.innerHTML="No- thing";}
-else if (
-acc.innerHTML==="No- thing" && tile3a.innerHTML==="Pink") {
-acc.innerHTML="Jail";}
-else if (acc.innerHTML==="Jail" && tile3a.innerHTML==="Pink") 
-{acc.innerHTML="+$150";}
-else if (
-acc.innerHTML==="+$150" && tile3a.innerHTML==="Pink") {
-acc.innerHTML="Ad- vance To Gold";}
-else if (
-acc.innerHTML==="Ad- vance To Gold" && tile3a.innerHTML==="Pink") {
-acc.innerHTML="-$100";}
-else if (acc.innerHTML==="-$100" && tile3a.innerHTML==="Pink") {
-acc.innerHTML="Back 3";}
-else if (
-acc.innerHTML==="Back 3" && tile3a.innerHTML==="Pink") {
-acc.innerHTML="+$100";}
-else if (
-acc.innerHTML==="+$100" && tile3a.innerHTML==="Pink") {
 acc.innerHTML="Ad- vance To Go";}}
