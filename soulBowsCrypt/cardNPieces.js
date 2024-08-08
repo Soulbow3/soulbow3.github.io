@@ -17,9 +17,7 @@ jailThree.style.color="black";}}
 
 function start1() {
 var startOne=document.getElementById("cone");
-var startTwo=document.getElementById("ctwo");
 var homeOne=document.getElementById("oneA");
-var homeTwo=document.getElementById("twoA");
 var startThree=document.getElementById("cthree");
 var homeThree=document.getElementById("threeA");
 if (startOne.innerHTML==="One") {
