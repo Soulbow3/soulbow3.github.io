@@ -6880,7 +6880,7 @@ document.getElementById("node").style.color="red";}
 else if (eight.style.color==="green" && document.getElementById("node").style.color!=="red") {
 document.getElementById("node").innerHTML="1";
 document.getElementById("node").style.color="red";}
-else if (nine.style.color==="green && document.getElementById("node").style.color!=="red"") {
+else if (nine.style.color==="green" && document.getElementById("node").style.color!=="red") {
 document.getElementById("node").innerHTML="1";
 document.getElementById("node").style.color="red";}
 else if (ten.style.color==="green" && document.getElementById("node").style.color!=="red") {
