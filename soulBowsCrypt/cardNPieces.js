@@ -488,6 +488,13 @@ bwabllet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
+else if (btoggle1.style.bbackground==="white" && btwentytwo.innerHTML==="Three") {
+element.innerHTML="";
+bbutton1.innerHTML="Three";
+bwabllet.innerHTML="";
+by.innerHTML="";
+bz.innerHTML="";
+bx.innerHTML="";}
 else if (btoggle1.style.bbackground==="white" && btwentyThree.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
