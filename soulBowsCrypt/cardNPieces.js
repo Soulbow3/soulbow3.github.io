@@ -3159,18 +3159,7 @@ btwo.innerHTML="";
 btwentyfive.innerHTML="Yellow";}
 else if (btwo.innerHTML==="Pink" && accept.innerHTML==="Back 3") {
 btwo.innerHTML="";
-btwentyfive.innerHTML="Pink";}
-
-else if (element.innerHTML==="Red") {
-element.innerHTML="Yellow";}
-else if (element.innerHTML==="Yellow") {
-element.innerHTML="Pink";}
-else if (element.innerHTML==="Pink") {
-element.innerHTML="Red";}
-else if (element.innerHTML!=="One") {
-element.innerHTML="Red";}
-else if (element.innerHTML==="One") {
-element.innerHTML="Red";}}
+btwentyfive.innerHTML="Pink";}}
 
 function card1() {
 var acc=document.getElementById("cardAcc");
