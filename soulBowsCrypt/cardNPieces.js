@@ -1,7 +1,7 @@
 function drunkTank() {
 var jailStartOne=document.getElementById("oneX");
 var jailOne=document.getElementById("oneH");
-var jailTwo=document.getElementById("twoH");
+var jailThree=document.getElementById("threeH");
 var jailStartThree=document.getElementById("threeX");
 var lock=document.getElementById("id24");
 if (jailStartOne.innerHTML==="One") {
