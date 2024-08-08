@@ -25,7 +25,7 @@ else if (three.innerHTML==="Sold P3" && sell3.style.background==="black")
 three.innerHTML="x30";}
 else if (sell1.style.background==="white" && back.style.background==="red") {
 three.innerHTML="x30 $100";
-back.style.background="yellow";}}
+back.style.background="yellow";}
 else if (sell3.style.background==="white" && back.style.background==="green") {
 three.innerHTML="x30 $100";
 back.style.background="yellow";}
@@ -67,7 +67,7 @@ else if (three.innerHTML==="Sold P3" && sell3.style.background==="black")
 three.innerHTML="x40";}
 else if (sell1.style.background==="white" && back.style.background==="red") {
 three.innerHTML="x40 $100";
-back.style.background="yellow";}}
+back.style.background="yellow";}
 else if (sell3.style.background==="white" && back.style.background==="green") {
 three.innerHTML="x40 $100";
 back.style.background="yellow";}
