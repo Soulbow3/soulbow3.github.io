@@ -6855,100 +6855,100 @@ var twentynine=document.getElementById("cone");
 var thirty=document.getElementById("done");
 var thirtyone=document.getElementById("eone");
 var thirtytwo=document.getElementById("fone");
-if (one.style.color==="red") {
+if (one.style.color==="red" && document.getElementById("node").style.color!=="green") {
 document.getElementById("node").innerHTML="1";
 document.getElementById("node").style.color="green";}
-else if (two.style.color==="red") {
+else if (two.style.color==="red" && document.getElementById("node").style.color!=="green") {
 document.getElementById("node").innerHTML="1";
 document.getElementById("node").style.color="green";}
-else if (three.style.color==="red") {
+else if (three.style.color==="red" && document.getElementById("node").style.color!=="green") {
 document.getElementById("node").innerHTML="1";
 document.getElementById("node").style.color="green";}
-else if (four.style.color==="red") {
+else if (four.style.color==="red" && document.getElementById("node").style.color!=="green") {
 document.getElementById("node").innerHTML="1";
 document.getElementById("node").style.color="green";}
-else if (five.style.color==="red") {
+else if (five.style.color==="red" && document.getElementById("node").style.color!=="green") {
 document.getElementById("node").innerHTML="1";
 document.getElementById("node").style.color="green";}
-else if (six.style.color==="red") {
+else if (six.style.color==="red" && document.getElementById("node").style.color!=="green") {
 document.getElementById("node").innerHTML="1";
 document.getElementById("node").style.color="green";}
-else if (seven.style.color==="red") {
+else if (seven.style.color==="red" && document.getElementById("node").style.color!=="green") {
 document.getElementById("node").innerHTML="1";
 document.getElementById("node").style.color="green";}
-else if (eight.style.color==="red") {
+else if (eight.style.color==="red" && document.getElementById("node").style.color!=="green") {
 document.getElementById("node").innerHTML="1";
 document.getElementById("node").style.color="green";}
-else if (nine.style.color==="red") {
+else if (nine.style.color==="red" && document.getElementById("node").style.color!=="green") {
 document.getElementById("node").innerHTML="1";
 document.getElementById("node").style.color="green";}
-else if (ten.style.color==="red") {
+else if (ten.style.color==="red" && document.getElementById("node").style.color!=="green") {
 document.getElementById("node").innerHTML="1";
 document.getElementById("node").style.color="green";}
-else if (eleven.style.color==="red") {
+else if (eleven.style.color==="red" && document.getElementById("node").style.color!=="green") {
 document.getElementById("node").innerHTML="1";
 document.getElementById("node").style.color="green";}
-else if (twelve.style.color==="red") {
+else if (twelve.style.color==="red" && document.getElementById("node").style.color!=="green") {
 document.getElementById("node").innerHTML="1";
 document.getElementById("node").style.color="green";}
-else if (thirteen.style.color==="red") {
+else if (thirteen.style.color==="red" && document.getElementById("node").style.color!=="green") {
 document.getElementById("node").innerHTML="1";
 document.getElementById("node").style.color="green";}
-else if (fourteen.style.color==="red") {
+else if (fourteen.style.color==="red" && document.getElementById("node").style.color!=="green") {
 document.getElementById("node").innerHTML="1";
 document.getElementById("node").style.color="green";}
-else if (fifteen.style.color==="red") {
+else if (fifteen.style.color==="red" && document.getElementById("node").style.color!=="green") {
 document.getElementById("node").innerHTML="1";
 document.getElementById("node").style.color="green";}
-else if (sixteen.style.color==="red") {
+else if (sixteen.style.color==="red" && document.getElementById("node").style.color!=="green") {
 document.getElementById("node").innerHTML="1";
 document.getElementById("node").style.color="green";}
-else if (seventeen.style.color==="red") {
+else if (seventeen.style.color==="red" && document.getElementById("node").style.color!=="green") {
 document.getElementById("node").innerHTML="1";
 document.getElementById("node").style.color="green";}
-else if (eighteen.style.color==="red") {
+else if (eighteen.style.color==="red" && document.getElementById("node").style.color!=="green") {
 document.getElementById("node").innerHTML="1";
 document.getElementById("node").style.color="green";}
-else if (nineteen.style.color==="red") {
+else if (nineteen.style.color==="red" && document.getElementById("node").style.color!=="green") {
 document.getElementById("node").innerHTML="1";
 document.getElementById("node").style.color="green";}
-else if (twenty.style.color==="red") {
+else if (twenty.style.color==="red" && document.getElementById("node").style.color!=="green") {
 document.getElementById("node").innerHTML="1";
 document.getElementById("node").style.color="green";}
-else if (twentyone.style.color==="red") {
+else if (twentyone.style.color==="red" && document.getElementById("node").style.color!=="green") {
 document.getElementById("node").innerHTML="1";
 document.getElementById("node").style.color="green";}
-else if (twentytwo.style.color==="red") {
+else if (twentytwo.style.color==="red" && document.getElementById("node").style.color!=="green") {
 document.getElementById("node").innerHTML="1";
 document.getElementById("node").style.color="green";}
-else if (twentythree.style.color==="red") {
+else if (twentythree.style.color==="red" && document.getElementById("node").style.color!=="green") {
 document.getElementById("node").innerHTML="1";
 document.getElementById("node").style.color="green";}
-else if (twentyfour.style.color==="red") {
+else if (twentyfour.style.color==="red" && document.getElementById("node").style.color!=="green") {
 document.getElementById("node").innerHTML="1";
 document.getElementById("node").style.color="green";}
-else if (twentyfive.style.color==="red") {
+else if (twentyfive.style.color==="red" && document.getElementById("node").style.color!=="green") {
 document.getElementById("node").innerHTML="1";
 document.getElementById("node").style.color="green";}
-else if (twentysix.style.color==="red") {
+else if (twentysix.style.color==="red" && document.getElementById("node").style.color!=="green") {
 document.getElementById("node").innerHTML="1";
 document.getElementById("node").style.color="green";}
-else if (twentyseven.style.color==="red") {
+else if (twentyseven.style.color==="red" && document.getElementById("node").style.color!=="green") {
 document.getElementById("node").innerHTML="1";
 document.getElementById("node").style.color="green";}
-else if (twentyeight.style.color==="red") {
+else if (twentyeight.style.color==="red" && document.getElementById("node").style.color!=="green") {
 document.getElementById("node").innerHTML="1";
 document.getElementById("node").style.color="green";}
-else if (twentynine.style.color==="red") {
+else if (twentynine.style.color==="red" && document.getElementById("node").style.color!=="green") {
 document.getElementById("node").innerHTML="1";
 document.getElementById("node").style.color="green";}
-else if (thirty.style.color==="red") {
+else if (thirty.style.color==="red" && document.getElementById("node").style.color!=="green") {
 document.getElementById("node").innerHTML="1";
 document.getElementById("node").style.color="green";}
-else if (thirtyone.style.color==="red") {
+else if (thirtyone.style.color==="red" && document.getElementById("node").style.color!=="green") {
 document.getElementById("node").innerHTML="1";
 document.getElementById("node").style.color="green";}
-else if (thirtytwo.style.color==="red") {
+else if (thirtytwo.style.color==="red" && document.getElementById("node").style.color!=="green") {
 document.getElementById("node").innerHTML="1";
 document.getElementById("node").style.color="green";}}
 
@@ -6985,100 +6985,100 @@ var twentynine=document.getElementById("cone");
 var thirty=document.getElementById("done");
 var thirtyone=document.getElementById("eone");
 var thirtytwo=document.getElementById("fone");
-if (one.style.color==="red") {
+if (one.style.color==="red" && document.getElementById("node").style.color!=="darkgreen") {
 document.getElementById("node").innerHTML="2";
 document.getElementById("node").style.color="darkgreen";}
-else if (two.style.color==="red") {
+else if (two.style.color==="red" && document.getElementById("node").style.color!=="darkgreen") {
 document.getElementById("node").innerHTML="2";
 document.getElementById("node").style.color="darkgreen";}
-else if (three.style.color==="red") {
+else if (three.style.color==="red" && document.getElementById("node").style.color!=="darkgreen") {
 document.getElementById("node").innerHTML="2";
 document.getElementById("node").style.color="darkgreen";}
-else if (four.style.color==="red") {
+else if (four.style.color==="red" && document.getElementById("node").style.color!=="darkgreen") {
 document.getElementById("node").innerHTML="2";
 document.getElementById("node").style.color="darkgreen";}
-else if (five.style.color==="red") {
+else if (five.style.color==="red" && document.getElementById("node").style.color!=="darkgreen") {
 document.getElementById("node").innerHTML="2";
 document.getElementById("node").style.color="darkgreen";}
-else if (six.style.color==="red") {
+else if (six.style.color==="red" && document.getElementById("node").style.color!=="darkgreen") {
 document.getElementById("node").innerHTML="2";
 document.getElementById("node").style.color="darkgreen";}
-else if (seven.style.color==="red") {
+else if (seven.style.color==="red" && document.getElementById("node").style.color!=="darkgreen") {
 document.getElementById("node").innerHTML="2";
 document.getElementById("node").style.color="darkgreen";}
-else if (eight.style.color==="red") {
+else if (eight.style.color==="red" && document.getElementById("node").style.color!=="darkgreen") {
 document.getElementById("node").innerHTML="2";
 document.getElementById("node").style.color="darkgreen";}
-else if (nine.style.color==="red") {
+else if (nine.style.color==="red" && document.getElementById("node").style.color!=="darkgreen") {
 document.getElementById("node").innerHTML="2";
 document.getElementById("node").style.color="darkgreen";}
-else if (ten.style.color==="red") {
+else if (ten.style.color==="red" && document.getElementById("node").style.color!=="darkgreen") {
 document.getElementById("node").innerHTML="2";
 document.getElementById("node").style.color="darkgreen";}
-else if (eleven.style.color==="red") {
+else if (eleven.style.color==="red" && document.getElementById("node").style.color!=="darkgreen") {
 document.getElementById("node").innerHTML="2";
 document.getElementById("node").style.color="darkgreen";}
-else if (twelve.style.color==="red") {
+else if (twelve.style.color==="red" && document.getElementById("node").style.color!=="darkgreen") {
 document.getElementById("node").innerHTML="2";
 document.getElementById("node").style.color="darkgreen";}
-else if (thirteen.style.color==="red") {
+else if (thirteen.style.color==="red" && document.getElementById("node").style.color!=="darkgreen") {
 document.getElementById("node").innerHTML="2";
 document.getElementById("node").style.color="darkgreen";}
-else if (fourteen.style.color==="red") {
+else if (fourteen.style.color==="red" && document.getElementById("node").style.color!=="darkgreen") {
 document.getElementById("node").innerHTML="2";
 document.getElementById("node").style.color="darkgreen";}
-else if (fifteen.style.color==="red") {
+else if (fifteen.style.color==="red" && document.getElementById("node").style.color!=="darkgreen") {
 document.getElementById("node").innerHTML="2";
 document.getElementById("node").style.color="darkgreen";}
-else if (sixteen.style.color==="red") {
+else if (sixteen.style.color==="red" && document.getElementById("node").style.color!=="darkgreen") {
 document.getElementById("node").innerHTML="2";
 document.getElementById("node").style.color="darkgreen";}
-else if (seventeen.style.color==="red") {
+else if (seventeen.style.color==="red" && document.getElementById("node").style.color!=="darkgreen") {
 document.getElementById("node").innerHTML="2";
 document.getElementById("node").style.color="darkgreen";}
-else if (eighteen.style.color==="red") {
+else if (eighteen.style.color==="red" && document.getElementById("node").style.color!=="darkgreen") {
 document.getElementById("node").innerHTML="2";
 document.getElementById("node").style.color="darkgreen";}
-else if (nineteen.style.color==="red") {
+else if (nineteen.style.color==="red" && document.getElementById("node").style.color!=="darkgreen") {
 document.getElementById("node").innerHTML="2";
 document.getElementById("node").style.color="darkgreen";}
-else if (twenty.style.color==="red") {
+else if (twenty.style.color==="red" && document.getElementById("node").style.color!=="darkgreen") {
 document.getElementById("node").innerHTML="2";
 document.getElementById("node").style.color="darkgreen";}
-else if (twentyone.style.color==="red") {
+else if (twentyone.style.color==="red" && document.getElementById("node").style.color!=="darkgreen") {
 document.getElementById("node").innerHTML="2";
 document.getElementById("node").style.color="darkgreen";}
-else if (twentytwo.style.color==="red") {
+else if (twentytwo.style.color==="red" && document.getElementById("node").style.color!=="darkgreen") {
 document.getElementById("node").innerHTML="2";
 document.getElementById("node").style.color="darkgreen";}
-else if (twentythree.style.color==="red") {
+else if (twentythree.style.color==="red" && document.getElementByID("node").style.color!=="darkgreen") {
 document.getElementById("node").innerHTML="2";
 document.getElementById("node").style.color="darkgreen";}
-else if (twentyfour.style.color==="red") {
+else if (twentyfour.style.color==="red" && document.getElementById("node").style.color!=="darkgreen") {
 document.getElementById("node").innerHTML="2";
 document.getElementById("node").style.color="darkgreen";}
-else if (twentyfive.style.color==="red") {
+else if (twentyfive.style.color==="red" && document.getElementById("node").style.color!=="darkgreen") {
 document.getElementById("node").innerHTML="2";
 document.getElementById("node").style.color="darkgreen";}
-else if (twentysix.style.color==="red") {
+else if (twentysix.style.color==="red" && document.getElementById("node").style.color!=="darkgreen") {
 document.getElementById("node").innerHTML="2";
 document.getElementById("node").style.color="darkgreen";}
-else if (twentyseven.style.color==="red") {
+else if (twentyseven.style.color==="red" && document.getElementById("node").style.color!=="darkgreen") {
 document.getElementById("node").innerHTML="2";
 document.getElementById("node").style.color="darkgreen";}
-else if (twentyeight.style.color==="red") {
+else if (twentyeight.style.color==="red" && document.getElementById("node").style.color!=="darkgreen") {
 document.getElementById("node").innerHTML="2";
 document.getElementById("node").style.color="darkgreen";}
-else if (twentynine.style.color==="red") {
+else if (twentynine.style.color==="red" && document.getElementById("node").style.color!=="darkgreen") {
 document.getElementById("node").innerHTML="2";
 document.getElementById("node").style.color="darkgreen";}
-else if (thirty.style.color==="red") {
+else if (thirty.style.color==="red" && document.getElementById("node").style.color!=="darkgreen") {
 document.getElementById("node").innerHTML="2";
 document.getElementById("node").style.color="darkgreen";}
-else if (thirtyone.style.color==="red") {
+else if (thirtyone.style.color==="red" && document.getElementById("node").style.color!=="darkgreen") {
 document.getElementById("node").innerHTML="2";
 document.getElementById("node").style.color="darkgreen";}
-else if (thirtytwo.style.color==="red") {
+else if (thirtytwo.style.color==="red" && document.getElementById("node").style.color!=="darkgreen") {
 document.getElementById("node").innerHTML="2";
 document.getElementById("node").style.color="darkgreen";}}
 
@@ -7115,100 +7115,100 @@ var twentynine=document.getElementById("cone");
 var thirty=document.getElementById("done");
 var thirtyone=document.getElementById("eone");
 var thirtytwo=document.getElementById("fone");
-if (one.style.color==="red") {
+if (one.style.color==="red" && document.getElementById("node").style.color!=="forestgreen") {
 document.getElementById("node").innerHTML="3";
 document.getElementById("node").style.color="forestgreen";}
-else if (two.style.color==="red") {
+else if (two.style.color==="red" && document.getElementById("node").style.color!=="forestgreen") {
 document.getElementById("node").innerHTML="3";
 document.getElementById("node").style.color="forestgreen";}
-else if (three.style.color==="red") {
+else if (three.style.color==="red" && document.getElementById("node").style.color!=="forestgreen") {
 document.getElementById("node").innerHTML="3";
 document.getElementById("node").style.color="forestgreen";}
-else if (four.style.color==="red") {
+else if (four.style.color==="red" && document.getElementById("node").style.color!=="forestgreen") {
 document.getElementById("node").innerHTML="3";
 document.getElementById("node").style.color="forestgreen";}
-else if (five.style.color==="red") {
+else if (five.style.color==="red" && document.getElementById("node").style.color!=="forestgreen") {
 document.getElementById("node").innerHTML="3";
 document.getElementById("node").style.color="forestgreen";}
-else if (six.style.color==="red") {
+else if (six.style.color==="red" && document.getElementById("node").style.color!=="forestgreen") {
 document.getElementById("node").innerHTML="3";
 document.getElementById("node").style.color="forestgreen";}
-else if (seven.style.color==="red") {
+else if (seven.style.color==="red" && document.getElementById("node").style.color!=="forestgreen") {
 document.getElementById("node").innerHTML="3";
 document.getElementById("node").style.color="forestgreen";}
-else if (eight.style.color==="red") {
+else if (eight.style.color==="red" && document.getElementById("node").style.color!=="forestgreen") {
 document.getElementById("node").innerHTML="3";
 document.getElementById("node").style.color="forestgreen";}
-else if (nine.style.color==="red") {
+else if (nine.style.color==="red" && document.getElementById("node").style.color!=="forestgreen") {
 document.getElementById("node").innerHTML="3";
 document.getElementById("node").style.color="forestgreen";}
-else if (ten.style.color==="red") {
+else if (ten.style.color==="red" && document.getElementById("node").style.color!=="forestgreen") {
 document.getElementById("node").innerHTML="3";
 document.getElementById("node").style.color="forestgreen";}
-else if (eleven.style.color==="red") {
+else if (eleven.style.color==="red" && document.getElementById("node").style.color!=="forestgreen") {
 document.getElementById("node").innerHTML="3";
 document.getElementById("node").style.color="forestgreen";}
-else if (twelve.style.color==="red") {
+else if (twelve.style.color==="red" && document.getElementById("node").style.color!=="forestgreen") {
 document.getElementById("node").innerHTML="3";
 document.getElementById("node").style.color="forestgreen";}
-else if (thirteen.style.color==="red") {
+else if (thirteen.style.color==="red" && document.getElementById("node").style.color!=="forestgreen") {
 document.getElementById("node").innerHTML="3";
 document.getElementById("node").style.color="forestgreen";}
-else if (fourteen.style.color==="red") {
+else if (fourteen.style.color==="red" && document.getElementById("node").style.color!=="forestgreen") {
 document.getElementById("node").innerHTML="3";
 document.getElementById("node").style.color="forestgreen";}
-else if (fifteen.style.color==="red") {
+else if (fifteen.style.color==="red" && document.getElementById("node").style.color!=="forestgreen") {
 document.getElementById("node").innerHTML="3";
 document.getElementById("node").style.color="forestgreen";}
-else if (sixteen.style.color==="red") {
+else if (sixteen.style.color==="red" && document.getElementById("node").style.color!=="forestgreen") {
 document.getElementById("node").innerHTML="3";
 document.getElementById("node").style.color="forestgreen";}
-else if (seventeen.style.color==="red") {
+else if (seventeen.style.color==="red" && document.getElementById("node").style.color!=="forestgreen") {
 document.getElementById("node").innerHTML="3";
 document.getElementById("node").style.color="forestgreen";}
-else if (eighteen.style.color==="red") {
+else if (eighteen.style.color==="red" && document.getElementById("node").style.color!=="forestgreen") {
 document.getElementById("node").innerHTML="3";
 document.getElementById("node").style.color="forestgreen";}
-else if (nineteen.style.color==="red") {
+else if (nineteen.style.color==="red" && document.getElementById("node").style.color!=="forestgreen") {
 document.getElementById("node").innerHTML="3";
 document.getElementById("node").style.color="forestgreen";}
-else if (twenty.style.color==="purple") {
+else if (twenty.style.color==="red" && document.getElementById("node").style.color!=="forestgreen") {
 document.getElementById("node").innerHTML="3";
 document.getElementById("node").style.color="forestgreen";}
-else if (twentyone.style.color==="red") {
+else if (twentyone.style.color==="red" && document.getElementById("node").style.color!=="forestgreen") {
 document.getElementById("node").innerHTML="3";
 document.getElementById("node").style.color="forestgreen";}
-else if (twentytwo.style.color==="red") {
+else if (twentytwo.style.color==="red" && document.getElementById("node").style.color!=="forestgreen") {
 document.getElementById("node").innerHTML="3";
 document.getElementById("node").style.color="forestgreen";}
-else if (twentythree.style.color==="red") {
+else if (twentythree.style.color==="red" && document.getElementById("node").style.color!=="forestgreen") {
 document.getElementById("node").innerHTML="3";
 document.getElementById("node").style.color="forestgreen";}
-else if (twentyfour.style.color==="red") {
+else if (twentyfour.style.color==="red" && document.getElementById("node").style.color!=="forestgreen") {
 document.getElementById("node").innerHTML="3";
 document.getElementById("node").style.color="forestgreen";}
-else if (twentyfive.style.color==="red") {
+else if (twentyfive.style.color==="red" && document.getElementById("node").style.color!=="forestgreen") {
 document.getElementById("node").innerHTML="3";
 document.getElementById("node").style.color="forestgreen";}
-else if (twentysix.style.color==="red") {
+else if (twentysix.style.color==="red" && document.getElementById("node").style.color!=="forestgreen") {
 document.getElementById("node").innerHTML="3";
 document.getElementById("node").style.color="forestgreen";}
-else if (twentyseven.style.color==="red") {
+else if (twentyseven.style.color==="red" && document.getElementById("node").style.color!=="forestgreen") {
 document.getElementById("node").innerHTML="3";
 document.getElementById("node").style.color="forestgreen";}
-else if (twentyeight.style.color==="red") {
+else if (twentyeight.style.color==="red" && document.getElementById("node").style.color!=="forestgreen") {
 document.getElementById("node").innerHTML="3";
 document.getElementById("node").style.color="forestgreen";}
-else if (twentynine.style.color==="red") {
+else if (twentynine.style.color==="red" && document.getElementById("node").style.color!=="forestgreen") {
 document.getElementById("node").innerHTML="3";
 document.getElementById("node").style.color="forestgreen";}
-else if (thirty.style.color==="red") {
+else if (thirty.style.color==="red" && document.getElementById("node").style.color!=="forestgreen") {
 document.getElementById("node").innerHTML="3";
 document.getElementById("node").style.color="forestgreen";}
-else if (thirtyone.style.color==="red") {
+else if (thirtyone.style.color==="red" && document.getElementById("node").style.color!=="forestgreen") {
 document.getElementById("node").innerHTML="3";
 document.getElementById("node").style.color="forestgreen";}
-else if (thirtytwo.style.color==="red") {
+else if (thirtytwo.style.color==="red" && document.getElementById("node").style.color!=="forestgreen") {
 document.getElementById("node").innerHTML="3";
 document.getElementById("node").style.color="forestgreen";}}
 
@@ -7245,100 +7245,100 @@ var twentynine=document.getElementById("cone");
 var thirty=document.getElementById("done");
 var thirtyone=document.getElementById("eone");
 var thirtytwo=document.getElementById("fone");
-if (one.style.color==="red") {
+if (one.style.color==="red" && document.getElementById("node").style.color!=="lawngreen") {
 document.getElementById("node").innerHTML="4";
 document.getElementById("node").style.color="lawngreen";}
-else if (two.style.color==="red") {
+else if (two.style.color==="red" && document.getElementById("node").style.color!=="lawngreen") {
 document.getElementById("node").innerHTML="4";
 document.getElementById("node").style.color="lawngreen";}
-else if (three.style.color==="red") {
+else if (three.style.color==="red" && document.getElementById("node").style.color!=="lawngreen") {
 document.getElementById("node").innerHTML="4";
 document.getElementById("node").style.color="lawngreen";}
-else if (four.style.color==="red") {
+else if (four.style.color==="red" && document.getElementById("node").style.color!=="lawngreen") {
 document.getElementById("node").innerHTML="4";
 document.getElementById("node").style.color="lawngreen";}
-else if (five.style.color==="red") {
+else if (five.style.color==="red" && document.getElementById("node").style.color!=="lawngreen") {
 document.getElementById("node").innerHTML="4";
 document.getElementById("node").style.color="lawngreen";}
-else if (six.style.color==="red") {
+else if (six.style.color==="red" && document.getElementById("node").style.color!=="lawngreen") {
 document.getElementById("node").innerHTML="4";
 document.getElementById("node").style.color="lawngreen";}
-else if (seven.style.color==="red") {
+else if (seven.style.color==="red" && document.getElementById("node").style.color!=="lawngreen") {
 document.getElementById("node").innerHTML="4";
 document.getElementById("node").style.color="lawngreen";}
-else if (eight.style.color==="red") {
+else if (eight.style.color==="red" && document.getElementById("node").style.color!=="lawngreen") {
 document.getElementById("node").innerHTML="4";
 document.getElementById("node").style.color="lawngreen";}
-else if (nine.style.color==="red") {
+else if (nine.style.color==="red" && document.getElementById("node").style.color!=="lawngreen") {
 document.getElementById("node").innerHTML="4";
 document.getElementById("node").style.color="lawngreen";}
-else if (ten.style.color==="red") {
+else if (ten.style.color==="red" && document.getElementById("node").style.color!=="lawngreen") {
 document.getElementById("node").innerHTML="4";
 document.getElementById("node").style.color="lawngreen";}
-else if (eleven.style.color==="red") {
+else if (eleven.style.color==="red" && document.getElementById("node").style.color!=="lawngreen") {
 document.getElementById("node").innerHTML="4";
 document.getElementById("node").style.color="lawngreen";}
-else if (twelve.style.color==="red") {
+else if (twelve.style.color==="red" && document.getElementById("node").style.color!=="lawngreen") {
 document.getElementById("node").innerHTML="4";
 document.getElementById("node").style.color="lawngreen";}
-else if (thirteen.style.color==="red") {
+else if (thirteen.style.color==="red" && document.getElementById("node").style.color!=="lawngreen") {
 document.getElementById("node").innerHTML="4";
 document.getElementById("node").style.color="lawngreen";}
-else if (fourteen.style.color==="red") {
+else if (fourteen.style.color==="red" && document.getElementById("node").style.color!=="lawngreen") {
 document.getElementById("node").innerHTML="4";
 document.getElementById("node").style.color="lawngreen";}
-else if (fifteen.style.color==="red") {
+else if (fifteen.style.color==="red" && document.getElementById("node").style.color!=="lawngreen") {
 document.getElementById("node").innerHTML="4";
 document.getElementById("node").style.color="lawngreen";}
-else if (sixteen.style.color==="red") {
+else if (sixteen.style.color==="red" && document.getElementById("node").style.color!=="lawngreen") {
 document.getElementById("node").innerHTML="4";
 document.getElementById("node").style.color="lawngreen";}
-else if (seventeen.style.color==="red") {
+else if (seventeen.style.color==="red" && document.getElementById("node").style.color!=="lawngreen") {
 document.getElementById("node").innerHTML="4";
 document.getElementById("node").style.color="lawngreen";}
-else if (eighteen.style.color==="red") {
+else if (eighteen.style.color==="red" && document.getElementById("node").style.color!=="lawngreen") {
 document.getElementById("node").innerHTML="4";
 document.getElementById("node").style.color="lawngreen";}
-else if (nineteen.style.color==="red") {
+else if (nineteen.style.color==="red" && document.getElementById("node").style.color!=="lawngreen") {
 document.getElementById("node").innerHTML="4";
 document.getElementById("node").style.color="lawngreen";}
-else if (twenty.style.color==="red") {
+else if (twenty.style.color==="red" && document.getElementById("node").style.color!=="lawngreen") {
 document.getElementById("node").innerHTML="4";
 document.getElementById("node").style.color="lawngreen";}
-else if (twentyone.style.color==="red") {
+else if (twentyone.style.color==="red" && document.getElementById("node").style.color!=="lawngreen") {
 document.getElementById("node").innerHTML="4";
 document.getElementById("node").style.color="lawngreen";}
-else if (twentytwo.style.color==="red") {
+else if (twentytwo.style.color==="red" && document.getElementById("node").style.color!=="lawngreen") {
 document.getElementById("node").innerHTML="4";
 document.getElementById("node").style.color="lawngreen";}
-else if (twentythree.style.color==="red") {
+else if (twentythree.style.color==="red" && document.getElementById("node").style.color!=="lawngreen") {
 document.getElementById("node").innerHTML="4";
 document.getElementById("node").style.color="lawngreen";}
-else if (twentyfour.style.color==="red") {
+else if (twentyfour.style.color==="red" && document.getElementById("node").style.color!=="lawngreen") {
 document.getElementById("node").innerHTML="4";
 document.getElementById("node").style.color="lawngreen";}
-else if (twentyfive.style.color==="red") {
+else if (twentyfive.style.color==="red" && document.getElementById("node").style.color!=="lawngreen") {
 document.getElementById("node").innerHTML="4";
 document.getElementById("node").style.color="lawngreen";}
-else if (twentysix.style.color==="red") {
+else if (twentysix.style.color==="red" && document.getElementById("node").style.color!=="lawngreen") {
 document.getElementById("node").innerHTML="4";
 document.getElementById("node").style.color="lawngreen";}
-else if (twentyseven.style.color==="red") {
+else if (twentyseven.style.color==="red" && document.getElementById("node").style.color!=="lawngreen") {
 document.getElementById("node").innerHTML="4";
 document.getElementById("node").style.color="lawngreen";}
-else if (twentyeight.style.color==="red") {
+else if (twentyeight.style.color==="red" && document.getElementById("node").style.color!=="lawngreen") {
 document.getElementById("node").innerHTML="4";
 document.getElementById("node").style.color="lawngreen";}
-else if (twentynine.style.color==="red") {
+else if (twentynine.style.color==="red" && document.getElementById("node").style.color!=="lawngreen") {
 document.getElementById("node").innerHTML="4";
 document.getElementById("node").style.color="lawngreen";}
-else if (thirty.style.color==="red") {
+else if (thirty.style.color==="red" && document.getElementById("node").style.color!=="lawngreen") {
 document.getElementById("node").innerHTML="4";
 document.getElementById("node").style.color="lawngreen";}
-else if (thirtyone.style.color==="red") {
+else if (thirtyone.style.color==="red" && document.getElementById("node").style.color!=="lawngreen") {
 document.getElementById("node").innerHTML="4";
 document.getElementById("node").style.color="lawngreen";}
-else if (thirtytwo.style.color==="red") {
+else if (thirtytwo.style.color==="red" && document.getElementById("node").style.color!=="lawngreen") {
 document.getElementById("node").innerHTML="4";
 document.getElementById("node").style.color="lawngreen";}}
 
@@ -7375,100 +7375,100 @@ var twentynine=document.getElementById("cone");
 var thirty=document.getElementById("done");
 var thirtyone=document.getElementById("eone");
 var thirtytwo=document.getElementById("fone");
-if (one.style.color==="red") {
+if (one.style.color==="red" && document.getElementById("node").style.color!=="seagreen") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="seagreen";}
-else if (two.style.color==="red") {
+else if (two.style.color==="red" && document.getElementById("node").style.color!=="seagreen") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="seagreen";}
-else if (three.style.color==="red") {
+else if (three.style.color==="red" && document.getElementById("node").style.color!=="seagreen") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="seagreen";}
-else if (four.style.color==="red") {
+else if (four.style.color==="red" && document.getElementById("node").style.color!=="seagreen") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="seagreen";}
-else if (five.style.color==="red") {
+else if (five.style.color==="red" && document.getElementById("node").style.color!=="seagreen") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="seagreen";}
-else if (six.style.color==="red") {
+else if (six.style.color==="red" && document.getElementById("node").style.color!=="seagreen") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="seagreen";}
-else if (seven.style.color==="red") {
+else if (seven.style.color==="red" && document.getElementById("node").style.color!=="seagreen") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="seagreen";}
-else if (eight.style.color==="red") {
+else if (eight.style.color==="red" && document.getElementById("node").style.color!=="seagreen") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="seagreen";}
-else if (nine.style.color==="red") {
+else if (nine.style.color==="red" && document.getElementById("node").style.color!=="seagreen") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="seagreen";}
-else if (ten.style.color==="red") {
+else if (ten.style.color==="red" && document.getElementById("node").style.color!=="seagreen") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="seagreen";}
-else if (eleven.style.color==="red") {
+else if (eleven.style.color==="red" && document.getElementById("node").style.color!=="seagreen") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="seagreen";}
-else if (twelve.style.color==="red") {
+else if (twelve.style.color==="red" && document.getElementById("node").style.color!=="seagreen") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="seagreen";}
-else if (thirteen.style.color==="red") {
+else if (thirteen.style.color==="red" && document.getElementById("node").style.color!=="seagreen") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="seagreen";}
-else if (fourteen.style.color==="red") {
+else if (fourteen.style.color==="red" && document.getElementById("node").style.color!=="seagreen") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="seagreen";}
-else if (fifteen.style.color==="red") {
+else if (fifteen.style.color==="red" && document.getElementById("node").style.color!=="seagreen") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="seagreen";}
-else if (sixteen.style.color==="red") {
+else if (sixteen.style.color==="red" && document.getElementById("node").style.color!=="seagreen") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="seagreen";}
-else if (seventeen.style.color==="red") {
+else if (seventeen.style.color==="red" && document.getElementById("node").style.color!=="seagreen") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="seagreen";}
-else if (eighteen.style.color==="red") {
+else if (eighteen.style.color==="red" && document.getElementById("node").style.color!=="seagreen") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="seagreen";}
-else if (nineteen.style.color==="red") {
+else if (nineteen.style.color==="red" && document.getElementById("node").style.color!=="seagreen") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="seagreen";}
-else if (twenty.style.color==="red") {
+else if (twenty.style.color==="red" && document.getElementById("node").style.color!=="seagreen") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="seagreen";}
-else if (twentyone.style.color==="red") {
+else if (twentyone.style.color==="red" && document.getElementById("node").style.color!=="seagreen") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="seagreen";}
-else if (twentytwo.style.color==="red") {
+else if (twentytwo.style.color==="red" && document.getElementById("node").style.color!=="seagreen") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="seagreen";}
-else if (twentythree.style.color==="red") {
+else if (twentythree.style.color==="red" && document.getElementById("node").style.color!=="seagreen") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="seagreen";}
-else if (twentyfour.style.color==="red") {
+else if (twentyfour.style.color==="red" && document.getElementById("node").style.color!=="seagreen") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="seagreen";}
-else if (twentyfive.style.color==="red") {
+else if (twentyfive.style.color==="red" && document.getElementById("node").style.color!=="seagreen") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="seagreen";}
-else if (twentysix.style.color==="red") {
+else if (twentysix.style.color==="red" && document.getElementById("node").style.color!=="seagreen") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="seagreen";}
-else if (twentyseven.style.color==="red") {
+else if (twentyseven.style.color==="red" && document.getElementById("node").style.color!=="seagreen") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="seagreen";}
-else if (twentyeight.style.color==="red") {
+else if (twentyeight.style.color==="red" && document.getElementById("node").style.color!=="seagreen") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="seagreen";}
-else if (twentynine.style.color==="red") {
+else if (twentynine.style.color==="red" && document.getElementById("node").style.color!=="seagreen") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="seagreen";}
-else if (thirty.style.color==="red") {
+else if (thirty.style.color==="red" && document.getElementById("node").style.color!=="seagreen") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="seagreen";}
-else if (thirtyone.style.color==="red") {
+else if (thirtyone.style.color==="red" && document.getElementById("node").style.color!=="seagreen") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="seagreen";}
-else if (thirtytwo.style.color==="red") {
+else if (thirtytwo.style.color==="red" && document.getElementById("node").style.color!=="seagreen") {
 document.getElementById("node").innerHTML="5";
 document.getElementById("node").style.color="seagreen";}}
 
@@ -7505,100 +7505,100 @@ var twentynine=document.getElementById("cone");
 var thirty=document.getElementById("done");
 var thirtyone=document.getElementById("eone");
 var thirtytwo=document.getElementById("fone");
-if (one.style.color==="red") {
+if (one.style.color==="red" && document.getElementById("node").style.color!=="limegreen") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="limegreen";}
-else if (two.style.color==="red") {
+else if (two.style.color==="red" && document.getElementById("node").style.color!=="limegreen") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="limegreen";}
-else if (three.style.color==="red") {
+else if (three.style.color==="red" && document.getElementById("node").style.color!=="limegreen") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="limegreen";}
-else if (four.style.color==="red") {
+else if (four.style.color==="red" && document.getElementById("node").style.color!=="limegreen") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="limegreen";}
-else if (five.style.color==="red") {
+else if (five.style.color==="red" && document.getElementById("node").style.color!=="limegreen") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="limegreen";}
-else if (six.style.color==="red") {
+else if (six.style.color==="red" && document.getElementById("node").style.color!=="limegreen") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="limegreen";}
-else if (seven.style.color==="red") {
+else if (seven.style.color==="red" && document.getElementById("node").style.color!=="limegreen") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="limegreen";}
-else if (eight.style.color==="purple") {
+else if (eight.style.color==="red" && document.getElementById("node").style.color!=="limegreen") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="limegreen";}
-else if (nine.style.color==="red") {
+else if (nine.style.color==="red" && document.getElementById("node").style.color!=="limegreen") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="limegreen";}
-else if (ten.style.color==="red") {
+else if (ten.style.color==="red" && document.getElementById("node").style.color!=="limegreen") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="limegreen";}
-else if (eleven.style.color==="red") {
+else if (eleven.style.color==="red" && document.getElementById("node").style.color!=="limegreen") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="limegreen";}
-else if (twelve.style.color==="red") {
+else if (twelve.style.color==="red" && document.getElementById("node").style.color!=="limegreen") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="limegreen";}
-else if (thirteen.style.color==="red") {
+else if (thirteen.style.color==="red" && document.getElementById("node").style.color!=="limegreen") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="limegreen";}
-else if (fourteen.style.color==="red") {
+else if (fourteen.style.color==="red" && document.getElementById("node").style.color!=="limegreen") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="limegreen";}
-else if (fifteen.style.color==="red") {
+else if (fifteen.style.color==="red" && document.getElementById("node").style.color!=="limegreen") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="limegreen";}
-else if (sixteen.style.color==="red") {
+else if (sixteen.style.color==="red" && document.getElementById("node").style.color!=="limegreen") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="limegreen";}
-else if (seventeen.style.color==="red") {
+else if (seventeen.style.color==="red" && document.getElementById("node").style.color!=="limegreen") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="limegreen";}
-else if (eighteen.style.color==="red") {
+else if (eighteen.style.color==="red" && document.getElementById("node").style.color!=="limegreen") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="limegreen";}
-else if (nineteen.style.color==="red") {
+else if (nineteen.style.color==="red" && document.getElementById("node").style.color!=="limegreen") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="limegreen";}
-else if (twenty.style.color==="red") {
+else if (twenty.style.color==="red" && document.getElementById("node").style.color!=="limegreen") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="limegreen";}
-else if (twentyone.style.color==="red") {
+else if (twentyone.style.color==="red" && document.getElementById("node").style.color!=="limegreen") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="limegreen";}
-else if (twentytwo.style.color==="red") {
+else if (twentytwo.style.color==="red" && document.getElementById("node").style.color!=="limegreen") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="limegreen";}
-else if (twentythree.style.color==="red") {
+else if (twentythree.style.color==="red" && document.getElementById("node").style.color!=="limegreen") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="limegreen";}
-else if (twentyfour.style.color==="red") {
+else if (twentyfour.style.color==="red" && document.getElementById("node").style.color!=="limegreen") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="limegreen";}
-else if (twentyfive.style.color==="red") {
+else if (twentyfive.style.color==="red" && document.getElementById("node").style.color!=="limegreen") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="limegreen";}
-else if (twentysix.style.color==="red") {
+else if (twentysix.style.color==="red" && document.getElementById("node").style.color!=="limegreen") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="limegreen";}
-else if (twentyseven.style.color==="red") {
+else if (twentyseven.style.color==="red" && document.getElementById("node").style.color!=="limegreen") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="limegreen";}
-else if (twentyeight.style.color==="red") {
+else if (twentyeight.style.color==="red" && document.getElementById("node").style.color!=="limegreen") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="limegreen";}
-else if (twentynine.style.color==="red") {
+else if (twentynine.style.color==="red" && document.getElementById("node").style.color!=="limegreen") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="limegreen";}
-else if (thirty.style.color==="red") {
+else if (thirty.style.color==="red" && document.getElementById("node").style.color!=="limegreen") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="limegreen";}
-else if (thirtyone.style.color==="red") {
+else if (thirtyone.style.color==="red" && document.getElementById("node").style.color!=="limegreen") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="limegreen";}
-else if (thirtytwo.style.color==="red") {
+else if (thirtytwo.style.color==="red" && document.getElementById("node").style.color!=="limegreen") {
 document.getElementById("node").innerHTML="6";
 document.getElementById("node").style.color="limegreen";}}
 
