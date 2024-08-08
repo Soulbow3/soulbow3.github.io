@@ -665,7 +665,7 @@ beighteen.innerHTML="Three";}
 
 else if (btwo.innerHTML==="Three" && accept.innerHTML==="Back 3") {
 btwo.innerHTML="";
-btwentyfive.innerHTML="Three";}
+btwentyfive.innerHTML="Three";}}
 
 function card1() {
 var acc=document.getElementById("cardAcc");
