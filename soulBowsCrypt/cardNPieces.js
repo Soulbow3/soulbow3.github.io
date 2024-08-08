@@ -78,7 +78,6 @@ var wallet=document.getElementById("wal1");
 var y=document.getElementById("+a");
 var z=document.getElementById("-a");
 var x=document.getElementById("a111");
-
 var bone=document.getElementById("threeA");
 var btwo=document.getElementById("threeB");
 var bthree=document.getElementById("threeC");
@@ -117,7 +116,6 @@ var awallet=document.getElementById("wal3");
 var ay=document.getElementById("+c");
 var az=document.getElementById("-c");
 var ax=document.getElementById("c111");
- 
 if (toggle1.style.background==="white" && one.innerHTML==="One") {
 element.innerHTML="";
 button1.innerHTML="One";
