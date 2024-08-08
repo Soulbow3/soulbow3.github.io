@@ -711,7 +711,9 @@ acc.innerHTML==="Back 3" && tile3a.innerHTML==="Three") {
 acc.innerHTML="+$100";}
 else if (
 acc.innerHTML==="+$100" && tile3a.innerHTML==="Three") {
-acc.innerHTML="Ad- vance To Go";}}
+acc.innerHTML="Ad- vance To Go";}
+else if (tile3a.innerHTML==="Three") {acc.innerHTML="+$150";}
+else if (tile1a.innerHTML==="One") {acc.innerHTML="+$150";}}
  
 function card2() {
 var acc=document.getElementById("cardAcc");
@@ -759,7 +761,9 @@ acc.innerHTML==="Back 3" && tile3a.innerHTML==="Three") {
 acc.innerHTML="+$100";}
 else if (
 acc.innerHTML==="+$100" && tile3a.innerHTML==="Three") {
-acc.innerHTML="Ad- vance To Go";}}
+acc.innerHTML="Ad- vance To Go";}
+else if (tile3a.innerHTML==="Three") {acc.innerHTML="-$100";}
+else if (tile1a.innerHTML==="One") {acc.innerHTML="-$100";}}
 
 function card3() {
 var acc=document.getElementById("cardAcc");
@@ -807,4 +811,6 @@ acc.innerHTML==="Back 3" && tile3a.innerHTML==="Three") {
 acc.innerHTML="+$100";}
 else if (
 acc.innerHTML==="+$100" && tile3a.innerHTML==="Three") {
-acc.innerHTML="Ad- vance To Go";}}
+acc.innerHTML="Ad- vance To Go";}
+else if (tile3a.innerHTML==="Three") {acc.innerHTML="No- thing";}
+else if (tile1a.innerHTML==="One") {acc.innerHTML="No- thing";}}
