@@ -118,10 +118,10 @@ var bthirtyone=document.getElementById("ethree");
 var bthirtytwo=document.getElementById("fthree");
 var btoggle1=document.getElementById("sel3");
 var bbtntton1=document.getElementById("btn3");
-var awallet=document.getElementById("wal3");
-var ay=document.getElementById("+c");
-var az=document.getElementById("-c");
-var ax=document.getElementById("c111");
+var bwallet=document.getElementById("wal2");
+var by=document.getElementById("+b");
+var bz=document.getElementById("-b");
+var bx=document.getElementById("b111");
 if (toggle1.style.background==="white" && one.innerHTML==="One") {
 element.innerHTML="";
 button1.innerHTML="One";
