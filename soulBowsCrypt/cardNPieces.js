@@ -341,231 +341,231 @@ y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
 
-else if (btoggle1.style.bbackground==="white" && bone.innerHTML==="Three") {
+else if (btoggle1.style.background==="white" && bone.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
 bwabllet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && btwo.innerHTML==="Three") {
+else if (btoggle1.style.background==="white" && btwo.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
 bwabllet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && bthree.innerHTML==="Three") {
+else if (btoggle1.style.background==="white" && bthree.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
 bwabllet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && bfour.innerHTML==="Three") {
+else if (btoggle1.style.background==="white" && bfour.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
 bwabllet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && bfive.innerHTML==="Three") {
+else if (btoggle1.style.background==="white" && bfive.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
 bwabllet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && bsix.innerHTML==="Three") {
+else if (btoggle1.style.background==="white" && bsix.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
 bwabllet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && bseven.innerHTML==="Three") {
+else if (btoggle1.style.background==="white" && bseven.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
 bwabllet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && beight.innerHTML==="Three") {
+else if (btoggle1.style.background==="white" && beight.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
 bwabllet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && bnine.innerHTML==="Three") {
+else if (btoggle1.style.background==="white" && bnine.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
 bwabllet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && bten.innerHTML==="Three") {
+else if (btoggle1.style.background==="white" && bten.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
 bwabllet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && beleven.innerHTML==="Three") {
+else if (btoggle1.style.background==="white" && beleven.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
 bwabllet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && btwelve.innerHTML==="Three") {
+else if (btoggle1.style.background==="white" && btwelve.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
 bwabllet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && bthirteen.innerHTML==="Three") {
+else if (btoggle1.style.background==="white" && bthirteen.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
 bwabllet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && bfourteen.innerHTML==="Three") {
+else if (btoggle1.style.background==="white" && bfourteen.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
 bwabllet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && bfifteen.innerHTML==="Three") {
+else if (btoggle1.style.background==="white" && bfifteen.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
 bwabllet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && bsixteen.innerHTML==="Three") {
+else if (btoggle1.style.background==="white" && bsixteen.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
 bwabllet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && bseventeen.innerHTML==="Three") {
+else if (btoggle1.style.background==="white" && bseventeen.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
 bwabllet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && beighteen.innerHTML==="Three") {
+else if (btoggle1.style.background==="white" && beighteen.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
 bwabllet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && bnineteen.innerHTML==="Three") {
+else if (btoggle1.style.background==="white" && bnineteen.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
 bwabllet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && btwenty.innerHTML==="Three") {
+else if (btoggle1.style.background==="white" && btwenty.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
 bwabllet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && btwentyone.innerHTML==="Three") {
+else if (btoggle1.style.background==="white" && btwentyone.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
 bwabllet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && btwentytwo.innerHTML==="Three") {
+else if (btoggle1.style.background==="white" && btwentytwo.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
 bwabllet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && btwentyThree.innerHTML==="Three") {
+else if (btoggle1.style.background==="white" && btwentyThree.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
 bwabllet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && btwentythree.innerHTML==="Three") {
+else if (btoggle1.style.background==="white" && btwentythree.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
 bwabllet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && btwentyfour.innerHTML==="Three") {
+else if (btoggle1.style.background==="white" && btwentyfour.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
 bwabllet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && btwentyfive.innerHTML==="Three") {
+else if (btoggle1.style.background==="white" && btwentyfive.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
 bwabllet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && btwentysix.innerHTML==="Three") {
+else if (btoggle1.style.background==="white" && btwentysix.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
 bwabllet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && btwentyseven.innerHTML==="Three") {
+else if (btoggle1.style.background==="white" && btwentyseven.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
 bwabllet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && btwentyeight.innerHTML==="Three") {
+else if (btoggle1.style.background==="white" && btwentyeight.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
 bwabllet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && btwentynine.innerHTML==="Three") {
+else if (btoggle1.style.background==="white" && btwentynine.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
 bwabllet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && bthirty.innerHTML==="Three") {
+else if (btoggle1.style.background==="white" && bthirty.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
 bwabllet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && bthirtyone.innerHTML==="Three") {
+else if (btoggle1.style.background==="white" && bthirtyone.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
 bwabllet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && bthirtyTwo.innerHTML==="Three") {
+else if (btoggle1.style.background==="white" && bthirtyTwo.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
 bwabllet.innerHTML="";
@@ -662,7 +662,7 @@ twentyfive.innerHTML="One";}
 
 else if (bfour.innerHTML==="Three" && accept.innerHTML==="Back 3") {
 bfour.innerHTML="";
-athree.innerHTML="Three";}
+bone.innerHTML="Three";}
  
 else if (btwentyone.innerHTML==="Three" && accept.innerHTML==="Back 3") {
 btwentyone.innerHTML="";
