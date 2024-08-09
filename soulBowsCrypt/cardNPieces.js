@@ -580,102 +580,126 @@ bx.innerHTML="";}
  
 else if (four.innerHTML==="One" && accept.innerHTML==="Ad- vance To Go") {
 four.innerHTML="";
-one.innerHTML="One";}
+one.innerHTML="One";
+one.style.color="red";}
 
 else if (twentyone.innerHTML==="One" && accept.innerHTML==="Ad- vance To Go") {
 twentyone.innerHTML="";
-one.innerHTML="One";}
+one.innerHTML="One";
+one.style.color="red";}
 
 else if (two.innerHTML==="One" && accept.innerHTML==="Ad- vance To Go") {
 two.innerHTML="";
-one.innerHTML="One";}
+one.innerHTML="One";
+one.style.color="red";}
 
 
 else if (bfour.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Go") {
 bfour.innerHTML="";
-athree.innerHTML="Three";}
+aone.innerHTML="Three";
+aone.style.color="green";}
 
 else if (btwentyone.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Go") {
 btwentyone.innerHTML="";
-athree.innerHTML="Three";}
+aone.innerHTML="Three";
+aone.style.color="green";}
 
 else if (btwo.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Go") {
 btwo.innerHTML="";
-athree.innerHTML="Three";}
+aone.innerHTML="Three";
+aone.style.color="green";}
 
 else if (four.innerHTML==="One" && accept.innerHTML==="Jail") {
 four.innerHTML="";
-eight.innerHTML="One";}
+eight.innerHTML="One";
+eight.style.color="red";}
 
 else if (twentyone.innerHTML==="One" && accept.innerHTML==="Jail") {
 twentyone.innerHTML="";
-eight.innerHTML="One";}
+eight.innerHTML="One";
+eight.style.color="red";}
 
 else if (two.innerHTML==="One" && accept.innerHTML==="Jail") {
 two.innerHTML="";
-eight.innerHTML="One";}
+eight.innerHTML="One";
+eight.style.color="red";}
  
 
 else if (bfour.innerHTML==="Three" && accept.innerHTML==="Jail") {
 bfour.innerHTML="";
-beight.innerHTML="Three";}
+beight.innerHTML="Three";
+beight.style.color="green";}
  
 else if (btwentyone.innerHTML==="Three" && accept.innerHTML==="Jail") {
 btwentyone.innerHTML="";
-beight.innerHTML="Three";}
+beight.innerHTML="Three";
+beight.style.color="green";}
 
 else if (btwo.innerHTML==="Three" && accept.innerHTML==="Jail") {
 btwo.innerHTML="";
-beight.innerHTML="Three";}
+beight.innerHTML="Three";
+beight.style.color="green";}
 
 else if (four.innerHTML==="One" && accept.innerHTML==="Ad- vance To Gold") {
 four.innerHTML="";
-thirtytwo.innerHTML="One";}
+thirtytwo.innerHTML="One";
+thirtytwo.style.color="red";}
 
 else if (twentyone.innerHTML==="One" && accept.innerHTML==="Ad- vance To Gold") {
 twentyone.innerHTML="";
-thirtytwo.innerHTML="One";}
+thirtytwo.innerHTML="One";
+thirtytwo.style.color="red";}
  
 else if (two.innerHTML==="One" && accept.innerHTML==="Ad- vance To Gold") {
 two.innerHTML="";
-thirtytwo.innerHTML="One";}
+thirtytwo.innerHTML="One";
+thirtytwo.style.color="red";}
 
 else if (bfour.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Gold") {
 bfour.innerHTML="";
-bthirtytwo.innerHTML="Three";}
+bthirtytwo.innerHTML="Three";
+bthirtytwo.style.color="green";}
  
 else if (btwentyone.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Gold") {
 btwentyone.innerHTML="";
-bthirtytwo.innerHTML="Three";}
+bthirtytwo.innerHTML="Three";
+bthirtytwo.style.color="green";}
 
 else if (btwo.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Gold") {
 btwo.innerHTML="";
-bthirtytwo.innerHTML="Three";}
+bthirtytwo.innerHTML="Three";
+bthirtytwo.style.color="green";}
  
 else if (four.innerHTML==="One" && accept.innerHTML==="Back 3") {
 four.innerHTML="";
-one.innerHTML="One";}
+one.innerHTML="One";
+one.style.color="red";}
 
 else if (twentyone.innerHTML==="One" && accept.innerHTML==="Back 3") {
 twentyone.innerHTML="";
-eighteen.innerHTML="One";}
+eighteen.innerHTML="One";
+eighteen.style.color="red";}
 
 else if (two.innerHTML==="One" && accept.innerHTML==="Back 3") {
 two.innerHTML="";
-twentyfive.innerHTML="One";}
+twentyfive.innerHTML="One";
+twentyfive.style.color="red";}
 
 
 else if (bfour.innerHTML==="Three" && accept.innerHTML==="Back 3") {
 bfour.innerHTML="";
-bone.innerHTML="Three";}
+bone.innerHTML="Three";
+bone.style.color="green";}
  
 else if (btwentyone.innerHTML==="Three" && accept.innerHTML==="Back 3") {
 btwentyone.innerHTML="";
-beighteen.innerHTML="Three";}
+beighteen.innerHTML="Three";
+beighteen.style.color="green";}
 
 else if (btwo.innerHTML==="Three" && accept.innerHTML==="Back 3") {
 btwo.innerHTML="";
-btwentyfive.innerHTML="Three";}}
+btwentyfive.innerHTML="Three";
+btwentyfive.style.color="green";}}
 
 function card1() {
 var acc=document.getElementById("cardAcc");
