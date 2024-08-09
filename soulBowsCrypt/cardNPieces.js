@@ -7,11 +7,13 @@ var lock=document.getElementById("id24");
 if (jailStartOne.innerHTML==="One") {
 jailStartOne.innerHTML="";
 jailOne.innerHTML="One";
+jailOne.style.color="red";
 lock.style.background="silver";
 jailOne.style.color="black";}
 else if (jailStartThree.innerHTML==="Three") {
 jailStartThree.innerHTML="";
 jailThree.innerHTML="Three";
+jailThree.style.color="green";
 lock.style.background="silver";
 jailThree.style.color="black";}}
 
@@ -22,10 +24,12 @@ var startThree=document.getElementById("cthree");
 var homeThree=document.getElementById("threeA");
 if (startOne.innerHTML==="One") {
 startOne.innerHTML="";
-homeOne.innerHTML="One";}
+homeOne.innerHTML="One";
+homeOne.style.color="red";}
 else if (startThree.innerHTML==="Three") {
 starThree.innerHTML="";
-homeThree.innerHTML="Three";}}
+homeThree.innerHTML="Three";
+homeOne.style.color="green";}}
 
 function start2() {
 var startOne=document.getElementById("oneL");
@@ -34,10 +38,12 @@ var startThree=document.getElementById("threeL");
 var homeThree=document.getElementById("threeA");
 if (startOne.innerHTML==="One") {
 startOne.innerHTML="";
-homeOne.innerHTML="One";}
+homeOne.innerHTML="One";
+homeOne.style.color="red";}
 else if (startThree.innerHTML==="Three") {
 startThree.innerHTML="";
-homeThree.innerHTML="Three";}}
+homeThree.innerHTML="Three";
+homeOne.style.color="green";}}
 
 function piece(element) {
 var one=document.getElementById("oneA");
@@ -340,7 +346,6 @@ wallet.innerHTML="";
 y.innerHTML="";
 z.innerHTML="";
 x.innerHTML="";}
-
 else if (btoggle1.style.background==="white" && bone.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
