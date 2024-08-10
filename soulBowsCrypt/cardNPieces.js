@@ -349,231 +349,231 @@ x.innerHTML="";}
 else if (btoggle1.style.background==="white" && bone.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
+bwallet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
 else if (btoggle1.style.background==="white" && btwo.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
+bwallet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
 else if (btoggle1.style.background==="white" && bthree.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
+bwallet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
 else if (btoggle1.style.background==="white" && bfour.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
+bwallet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
 else if (btoggle1.style.background==="white" && bfive.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
+bwallet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
 else if (btoggle1.style.background==="white" && bsix.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
+bwallet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
 else if (btoggle1.style.background==="white" && bseven.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
+bwallet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
 else if (btoggle1.style.background==="white" && beight.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
+bwallet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
 else if (btoggle1.style.background==="white" && bnine.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
+bwallet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
 else if (btoggle1.style.background==="white" && bten.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
+bwallet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
 else if (btoggle1.style.background==="white" && beleven.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
+bwallet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
 else if (btoggle1.style.background==="white" && btwelve.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
+bwallet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
 else if (btoggle1.style.background==="white" && bthirteen.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
+bwallet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
 else if (btoggle1.style.background==="white" && bfourteen.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
+bwallet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
 else if (btoggle1.style.background==="white" && bfifteen.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
+bwallet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
 else if (btoggle1.style.background==="white" && bsixteen.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
+bwallet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
 else if (btoggle1.style.background==="white" && bseventeen.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
+bwallet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
 else if (btoggle1.style.background==="white" && beighteen.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
+bwallet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
 else if (btoggle1.style.background==="white" && bnineteen.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
+bwallet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
 else if (btoggle1.style.background==="white" && btwenty.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
+bwallet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
 else if (btoggle1.style.background==="white" && btwentyone.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
+bwallet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
 else if (btoggle1.style.background==="white" && btwentytwo.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
+bwallet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
 else if (btoggle1.style.background==="white" && btwentyThree.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
+bwallet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
 else if (btoggle1.style.background==="white" && btwentythree.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
+bwallet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
 else if (btoggle1.style.background==="white" && btwentyfour.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
+bwallet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
 else if (btoggle1.style.background==="white" && btwentyfive.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
+bwallet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
 else if (btoggle1.style.background==="white" && btwentysix.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
+bwallet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
 else if (btoggle1.style.background==="white" && btwentyseven.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
+bwallet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
 else if (btoggle1.style.background==="white" && btwentyeight.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
+bwallet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
 else if (btoggle1.style.background==="white" && btwentynine.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
+bwallet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
 else if (btoggle1.style.background==="white" && bthirty.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
+bwallet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
 else if (btoggle1.style.background==="white" && bthirtyone.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
+bwallet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
 else if (btoggle1.style.background==="white" && bthirtyTwo.innerHTML==="Three") {
 element.innerHTML="";
 bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
+bwallet.innerHTML="";
 by.innerHTML="";
 bz.innerHTML="";
 bx.innerHTML="";}
