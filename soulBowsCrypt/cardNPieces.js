@@ -122,6 +122,7 @@ var bwallet=document.getElementById("wal2");
 var by=document.getElementById("+b");
 var bz=document.getElementById("-b");
 var bx=document.getElementById("b111");
+var accept=document.getElementById("cardAcc");
 if (toggle1.style.background==="white" && one.innerHTML==="One") {
 element.innerHTML="";
 button1.innerHTML="One";
