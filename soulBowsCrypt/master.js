@@ -4575,6 +4575,7 @@ var bwallet=document.getElementById("wal2");
 var by=document.getElementById("+b");
 var bz=document.getElementById("-b");
 var bx=document.getElementById("b111");
+var accept=document.getElementById("cardAcc");
 if (toggle1.style.background==="white" && one.innerHTML==="One") {
 element.innerHTML="";
 button1.innerHTML="One";
@@ -5041,8 +5042,8 @@ twentyone.innerHTML="";
 one.innerHTML="One";
 one.style.color="red";}
 
-else if (two.innerHTML==="One" && accept.innerHTML==="Ad- vance To Go") {
-two.innerHTML="";
+else if (twentyeight.innerHTML==="One" && accept.innerHTML==="Ad- vance To Go") {
+twentyeight.innerHTML="";
 one.innerHTML="One";
 one.style.color="red";}
 
@@ -5057,7 +5058,7 @@ btwentyone.innerHTML="";
 aone.innerHTML="Three";
 aone.style.color="green";}
 
-else if (btwo.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Go") {
+else if (btwentyeight.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Go") {
 btwo.innerHTML="";
 aone.innerHTML="Three";
 aone.style.color="green";}
@@ -5072,7 +5073,7 @@ twentyone.innerHTML="";
 eight.innerHTML="One";
 eight.style.color="red";}
 
-else if (two.innerHTML==="One" && accept.innerHTML==="Jail") {
+else if (twentyeight.innerHTML==="One" && accept.innerHTML==="Jail") {
 two.innerHTML="";
 eight.innerHTML="One";
 eight.style.color="red";}
@@ -5088,7 +5089,7 @@ btwentyone.innerHTML="";
 beight.innerHTML="Three";
 beight.style.color="green";}
 
-else if (btwo.innerHTML==="Three" && accept.innerHTML==="Jail") {
+else if (btwentyeight.innerHTML==="Three" && accept.innerHTML==="Jail") {
 btwo.innerHTML="";
 beight.innerHTML="Three";
 beight.style.color="green";}
@@ -5103,8 +5104,8 @@ twentyone.innerHTML="";
 thirtytwo.innerHTML="One";
 thirtytwo.style.color="red";}
  
-else if (two.innerHTML==="One" && accept.innerHTML==="Ad- vance To Gold") {
-two.innerHTML="";
+else if (twentyeight.innerHTML==="One" && accept.innerHTML==="Ad- vance To Gold") {
+twentyeight.innerHTML="";
 thirtytwo.innerHTML="One";
 thirtytwo.style.color="red";}
 
@@ -5118,7 +5119,7 @@ btwentyone.innerHTML="";
 bthirtytwo.innerHTML="Three";
 bthirtytwo.style.color="green";}
 
-else if (btwo.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Gold") {
+else if (btwentyeight.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Gold") {
 btwo.innerHTML="";
 bthirtytwo.innerHTML="Three";
 bthirtytwo.style.color="green";}
@@ -5133,11 +5134,10 @@ twentyone.innerHTML="";
 eighteen.innerHTML="One";
 eighteen.style.color="red";}
 
-else if (two.innerHTML==="One" && accept.innerHTML==="Back 3") {
-two.innerHTML="";
+else if (twentyeight.innerHTML==="One" && accept.innerHTML==="Back 3") {
+twentyeight.innerHTML="";
 twentyfive.innerHTML="One";
 twentyfive.style.color="red";}
-
 
 else if (bfour.innerHTML==="Three" && accept.innerHTML==="Back 3") {
 bfour.innerHTML="";
@@ -5149,7 +5149,7 @@ btwentyone.innerHTML="";
 beighteen.innerHTML="Three";
 beighteen.style.color="green";}
 
-else if (btwo.innerHTML==="Three" && accept.innerHTML==="Back 3") {
+else if (btwentyeight.innerHTML==="Three" && accept.innerHTML==="Back 3") {
 btwo.innerHTML="";
 btwentyfive.innerHTML="Three";
 btwentyfive.style.color="green";}}
