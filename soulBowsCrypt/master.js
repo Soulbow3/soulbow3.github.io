@@ -1,3 +1,970 @@
+function times1() {
+var one=document.getElementById("oneM");
+var three=document.getElementById("timesOne");
+var back=document.getElementById("timesBack1");
+var four=document.getElementById("threeM");
+var sell1=document.getElementById("sel1");
+var sell3=document.getElementById("sel3");
+if (sell1.style.background==="grey" && three.innerHTML==="x30") 
+{back.style.background="grey";
+three.innerHTML="Sold P1";}
+else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="x30";}
+else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="x30";}
+else if (sell3.style.background==="grey" && three.innerHTML==="x30") 
+{back.style.background="grey";
+three.innerHTML="Sold P3";}
+else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="x30";}
+else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="x30";}
+else if (sell1.style.background==="white" && back.style.background==="red") {
+three.innerHTML="x30 $100";
+back.style.background="yellow";}
+else if (sell3.style.background==="white" && back.style.background==="green") {
+three.innerHTML="x30 $100";
+back.style.background="yellow";}
+else if (back.style.background==="red") {
+back.style.background="green";}
+else if (back.style.background==="green") {
+back.style.background="red";}
+else if (one.innerHTML==="One" && back.style.background==="yellow") {
+three.innerHTML="x30";
+back.style.background="red";}
+else if (four.innerHTML==="Three" && back.style.background==="yellow") {
+three.innerHTML="x30";
+back.style.background="green";}}
+
+function times2() {
+var one=document.getElementById("done");
+var three=document.getElementById("timesTwo");
+var back=document.getElementById("timesBack2");
+var four=document.getElementById("dthree");
+var sell1=document.getElementById("sel1");
+var sell3=document.getElementById("sel3");
+if (sell1.style.background==="grey" && three.innerHTML==="x40") 
+{back.style.background="grey";
+three.innerHTML="Sold P1";}
+else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="x40";}
+else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="x40";}
+else if (sell3.style.background==="grey" && three.innerHTML==="x40") 
+{back.style.background="grey";
+three.innerHTML="Sold P3";}
+else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="x40";}
+else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="x40";}
+else if (sell1.style.background==="white" && back.style.background==="red") {
+three.innerHTML="x40 $100";
+back.style.background="yellow";}
+else if (sell3.style.background==="white" && back.style.background==="green") {
+three.innerHTML="x40 $100";
+back.style.background="yellow";}
+else if (back.style.background==="red") {
+back.style.background="green";}
+else if (back.style.background==="green") {
+back.style.background="red";}
+else if (one.innerHTML==="One" && back.style.background==="yellow") {
+three.innerHTML="x40";
+back.style.background="red";}
+else if (four.innerHTML==="Three" && back.style.background==="yellow") {
+three.innerHTML="x40";
+back.style.background="green";}}
+
+function plum1() {
+var one=document.getElementById("oneB");
+var three=document.getElementById("plumOne");
+var back=document.getElementById("plumBack1");
+var four=document.getElementById("threeB");
+var sell1=document.getElementById("sel1");
+var sell3=document.getElementById("sel3");
+if (sell1.style.background==="grey" && three.innerHTML==="Rent $20") 
+{back.style.background="grey";
+three.innerHTML="Sold P1";}
+else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="Rent $20";}
+else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="Rent $20";}
+else if (sell3.style.background==="grey" && three.innerHTML==="Rent $20") 
+{back.style.background="grey";
+three.innerHTML="Sold P3";}
+else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="Rent $20";}
+else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="Rent $20";}
+else if (sell1.style.background==="white" && three.innerHTML==="Rent $20") {
+three.innerHTML="Plum $60";
+back.style.background="orange";}
+else if (sell3.style.background==="white" && three.innerHTML==="Rent $20") {
+three.innerHTML="Plum $60";
+back.style.background="orange";}
+else if (back.style.background==="red") {
+back.style.background="green";}
+else if (back.style.background==="green") {
+back.style.background="red";}
+else if (one.innerHTML==="One" && back.style.background==="orange") {
+three.innerHTML="Rent $20";
+back.style.background="red";}
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
+three.innerHTML="Rent $20";
+back.style.background="green";}}
+
+function plum2() {
+var one=document.getElementById("oneC");
+var three=document.getElementById("plumTwo");
+var back=document.getElementById("plumBack2");
+var four=document.getElementById("threeC");
+var sell1=document.getElementById("sel1");
+var sell3=document.getElementById("sel3");
+if (sell1.style.background==="grey" && three.innerHTML==="Rent $20") 
+{back.style.background="grey";
+three.innerHTML="Sold P1";}
+else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="Rent $20";}
+else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="Rent $20";}
+else if (sell3.style.background==="grey" && three.innerHTML==="Rent $20") 
+{back.style.background="grey";
+three.innerHTML="Sold P3";}
+else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="Rent $20";}
+else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="Rent $20";}
+else if (sell1.style.background==="white" && three.innerHTML==="Rent $20") {
+three.innerHTML="Plum $80";
+back.style.background="orange";}
+else if (sell3.style.background==="white" && three.innerHTML==="Rent $20") {
+three.innerHTML="Plum $80";
+back.style.background="orange";}
+else if (back.style.background==="red") {
+back.style.background="green";}
+else if (back.style.background==="green") {
+back.style.background="red";}
+else if (one.innerHTML==="One" && back.style.background==="orange") {
+three.innerHTML="Rent $20";
+back.style.background="red";}
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
+three.innerHTML="Rent $20";
+back.style.background="green";}}
+
+function teal1() {
+var one=document.getElementById("oneE");
+var three=document.getElementById("tealOne");
+var back=document.getElementById("tealBack1");
+var four=document.getElementById("threeE");
+var sell1=document.getElementById("sel1");
+var sell3=document.getElementById("sel3");
+if (sell1.style.background==="grey" && three.innerHTML==="Rent $30") 
+{back.style.background="grey";
+three.innerHTML="Sold P1";}
+else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="Rent $30";}
+else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="Rent $30";}
+else if (sell3.style.background==="grey" && three.innerHTML==="Rent $30") 
+{back.style.background="grey";
+three.innerHTML="Sold P3";}
+else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="Rent $30";}
+else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="Rent $30";}
+else if (sell1.style.background==="white" && three.innerHTML==="Rent $30") {
+three.innerHTML="Teal $100";
+back.style.background="orange";}
+else if (sell3.style.background==="white" && three.innerHTML==="Rent $30") {
+three.innerHTML="Teal $100";
+back.style.background="orange";}
+else if (back.style.background==="red") {
+back.style.background="green";}
+else if (back.style.background==="green") {
+back.style.background="red";}
+else if (one.innerHTML==="One" && back.style.background==="orange") {
+three.innerHTML="Rent $30";
+back.style.background="red";}
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
+three.innerHTML="Rent $30";
+back.style.background="green";}}
+
+function teal2() {
+var one=document.getElementById("oneF");
+var three=document.getElementById("tealTwo");
+var back=document.getElementById("tealBack2");
+var four=document.getElementById("threeF");
+var sell1=document.getElementById("sel1");
+var sell3=document.getElementById("sel3");
+if (sell1.style.background==="grey" && three.innerHTML==="Rent $30") 
+{back.style.background="grey";
+three.innerHTML="Sold P1";}
+else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="Rent $30";}
+else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="Rent $30";}
+else if (sell3.style.background==="grey" && three.innerHTML==="Rent $30") 
+{back.style.background="grey";
+three.innerHTML="Sold P3";}
+else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="Rent $30";}
+else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="Rent $30";}
+else if (sell1.style.background==="white" && three.innerHTML==="Rent $30") {
+three.innerHTML="Teal $100";
+back.style.background="orange";}
+else if (sell3.style.background==="white" && three.innerHTML==="Rent $30") {
+three.innerHTML="Teal $100";
+back.style.background="orange";}
+else if (back.style.background==="red") {
+back.style.background="green";}
+else if (back.style.background==="green") {
+back.style.background="red";}
+else if (one.innerHTML==="One" && back.style.background==="orange") {
+three.innerHTML="Rent $30";
+back.style.background="red";}
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
+three.innerHTML="Rent $30";
+back.style.background="green";}}
+
+function teal3() {
+var one=document.getElementById("oneG");
+var three=document.getElementById("tealThree");
+var back=document.getElementById("tealBack3");
+var four=document.getElementById("threeG");
+var sell1=document.getElementById("sel1");
+var sell3=document.getElementById("sel3");
+if (sell1.style.background==="grey" && three.innerHTML==="Rent $40") 
+{back.style.background="grey";
+three.innerHTML="Sold P1";}
+else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="Rent $40";}
+else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="Rent $40";}
+else if (sell3.style.background==="grey" && three.innerHTML==="Rent $40") 
+{back.style.background="grey";
+three.innerHTML="Sold P3";}
+else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="Rent $40";}
+else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="Rent $40";}
+else if (sell1.style.background==="white" && three.innerHTML==="Rent $40") {
+three.innerHTML="Teal $120";
+back.style.background="orange";}
+else if (sell3.style.background==="white" && three.innerHTML==="Rent $40") {
+three.innerHTML="Teal $120";
+back.style.background="orange";}
+else if (back.style.background==="red") {
+back.style.background="green";}
+else if (back.style.background==="green") {
+back.style.background="red";}
+else if (one.innerHTML==="One" && back.style.background==="orange") {
+three.innerHTML="Rent $40";
+back.style.background="red";}
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
+three.innerHTML="Rent $40";
+back.style.background="green";}}
+
+function cyan1() {
+var one=document.getElementById("oneI");
+var three=document.getElementById("cyanOne");
+var back=document.getElementById("cyanBack1");
+var four=document.getElementById("threeI");
+var sell1=document.getElementById("sel1");
+var sell3=document.getElementById("sel3");
+if (sell1.style.background==="grey" && three.innerHTML==="Rent $60") 
+{back.style.background="grey";
+three.innerHTML="Sold P1";}
+else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="Rent $60";}
+else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="Rent $60";}
+else if (sell3.style.background==="grey" && three.innerHTML==="Rent $60") 
+{back.style.background="grey";
+three.innerHTML="Sold P3";}
+else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="Rent $60";}
+else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="Rent $60";}
+else if (sell1.style.background==="white" && three.innerHTML==="Rent $60") {
+three.innerHTML="Cyan $120";
+back.style.background="orange";}
+else if (sell3.style.background==="white" && three.innerHTML==="Rent $60") {
+three.innerHTML="Cyan $120";
+back.style.background="orange";}
+else if (back.style.background==="red") {
+back.style.background="green";}
+else if (back.style.background==="green") {
+back.style.background="red";}
+else if (one.innerHTML==="One" && back.style.background==="orange") {
+three.innerHTML="Rent $60";
+back.style.background="red";}
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
+three.innerHTML="Rent $60";
+back.style.background="green";}}
+
+function cyan2() {
+var one=document.getElementById("oneJ");
+var three=document.getElementById("cyanTwo");
+var back=document.getElementById("cyanBack2");
+var four=document.getElementById("threeJ");
+var sell1=document.getElementById("sel1");
+var sell3=document.getElementById("sel3");
+if (sell1.style.background==="grey" && three.innerHTML==="Rent $60") 
+{back.style.background="grey";
+three.innerHTML="Sold P1";}
+else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="Rent $60";}
+else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="Rent $60";}
+else if (sell3.style.background==="grey" && three.innerHTML==="Rent $60") 
+{back.style.background="grey";
+three.innerHTML="Sold P3";}
+else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="Rent $60";}
+else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="Rent $60";}
+else if (sell1.style.background==="white" && three.innerHTML==="Rent $60") {
+three.innerHTML="Cyan $120";
+back.style.background="orange";}
+else if (sell3.style.background==="white" && three.innerHTML==="Rent $60") {
+three.innerHTML="Cyan $120";
+back.style.background="orange";}
+else if (back.style.background==="red") {
+back.style.background="green";}
+else if (back.style.background==="green") {
+back.style.background="red";}
+else if (one.innerHTML==="One" && back.style.background==="orange") {
+three.innerHTML="Rent $60";
+back.style.background="red";}
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
+three.innerHTML="Rent $60";
+back.style.background="green";}}
+
+function cyan3() {
+var one=document.getElementById("oneK");
+var three=document.getElementById("cyanThree");
+var back=document.getElementById("cyanBack3");
+var four=document.getElementById("threeK");
+var sell1=document.getElementById("sel1");
+var sell3=document.getElementById("sel3");
+if (sell1.style.background==="grey" && three.innerHTML==="Rent $70") 
+{back.style.background="grey";
+three.innerHTML="Sold P1";}
+else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="Rent $70";}
+else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="Rent $70";}
+else if (sell3.style.background==="grey" && three.innerHTML==="Rent $70") 
+{back.style.background="grey";
+three.innerHTML="Sold P3";}
+else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="Rent $70";}
+else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="Rent $70";}
+else if (sell1.style.background==="white" && three.innerHTML==="Rent $70") {
+three.innerHTML="Cyan $140";
+back.style.background="orange";}
+else if (sell3.style.background==="white" && three.innerHTML==="Rent $70") {
+three.innerHTML="Cyan $140";
+back.style.background="orange";}
+else if (back.style.background==="red") {
+back.style.background="green";}
+else if (back.style.background==="green") {
+back.style.background="red";}
+else if (one.innerHTML==="One" && back.style.background==="orange") {
+three.innerHTML="Rent $70";
+back.style.background="red";}
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
+three.innerHTML="Rent $70";
+back.style.background="green";}}
+
+
+function blue1() {
+var one=document.getElementById("oneN");
+var three=document.getElementById("blueOne");
+var back=document.getElementById("blueBack1");
+var four=document.getElementById("threeN");
+var sell1=document.getElementById("sel1");
+var sell3=document.getElementById("sel3");
+if (sell1.style.background==="grey" && three.innerHTML==="Rent $70") 
+{back.style.background="grey";
+three.innerHTML="Sold P1";}
+else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="Rent $70";}
+else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="Rent $70";}
+else if (sell3.style.background==="grey" && three.innerHTML==="Rent $70") 
+{back.style.background="grey";
+three.innerHTML="Sold P3";}
+else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="Rent $70";}
+else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="Rent $70";}
+else if (sell1.style.background==="white" && three.innerHTML==="Rent $70") {
+three.innerHTML="Blue $140";
+back.style.background="orange";}
+else if (sell3.style.background==="white" && three.innerHTML==="Rent $70") {
+three.innerHTML="Blue $140";
+back.style.background="orange";}
+else if (back.style.background==="red") {
+back.style.background="green";}
+else if (back.style.background==="green") {
+back.style.background="red";}
+else if (one.innerHTML==="One" && back.style.background==="orange") {
+three.innerHTML="Rent $70";
+back.style.background="red";}
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
+three.innerHTML="Rent $70";
+back.style.background="green";}}
+
+function blue2() {
+var one=document.getElementById("oneO");
+var three=document.getElementById("blueTwo");
+var back=document.getElementById("blueBack2");
+var four=document.getElementById("threeO");
+var sell1=document.getElementById("sel1");
+var sell3=document.getElementById("sel3");
+if (sell1.style.background==="grey" && three.innerHTML==="Rent $80") 
+{back.style.background="grey";
+three.innerHTML="Sold P1";}
+else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="Rent $80";}
+else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="Rent $80";}
+else if (sell3.style.background==="grey" && three.innerHTML==="Rent $80") 
+{back.style.background="grey";
+three.innerHTML="Sold P3";}
+else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="Rent $80";}
+else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="Rent $80";}
+else if (sell1.style.background==="white" && three.innerHTML==="Rent $80") {
+three.innerHTML="Blue $140";
+back.style.background="orange";}
+else if (sell3.style.background==="white" && three.innerHTML==="Rent $80") {
+three.innerHTML="Blue $140";
+back.style.background="orange";}
+else if (back.style.background==="red") {
+back.style.background="green";}
+else if (back.style.background==="green") {
+back.style.background="red";}
+else if (one.innerHTML==="One" && back.style.background==="orange") {
+three.innerHTML="Rent $80";
+back.style.background="red";}
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
+three.innerHTML="Rent $80";
+back.style.background="green";}}
+
+function blue3() {
+var one=document.getElementById("oneP");
+var three=document.getElementById("blueThree");
+var back=document.getElementById("blueBack3");
+var four=document.getElementById("threeP");
+var sell1=document.getElementById("sel1");
+var sell3=document.getElementById("sel3");
+if (sell1.style.background==="grey" && three.innerHTML==="Rent $90") 
+{back.style.background="grey";
+three.innerHTML="Sold P1";}
+else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="Rent $90";}
+else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="Rent $90";}
+else if (sell3.style.background==="grey" && three.innerHTML==="Rent $90") 
+{back.style.background="grey";
+three.innerHTML="Sold P3";}
+else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="Rent $90";}
+else if (three.innerHTML==="Sold P3" && sell2.style.background==="black") 
+{back.style.background="purple";
+three.innerHTML="Rent $90";}
+else if (sell1.style.background==="white" && three.innerHTML==="Rent $90") {
+three.innerHTML="Blue $160";
+back.style.background="orange";}
+else if (sell3.style.background==="white" && three.innerHTML==="Rent $90") {
+three.innerHTML="Blue $160";
+back.style.background="orange";}
+else if (back.style.background==="red") {
+back.style.background="green";}
+else if (back.style.background==="green") {
+back.style.background="red";}
+else if (one.innerHTML==="One" && back.style.background==="orange") {
+three.innerHTML="Rent $90";
+back.style.background="red";}
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
+three.innerHTML="Rent $90";
+back.style.background="green";}}
+
+function pink1() {
+var one=document.getElementById("oneR");
+var three=document.getElementById("pinkOne");
+var back=document.getElementById("pinkBack1");
+var four=document.getElementById("threeR");
+var sell1=document.getElementById("sel1");
+var sell3=document.getElementById("sel3");
+if (sell1.style.background==="grey" && three.innerHTML==="Rent $90") 
+{back.style.background="grey";
+three.innerHTML="Sold P1";}
+else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="Rent $90";}
+else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="Rent $90";}
+else if (sell3.style.background==="grey" && three.innerHTML==="Rent $90") 
+{back.style.background="grey";
+three.innerHTML="Sold P3";}
+else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="Rent $90";}
+else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="Rent $90";}
+else if (sell1.style.background==="white" && three.innerHTML==="Rent $90") {
+three.innerHTML="Pink $160";
+back.style.background="orange";}
+else if (sell3.style.background==="white" && three.innerHTML==="Rent $90") {
+three.innerHTML="Pink $160";
+back.style.background="orange";}
+else if (back.style.background==="red") {
+back.style.background="green";}
+else if (back.style.background==="green") {
+back.style.background="red";}
+else if (one.innerHTML==="One" && back.style.background==="orange") {
+three.innerHTML="Rent $90";
+back.style.background="red";}
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
+three.innerHTML="Rent $90";
+back.style.background="green";}}
+
+function pink2() {
+var one=document.getElementById("oneS");
+var three=document.getElementById("pinkTwo");
+var back=document.getElementById("pinkBack2");
+var four=document.getElementById("threeS");
+var sell1=document.getElementById("sel1");
+var sell3=document.getElementById("sel3");
+if (sell1.style.background==="grey" && three.innerHTML==="Rent $90") 
+{back.style.background="grey";
+three.innerHTML="Sold P1";}
+else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="Rent $90";}
+else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="Rent $90";}
+else if (sell3.style.background==="grey" && three.innerHTML==="Rent $90") 
+{back.style.background="grey";
+three.innerHTML="Sold P3";}
+else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="Rent $90";}
+else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="Rent $90";}
+else if (sell1.style.background==="white" && three.innerHTML==="Rent $90") {
+three.innerHTML="Pink $160";
+back.style.background="orange";}
+else if (sell3.style.background==="white" && three.innerHTML==="Rent $90") {
+three.innerHTML="Pink $160";
+back.style.background="orange";}
+else if (back.style.background==="red") {
+back.style.background="green";}
+else if (back.style.background==="green") {
+back.style.background="red";}
+else if (one.innerHTML==="One" && back.style.background==="orange") {
+three.innerHTML="Rent $90";
+back.style.background="red";}
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
+three.innerHTML="Rent $90";
+back.style.background="green";}}
+
+function pink3() {
+var one=document.getElementById("oneT");
+var three=document.getElementById("pinkThree");
+var back=document.getElementById("pinkBack3");
+var four=document.getElementById("threeT");
+var sell1=document.getElementById("sel1");
+var sell3=document.getElementById("sel3");
+if (sell1.style.background==="grey" && three.innerHTML==="Rent $100") 
+{back.style.background="grey";
+three.innerHTML="Sold P1";}
+else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="Rent $100";}
+else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="Rent $100";}
+else if (sell3.style.background==="grey" && three.innerHTML==="Rent $100") 
+{back.style.background="grey";
+three.innerHTML="Sold P3";}
+else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="Rent $100";}
+else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="Rent $100";}
+else if (sell1.style.background==="white" && three.innerHTML==="Rent $100") {
+three.innerHTML="Pink $180";
+back.style.background="orange";}
+else if (sell3.style.background==="white" && three.innerHTML==="Rent $100") {
+three.innerHTML="Pink $180";
+back.style.background="orange";}
+else if (back.style.background==="red") {
+back.style.background="green";}
+else if (back.style.background==="green") {
+back.style.background="red";}
+else if (one.innerHTML==="One" && back.style.background==="orange") {
+three.innerHTML="Rent $100";
+back.style.background="red";}
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
+three.innerHTML="Rent $100";
+back.style.background="green";}}
+
+function red1() {
+var one=document.getElementById("oneV");
+var three=document.getElementById("redOne");
+var back=document.getElementById("redBack1");
+var four=document.getElementById("threeV");
+var sell1=document.getElementById("sel1");
+var sell3=document.getElementById("sel3");
+if (sell1.style.background==="grey" && three.innerHTML==="Rent $100") 
+{back.style.background="grey";
+three.innerHTML="Sold P1";}
+else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="Rent $100";}
+else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="Rent $100";}
+else if (sell3.style.background==="grey" && three.innerHTML==="Rent $100") 
+{back.style.background="grey";
+three.innerHTML="Sold P3";}
+else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="Rent $100";}
+else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="Rent $100";}
+else if (sell1.style.background==="white" && three.innerHTML==="Rent $100") {
+three.innerHTML="Red $200";
+back.style.background="orange";}
+else if (sell3.style.background==="white" && three.innerHTML==="Rent $100") {
+three.innerHTML="Red $200";
+back.style.background="orange";}
+else if (back.style.background==="red") {
+back.style.background="green";}
+else if (back.style.background==="green") {
+back.style.background="red";}
+else if (one.innerHTML==="One" && back.style.background==="orange") {
+three.innerHTML="Rent $100";
+back.style.background="red";}
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
+three.innerHTML="Rent $100";
+back.style.background="green";}}
+
+function red2() {
+var one=document.getElementById("oneW");
+var three=document.getElementById("redTwo");
+var back=document.getElementById("redBack2");
+var four=document.getElementById("threeW");
+var sell1=document.getElementById("sel1");
+var sell3=document.getElementById("sel3");
+if (sell1.style.background==="grey" && three.innerHTML==="Rent $110") 
+{back.style.background="grey";
+three.innerHTML="Sold P1";}
+else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="Rent $110";}
+else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="Rent $110";}
+else if (sell3.style.background==="grey" && three.innerHTML==="Rent $110") 
+{back.style.background="grey";
+three.innerHTML="Sold P3";}
+else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="Rent $110";}
+else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="Rent $110";}
+else if (sell1.style.background==="white" && three.innerHTML==="Rent $110") {
+three.innerHTML="Red $220";
+back.style.background="orange";}
+else if (sell3.style.background==="white" && three.innerHTML==="Rent $110") {
+three.innerHTML="Red $220";
+back.style.background="orange";}
+else if (back.style.background==="red") {
+back.style.background="green";}
+else if (back.style.background==="green") {
+back.style.background="red";}
+else if (one.innerHTML==="One" && back.style.background==="orange") {
+three.innerHTML="Rent $110";
+back.style.background="red";}
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
+three.innerHTML="Rent $110";
+back.style.background="green";}}
+
+function lime1() {
+var one=document.getElementById("oneY");
+var three=document.getElementById("limeOne");
+var back=document.getElementById("limeBack1");
+var four=document.getElementById("threeY");
+var sell1=document.getElementById("sel1");
+var sell3=document.getElementById("sel3");
+if (sell1.style.background==="grey" && three.innerHTML==="Rent $100") 
+{back.style.background="grey";
+three.innerHTML="Sold P1";}
+else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="Rent $100";}
+else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="Rent $100";}
+else if (sell3.style.background==="grey" && three.innerHTML==="Rent $100") 
+{back.style.background="grey";
+three.innerHTML="Sold P3";}
+else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="Rent $100";}
+else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="Rent $100";}
+else if (sell1.style.background==="white" && three.innerHTML==="Rent $100") {
+three.innerHTML="Lime $240";
+back.style.background="orange";}
+else if (sell3.style.background==="white" && three.innerHTML==="Rent $100") {
+three.innerHTML="Lime $240";
+back.style.background="orange";}
+else if (back.style.background==="red") {
+back.style.background="green";}
+else if (back.style.background==="green") {
+back.style.background="red";}
+else if (one.innerHTML==="One" && back.style.background==="orange") {
+three.innerHTML="Rent $100";
+back.style.background="red";}
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
+three.innerHTML="Rent $100";
+back.style.background="green";}}
+
+function lime2() {
+var one=document.getElementById("oneZ");
+var three=document.getElementById("limeTwo");
+var back=document.getElementById("limeBack2");
+var four=document.getElementById("threeZ");
+var sell1=document.getElementById("sel1");
+var sell3=document.getElementById("sel3");
+if (sell1.style.background==="grey" && three.innerHTML==="Rent $100") 
+{back.style.background="grey";
+three.innerHTML="Sold P1";}
+else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="Rent $100";}
+else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="Rent $100";}
+else if (sell3.style.background==="grey" && three.innerHTML==="Rent $100") 
+{back.style.background="grey";
+three.innerHTML="Sold P3";}
+else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="Rent $100";}
+else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="Rent $100";}
+else if (sell1.style.background==="white" && three.innerHTML==="Rent $100") {
+three.innerHTML="Lime $240";
+back.style.background="orange";}
+else if (sell3.style.background==="white" && three.innerHTML==="Rent $100") {
+three.innerHTML="Lime $240";
+back.style.background="orange";}
+else if (back.style.background==="red") {
+back.style.background="green";}
+else if (back.style.background==="green") {
+back.style.background="red";}
+else if (one.innerHTML==="One" && back.style.background==="orange") {
+three.innerHTML="Rent $100";
+back.style.background="red";}
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
+three.innerHTML="Rent $100";
+back.style.background="green";}}
+
+function lime3() {
+var one=document.getElementById("aone");
+var three=document.getElementById("limeThree");
+var back=document.getElementById("limeBack3");
+var four=document.getElementById("athree");
+var sell1=document.getElementById("sel1");
+var sell3=document.getElementById("sel3");
+if (sell1.style.background==="grey" && three.innerHTML==="Rent $120") 
+{back.style.background="grey";
+three.innerHTML="Sold P1";}
+else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="Rent $120";}
+else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="Rent $120";}
+else if (sell3.style.background==="grey" && three.innerHTML==="Rent $120") 
+{back.style.background="grey";
+three.innerHTML="Sold P3";}
+else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="Rent $120";}
+else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="Rent $120";}
+else if (sell1.style.background==="white" && three.innerHTML==="Rent $120") {
+three.innerHTML="Lime $260";
+back.style.background="orange";}
+else if (sell3.style.background==="white" && three.innerHTML==="Rent $120") {
+three.innerHTML="Lime $260";
+back.style.background="orange";}
+else if (back.style.background==="red") {
+back.style.background="green";}
+else if (back.style.background==="green") {
+back.style.background="red";}
+else if (one.innerHTML==="One" && back.style.background==="orange") {
+three.innerHTML="Rent $120";
+back.style.background="red";}
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
+three.innerHTML="Rent $120";
+back.style.background="green";}}
+
+function gold1() {
+var one=document.getElementById("fone");
+var three=document.getElementById("goldOne");
+var back=document.getElementById("goldBack1");
+var four=document.getElementById("fthree");
+var sell1=document.getElementById("sel1");
+var sell3=document.getElementById("sel3");
+if (sell1.style.background==="grey" && three.innerHTML==="Rent $160") 
+{back.style.background="grey";
+three.innerHTML="Sold P1";}
+else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="Rent $160";}
+else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="Rent $160";}
+else if (sell3.style.background==="grey" && three.innerHTML==="Rent $160") 
+{back.style.background="grey";
+three.innerHTML="Sold P3";}
+else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="Rent $160";}
+else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="Rent $160";}
+else if (sell1.style.background==="white" && three.innerHTML==="Rent $160") {
+three.innerHTML="Gold $350";
+back.style.background="orange";}
+else if (sell3.style.background==="white" && three.innerHTML==="Rent $160") {
+three.innerHTML="Gold $350";
+back.style.background="orange";}
+else if (back.style.background==="red") {
+back.style.background="green";}
+else if (back.style.background==="green") {
+back.style.background="red";}
+else if (one.innerHTML==="One" && back.style.background==="orange") {
+three.innerHTML="Rent $160";
+back.style.background="red";}
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
+three.innerHTML="Rent $160";
+back.style.background="green";}}
+
+function gold2() {
+var one=document.getElementById("eone");
+var three=document.getElementById("goldTwo");
+var back=document.getElementById("goldBack2");
+var four=document.getElementById("ethree");
+var sell1=document.getElementById("sel1");
+var sell3=document.getElementById("sel3");
+if (sell1.style.background==="grey" && three.innerHTML==="Rent $150") 
+{back.style.background="grey";
+three.innerHTML="Sold P1";}
+else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="Rent $150";}
+else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="Rent $150";}
+else if (sell3.style.background==="grey" && three.innerHTML==="Rent $150") 
+{back.style.background="grey";
+three.innerHTML="Sold P3";}
+else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
+{back.style.background="red";
+three.innerHTML="Rent $150";}
+else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
+{back.style.background="green";
+three.innerHTML="Rent $150";}
+else if (sell1.style.background==="white" && three.innerHTML==="Rent $150") {
+three.innerHTML="Gold $300";
+back.style.background="orange";}
+else if (sell3.style.background==="white" && three.innerHTML==="Rent $150") {
+three.innerHTML="Gold $300";
+back.style.background="orange";}
+else if (back.style.background==="red") {
+back.style.background="green";}
+else if (back.style.background==="green") {
+back.style.background="red";}
+else if (one.innerHTML==="One" && back.style.background==="orange") {
+three.innerHTML="Rent $150";
+back.style.background="red";}
+else if (four.innerHTML==="Three" && back.style.background==="orange") {
+three.innerHTML="Rent $150";
+back.style.background="green";}}
+
 function change1(element) {
 if (element.style.background==="silver") {
 element.style.background="grey";
@@ -23,819 +990,6 @@ element.style.background="white";
 element.innerHTML="Re- move";}
 else {element.style.background="silver";
 element.innerHTML="Toggle P3 Off";}}
-
-function drunkTank() {
-var jailStartOne=document.getElementById("oneX");
-var jailOne=document.getElementById("oneH");
-var jailThree=document.getElementById("threeH");
-var jailStartThree=document.getElementById("threeX");
-var lock=document.getElementById("id24");
-if (jailStartOne.innerHTML==="One") {
-jailStartOne.innerHTML="";
-jailOne.innerHTML="One";
-lock.style.background="silver";
-jailOne.style.color="black";}
-else if (jailStartThree.innerHTML==="Three") {
-jailStartThree.innerHTML="";
-jailThree.innerHTML="Three";
-lock.style.background="silver";
-jailThree.style.color="black";}}
-
-function start1() {
-var startOne=document.getElementById("cone");
-var homeOne=document.getElementById("oneA");
-var startThree=document.getElementById("cthree");
-var homeThree=document.getElementById("threeA");
-if (startOne.innerHTML==="One") {
-startOne.innerHTML="";
-homeOne.innerHTML="One";}
-else if (startThree.innerHTML==="Three") {
-starThree.innerHTML="";
-homeThree.innerHTML="Three";}}
-
-function start2() {
-var startOne=document.getElementById("oneL");
-var homeOne=document.getElementById("oneA");
-var startThree=document.getElementById("threeL");
-var homeThree=document.getElementById("threeA");
-if (startOne.innerHTML==="One") {
-startOne.innerHTML="";
-homeOne.innerHTML="One";}
-else if (startThree.innerHTML==="Three") {
-startThree.innerHTML="";
-homeThree.innerHTML="Three";}}
-
-function piece(element) {
-var one=document.getElementById("oneA");
-var two=document.getElementById("oneB");
-var three=document.getElementById("oneC");
-var four=document.getElementById("oneD");
-var five=document.getElementById("oneE");
-var six=document.getElementById("oneF");
-var seven=document.getElementById("oneG");
-var eight=document.getElementById("oneH");
-var nine=document.getElementById("oneI");
-var ten=document.getElementById("oneJ");
-var eleven=document.getElementById("oneK");
-var twelve=document.getElementById("oneL");
-var thirteen=document.getElementById("oneM");
-var fourteen=document.getElementById("oneN");
-var fifteen=document.getElementById("oneO");
-var sixteen=document.getElementById("oneP");
-var seventeen=document.getElementById("oneQ");
-var eighteen=document.getElementById("oneR");
-var nineteen=document.getElementById("oneS");
-var twenty=document.getElementById("oneT");
-var twentyone=document.getElementById("oneU");
-var twentytwo=document.getElementById("oneV");
-var twentythree=document.getElementById("oneW");
-var twentyfour=document.getElementById("oneX");
-var twentyfive=document.getElementById("oneY");
-var twentysix=document.getElementById("oneZ");
-var twentyseven=document.getElementById("aone");
-var twentyeight=document.getElementById("bone");
-var twentynine=document.getElementById("cone");
-var thirty=document.getElementById("done");
-var thirtyone=document.getElementById("eone");
-var thirtytwo=document.getElementById("fone");
-var toggle1=document.getElementById("sel1");
-var button1=document.getElementById("btn1");
-var wallet=document.getElementById("wal1");
-var y=document.getElementById("+a");
-var z=document.getElementById("-a");
-var x=document.getElementById("a111");
-
-var bone=document.getElementById("threeA");
-var btwo=document.getElementById("threeB");
-var bthree=document.getElementById("threeC");
-var bfour=document.getElementById("threeD");
-var bfive=document.getElementById("threeE");
-var bsix=document.getElementById("threeF");
-var bseven=document.getElementById("threeG");
-var beight=document.getElementById("threeH");
-var bnine=document.getElementById("threeI");
-var bten=document.getElementById("threeJ");
-var beleven=document.getElementById("threeK");
-var btwelve=document.getElementById("threeL");
-var bthirteen=document.getElementById("threeM");
-var bfourteen=document.getElementById("threeN");
-var bfifteen=document.getElementById("threeO");
-var bsixteen=document.getElementById("threeP");
-var bseventeen=document.getElementById("threeQ");
-var beighteen=document.getElementById("threeR");
-var bnineteen=document.getElementById("threeS");
-var btwenty=document.getElementById("threeT");
-var btwentyone=document.getElementById("threeU");
-var btwentytwo=document.getElementById("threeV");
-var btwentythree=document.getElementById("threeW");
-var btwentyfour=document.getElementById("threeX");
-var btwentyfive=document.getElementById("threeY");
-var btwentysix=document.getElementById("threeZ");
-var btwentyseven=document.getElementById("athree");
-var btwentyeight=document.getElementById("bthree");
-var btwentynine=document.getElementById("cthree");
-var bthirty=document.getElementById("dthree");
-var bthirtyone=document.getElementById("ethree");
-var bthirtytwo=document.getElementById("fthree");
-var btoggle1=document.getElementById("sel3");
-var bbtntton1=document.getElementById("btn3");
-var awallet=document.getElementById("wal3");
-var ay=document.getElementById("+c");
-var az=document.getElementById("-c");
-var ax=document.getElementById("c111");
- 
-if (toggle1.style.background==="white" && one.innerHTML==="One") {
-element.innerHTML="";
-button1.innerHTML="One";
-wallet.innerHTML="";
-y.innerHTML="";
-z.innerHTML="";
-x.innerHTML="";}
-else if (toggle1.style.background==="white" && two.innerHTML==="One") {
-element.innerHTML="";
-button1.innerHTML="One";
-wallet.innerHTML="";
-y.innerHTML="";
-z.innerHTML="";
-x.innerHTML="";}
-else if (toggle1.style.background==="white" && three.innerHTML==="One") {
-element.innerHTML="";
-button1.innerHTML="One";
-wallet.innerHTML="";
-y.innerHTML="";
-z.innerHTML="";
-x.innerHTML="";}
-else if (toggle1.style.background==="white" && four.innerHTML==="One") {
-element.innerHTML="";
-button1.innerHTML="One";
-wallet.innerHTML="";
-y.innerHTML="";
-z.innerHTML="";
-x.innerHTML="";}
-else if (toggle1.style.background==="white" && five.innerHTML==="One") {
-element.innerHTML="";
-button1.innerHTML="One";
-wallet.innerHTML="";
-y.innerHTML="";
-z.innerHTML="";
-x.innerHTML="";}
-else if (toggle1.style.background==="white" && six.innerHTML==="One") {
-element.innerHTML="";
-button1.innerHTML="One";
-wallet.innerHTML="";
-y.innerHTML="";
-z.innerHTML="";
-x.innerHTML="";}
-else if (toggle1.style.background==="white" && seven.innerHTML==="One") {
-element.innerHTML="";
-button1.innerHTML="One";
-wallet.innerHTML="";
-y.innerHTML="";
-z.innerHTML="";
-x.innerHTML="";}
-else if (toggle1.style.background==="white" && eight.innerHTML==="One") {
-element.innerHTML="";
-button1.innerHTML="One";
-wallet.innerHTML="";
-y.innerHTML="";
-z.innerHTML="";
-x.innerHTML="";}
-else if (toggle1.style.background==="white" && nine.innerHTML==="One") {
-element.innerHTML="";
-button1.innerHTML="One";
-wallet.innerHTML="";
-y.innerHTML="";
-z.innerHTML="";
-x.innerHTML="";}
-else if (toggle1.style.background==="white" && ten.innerHTML==="One") {
-element.innerHTML="";
-button1.innerHTML="One";
-wallet.innerHTML="";
-y.innerHTML="";
-z.innerHTML="";
-x.innerHTML="";}
-else if (toggle1.style.background==="white" && eleven.innerHTML==="One") {
-element.innerHTML="";
-button1.innerHTML="One";
-wallet.innerHTML="";
-y.innerHTML="";
-z.innerHTML="";
-x.innerHTML="";}
-else if (toggle1.style.background==="white" && twelve.innerHTML==="One") {
-element.innerHTML="";
-button1.innerHTML="One";
-wallet.innerHTML="";
-y.innerHTML="";
-z.innerHTML="";
-x.innerHTML="";}
-else if (toggle1.style.background==="white" && thirteen.innerHTML==="One") {
-element.innerHTML="";
-button1.innerHTML="One";
-wallet.innerHTML="";
-y.innerHTML="";
-z.innerHTML="";
-x.innerHTML="";}
-else if (toggle1.style.background==="white" && fourteen.innerHTML==="One") {
-element.innerHTML="";
-button1.innerHTML="One";
-wallet.innerHTML="";
-y.innerHTML="";
-z.innerHTML="";
-x.innerHTML="";}
-else if (toggle1.style.background==="white" && fifteen.innerHTML==="One") {
-element.innerHTML="";
-button1.innerHTML="One";
-wallet.innerHTML="";
-y.innerHTML="";
-z.innerHTML="";
-x.innerHTML="";}
-else if (toggle1.style.background==="white" && sixteen.innerHTML==="One") {
-element.innerHTML="";
-button1.innerHTML="One";
-wallet.innerHTML="";
-y.innerHTML="";
-z.innerHTML="";
-x.innerHTML="";}
-else if (toggle1.style.background==="white" && seventeen.innerHTML==="One") {
-element.innerHTML="";
-button1.innerHTML="One";
-wallet.innerHTML="";
-y.innerHTML="";
-z.innerHTML="";
-x.innerHTML="";}
-else if (toggle1.style.background==="white" && eighteen.innerHTML==="One") {
-element.innerHTML="";
-button1.innerHTML="One";
-wallet.innerHTML="";
-y.innerHTML="";
-z.innerHTML="";
-x.innerHTML="";}
-else if (toggle1.style.background==="white" && nineteen.innerHTML==="One") {
-element.innerHTML="";
-button1.innerHTML="One";
-wallet.innerHTML="";
-y.innerHTML="";
-z.innerHTML="";
-x.innerHTML="";}
-else if (toggle1.style.background==="white" && twenty.innerHTML==="One") {
-element.innerHTML="";
-button1.innerHTML="One";
-wallet.innerHTML="";
-y.innerHTML="";
-z.innerHTML="";
-x.innerHTML="";}
-else if (toggle1.style.background==="white" && twentyone.innerHTML==="One") {
-element.innerHTML="";
-button1.innerHTML="One";
-wallet.innerHTML="";
-y.innerHTML="";
-z.innerHTML="";
-x.innerHTML="";}
-else if (toggle1.style.background==="white" && twentytwo.innerHTML==="One") {
-element.innerHTML="";
-button1.innerHTML="One";
-wallet.innerHTML="";
-y.innerHTML="";
-z.innerHTML="";
-x.innerHTML="";}
-else if (toggle1.style.background==="white" && twentythree.innerHTML==="One") {
-element.innerHTML="";
-button1.innerHTML="One";
-wallet.innerHTML="";
-y.innerHTML="";
-z.innerHTML="";
-x.innerHTML="";}
-else if (toggle1.style.background==="white" && twentyfour.innerHTML==="One") {
-element.innerHTML="";
-button1.innerHTML="One";
-wallet.innerHTML="";
-y.innerHTML="";
-z.innerHTML="";
-x.innerHTML="";}
-else if (toggle1.style.background==="white" && twentyfive.innerHTML==="One") {
-element.innerHTML="";
-button1.innerHTML="One";
-wallet.innerHTML="";
-y.innerHTML="";
-z.innerHTML="";
-x.innerHTML="";}
-else if (toggle1.style.background==="white" && twentysix.innerHTML==="One") {
-element.innerHTML="";
-button1.innerHTML="One";
-wallet.innerHTML="";
-y.innerHTML="";
-z.innerHTML="";
-x.innerHTML="";}
-else if (toggle1.style.background==="white" && twentyseven.innerHTML==="One") {
-element.innerHTML="";
-button1.innerHTML="One";
-wallet.innerHTML="";
-y.innerHTML="";
-z.innerHTML="";
-x.innerHTML="";}
-else if (toggle1.style.background==="white" && twentyeight.innerHTML==="One") {
-element.innerHTML="";
-button1.innerHTML="One";
-wallet.innerHTML="";
-y.innerHTML="";
-z.innerHTML="";
-x.innerHTML="";}
-else if (toggle1.style.background==="white" && twentynine.innerHTML==="One") {
-element.innerHTML="";
-button1.innerHTML="One";
-wallet.innerHTML="";
-y.innerHTML="";
-z.innerHTML="";
-x.innerHTML="";}
-else if (toggle1.style.background==="white" && thirty.innerHTML==="One") {
-element.innerHTML="";
-button1.innerHTML="One";
-wallet.innerHTML="";
-y.innerHTML="";
-z.innerHTML="";
-x.innerHTML="";}
-else if (toggle1.style.background==="white" && thirtyone.innerHTML==="One") {
-element.innerHTML="";
-button1.innerHTML="One";
-wallet.innerHTML="";
-y.innerHTML="";
-z.innerHTML="";
-x.innerHTML="";}
-else if (toggle1.style.background==="white" && thirtytwo.innerHTML==="One") {
-element.innerHTML="";
-button1.innerHTML="One";
-wallet.innerHTML="";
-y.innerHTML="";
-z.innerHTML="";
-x.innerHTML="";}
-
-else if (btoggle1.style.bbackground==="white" && bone.innerHTML==="Three") {
-element.innerHTML="";
-bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
-by.innerHTML="";
-bz.innerHTML="";
-bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && btwo.innerHTML==="Three") {
-element.innerHTML="";
-bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
-by.innerHTML="";
-bz.innerHTML="";
-bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && bthree.innerHTML==="Three") {
-element.innerHTML="";
-bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
-by.innerHTML="";
-bz.innerHTML="";
-bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && bfour.innerHTML==="Three") {
-element.innerHTML="";
-bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
-by.innerHTML="";
-bz.innerHTML="";
-bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && bfive.innerHTML==="Three") {
-element.innerHTML="";
-bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
-by.innerHTML="";
-bz.innerHTML="";
-bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && bsix.innerHTML==="Three") {
-element.innerHTML="";
-bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
-by.innerHTML="";
-bz.innerHTML="";
-bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && bseven.innerHTML==="Three") {
-element.innerHTML="";
-bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
-by.innerHTML="";
-bz.innerHTML="";
-bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && beight.innerHTML==="Three") {
-element.innerHTML="";
-bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
-by.innerHTML="";
-bz.innerHTML="";
-bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && bnine.innerHTML==="Three") {
-element.innerHTML="";
-bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
-by.innerHTML="";
-bz.innerHTML="";
-bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && bten.innerHTML==="Three") {
-element.innerHTML="";
-bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
-by.innerHTML="";
-bz.innerHTML="";
-bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && beleven.innerHTML==="Three") {
-element.innerHTML="";
-bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
-by.innerHTML="";
-bz.innerHTML="";
-bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && btwelve.innerHTML==="Three") {
-element.innerHTML="";
-bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
-by.innerHTML="";
-bz.innerHTML="";
-bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && bthirteen.innerHTML==="Three") {
-element.innerHTML="";
-bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
-by.innerHTML="";
-bz.innerHTML="";
-bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && bfourteen.innerHTML==="Three") {
-element.innerHTML="";
-bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
-by.innerHTML="";
-bz.innerHTML="";
-bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && bfifteen.innerHTML==="Three") {
-element.innerHTML="";
-bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
-by.innerHTML="";
-bz.innerHTML="";
-bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && bsixteen.innerHTML==="Three") {
-element.innerHTML="";
-bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
-by.innerHTML="";
-bz.innerHTML="";
-bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && bseventeen.innerHTML==="Three") {
-element.innerHTML="";
-bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
-by.innerHTML="";
-bz.innerHTML="";
-bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && beighteen.innerHTML==="Three") {
-element.innerHTML="";
-bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
-by.innerHTML="";
-bz.innerHTML="";
-bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && bnineteen.innerHTML==="Three") {
-element.innerHTML="";
-bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
-by.innerHTML="";
-bz.innerHTML="";
-bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && btwenty.innerHTML==="Three") {
-element.innerHTML="";
-bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
-by.innerHTML="";
-bz.innerHTML="";
-bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && btwentyone.innerHTML==="Three") {
-element.innerHTML="";
-bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
-by.innerHTML="";
-bz.innerHTML="";
-bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && btwentyThree.innerHTML==="Three") {
-element.innerHTML="";
-bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
-by.innerHTML="";
-bz.innerHTML="";
-bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && btwentythree.innerHTML==="Three") {
-element.innerHTML="";
-bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
-by.innerHTML="";
-bz.innerHTML="";
-bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && btwentyfour.innerHTML==="Three") {
-element.innerHTML="";
-bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
-by.innerHTML="";
-bz.innerHTML="";
-bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && btwentyfive.innerHTML==="Three") {
-element.innerHTML="";
-bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
-by.innerHTML="";
-bz.innerHTML="";
-bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && btwentysix.innerHTML==="Three") {
-element.innerHTML="";
-bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
-by.innerHTML="";
-bz.innerHTML="";
-bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && btwentyseven.innerHTML==="Three") {
-element.innerHTML="";
-bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
-by.innerHTML="";
-bz.innerHTML="";
-bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && btwentyeight.innerHTML==="Three") {
-element.innerHTML="";
-bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
-by.innerHTML="";
-bz.innerHTML="";
-bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && btwentynine.innerHTML==="Three") {
-element.innerHTML="";
-bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
-by.innerHTML="";
-bz.innerHTML="";
-bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && bthirty.innerHTML==="Three") {
-element.innerHTML="";
-bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
-by.innerHTML="";
-bz.innerHTML="";
-bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && bthirtyone.innerHTML==="Three") {
-element.innerHTML="";
-bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
-by.innerHTML="";
-bz.innerHTML="";
-bx.innerHTML="";}
-else if (btoggle1.style.bbackground==="white" && bthirtyTwo.innerHTML==="Three") {
-element.innerHTML="";
-bbutton1.innerHTML="Three";
-bwabllet.innerHTML="";
-by.innerHTML="";
-bz.innerHTML="";
-bx.innerHTML="";}
- 
-else if (four.innerHTML==="One" && accept.innerHTML==="Ad- vance To Go") {
-four.innerHTML="";
-one.innerHTML="One";}
-
-else if (twentyone.innerHTML==="One" && accept.innerHTML==="Ad- vance To Go") {
-twentyone.innerHTML="";
-one.innerHTML="One";}
-
-else if (two.innerHTML==="One" && accept.innerHTML==="Ad- vance To Go") {
-two.innerHTML="";
-one.innerHTML="One";}
-
-
-else if (bfour.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Go") {
-bfour.innerHTML="";
-athree.innerHTML="Three";}
-
-else if (btwentyone.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Go") {
-btwentyone.innerHTML="";
-athree.innerHTML="Three";}
-
-else if (btwo.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Go") {
-btwo.innerHTML="";
-athree.innerHTML="Three";}
-
-else if (four.innerHTML==="One" && accept.innerHTML==="Jail") {
-four.innerHTML="";
-eight.innerHTML="One";}
-
-else if (twentyone.innerHTML==="One" && accept.innerHTML==="Jail") {
-twentyone.innerHTML="";
-eight.innerHTML="One";}
-
-else if (two.innerHTML==="One" && accept.innerHTML==="Jail") {
-two.innerHTML="";
-eight.innerHTML="One";}
- 
-
-else if (bfour.innerHTML==="Three" && accept.innerHTML==="Jail") {
-bfour.innerHTML="";
-beight.innerHTML="Three";}
- 
-else if (btwentyone.innerHTML==="Three" && accept.innerHTML==="Jail") {
-btwentyone.innerHTML="";
-beight.innerHTML="Three";}
-
-else if (btwo.innerHTML==="Three" && accept.innerHTML==="Jail") {
-btwo.innerHTML="";
-beight.innerHTML="Three";}
-
-else if (four.innerHTML==="One" && accept.innerHTML==="Ad- vance To Gold") {
-four.innerHTML="";
-thirtytwo.innerHTML="One";}
-
-else if (twentyone.innerHTML==="One" && accept.innerHTML==="Ad- vance To Gold") {
-twentyone.innerHTML="";
-thirtytwo.innerHTML="One";}
- 
-else if (two.innerHTML==="One" && accept.innerHTML==="Ad- vance To Gold") {
-two.innerHTML="";
-thirtytwo.innerHTML="One";}
-
-else if (bfour.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Gold") {
-bfour.innerHTML="";
-bthirtytwo.innerHTML="Three";}
- 
-else if (btwentyone.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Gold") {
-btwentyone.innerHTML="";
-bthirtytwo.innerHTML="Three";}
-
-else if (btwo.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Gold") {
-btwo.innerHTML="";
-bthirtytwo.innerHTML="Three";}
- 
-else if (four.innerHTML==="One" && accept.innerHTML==="Back 3") {
-four.innerHTML="";
-one.innerHTML="One";}
-
-else if (twentyone.innerHTML==="One" && accept.innerHTML==="Back 3") {
-twentyone.innerHTML="";
-eighteen.innerHTML="One";}
-
-else if (two.innerHTML==="One" && accept.innerHTML==="Back 3") {
-two.innerHTML="";
-twentyfive.innerHTML="One";}
-
-
-else if (bfour.innerHTML==="Three" && accept.innerHTML==="Back 3") {
-bfour.innerHTML="";
-athree.innerHTML="Three";}
- 
-else if (btwentyone.innerHTML==="Three" && accept.innerHTML==="Back 3") {
-btwentyone.innerHTML="";
-beighteen.innerHTML="Three";}
-
-else if (btwo.innerHTML==="Three" && accept.innerHTML==="Back 3") {
-btwo.innerHTML="";
-btwentyfive.innerHTML="Three";}
-
-function card1() {
-var acc=document.getElementById("cardAcc");
-var tile1a= document.getElementById("oneD");
-var tile3a=document.getElementById("threeD");
-if (acc.innerHTML==="Ad- vance To Go" && tile1a.innerHTML==="One") {
-acc.innerHTML="No- thing";}
-else if (
-acc.innerHTML==="No- thing" && tile1a.innerHTML==="One") {
-acc.innerHTML="Jail";}
-else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="One") {
-acc.innerHTML="+$150";}
-else if (
-acc.innerHTML==="+$150" && tile1a.innerHTML==="One") {
-acc.innerHTML="Ad- vance To Gold";}
-else if (
-acc.innerHTML==="Ad- vance To Gold" && tile1a.innerHTML==="One") {
-acc.innerHTML="-$100";}
-else if (acc.innerHTML==="-$100" && tile1a.innerHTML==="One") {
-acc.innerHTML="Back 3";}
-else if (
-acc.innerHTML==="Back 3" && tile1a.innerHTML==="One") {
-acc.innerHTML="+$100";}
-else if (
-acc.innerHTML==="+$100" && tile1a.innerHTML==="One") {
-acc.innerHTML="Ad- vance To Go";}
-
-else if (acc.innerHTML==="Ad- vance To Go" && tile3a.innerHTML==="Three") {
-acc.innerHTML="No- thing";}
-else if (
-acc.innerHTML==="No- thing" && tile3a.innerHTML==="Three") {
-acc.innerHTML="Jail";}
-else if (acc.innerHTML==="Jail" && tile3a.innerHTML==="Three") {
-acc.innerHTML="+$150";}
-else if (
-acc.innerHTML==="+$150" && tile3a.innerHTML==="Three") {
-acc.innerHTML="Ad- vance To Gold";}
-else if (
-acc.innerHTML==="Ad- vance To Gold" && tile3a.innerHTML==="Three") {
-acc.innerHTML="-$100";}
-else if (acc.innerHTML==="-$100" && tile3a.innerHTML==="Three") {
-acc.innerHTML="Back 3";}
-else if (
-acc.innerHTML==="Back 3" && tile3a.innerHTML==="Three") {
-acc.innerHTML="+$100";}
-else if (
-acc.innerHTML==="+$100" && tile3a.innerHTML==="Three") {
-acc.innerHTML="Ad- vance To Go";}}
- 
-function card2() {
-var acc=document.getElementById("cardAcc");
-var tile1a= document.getElementById("oneU");
-var tile3a= document.getElementById("threeU");
-if (acc.innerHTML==="Ad- vance To Go" && tile1a.innerHTML==="One") {
-acc.innerHTML="No- thing";}
-else if (
-acc.innerHTML==="No- thing" && tile1a.innerHTML==="One") {
-acc.innerHTML="Jail";}
-else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="One") {
-acc.innerHTML="+$150";}
-else if (
-acc.innerHTML==="+$150" && tile1a.innerHTML==="One") {
-acc.innerHTML="Ad- vance To Gold";}
-else if (
-acc.innerHTML==="Ad- vance To Gold" && tile1a.innerHTML==="One") {
-acc.innerHTML="-$100";}
-else if (acc.innerHTML==="-$100" && tile1a.innerHTML==="One") {
-acc.innerHTML="Back 3";}
-else if (
-acc.innerHTML==="Back 3" && tile1a.innerHTML==="One") {
-acc.innerHTML="+$100";}
-else if (
-acc.innerHTML==="+$100" && tile1a.innerHTML==="One") {
-acc.innerHTML="Ad- vance To Go";}
-
-else if (acc.innerHTML==="Ad- vance To Go" && tile3a.innerHTML==="Three") {
-acc.innerHTML="No- thing";}
-else if (
-acc.innerHTML==="No- thing" && tile3a.innerHTML==="Three") {
-acc.innerHTML="Jail";}
-else if (acc.innerHTML==="Jail" && tile3a.innerHTML==="Three") {
-acc.innerHTML="+$150";}
-else if (
-acc.innerHTML==="+$150" && tile3a.innerHTML==="Three") {
-acc.innerHTML="Ad- vance To Gold";}
-else if (
-acc.innerHTML==="Ad- vance To Gold" && tile3a.innerHTML==="Three") {
-acc.innerHTML="-$100";}
-else if (acc.innerHTML==="-$100" && tile3a.innerHTML==="Three") {
-acc.innerHTML="Back 3";}
-else if (
-acc.innerHTML==="Back 3" && tile3a.innerHTML==="Three") {
-acc.innerHTML="+$100";}
-else if (
-acc.innerHTML==="+$100" && tile3a.innerHTML==="Three") {
-acc.innerHTML="Ad- vance To Go";}}
-
-function card3() {
-var acc=document.getElementById("cardAcc");
-var tile1a= document.getElementById("bone");
-var tile3a= document.getElementById("bthree");
-if (acc.innerHTML==="Ad- vance To Go" && tile1a.innerHTML==="One") {
-acc.innerHTML="No- thing";}
-else if (
-acc.innerHTML==="No- thing" && tile1a.innerHTML==="One") {
-acc.innerHTML="Jail";}
-else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="One") {
-acc.innerHTML="+$150";}
-else if (
-acc.innerHTML==="+$150" && tile1a.innerHTML==="One") {
-acc.innerHTML="Ad- vance To Gold";}
-else if (
-acc.innerHTML==="Ad- vance To Gold" && tile1a.innerHTML==="One") {
-acc.innerHTML="-$100";}
-else if (acc.innerHTML==="-$100" && tile1a.innerHTML==="One") {
-acc.innerHTML="Back 3";}
-else if (
-acc.innerHTML==="Back 3" && tile1a.innerHTML==="One") {
-acc.innerHTML="+$100";}
-else if (
-acc.innerHTML==="+$100" && tile1a.innerHTML==="One") {
-acc.innerHTML="Ad- vance To Go";}
-
-else if (acc.innerHTML==="Ad- vance To Go" && tile3a.innerHTML==="Three") {
-acc.innerHTML="No- thing";}
-else if (
-acc.innerHTML==="No- thing" && tile3a.innerHTML==="Three") {
-acc.innerHTML="Jail";}
-else if (acc.innerHTML==="Jail" && tile3a.innerHTML==="Three") {
-acc.innerHTML="+$150";}
-else if (
-acc.innerHTML==="+$150" && tile3a.innerHTML==="Three") {
-acc.innerHTML="Ad- vance To Gold";}
-else if (
-acc.innerHTML==="Ad- vance To Gold" && tile3a.innerHTML==="Three") {
-acc.innerHTML="-$100";}
-else if (acc.innerHTML==="-$100" && tile3a.innerHTML==="Three") {
-acc.innerHTML="Back 3";}
-else if (
-acc.innerHTML==="Back 3" && tile3a.innerHTML==="Three") {
-acc.innerHTML="+$100";}
-else if (
-acc.innerHTML==="+$100" && tile3a.innerHTML==="Three") {
-acc.innerHTML="Ad- vance To Go";}}
 
 function bacZ() {
 var change=document.getElementById("value1");
@@ -4297,990 +4451,855 @@ wallet1.innerHTML="$2040";}
 else if (wallet1.innerHTML==="$2060") {
 wallet1.innerHTML="$2050";}}
 
-function times1() {
-var one=document.getElementById("oneM");
-var three=document.getElementById("timesOne");
-var back=document.getElementById("timesBack1");
-var four=document.getElementById("threeM");
-var sell1=document.getElementById("sel1");
-var sell3=document.getElementById("sel3");
-if (sell1.style.background==="grey" && three.innerHTML==="x30") 
-{back.style.background="grey";
-three.innerHTML="Sold P1";}
-else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="x30";}
-else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="x30";}
-else if (sell3.style.background==="grey" && three.innerHTML==="x30") 
-{back.style.background="grey";
-three.innerHTML="Sold P3";}
-else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="x30";}
-else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="x30";}
-else if (sell1.style.background==="white" && back.style.background==="red") {
-three.innerHTML="x30 $100";
-back.style.background="yellow";}
-else if (sell3.style.background==="white" && back.style.background==="green") {
-three.innerHTML="x30 $100";
-back.style.background="yellow";}
-else if (back.style.background==="red") {
-back.style.background="green";}
-else if (back.style.background==="green") {
-back.style.background="red";}
-else if (one.innerHTML==="One" && back.style.background==="yellow") {
-three.innerHTML="x30";
-back.style.background="red";}
-else if (four.innerHTML==="Three" && back.style.background==="yellow") {
-three.innerHTML="x30";
-back.style.background="green";}}
+function drunkTank() {
+var jailStartOne=document.getElementById("oneX");
+var jailOne=document.getElementById("oneH");
+var jailThree=document.getElementById("threeH");
+var jailStartThree=document.getElementById("threeX");
+var lock=document.getElementById("id24");
+if (jailStartOne.innerHTML==="One") {
+jailStartOne.innerHTML="";
+jailOne.innerHTML="One";
+jailOne.style.color="red";
+lock.style.background="silver";
+jailOne.style.color="black";}
+else if (jailStartThree.innerHTML==="Three") {
+jailStartThree.innerHTML="";
+jailThree.innerHTML="Three";
+jailThree.style.color="green";
+lock.style.background="silver";
+jailThree.style.color="black";}}
 
-function times2() {
-var one=document.getElementById("done");
-var three=document.getElementById("timesTwo");
-var back=document.getElementById("timesBack2");
-var four=document.getElementById("dthree");
-var sell1=document.getElementById("sel1");
-var sell3=document.getElementById("sel3");
-if (sell1.style.background==="grey" && three.innerHTML==="x40") 
-{back.style.background="grey";
-three.innerHTML="Sold P1";}
-else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="x40";}
-else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="x40";}
-else if (sell3.style.background==="grey" && three.innerHTML==="x40") 
-{back.style.background="grey";
-three.innerHTML="Sold P3";}
-else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="x40";}
-else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="x40";}
-else if (sell1.style.background==="white" && back.style.background==="red") {
-three.innerHTML="x40 $100";
-back.style.background="yellow";}
-else if (sell3.style.background==="white" && back.style.background==="green") {
-three.innerHTML="x40 $100";
-back.style.background="yellow";}
-else if (back.style.background==="red") {
-back.style.background="green";}
-else if (back.style.background==="green") {
-back.style.background="red";}
-else if (one.innerHTML==="One" && back.style.background==="yellow") {
-three.innerHTML="x40";
-back.style.background="red";}
-else if (four.innerHTML==="Three" && back.style.background==="yellow") {
-three.innerHTML="x40";
-back.style.background="green";}}
+function start1() {
+var startOne=document.getElementById("cone");
+var homeOne=document.getElementById("oneA");
+var startThree=document.getElementById("cthree");
+var homeThree=document.getElementById("threeA");
+if (startOne.innerHTML==="One") {
+startOne.innerHTML="";
+homeOne.innerHTML="One";
+homeOne.style.color="red";}
+else if (startThree.innerHTML==="Three") {
+starThree.innerHTML="";
+homeThree.innerHTML="Three";
+homeOne.style.color="green";}}
 
-function plum1() {
-var one=document.getElementById("oneB");
-var three=document.getElementById("plumOne");
-var back=document.getElementById("plumBack1");
-var four=document.getElementById("threeB");
-var sell1=document.getElementById("sel1");
-var sell3=document.getElementById("sel3");
-if (sell1.style.background==="grey" && three.innerHTML==="Rent $20") 
-{back.style.background="grey";
-three.innerHTML="Sold P1";}
-else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="Rent $20";}
-else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="Rent $20";}
-else if (sell3.style.background==="grey" && three.innerHTML==="Rent $20") 
-{back.style.background="grey";
-three.innerHTML="Sold P3";}
-else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="Rent $20";}
-else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="Rent $20";}
-else if (sell1.style.background==="white" && three.innerHTML==="Rent $20") {
-three.innerHTML="Plum $60";
-back.style.background="orange";}
-else if (sell2.style.background==="white" && three.innerHTML==="Rent $20") {
-three.innerHTML="Plum $60";
-back.style.background="orange";}
-else if (sell3.style.background==="white" && three.innerHTML==="Rent $20") {
-three.innerHTML="Plum $60";
-back.style.background="orange";}
-else if (back.style.background==="red") {
-back.style.background="green";}
-else if (back.style.background==="green") {
-back.style.background="red";}
-else if (one.innerHTML==="One" && back.style.background==="orange") {
-three.innerHTML="Rent $20";
-back.style.background="red";}
-else if (four.innerHTML==="Three" && back.style.background==="orange") {
-three.innerHTML="Rent $20";
-back.style.background="green";}}
+function start2() {
+var startOne=document.getElementById("oneL");
+var homeOne=document.getElementById("oneA");
+var startThree=document.getElementById("threeL");
+var homeThree=document.getElementById("threeA");
+if (startOne.innerHTML==="One") {
+startOne.innerHTML="";
+homeOne.innerHTML="One";
+homeOne.style.color="red";}
+else if (startThree.innerHTML==="Three") {
+startThree.innerHTML="";
+homeThree.innerHTML="Three";
+homeOne.style.color="green";}}
 
-function plum2() {
-var one=document.getElementById("oneC");
-var three=document.getElementById("plumTwo");
-var back=document.getElementById("plumBack2");
-var four=document.getElementById("threeC");
-var sell1=document.getElementById("sel1");
-var sell3=document.getElementById("sel3");
-if (sell1.style.background==="grey" && three.innerHTML==="Rent $20") 
-{back.style.background="grey";
-three.innerHTML="Sold P1";}
-else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="Rent $20";}
-else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="Rent $20";}
-else if (sell3.style.background==="grey" && three.innerHTML==="Rent $20") 
-{back.style.background="grey";
-three.innerHTML="Sold P3";}
-else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="Rent $20";}
-else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="Rent $20";}
-else if (sell1.style.background==="white" && three.innerHTML==="Rent $20") {
-three.innerHTML="Plum $80";
-back.style.background="orange";}
-else if (sell2.style.background==="white" && three.innerHTML==="Rent $20") {
-three.innerHTML="Plum $80";
-back.style.background="orange";}
-else if (sell3.style.background==="white" && three.innerHTML==="Rent $20") {
-three.innerHTML="Plum $80";
-back.style.background="orange";}
-else if (back.style.background==="red") {
-back.style.background="green";}
-else if (back.style.background==="green") {
-back.style.background="red";}
-else if (one.innerHTML==="One" && back.style.background==="orange") {
-three.innerHTML="Rent $20";
-back.style.background="red";}
-else if (four.innerHTML==="Three" && back.style.background==="orange") {
-three.innerHTML="Rent $20";
-back.style.background="green";}}
+function piece(element) {
+var one=document.getElementById("oneA");
+var two=document.getElementById("oneB");
+var three=document.getElementById("oneC");
+var four=document.getElementById("oneD");
+var five=document.getElementById("oneE");
+var six=document.getElementById("oneF");
+var seven=document.getElementById("oneG");
+var eight=document.getElementById("oneH");
+var nine=document.getElementById("oneI");
+var ten=document.getElementById("oneJ");
+var eleven=document.getElementById("oneK");
+var twelve=document.getElementById("oneL");
+var thirteen=document.getElementById("oneM");
+var fourteen=document.getElementById("oneN");
+var fifteen=document.getElementById("oneO");
+var sixteen=document.getElementById("oneP");
+var seventeen=document.getElementById("oneQ");
+var eighteen=document.getElementById("oneR");
+var nineteen=document.getElementById("oneS");
+var twenty=document.getElementById("oneT");
+var twentyone=document.getElementById("oneU");
+var twentytwo=document.getElementById("oneV");
+var twentythree=document.getElementById("oneW");
+var twentyfour=document.getElementById("oneX");
+var twentyfive=document.getElementById("oneY");
+var twentysix=document.getElementById("oneZ");
+var twentyseven=document.getElementById("aone");
+var twentyeight=document.getElementById("bone");
+var twentynine=document.getElementById("cone");
+var thirty=document.getElementById("done");
+var thirtyone=document.getElementById("eone");
+var thirtytwo=document.getElementById("fone");
+var toggle1=document.getElementById("sel1");
+var button1=document.getElementById("btn1");
+var wallet=document.getElementById("wal1");
+var y=document.getElementById("+a");
+var z=document.getElementById("-a");
+var x=document.getElementById("a111");
+var bone=document.getElementById("threeA");
+var btwo=document.getElementById("threeB");
+var bthree=document.getElementById("threeC");
+var bfour=document.getElementById("threeD");
+var bfive=document.getElementById("threeE");
+var bsix=document.getElementById("threeF");
+var bseven=document.getElementById("threeG");
+var beight=document.getElementById("threeH");
+var bnine=document.getElementById("threeI");
+var bten=document.getElementById("threeJ");
+var beleven=document.getElementById("threeK");
+var btwelve=document.getElementById("threeL");
+var bthirteen=document.getElementById("threeM");
+var bfourteen=document.getElementById("threeN");
+var bfifteen=document.getElementById("threeO");
+var bsixteen=document.getElementById("threeP");
+var bseventeen=document.getElementById("threeQ");
+var beighteen=document.getElementById("threeR");
+var bnineteen=document.getElementById("threeS");
+var btwenty=document.getElementById("threeT");
+var btwentyone=document.getElementById("threeU");
+var btwentytwo=document.getElementById("threeV");
+var btwentythree=document.getElementById("threeW");
+var btwentyfour=document.getElementById("threeX");
+var btwentyfive=document.getElementById("threeY");
+var btwentysix=document.getElementById("threeZ");
+var btwentyseven=document.getElementById("athree");
+var btwentyeight=document.getElementById("bthree");
+var btwentynine=document.getElementById("cthree");
+var bthirty=document.getElementById("dthree");
+var bthirtyone=document.getElementById("ethree");
+var bthirtytwo=document.getElementById("fthree");
+var btoggle1=document.getElementById("sel3");
+var bbutton1=document.getElementById("btn3");
+var bwallet=document.getElementById("wal2");
+var by=document.getElementById("+b");
+var bz=document.getElementById("-b");
+var bx=document.getElementById("b111");
+if (toggle1.style.background==="white" && one.innerHTML==="One") {
+element.innerHTML="";
+button1.innerHTML="One";
+wallet.innerHTML="";
+y.innerHTML="";
+z.innerHTML="";
+x.innerHTML="";}
+else if (toggle1.style.background==="white" && two.innerHTML==="One") {
+element.innerHTML="";
+button1.innerHTML="One";
+wallet.innerHTML="";
+y.innerHTML="";
+z.innerHTML="";
+x.innerHTML="";}
+else if (toggle1.style.background==="white" && three.innerHTML==="One") {
+element.innerHTML="";
+button1.innerHTML="One";
+wallet.innerHTML="";
+y.innerHTML="";
+z.innerHTML="";
+x.innerHTML="";}
+else if (toggle1.style.background==="white" && four.innerHTML==="One") {
+element.innerHTML="";
+button1.innerHTML="One";
+wallet.innerHTML="";
+y.innerHTML="";
+z.innerHTML="";
+x.innerHTML="";}
+else if (toggle1.style.background==="white" && five.innerHTML==="One") {
+element.innerHTML="";
+button1.innerHTML="One";
+wallet.innerHTML="";
+y.innerHTML="";
+z.innerHTML="";
+x.innerHTML="";}
+else if (toggle1.style.background==="white" && six.innerHTML==="One") {
+element.innerHTML="";
+button1.innerHTML="One";
+wallet.innerHTML="";
+y.innerHTML="";
+z.innerHTML="";
+x.innerHTML="";}
+else if (toggle1.style.background==="white" && seven.innerHTML==="One") {
+element.innerHTML="";
+button1.innerHTML="One";
+wallet.innerHTML="";
+y.innerHTML="";
+z.innerHTML="";
+x.innerHTML="";}
+else if (toggle1.style.background==="white" && eight.innerHTML==="One") {
+element.innerHTML="";
+button1.innerHTML="One";
+wallet.innerHTML="";
+y.innerHTML="";
+z.innerHTML="";
+x.innerHTML="";}
+else if (toggle1.style.background==="white" && nine.innerHTML==="One") {
+element.innerHTML="";
+button1.innerHTML="One";
+wallet.innerHTML="";
+y.innerHTML="";
+z.innerHTML="";
+x.innerHTML="";}
+else if (toggle1.style.background==="white" && ten.innerHTML==="One") {
+element.innerHTML="";
+button1.innerHTML="One";
+wallet.innerHTML="";
+y.innerHTML="";
+z.innerHTML="";
+x.innerHTML="";}
+else if (toggle1.style.background==="white" && eleven.innerHTML==="One") {
+element.innerHTML="";
+button1.innerHTML="One";
+wallet.innerHTML="";
+y.innerHTML="";
+z.innerHTML="";
+x.innerHTML="";}
+else if (toggle1.style.background==="white" && twelve.innerHTML==="One") {
+element.innerHTML="";
+button1.innerHTML="One";
+wallet.innerHTML="";
+y.innerHTML="";
+z.innerHTML="";
+x.innerHTML="";}
+else if (toggle1.style.background==="white" && thirteen.innerHTML==="One") {
+element.innerHTML="";
+button1.innerHTML="One";
+wallet.innerHTML="";
+y.innerHTML="";
+z.innerHTML="";
+x.innerHTML="";}
+else if (toggle1.style.background==="white" && fourteen.innerHTML==="One") {
+element.innerHTML="";
+button1.innerHTML="One";
+wallet.innerHTML="";
+y.innerHTML="";
+z.innerHTML="";
+x.innerHTML="";}
+else if (toggle1.style.background==="white" && fifteen.innerHTML==="One") {
+element.innerHTML="";
+button1.innerHTML="One";
+wallet.innerHTML="";
+y.innerHTML="";
+z.innerHTML="";
+x.innerHTML="";}
+else if (toggle1.style.background==="white" && sixteen.innerHTML==="One") {
+element.innerHTML="";
+button1.innerHTML="One";
+wallet.innerHTML="";
+y.innerHTML="";
+z.innerHTML="";
+x.innerHTML="";}
+else if (toggle1.style.background==="white" && seventeen.innerHTML==="One") {
+element.innerHTML="";
+button1.innerHTML="One";
+wallet.innerHTML="";
+y.innerHTML="";
+z.innerHTML="";
+x.innerHTML="";}
+else if (toggle1.style.background==="white" && eighteen.innerHTML==="One") {
+element.innerHTML="";
+button1.innerHTML="One";
+wallet.innerHTML="";
+y.innerHTML="";
+z.innerHTML="";
+x.innerHTML="";}
+else if (toggle1.style.background==="white" && nineteen.innerHTML==="One") {
+element.innerHTML="";
+button1.innerHTML="One";
+wallet.innerHTML="";
+y.innerHTML="";
+z.innerHTML="";
+x.innerHTML="";}
+else if (toggle1.style.background==="white" && twenty.innerHTML==="One") {
+element.innerHTML="";
+button1.innerHTML="One";
+wallet.innerHTML="";
+y.innerHTML="";
+z.innerHTML="";
+x.innerHTML="";}
+else if (toggle1.style.background==="white" && twentyone.innerHTML==="One") {
+element.innerHTML="";
+button1.innerHTML="One";
+wallet.innerHTML="";
+y.innerHTML="";
+z.innerHTML="";
+x.innerHTML="";}
+else if (toggle1.style.background==="white" && twentytwo.innerHTML==="One") {
+element.innerHTML="";
+button1.innerHTML="One";
+wallet.innerHTML="";
+y.innerHTML="";
+z.innerHTML="";
+x.innerHTML="";}
+else if (toggle1.style.background==="white" && twentythree.innerHTML==="One") {
+element.innerHTML="";
+button1.innerHTML="One";
+wallet.innerHTML="";
+y.innerHTML="";
+z.innerHTML="";
+x.innerHTML="";}
+else if (toggle1.style.background==="white" && twentyfour.innerHTML==="One") {
+element.innerHTML="";
+button1.innerHTML="One";
+wallet.innerHTML="";
+y.innerHTML="";
+z.innerHTML="";
+x.innerHTML="";}
+else if (toggle1.style.background==="white" && twentyfive.innerHTML==="One") {
+element.innerHTML="";
+button1.innerHTML="One";
+wallet.innerHTML="";
+y.innerHTML="";
+z.innerHTML="";
+x.innerHTML="";}
+else if (toggle1.style.background==="white" && twentysix.innerHTML==="One") {
+element.innerHTML="";
+button1.innerHTML="One";
+wallet.innerHTML="";
+y.innerHTML="";
+z.innerHTML="";
+x.innerHTML="";}
+else if (toggle1.style.background==="white" && twentyseven.innerHTML==="One") {
+element.innerHTML="";
+button1.innerHTML="One";
+wallet.innerHTML="";
+y.innerHTML="";
+z.innerHTML="";
+x.innerHTML="";}
+else if (toggle1.style.background==="white" && twentyeight.innerHTML==="One") {
+element.innerHTML="";
+button1.innerHTML="One";
+wallet.innerHTML="";
+y.innerHTML="";
+z.innerHTML="";
+x.innerHTML="";}
+else if (toggle1.style.background==="white" && twentynine.innerHTML==="One") {
+element.innerHTML="";
+button1.innerHTML="One";
+wallet.innerHTML="";
+y.innerHTML="";
+z.innerHTML="";
+x.innerHTML="";}
+else if (toggle1.style.background==="white" && thirty.innerHTML==="One") {
+element.innerHTML="";
+button1.innerHTML="One";
+wallet.innerHTML="";
+y.innerHTML="";
+z.innerHTML="";
+x.innerHTML="";}
+else if (toggle1.style.background==="white" && thirtyone.innerHTML==="One") {
+element.innerHTML="";
+button1.innerHTML="One";
+wallet.innerHTML="";
+y.innerHTML="";
+z.innerHTML="";
+x.innerHTML="";}
+else if (toggle1.style.background==="white" && thirtytwo.innerHTML==="One") {
+element.innerHTML="";
+button1.innerHTML="One";
+wallet.innerHTML="";
+y.innerHTML="";
+z.innerHTML="";
+x.innerHTML="";}
+else if (btoggle1.style.background==="white" && bone.innerHTML==="Three") {
+element.innerHTML="";
+bbutton1.innerHTML="Three";
+bwallet.innerHTML="";
+by.innerHTML="";
+bz.innerHTML="";
+bx.innerHTML="";}
+else if (btoggle1.style.background==="white" && btwo.innerHTML==="Three") {
+element.innerHTML="";
+bbutton1.innerHTML="Three";
+bwallet.innerHTML="";
+by.innerHTML="";
+bz.innerHTML="";
+bx.innerHTML="";}
+else if (btoggle1.style.background==="white" && bthree.innerHTML==="Three") {
+element.innerHTML="";
+bbutton1.innerHTML="Three";
+bwallet.innerHTML="";
+by.innerHTML="";
+bz.innerHTML="";
+bx.innerHTML="";}
+else if (btoggle1.style.background==="white" && bfour.innerHTML==="Three") {
+element.innerHTML="";
+bbutton1.innerHTML="Three";
+bwallet.innerHTML="";
+by.innerHTML="";
+bz.innerHTML="";
+bx.innerHTML="";}
+else if (btoggle1.style.background==="white" && bfive.innerHTML==="Three") {
+element.innerHTML="";
+bbutton1.innerHTML="Three";
+bwallet.innerHTML="";
+by.innerHTML="";
+bz.innerHTML="";
+bx.innerHTML="";}
+else if (btoggle1.style.background==="white" && bsix.innerHTML==="Three") {
+element.innerHTML="";
+bbutton1.innerHTML="Three";
+bwallet.innerHTML="";
+by.innerHTML="";
+bz.innerHTML="";
+bx.innerHTML="";}
+else if (btoggle1.style.background==="white" && bseven.innerHTML==="Three") {
+element.innerHTML="";
+bbutton1.innerHTML="Three";
+bwallet.innerHTML="";
+by.innerHTML="";
+bz.innerHTML="";
+bx.innerHTML="";}
+else if (btoggle1.style.background==="white" && beight.innerHTML==="Three") {
+element.innerHTML="";
+bbutton1.innerHTML="Three";
+bwallet.innerHTML="";
+by.innerHTML="";
+bz.innerHTML="";
+bx.innerHTML="";}
+else if (btoggle1.style.background==="white" && bnine.innerHTML==="Three") {
+element.innerHTML="";
+bbutton1.innerHTML="Three";
+bwallet.innerHTML="";
+by.innerHTML="";
+bz.innerHTML="";
+bx.innerHTML="";}
+else if (btoggle1.style.background==="white" && bten.innerHTML==="Three") {
+element.innerHTML="";
+bbutton1.innerHTML="Three";
+bwallet.innerHTML="";
+by.innerHTML="";
+bz.innerHTML="";
+bx.innerHTML="";}
+else if (btoggle1.style.background==="white" && beleven.innerHTML==="Three") {
+element.innerHTML="";
+bbutton1.innerHTML="Three";
+bwallet.innerHTML="";
+by.innerHTML="";
+bz.innerHTML="";
+bx.innerHTML="";}
+else if (btoggle1.style.background==="white" && btwelve.innerHTML==="Three") {
+element.innerHTML="";
+bbutton1.innerHTML="Three";
+bwallet.innerHTML="";
+by.innerHTML="";
+bz.innerHTML="";
+bx.innerHTML="";}
+else if (btoggle1.style.background==="white" && bthirteen.innerHTML==="Three") {
+element.innerHTML="";
+bbutton1.innerHTML="Three";
+bwallet.innerHTML="";
+by.innerHTML="";
+bz.innerHTML="";
+bx.innerHTML="";}
+else if (btoggle1.style.background==="white" && bfourteen.innerHTML==="Three") {
+element.innerHTML="";
+bbutton1.innerHTML="Three";
+bwallet.innerHTML="";
+by.innerHTML="";
+bz.innerHTML="";
+bx.innerHTML="";}
+else if (btoggle1.style.background==="white" && bfifteen.innerHTML==="Three") {
+element.innerHTML="";
+bbutton1.innerHTML="Three";
+bwallet.innerHTML="";
+by.innerHTML="";
+bz.innerHTML="";
+bx.innerHTML="";}
+else if (btoggle1.style.background==="white" && bsixteen.innerHTML==="Three") {
+element.innerHTML="";
+bbutton1.innerHTML="Three";
+bwallet.innerHTML="";
+by.innerHTML="";
+bz.innerHTML="";
+bx.innerHTML="";}
+else if (btoggle1.style.background==="white" && bseventeen.innerHTML==="Three") {
+element.innerHTML="";
+bbutton1.innerHTML="Three";
+bwallet.innerHTML="";
+by.innerHTML="";
+bz.innerHTML="";
+bx.innerHTML="";}
+else if (btoggle1.style.background==="white" && beighteen.innerHTML==="Three") {
+element.innerHTML="";
+bbutton1.innerHTML="Three";
+bwallet.innerHTML="";
+by.innerHTML="";
+bz.innerHTML="";
+bx.innerHTML="";}
+else if (btoggle1.style.background==="white" && bnineteen.innerHTML==="Three") {
+element.innerHTML="";
+bbutton1.innerHTML="Three";
+bwallet.innerHTML="";
+by.innerHTML="";
+bz.innerHTML="";
+bx.innerHTML="";}
+else if (btoggle1.style.background==="white" && btwenty.innerHTML==="Three") {
+element.innerHTML="";
+bbutton1.innerHTML="Three";
+bwallet.innerHTML="";
+by.innerHTML="";
+bz.innerHTML="";
+bx.innerHTML="";}
+else if (btoggle1.style.background==="white" && btwentyone.innerHTML==="Three") {
+element.innerHTML="";
+bbutton1.innerHTML="Three";
+bwallet.innerHTML="";
+by.innerHTML="";
+bz.innerHTML="";
+bx.innerHTML="";}
+else if (btoggle1.style.background==="white" && btwentytwo.innerHTML==="Three") {
+element.innerHTML="";
+bbutton1.innerHTML="Three";
+bwallet.innerHTML="";
+by.innerHTML="";
+bz.innerHTML="";
+bx.innerHTML="";}
+else if (btoggle1.style.background==="white" && btwentyThree.innerHTML==="Three") {
+element.innerHTML="";
+bbutton1.innerHTML="Three";
+bwallet.innerHTML="";
+by.innerHTML="";
+bz.innerHTML="";
+bx.innerHTML="";}
+else if (btoggle1.style.background==="white" && btwentythree.innerHTML==="Three") {
+element.innerHTML="";
+bbutton1.innerHTML="Three";
+bwallet.innerHTML="";
+by.innerHTML="";
+bz.innerHTML="";
+bx.innerHTML="";}
+else if (btoggle1.style.background==="white" && btwentyfour.innerHTML==="Three") {
+element.innerHTML="";
+bbutton1.innerHTML="Three";
+bwallet.innerHTML="";
+by.innerHTML="";
+bz.innerHTML="";
+bx.innerHTML="";}
+else if (btoggle1.style.background==="white" && btwentyfive.innerHTML==="Three") {
+element.innerHTML="";
+bbutton1.innerHTML="Three";
+bwallet.innerHTML="";
+by.innerHTML="";
+bz.innerHTML="";
+bx.innerHTML="";}
+else if (btoggle1.style.background==="white" && btwentysix.innerHTML==="Three") {
+element.innerHTML="";
+bbutton1.innerHTML="Three";
+bwallet.innerHTML="";
+by.innerHTML="";
+bz.innerHTML="";
+bx.innerHTML="";}
+else if (btoggle1.style.background==="white" && btwentyseven.innerHTML==="Three") {
+element.innerHTML="";
+bbutton1.innerHTML="Three";
+bwallet.innerHTML="";
+by.innerHTML="";
+bz.innerHTML="";
+bx.innerHTML="";}
+else if (btoggle1.style.background==="white" && btwentyeight.innerHTML==="Three") {
+element.innerHTML="";
+bbutton1.innerHTML="Three";
+bwallet.innerHTML="";
+by.innerHTML="";
+bz.innerHTML="";
+bx.innerHTML="";}
+else if (btoggle1.style.background==="white" && btwentynine.innerHTML==="Three") {
+element.innerHTML="";
+bbutton1.innerHTML="Three";
+bwallet.innerHTML="";
+by.innerHTML="";
+bz.innerHTML="";
+bx.innerHTML="";}
+else if (btoggle1.style.background==="white" && bthirty.innerHTML==="Three") {
+element.innerHTML="";
+bbutton1.innerHTML="Three";
+bwallet.innerHTML="";
+by.innerHTML="";
+bz.innerHTML="";
+bx.innerHTML="";}
+else if (btoggle1.style.background==="white" && bthirtyone.innerHTML==="Three") {
+element.innerHTML="";
+bbutton1.innerHTML="Three";
+bwallet.innerHTML="";
+by.innerHTML="";
+bz.innerHTML="";
+bx.innerHTML="";}
+else if (btoggle1.style.background==="white" && bthirtyTwo.innerHTML==="Three") {
+element.innerHTML="";
+bbutton1.innerHTML="Three";
+bwallet.innerHTML="";
+by.innerHTML="";
+bz.innerHTML="";
+bx.innerHTML="";}
+ 
+else if (four.innerHTML==="One" && accept.innerHTML==="Ad- vance To Go") {
+four.innerHTML="";
+one.innerHTML="One";
+one.style.color="red";}
 
-function teal1() {
-var one=document.getElementById("oneE");
-var three=document.getElementById("tealOne");
-var back=document.getElementById("tealBack1");
-var four=document.getElementById("threeE");
-var sell1=document.getElementById("sel1");
-var sell3=document.getElementById("sel3");
-if (sell1.style.background==="grey" && three.innerHTML==="Rent $30") 
-{back.style.background="grey";
-three.innerHTML="Sold P1";}
-else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="Rent $30";}
-else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="Rent $30";}
-else if (sell3.style.background==="grey" && three.innerHTML==="Rent $30") 
-{back.style.background="grey";
-three.innerHTML="Sold P3";}
-else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="Rent $30";}
-else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="Rent $30";}
-else if (sell1.style.background==="white" && three.innerHTML==="Rent $30") {
-three.innerHTML="Teal $100";
-back.style.background="orange";}
-else if (sell2.style.background==="white" && three.innerHTML==="Rent $30") {
-three.innerHTML="Teal $100";
-back.style.background="orange";}
-else if (sell3.style.background==="white" && three.innerHTML==="Rent $30") {
-three.innerHTML="Teal $100";
-back.style.background="orange";}
-else if (back.style.background==="red") {
-back.style.background="green";}
-else if (back.style.background==="green") {
-back.style.background="red";}
-else if (one.innerHTML==="One" && back.style.background==="orange") {
-three.innerHTML="Rent $30";
-back.style.background="red";}
-else if (four.innerHTML==="Three" && back.style.background==="orange") {
-three.innerHTML="Rent $30";
-back.style.background="green";}}
+else if (twentyone.innerHTML==="One" && accept.innerHTML==="Ad- vance To Go") {
+twentyone.innerHTML="";
+one.innerHTML="One";
+one.style.color="red";}
 
-function teal2() {
-var one=document.getElementById("oneF");
-var three=document.getElementById("tealTwo");
-var back=document.getElementById("tealBack2");
-var four=document.getElementById("threeF");
-var sell1=document.getElementById("sel1");
-var sell3=document.getElementById("sel3");
-if (sell1.style.background==="grey" && three.innerHTML==="Rent $30") 
-{back.style.background="grey";
-three.innerHTML="Sold P1";}
-else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="Rent $30";}
-else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="Rent $30";}
-else if (sell3.style.background==="grey" && three.innerHTML==="Rent $30") 
-{back.style.background="grey";
-three.innerHTML="Sold P3";}
-else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="Rent $30";}
-else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="Rent $30";}
-else if (sell1.style.background==="white" && three.innerHTML==="Rent $30") {
-three.innerHTML="Teal $100";
-back.style.background="orange";}
-else if (sell2.style.background==="white" && three.innerHTML==="Rent $30") {
-three.innerHTML="Teal $100";
-back.style.background="orange";}
-else if (sell3.style.background==="white" && three.innerHTML==="Rent $30") {
-three.innerHTML="Teal $100";
-back.style.background="orange";}
-else if (back.style.background==="red") {
-back.style.background="green";}
-else if (back.style.background==="green") {
-back.style.background="red";}
-else if (one.innerHTML==="One" && back.style.background==="orange") {
-three.innerHTML="Rent $30";
-back.style.background="red";}
-else if (four.innerHTML==="Three" && back.style.background==="orange") {
-three.innerHTML="Rent $30";
-back.style.background="green";}}
-
-function teal3() {
-var one=document.getElementById("oneG");
-var three=document.getElementById("tealThree");
-var back=document.getElementById("tealBack3");
-var four=document.getElementById("threeG");
-var sell1=document.getElementById("sel1");
-var sell3=document.getElementById("sel3");
-if (sell1.style.background==="grey" && three.innerHTML==="Rent $40") 
-{back.style.background="grey";
-three.innerHTML="Sold P1";}
-else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="Rent $40";}
-else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="Rent $40";}
-else if (sell3.style.background==="grey" && three.innerHTML==="Rent $40") 
-{back.style.background="grey";
-three.innerHTML="Sold P3";}
-else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="Rent $40";}
-else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="Rent $40";}
-else if (sell1.style.background==="white" && three.innerHTML==="Rent $40") {
-three.innerHTML="Teal $120";
-back.style.background="orange";}
-else if (sell2.style.background==="white" && three.innerHTML==="Rent $40") {
-three.innerHTML="Teal $120";
-back.style.background="orange";}
-else if (sell3.style.background==="white" && three.innerHTML==="Rent $40") {
-three.innerHTML="Teal $120";
-back.style.background="orange";}
-else if (back.style.background==="red") {
-back.style.background="green";}
-else if (back.style.background==="green") {
-back.style.background="red";}
-else if (one.innerHTML==="One" && back.style.background==="orange") {
-three.innerHTML="Rent $40";
-back.style.background="red";}
-else if (four.innerHTML==="Three" && back.style.background==="orange") {
-three.innerHTML="Rent $40";
-back.style.background="green";}}
-
-function cyan1() {
-var one=document.getElementById("oneI");
-var three=document.getElementById("cyanOne");
-var back=document.getElementById("cyanBack1");
-var four=document.getElementById("threeI");
-var sell1=document.getElementById("sel1");
-var sell3=document.getElementById("sel3");
-if (sell1.style.background==="grey" && three.innerHTML==="Rent $60") 
-{back.style.background="grey";
-three.innerHTML="Sold P1";}
-else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="Rent $60";}
-else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="Rent $60";}
-else if (sell3.style.background==="grey" && three.innerHTML==="Rent $60") 
-{back.style.background="grey";
-three.innerHTML="Sold P3";}
-else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="Rent $60";}
-else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="Rent $60";}
-else if (sell1.style.background==="white" && three.innerHTML==="Rent $60") {
-three.innerHTML="Cyan $120";
-back.style.background="orange";}
-else if (sell2.style.background==="white" && three.innerHTML==="Rent $60") {
-three.innerHTML="Cyan $120";
-back.style.background="orange";}
-else if (sell3.style.background==="white" && three.innerHTML==="Rent $60") {
-three.innerHTML="Cyan $120";
-back.style.background="orange";}
-else if (back.style.background==="red") {
-back.style.background="green";}
-else if (back.style.background==="green") {
-back.style.background="red";}
-else if (one.innerHTML==="One" && back.style.background==="orange") {
-three.innerHTML="Rent $60";
-back.style.background="red";}
-else if (four.innerHTML==="Three" && back.style.background==="orange") {
-three.innerHTML="Rent $60";
-back.style.background="green";}}
-
-function cyan2() {
-var one=document.getElementById("oneJ");
-var three=document.getElementById("cyanTwo");
-var back=document.getElementById("cyanBack2");
-var four=document.getElementById("threeJ");
-var sell1=document.getElementById("sel1");
-var sell3=document.getElementById("sel3");
-if (sell1.style.background==="grey" && three.innerHTML==="Rent $60") 
-{back.style.background="grey";
-three.innerHTML="Sold P1";}
-else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="Rent $60";}
-else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="Rent $60";}
-else if (sell3.style.background==="grey" && three.innerHTML==="Rent $60") 
-{back.style.background="grey";
-three.innerHTML="Sold P3";}
-else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="Rent $60";}
-else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="Rent $60";}
-else if (sell1.style.background==="white" && three.innerHTML==="Rent $60") {
-three.innerHTML="Cyan $120";
-back.style.background="orange";}
-else if (sell2.style.background==="white" && three.innerHTML==="Rent $60") {
-three.innerHTML="Cyan $120";
-back.style.background="orange";}
-else if (sell3.style.background==="white" && three.innerHTML==="Rent $60") {
-three.innerHTML="Cyan $120";
-back.style.background="orange";}
-else if (back.style.background==="red") {
-back.style.background="green";}
-else if (back.style.background==="green") {
-back.style.background="red";}
-else if (one.innerHTML==="One" && back.style.background==="orange") {
-three.innerHTML="Rent $60";
-back.style.background="red";}
-else if (four.innerHTML==="Three" && back.style.background==="orange") {
-three.innerHTML="Rent $60";
-back.style.background="green";}}
-
-function cyan3() {
-var one=document.getElementById("oneK");
-var three=document.getElementById("cyanThree");
-var back=document.getElementById("cyanBack3");
-var four=document.getElementById("threeK");
-var sell1=document.getElementById("sel1");
-var sell3=document.getElementById("sel3");
-if (sell1.style.background==="grey" && three.innerHTML==="Rent $70") 
-{back.style.background="grey";
-three.innerHTML="Sold P1";}
-else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="Rent $70";}
-else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="Rent $70";}
-else if (sell3.style.background==="grey" && three.innerHTML==="Rent $70") 
-{back.style.background="grey";
-three.innerHTML="Sold P3";}
-else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="Rent $70";}
-else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="Rent $70";}
-else if (sell1.style.background==="white" && three.innerHTML==="Rent $70") {
-three.innerHTML="Cyan $140";
-back.style.background="orange";}
-else if (sell3.style.background==="white" && three.innerHTML==="Rent $70") {
-three.innerHTML="Cyan $140";
-back.style.background="orange";}
-else if (back.style.background==="red") {
-back.style.background="green";}
-else if (back.style.background==="green") {
-back.style.background="red";}
-else if (one.innerHTML==="One" && back.style.background==="orange") {
-three.innerHTML="Rent $70";
-back.style.background="red";}
-else if (four.innerHTML==="Three" && back.style.background==="orange") {
-three.innerHTML="Rent $70";
-back.style.background="green";}}
+else if (two.innerHTML==="One" && accept.innerHTML==="Ad- vance To Go") {
+two.innerHTML="";
+one.innerHTML="One";
+one.style.color="red";}
 
 
-function blue1() {
-var one=document.getElementById("oneN");
-var three=document.getElementById("blueOne");
-var back=document.getElementById("blueBack1");
-var four=document.getElementById("threeN");
-var sell1=document.getElementById("sel1");
-var sell3=document.getElementById("sel3");
-if (sell1.style.background==="grey" && three.innerHTML==="Rent $70") 
-{back.style.background="grey";
-three.innerHTML="Sold P1";}
-else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="Rent $70";}
-else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="Rent $70";}
-else if (sell3.style.background==="grey" && three.innerHTML==="Rent $70") 
-{back.style.background="grey";
-three.innerHTML="Sold P3";}
-else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="Rent $70";}
-else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="Rent $70";}
-else if (sell1.style.background==="white" && three.innerHTML==="Rent $70") {
-three.innerHTML="Blue $140";
-back.style.background="orange";}
-else if (sell3.style.background==="white" && three.innerHTML==="Rent $70") {
-three.innerHTML="Blue $140";
-back.style.background="orange";}
-else if (back.style.background==="red") {
-back.style.background="green";}
-else if (back.style.background==="green") {
-back.style.background="red";}
-else if (one.innerHTML==="One" && back.style.background==="orange") {
-three.innerHTML="Rent $70";
-back.style.background="red";}
-else if (four.innerHTML==="Three" && back.style.background==="orange") {
-three.innerHTML="Rent $70";
-back.style.background="green";}}
+else if (bfour.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Go") {
+bfour.innerHTML="";
+aone.innerHTML="Three";
+aone.style.color="green";}
 
-function blue2() {
-var one=document.getElementById("oneO");
-var three=document.getElementById("blueTwo");
-var back=document.getElementById("blueBack2");
-var four=document.getElementById("threeO");
-var sell1=document.getElementById("sel1");
-var sell3=document.getElementById("sel3");
-if (sell1.style.background==="grey" && three.innerHTML==="Rent $80") 
-{back.style.background="grey";
-three.innerHTML="Sold P1";}
-else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="Rent $80";}
-else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="Rent $80";}
-else if (sell3.style.background==="grey" && three.innerHTML==="Rent $80") 
-{back.style.background="grey";
-three.innerHTML="Sold P3";}
-else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="Rent $80";}
-else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="Rent $80";}
-else if (sell1.style.background==="white" && three.innerHTML==="Rent $80") {
-three.innerHTML="Blue $140";
-back.style.background="orange";}
-else if (sell3.style.background==="white" && three.innerHTML==="Rent $80") {
-three.innerHTML="Blue $140";
-back.style.background="orange";}
-else if (back.style.background==="red") {
-back.style.background="green";}
-else if (back.style.background==="green") {
-back.style.background="red";}
-else if (one.innerHTML==="One" && back.style.background==="orange") {
-three.innerHTML="Rent $80";
-back.style.background="red";}
-else if (four.innerHTML==="Three" && back.style.background==="orange") {
-three.innerHTML="Rent $80";
-back.style.background="green";}}
+else if (btwentyone.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Go") {
+btwentyone.innerHTML="";
+aone.innerHTML="Three";
+aone.style.color="green";}
 
-function blue3() {
-var one=document.getElementById("oneP");
-var three=document.getElementById("blueThree");
-var back=document.getElementById("blueBack3");
-var four=document.getElementById("threeP");
-var sell1=document.getElementById("sel1");
-var sell3=document.getElementById("sel3");
-if (sell1.style.background==="grey" && three.innerHTML==="Rent $90") 
-{back.style.background="grey";
-three.innerHTML="Sold P1";}
-else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="Rent $90";}
-else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="Rent $90";}
-else if (sell3.style.background==="grey" && three.innerHTML==="Rent $90") 
-{back.style.background="grey";
-three.innerHTML="Sold P3";}
-else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="Rent $90";}
-else if (three.innerHTML==="Sold P3" && sell2.style.background==="black") 
-{back.style.background="purple";
-three.innerHTML="Rent $90";}
-else if (sell1.style.background==="white" && three.innerHTML==="Rent $90") {
-three.innerHTML="Blue $160";
-back.style.background="orange";}
-else if (sell3.style.background==="white" && three.innerHTML==="Rent $90") {
-three.innerHTML="Blue $160";
-back.style.background="orange";}
-else if (back.style.background==="red") {
-back.style.background="green";}
-else if (back.style.background==="green") {
-back.style.background="red";}
-else if (one.innerHTML==="One" && back.style.background==="orange") {
-three.innerHTML="Rent $90";
-back.style.background="red";}
-else if (four.innerHTML==="Three" && back.style.background==="orange") {
-three.innerHTML="Rent $90";
-back.style.background="green";}}
+else if (btwo.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Go") {
+btwo.innerHTML="";
+aone.innerHTML="Three";
+aone.style.color="green";}
 
-function pink1() {
-var one=document.getElementById("oneR");
-var three=document.getElementById("pinkOne");
-var back=document.getElementById("pinkBack1");
-var four=document.getElementById("threeR");
-var sell1=document.getElementById("sel1");
-var sell3=document.getElementById("sel3");
-if (sell1.style.background==="grey" && three.innerHTML==="Rent $90") 
-{back.style.background="grey";
-three.innerHTML="Sold P1";}
-else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="Rent $90";}
-else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="Rent $90";}
-else if (sell3.style.background==="grey" && three.innerHTML==="Rent $90") 
-{back.style.background="grey";
-three.innerHTML="Sold P3";}
-else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="Rent $90";}
-else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="Rent $90";}
-else if (sell1.style.background==="white" && three.innerHTML==="Rent $90") {
-three.innerHTML="Pink $160";
-back.style.background="orange";}
-else if (sell3.style.background==="white" && three.innerHTML==="Rent $90") {
-three.innerHTML="Pink $160";
-back.style.background="orange";}
-else if (back.style.background==="red") {
-back.style.background="green";}
-else if (back.style.background==="green") {
-back.style.background="red";}
-else if (one.innerHTML==="One" && back.style.background==="orange") {
-three.innerHTML="Rent $90";
-back.style.background="red";}
-else if (four.innerHTML==="Three" && back.style.background==="orange") {
-three.innerHTML="Rent $90";
-back.style.background="green";}}
+else if (four.innerHTML==="One" && accept.innerHTML==="Jail") {
+four.innerHTML="";
+eight.innerHTML="One";
+eight.style.color="red";}
 
-function pink2() {
-var one=document.getElementById("oneS");
-var three=document.getElementById("pinkTwo");
-var back=document.getElementById("pinkBack2");
-var four=document.getElementById("threeS");
-var sell1=document.getElementById("sel1");
-var sell3=document.getElementById("sel3");
-if (sell1.style.background==="grey" && three.innerHTML==="Rent $90") 
-{back.style.background="grey";
-three.innerHTML="Sold P1";}
-else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="Rent $90";}
-else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="Rent $90";}
-else if (sell3.style.background==="grey" && three.innerHTML==="Rent $90") 
-{back.style.background="grey";
-three.innerHTML="Sold P3";}
-else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="Rent $90";}
-else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="Rent $90";}
-else if (sell1.style.background==="white" && three.innerHTML==="Rent $90") {
-three.innerHTML="Pink $160";
-back.style.background="orange";}
-else if (sell3.style.background==="white" && three.innerHTML==="Rent $90") {
-three.innerHTML="Pink $160";
-back.style.background="orange";}
-else if (back.style.background==="red") {
-back.style.background="green";}
-else if (back.style.background==="green") {
-back.style.background="red";}
-else if (one.innerHTML==="One" && back.style.background==="orange") {
-three.innerHTML="Rent $90";
-back.style.background="red";}
-else if (four.innerHTML==="Three" && back.style.background==="orange") {
-three.innerHTML="Rent $90";
-back.style.background="green";}}
+else if (twentyone.innerHTML==="One" && accept.innerHTML==="Jail") {
+twentyone.innerHTML="";
+eight.innerHTML="One";
+eight.style.color="red";}
 
-function pink3() {
-var one=document.getElementById("oneT");
-var three=document.getElementById("pinkThree");
-var back=document.getElementById("pinkBack3");
-var four=document.getElementById("threeT");
-var sell1=document.getElementById("sel1");
-var sell3=document.getElementById("sel3");
-if (sell1.style.background==="grey" && three.innerHTML==="Rent $100") 
-{back.style.background="grey";
-three.innerHTML="Sold P1";}
-else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="Rent $100";}
-else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="Rent $100";}
-else if (sell3.style.background==="grey" && three.innerHTML==="Rent $100") 
-{back.style.background="grey";
-three.innerHTML="Sold P3";}
-else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="Rent $100";}
-else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="Rent $100";}
-else if (sell1.style.background==="white" && three.innerHTML==="Rent $100") {
-three.innerHTML="Pink $180";
-back.style.background="orange";}
-else if (sell3.style.background==="white" && three.innerHTML==="Rent $100") {
-three.innerHTML="Pink $180";
-back.style.background="orange";}
-else if (back.style.background==="red") {
-back.style.background="green";}
-else if (back.style.background==="green") {
-back.style.background="red";}
-else if (one.innerHTML==="One" && back.style.background==="orange") {
-three.innerHTML="Rent $100";
-back.style.background="red";}
-else if (four.innerHTML==="Three" && back.style.background==="orange") {
-three.innerHTML="Rent $100";
-back.style.background="green";}}
+else if (two.innerHTML==="One" && accept.innerHTML==="Jail") {
+two.innerHTML="";
+eight.innerHTML="One";
+eight.style.color="red";}
+ 
 
-function red1() {
-var one=document.getElementById("oneV");
-var three=document.getElementById("redOne");
-var back=document.getElementById("redBack1");
-var four=document.getElementById("threeV");
-var sell1=document.getElementById("sel1");
-var sell3=document.getElementById("sel3");
-if (sell1.style.background==="grey" && three.innerHTML==="Rent $100") 
-{back.style.background="grey";
-three.innerHTML="Sold P1";}
-else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="Rent $100";}
-else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="Rent $100";}
-else if (sell3.style.background==="grey" && three.innerHTML==="Rent $100") 
-{back.style.background="grey";
-three.innerHTML="Sold P3";}
-else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="Rent $100";}
-else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="Rent $100";}
-else if (sell1.style.background==="white" && three.innerHTML==="Rent $100") {
-three.innerHTML="Red $200";
-back.style.background="orange";}
-else if (sell3.style.background==="white" && three.innerHTML==="Rent $100") {
-three.innerHTML="Red $200";
-back.style.background="orange";}
-else if (back.style.background==="red") {
-back.style.background="green";}
-else if (back.style.background==="green") {
-back.style.background="red";}
-else if (one.innerHTML==="One" && back.style.background==="orange") {
-three.innerHTML="Rent $100";
-back.style.background="red";}
-else if (four.innerHTML==="Three" && back.style.background==="orange") {
-three.innerHTML="Rent $100";
-back.style.background="green";}}
+else if (bfour.innerHTML==="Three" && accept.innerHTML==="Jail") {
+bfour.innerHTML="";
+beight.innerHTML="Three";
+beight.style.color="green";}
+ 
+else if (btwentyone.innerHTML==="Three" && accept.innerHTML==="Jail") {
+btwentyone.innerHTML="";
+beight.innerHTML="Three";
+beight.style.color="green";}
 
-function red2() {
-var one=document.getElementById("oneW");
-var three=document.getElementById("redTwo");
-var back=document.getElementById("redBack2");
-var four=document.getElementById("threeW");
-var sell1=document.getElementById("sel1");
-var sell3=document.getElementById("sel3");
-if (sell1.style.background==="grey" && three.innerHTML==="Rent $110") 
-{back.style.background="grey";
-three.innerHTML="Sold P1";}
-else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="Rent $110";}
-else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="Rent $110";}
-else if (sell3.style.background==="grey" && three.innerHTML==="Rent $110") 
-{back.style.background="grey";
-three.innerHTML="Sold P3";}
-else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="Rent $110";}
-else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="Rent $110";}
-else if (sell1.style.background==="white" && three.innerHTML==="Rent $110") {
-three.innerHTML="Red $220";
-back.style.background="orange";}
-else if (sell3.style.background==="white" && three.innerHTML==="Rent $110") {
-three.innerHTML="Red $220";
-back.style.background="orange";}
-else if (back.style.background==="red") {
-back.style.background="green";}
-else if (back.style.background==="green") {
-back.style.background="red";}
-else if (one.innerHTML==="One" && back.style.background==="orange") {
-three.innerHTML="Rent $110";
-back.style.background="red";}
-else if (four.innerHTML==="Three" && back.style.background==="orange") {
-three.innerHTML="Rent $110";
-back.style.background="green";}}
+else if (btwo.innerHTML==="Three" && accept.innerHTML==="Jail") {
+btwo.innerHTML="";
+beight.innerHTML="Three";
+beight.style.color="green";}
 
-function lime1() {
-var one=document.getElementById("oneY");
-var three=document.getElementById("limeOne");
-var back=document.getElementById("limeBack1");
-var four=document.getElementById("threeY");
-var sell1=document.getElementById("sel1");
-var sell3=document.getElementById("sel3");
-if (sell1.style.background==="grey" && three.innerHTML==="Rent $100") 
-{back.style.background="grey";
-three.innerHTML="Sold P1";}
-else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="Rent $100";}
-else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="Rent $100";}
-else if (sell3.style.background==="grey" && three.innerHTML==="Rent $100") 
-{back.style.background="grey";
-three.innerHTML="Sold P3";}
-else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="Rent $100";}
-else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="Rent $100";}
-else if (sell1.style.background==="white" && three.innerHTML==="Rent $100") {
-three.innerHTML="Lime $240";
-back.style.background="orange";}
-else if (sell3.style.background==="white" && three.innerHTML==="Rent $100") {
-three.innerHTML="Lime $240";
-back.style.background="orange";}
-else if (back.style.background==="red") {
-back.style.background="green";}
-else if (back.style.background==="green") {
-back.style.background="red";}
-else if (one.innerHTML==="One" && back.style.background==="orange") {
-three.innerHTML="Rent $100";
-back.style.background="red";}
-else if (four.innerHTML==="Three" && back.style.background==="orange") {
-three.innerHTML="Rent $100";
-back.style.background="green";}}
+else if (four.innerHTML==="One" && accept.innerHTML==="Ad- vance To Gold") {
+four.innerHTML="";
+thirtytwo.innerHTML="One";
+thirtytwo.style.color="red";}
 
-function lime2() {
-var one=document.getElementById("oneZ");
-var three=document.getElementById("limeTwo");
-var back=document.getElementById("limeBack2");
-var four=document.getElementById("threeZ");
-var sell1=document.getElementById("sel1");
-var sell3=document.getElementById("sel3");
-if (sell1.style.background==="grey" && three.innerHTML==="Rent $100") 
-{back.style.background="grey";
-three.innerHTML="Sold P1";}
-else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="Rent $100";}
-else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="Rent $100";}
-else if (sell3.style.background==="grey" && three.innerHTML==="Rent $100") 
-{back.style.background="grey";
-three.innerHTML="Sold P3";}
-else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="Rent $100";}
-else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="Rent $100";}
-else if (sell1.style.background==="white" && three.innerHTML==="Rent $100") {
-three.innerHTML="Lime $240";
-back.style.background="orange";}
-else if (sell3.style.background==="white" && three.innerHTML==="Rent $100") {
-three.innerHTML="Lime $240";
-back.style.background="orange";}
-else if (back.style.background==="red") {
-back.style.background="green";}
-else if (back.style.background==="green") {
-back.style.background="red";}
-else if (one.innerHTML==="One" && back.style.background==="orange") {
-three.innerHTML="Rent $100";
-back.style.background="red";}
-else if (four.innerHTML==="Three" && back.style.background==="orange") {
-three.innerHTML="Rent $100";
-back.style.background="green";}}
+else if (twentyone.innerHTML==="One" && accept.innerHTML==="Ad- vance To Gold") {
+twentyone.innerHTML="";
+thirtytwo.innerHTML="One";
+thirtytwo.style.color="red";}
+ 
+else if (two.innerHTML==="One" && accept.innerHTML==="Ad- vance To Gold") {
+two.innerHTML="";
+thirtytwo.innerHTML="One";
+thirtytwo.style.color="red";}
 
-function lime3() {
-var one=document.getElementById("aone");
-var three=document.getElementById("limeThree");
-var back=document.getElementById("limeBack3");
-var four=document.getElementById("athree");
-var sell1=document.getElementById("sel1");
-var sell3=document.getElementById("sel3");
-if (sell1.style.background==="grey" && three.innerHTML==="Rent $120") 
-{back.style.background="grey";
-three.innerHTML="Sold P1";}
-else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="Rent $120";}
-else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="Rent $120";}
-else if (sell3.style.background==="grey" && three.innerHTML==="Rent $120") 
-{back.style.background="grey";
-three.innerHTML="Sold P3";}
-else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="Rent $120";}
-else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="Rent $120";}
-else if (sell1.style.background==="white" && three.innerHTML==="Rent $120") {
-three.innerHTML="Lime $260";
-back.style.background="orange";}
-else if (sell3.style.background==="white" && three.innerHTML==="Rent $120") {
-three.innerHTML="Lime $260";
-back.style.background="orange";}
-else if (back.style.background==="red") {
-back.style.background="green";}
-else if (back.style.background==="green") {
-back.style.background="red";}
-else if (one.innerHTML==="One" && back.style.background==="orange") {
-three.innerHTML="Rent $120";
-back.style.background="red";}
-else if (four.innerHTML==="Three" && back.style.background==="orange") {
-three.innerHTML="Rent $120";
-back.style.background="green";}}
+else if (bfour.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Gold") {
+bfour.innerHTML="";
+bthirtytwo.innerHTML="Three";
+bthirtytwo.style.color="green";}
+ 
+else if (btwentyone.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Gold") {
+btwentyone.innerHTML="";
+bthirtytwo.innerHTML="Three";
+bthirtytwo.style.color="green";}
 
-function gold1() {
-var one=document.getElementById("fone");
-var three=document.getElementById("goldOne");
-var back=document.getElementById("goldBack1");
-var four=document.getElementById("fthree");
-var sell1=document.getElementById("sel1");
-var sell3=document.getElementById("sel3");
-if (sell1.style.background==="grey" && three.innerHTML==="Rent $160") 
-{back.style.background="grey";
-three.innerHTML="Sold P1";}
-else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="Rent $160";}
-else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="Rent $160";}
-else if (sell3.style.background==="grey" && three.innerHTML==="Rent $160") 
-{back.style.background="grey";
-three.innerHTML="Sold P3";}
-else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="Rent $160";}
-else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="Rent $160";}
-else if (sell1.style.background==="white" && three.innerHTML==="Rent $160") {
-three.innerHTML="Gold $350";
-back.style.background="orange";}
-else if (sell3.style.background==="white" && three.innerHTML==="Rent $160") {
-three.innerHTML="Gold $350";
-back.style.background="orange";}
-else if (back.style.background==="red") {
-back.style.background="green";}
-else if (back.style.background==="green") {
-back.style.background="red";}
-else if (one.innerHTML==="One" && back.style.background==="orange") {
-three.innerHTML="Rent $160";
-back.style.background="red";}
-else if (four.innerHTML==="Three" && back.style.background==="orange") {
-three.innerHTML="Rent $160";
-back.style.background="green";}}
+else if (btwo.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Gold") {
+btwo.innerHTML="";
+bthirtytwo.innerHTML="Three";
+bthirtytwo.style.color="green";}
+ 
+else if (four.innerHTML==="One" && accept.innerHTML==="Back 3") {
+four.innerHTML="";
+one.innerHTML="One";
+one.style.color="red";}
 
-function gold2() {
-var one=document.getElementById("eone");
-var three=document.getElementById("goldTwo");
-var back=document.getElementById("goldBack2");
-var four=document.getElementById("ethree");
-var sell1=document.getElementById("sel1");
-var sell3=document.getElementById("sel3");
-if (sell1.style.background==="grey" && three.innerHTML==="Rent $150") 
-{back.style.background="grey";
-three.innerHTML="Sold P1";}
-else if (three.innerHTML==="Sold P1" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="Rent $150";}
-else if (three.innerHTML==="Sold P1" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="Rent $150";}
-else if (sell3.style.background==="grey" && three.innerHTML==="Rent $150") 
-{back.style.background="grey";
-three.innerHTML="Sold P3";}
-else if (three.innerHTML==="Sold P3" && sell1.style.background==="black") 
-{back.style.background="red";
-three.innerHTML="Rent $150";}
-else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
-{back.style.background="green";
-three.innerHTML="Rent $150";}
-else if (sell1.style.background==="white" && three.innerHTML==="Rent $150") {
-three.innerHTML="Gold $300";
-back.style.background="orange";}
-else if (sell3.style.background==="white" && three.innerHTML==="Rent $150") {
-three.innerHTML="Gold $300";
-back.style.background="orange";}
-else if (back.style.background==="red") {
-back.style.background="green";}
-else if (back.style.background==="green") {
-back.style.background="red";}
-else if (one.innerHTML==="One" && back.style.background==="orange") {
-three.innerHTML="Rent $150";
-back.style.background="red";}
-else if (four.innerHTML==="Three" && back.style.background==="orange") {
-three.innerHTML="Rent $150";
-back.style.background="green";}}
+else if (twentyone.innerHTML==="One" && accept.innerHTML==="Back 3") {
+twentyone.innerHTML="";
+eighteen.innerHTML="One";
+eighteen.style.color="red";}
+
+else if (two.innerHTML==="One" && accept.innerHTML==="Back 3") {
+two.innerHTML="";
+twentyfive.innerHTML="One";
+twentyfive.style.color="red";}
+
+
+else if (bfour.innerHTML==="Three" && accept.innerHTML==="Back 3") {
+bfour.innerHTML="";
+bone.innerHTML="Three";
+bone.style.color="green";}
+ 
+else if (btwentyone.innerHTML==="Three" && accept.innerHTML==="Back 3") {
+btwentyone.innerHTML="";
+beighteen.innerHTML="Three";
+beighteen.style.color="green";}
+
+else if (btwo.innerHTML==="Three" && accept.innerHTML==="Back 3") {
+btwo.innerHTML="";
+btwentyfive.innerHTML="Three";
+btwentyfive.style.color="green";}}
+
+function card1() {
+var acc=document.getElementById("cardAcc");
+var tile1a= document.getElementById("oneD");
+var tile3a=document.getElementById("threeD");
+if (acc.innerHTML==="Ad- vance To Go" && tile1a.innerHTML==="One") {
+acc.innerHTML="No- thing";}
+else if (
+acc.innerHTML==="No- thing" && tile1a.innerHTML==="One") {
+acc.innerHTML="Jail";}
+else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="One") {
+acc.innerHTML="+$150";}
+else if (
+acc.innerHTML==="+$150" && tile1a.innerHTML==="One") {
+acc.innerHTML="Ad- vance To Gold";}
+else if (
+acc.innerHTML==="Ad- vance To Gold" && tile1a.innerHTML==="One") {
+acc.innerHTML="-$100";}
+else if (acc.innerHTML==="-$100" && tile1a.innerHTML==="One") {
+acc.innerHTML="Back 3";}
+else if (
+acc.innerHTML==="Back 3" && tile1a.innerHTML==="One") {
+acc.innerHTML="+$100";}
+else if (
+acc.innerHTML==="+$100" && tile1a.innerHTML==="One") {
+acc.innerHTML="Ad- vance To Go";}
+
+else if (acc.innerHTML==="Ad- vance To Go" && tile3a.innerHTML==="Three") {
+acc.innerHTML="No- thing";}
+else if (
+acc.innerHTML==="No- thing" && tile3a.innerHTML==="Three") {
+acc.innerHTML="Jail";}
+else if (acc.innerHTML==="Jail" && tile3a.innerHTML==="Three") {
+acc.innerHTML="+$150";}
+else if (
+acc.innerHTML==="+$150" && tile3a.innerHTML==="Three") {
+acc.innerHTML="Ad- vance To Gold";}
+else if (
+acc.innerHTML==="Ad- vance To Gold" && tile3a.innerHTML==="Three") {
+acc.innerHTML="-$100";}
+else if (acc.innerHTML==="-$100" && tile3a.innerHTML==="Three") {
+acc.innerHTML="Back 3";}
+else if (
+acc.innerHTML==="Back 3" && tile3a.innerHTML==="Three") {
+acc.innerHTML="+$100";}
+else if (
+acc.innerHTML==="+$100" && tile3a.innerHTML==="Three") {
+acc.innerHTML="Ad- vance To Go";}
+else if (tile3a.innerHTML==="Three") {acc.innerHTML="+$150";}
+else if (tile1a.innerHTML==="One") {acc.innerHTML="+$150";}}
+ 
+function card2() {
+var acc=document.getElementById("cardAcc");
+var tile1a= document.getElementById("oneU");
+var tile3a= document.getElementById("threeU");
+if (acc.innerHTML==="Ad- vance To Go" && tile1a.innerHTML==="One") {
+acc.innerHTML="No- thing";}
+else if (
+acc.innerHTML==="No- thing" && tile1a.innerHTML==="One") {
+acc.innerHTML="Jail";}
+else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="One") {
+acc.innerHTML="+$150";}
+else if (
+acc.innerHTML==="+$150" && tile1a.innerHTML==="One") {
+acc.innerHTML="Ad- vance To Gold";}
+else if (
+acc.innerHTML==="Ad- vance To Gold" && tile1a.innerHTML==="One") {
+acc.innerHTML="-$100";}
+else if (acc.innerHTML==="-$100" && tile1a.innerHTML==="One") {
+acc.innerHTML="Back 3";}
+else if (
+acc.innerHTML==="Back 3" && tile1a.innerHTML==="One") {
+acc.innerHTML="+$100";}
+else if (
+acc.innerHTML==="+$100" && tile1a.innerHTML==="One") {
+acc.innerHTML="Ad- vance To Go";}
+
+else if (acc.innerHTML==="Ad- vance To Go" && tile3a.innerHTML==="Three") {
+acc.innerHTML="No- thing";}
+else if (
+acc.innerHTML==="No- thing" && tile3a.innerHTML==="Three") {
+acc.innerHTML="Jail";}
+else if (acc.innerHTML==="Jail" && tile3a.innerHTML==="Three") {
+acc.innerHTML="+$150";}
+else if (
+acc.innerHTML==="+$150" && tile3a.innerHTML==="Three") {
+acc.innerHTML="Ad- vance To Gold";}
+else if (
+acc.innerHTML==="Ad- vance To Gold" && tile3a.innerHTML==="Three") {
+acc.innerHTML="-$100";}
+else if (acc.innerHTML==="-$100" && tile3a.innerHTML==="Three") {
+acc.innerHTML="Back 3";}
+else if (
+acc.innerHTML==="Back 3" && tile3a.innerHTML==="Three") {
+acc.innerHTML="+$100";}
+else if (
+acc.innerHTML==="+$100" && tile3a.innerHTML==="Three") {
+acc.innerHTML="Ad- vance To Go";}
+else if (tile3a.innerHTML==="Three") {acc.innerHTML="-$100";}
+else if (tile1a.innerHTML==="One") {acc.innerHTML="-$100";}}
+
+function card3() {
+var acc=document.getElementById("cardAcc");
+var tile1a= document.getElementById("bone");
+var tile3a= document.getElementById("bthree");
+if (acc.innerHTML==="Ad- vance To Go" && tile1a.innerHTML==="One") {
+acc.innerHTML="No- thing";}
+else if (
+acc.innerHTML==="No- thing" && tile1a.innerHTML==="One") {
+acc.innerHTML="Jail";}
+else if (acc.innerHTML==="Jail" && tile1a.innerHTML==="One") {
+acc.innerHTML="+$150";}
+else if (
+acc.innerHTML==="+$150" && tile1a.innerHTML==="One") {
+acc.innerHTML="Ad- vance To Gold";}
+else if (
+acc.innerHTML==="Ad- vance To Gold" && tile1a.innerHTML==="One") {
+acc.innerHTML="-$100";}
+else if (acc.innerHTML==="-$100" && tile1a.innerHTML==="One") {
+acc.innerHTML="Back 3";}
+else if (
+acc.innerHTML==="Back 3" && tile1a.innerHTML==="One") {
+acc.innerHTML="+$100";}
+else if (
+acc.innerHTML==="+$100" && tile1a.innerHTML==="One") {
+acc.innerHTML="Ad- vance To Go";}
+
+else if (acc.innerHTML==="Ad- vance To Go" && tile3a.innerHTML==="Three") {
+acc.innerHTML="No- thing";}
+else if (
+acc.innerHTML==="No- thing" && tile3a.innerHTML==="Three") {
+acc.innerHTML="Jail";}
+else if (acc.innerHTML==="Jail" && tile3a.innerHTML==="Three") {
+acc.innerHTML="+$150";}
+else if (
+acc.innerHTML==="+$150" && tile3a.innerHTML==="Three") {
+acc.innerHTML="Ad- vance To Gold";}
+else if (
+acc.innerHTML==="Ad- vance To Gold" && tile3a.innerHTML==="Three") {
+acc.innerHTML="-$100";}
+else if (acc.innerHTML==="-$100" && tile3a.innerHTML==="Three") {
+acc.innerHTML="Back 3";}
+else if (
+acc.innerHTML==="Back 3" && tile3a.innerHTML==="Three") {
+acc.innerHTML="+$100";}
+else if (
+acc.innerHTML==="+$100" && tile3a.innerHTML==="Three") {
+acc.innerHTML="Ad- vance To Go";}
+else if (tile3a.innerHTML==="Three") {acc.innerHTML="No- thing";}
+else if (tile1a.innerHTML==="One") {acc.innerHTML="No- thing";}}
