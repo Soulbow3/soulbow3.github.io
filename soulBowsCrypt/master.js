@@ -5074,7 +5074,7 @@ eight.innerHTML="One";
 eight.style.color="red";}
 
 else if (twentyeight.innerHTML==="One" && accept.innerHTML==="Jail") {
-two.innerHTML="";
+twentyeight.innerHTML="";
 eight.innerHTML="One";
 eight.style.color="red";}
  
@@ -5090,7 +5090,7 @@ beight.innerHTML="Three";
 beight.style.color="green";}
 
 else if (btwentyeight.innerHTML==="Three" && accept.innerHTML==="Jail") {
-btwo.innerHTML="";
+btwentyeight.innerHTML="";
 beight.innerHTML="Three";
 beight.style.color="green";}
 
@@ -5150,7 +5150,7 @@ beighteen.innerHTML="Three";
 beighteen.style.color="green";}
 
 else if (btwentyeight.innerHTML==="Three" && accept.innerHTML==="Back 3") {
-btwo.innerHTML="";
+btwentyeight.innerHTML="";
 btwentyfive.innerHTML="Three";
 btwentyfive.style.color="green";}}
 
