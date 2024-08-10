@@ -110,9 +110,6 @@ three.innerHTML="Rent $20";}
 else if (sell1.style.background==="white" && three.innerHTML==="Rent $20") {
 three.innerHTML="Plum $60";
 back.style.background="orange";}
-else if (sell2.style.background==="white" && three.innerHTML==="Rent $20") {
-three.innerHTML="Plum $60";
-back.style.background="orange";}
 else if (sell3.style.background==="white" && three.innerHTML==="Rent $20") {
 three.innerHTML="Plum $60";
 back.style.background="orange";}
