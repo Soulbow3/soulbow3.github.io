@@ -33,10 +33,10 @@ else if (back.style.background==="red") {
 back.style.background="green";}
 else if (back.style.background==="green") {
 back.style.background="red";}
-else if (one.innerHTML==="One") {
+else if (one.innerHTML==="One" && back.style.background==="linear-gradient(180deg, yellow, green, yellow)") {
 three.innerHTML="x30";
 back.style.background="red";}
-else if (four.innerHTML==="Three") {
+else if (four.innerHTML==="Three" && back.style.background==="linear-gradient(180deg, yellow, green, yellow)") {
 three.innerHTML="x30";
 back.style.background="green";}}
 
@@ -75,10 +75,10 @@ else if (back.style.background==="red") {
 back.style.background="green";}
 else if (back.style.background==="green") {
 back.style.background="red";}
-else if (one.innerHTML==="One") {
+else if (one.innerHTML==="One" && back.style.background==="linear-gradient(180deg, yellow, green, yellow)") {
 three.innerHTML="x40";
 back.style.background="red";}
-else if (four.innerHTML==="Three") {
+else if (four.innerHTML==="Three" && back.style.background==="linear-gradient(180deg, yellow, green, yellow)") {
 three.innerHTML="x40";
 back.style.background="green";}}
 
