@@ -23,10 +23,10 @@ three.innerHTML="x30";}
 else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
 {back.style.background="green";
 three.innerHTML="x30";}
-else if (sell1.style.background==="white" && three.innerHTML==="x30 $100") {
+else if (sell1.style.background==="white" && three.innerHTML==="x30") {
 three.innerHTML="x30 $100";
 back.style.background="linear-gradient(180deg, yellow, green, yellow)";}
-else if (sell3.style.background==="white" && three.innerHTML==="x30 $100") {
+else if (sell3.style.background==="white" && three.innerHTML==="x30") {
 three.innerHTML="x30 $100";
 back.style.background="linear-gradient(180deg, yellow, green, yellow)";}
 else if (back.style.background==="red") {
@@ -65,10 +65,10 @@ three.innerHTML="x40";}
 else if (three.innerHTML==="Sold P3" && sell3.style.background==="black") 
 {back.style.background="green";
 three.innerHTML="x40";}
-else if (sell1.style.background==="white" && three.innerHTML==="x40 $100") {
+else if (sell1.style.background==="white" && three.innerHTML==="x40") {
 three.innerHTML="x40 $100";
 back.style.background="linear-gradient(180deg, yellow, green, yellow)";}
-else if (sell3.style.background==="white" && three.innerHTML==="x40 $100") {
+else if (sell3.style.background==="white" && three.innerHTML==="x40") {
 three.innerHTML="x40 $100";
 back.style.background="linear-gradient(180deg, yellow, green, yellow)";}
 else if (back.style.background==="red") {
