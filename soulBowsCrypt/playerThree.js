@@ -6243,7 +6243,7 @@ athirty.style.color="black";
 athirtyone.style.color="black";
 athirtytwo.style.color="black";}
 else if (thirty.innerHTML==="Three" && dice.style.color==="forestgreen") {
-two.innerHTML="Three";dice.style.color="black";
+one.innerHTML="Three";dice.style.color="black";
 thirty.innerHTML="";
 one.style.background="green";
 aone.style.color="black";
