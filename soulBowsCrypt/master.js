@@ -5059,7 +5059,7 @@ aone.innerHTML="Three";
 aone.style.color="green";}
 
 else if (btwentyeight.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Go") {
-btwo.innerHTML="";
+btwentyeight.innerHTML="";
 aone.innerHTML="Three";
 aone.style.color="green";}
 
@@ -5120,7 +5120,7 @@ bthirtytwo.innerHTML="Three";
 bthirtytwo.style.color="green";}
 
 else if (btwentyeight.innerHTML==="Three" && accept.innerHTML==="Ad- vance To Gold") {
-btwo.innerHTML="";
+btwentyeight.innerHTML="";
 bthirtytwo.innerHTML="Three";
 bthirtytwo.style.color="green";}
  
