@@ -2993,7 +2993,7 @@ athirtyone.style.color="black";
 athirtytwo.style.color="black";}
 else if (fourteen.innerHTML==="Three" && dice.style.color==="forestgreen") {
 seventeen.innerHTML="Three";dice.style.color="black";
-fourteeen.innerHTML="";
+fourteen.innerHTML="";
 seventeen.style.color="green";
 aone.style.color="black";
 atwo.style.color="black";
