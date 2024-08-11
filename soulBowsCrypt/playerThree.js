@@ -5271,7 +5271,7 @@ athirty.style.color="black";
 athirtyone.style.color="black";
 athirtytwo.style.color="black";}
 else if (twentyfive.innerHTML==="Three" && dice.style.color==="limegreen") {
-thirtytwo.innerHTML="Three";dice.style.color="black";
+thirtyone.innerHTML="Three";dice.style.color="black";
 twentyfive.innerHTML="";
 thirtyone.style.color="green";
 aone.style.color="black";
