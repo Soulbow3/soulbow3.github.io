@@ -31,27 +31,37 @@ else if (element.style.background==="hotpink") {}}
 
 function sqaureOne() {
 if (two.style.background==="teal" && three.style.background==="teal") {
-winnerTxt.innerHTML="X Wins";}
+winnerTxt.innerHTML="X Wins";
+one.innerHTML="X";}
 else if (five.style.background==="teal" && nine.style.background==="teal") {
-winnerTxt.innerHTML="X Wins";}
+winnerTxt.innerHTML="X Wins";
+one.innerHTML="X";}
 else if (four.style.background==="teal" && seven.style.background==="teal") {
-winnerTxt.innerHTML="X Wins";}
+winnerTxt.innerHTML="X Wins";
+one.innerHTML="X";}
 else if (two.style.background==="plum" && three.style.background==="plum") {
-winnerTxt.innerHTML="O Wins";}
+winnerTxt.innerHTML="O Wins";
+one.innerHTML="O";}
 else if (five.style.background==="plum" && nine.style.background==="plum") {
-winnerTxt.innerHTML="O Wins";}
+winnerTxt.innerHTML="O Wins";
+one.innerHTML="O;}
 else if (four.style.background==="plum" && seven.style.background==="plum") {
-winnerTxt.innerHTML="O Wins";}}
+winnerTxt.innerHTML="O Wins";
+one.innerHTML="O";}}
 
 function sqaureTwo() {
 if (five.style.background==="teal" && eight.style.background==="teal") {
-winnerTxt.innerHTML="X Wins";}
+winnerTxt.innerHTML="X Wins";
+two.innerHTML="X";}
 else if (one.style.background==="teal" && three.style.background==="teal") {
-winnerTxt.innerHTML="X Wins";}
+winnerTxt.innerHTML="X Wins";
+two.innerHTML="X";}
 else if (five.style.background==="plum" && eight.style.background==="plum") {
-winnerTxt.innerHTML="O Wins";}
+winnerTxt.innerHTML="O Wins";
+two.innerHTML="O";}
 else if (one.style.background==="plum" && three.style.background==="plum") {
-winnerTxt.innerHTML="O Wins";}}
+winnerTxt.innerHTML="O Wins";
+two.innerHTML="O";}}
 
 function sqaureThree() {
 if (one.style.background==="teal" && two.style.background==="teal") {
