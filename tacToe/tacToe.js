@@ -1,6 +1,17 @@
 const counter=document.getElementById("node");
 const text=document.getElementById("words");
 const btn=document.getElementById("btn1");
+const one=document.getElementById("one");
+const two=document.getElementById("two");
+const three=document.getElementById("three");
+const four=document.getElementById("four");
+const five=document.getElementById("five");
+const six=document.getElementById("six");
+const seven=document.getElementById("seven");
+const eight=document.getElementById("eight");
+const nine=document.getElementById("nine");
+const winnerText=document.getElementById("win");
+
 function func(element) {
 if (text.innerHTML==="Player X") {
 element.style.background="teal";
