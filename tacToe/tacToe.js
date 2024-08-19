@@ -131,3 +131,13 @@ else if (five.style.background==="plum" && one.style.background==="plum") {
 winnerTxt.innerHTML="O Wins";}
 else if (three.style.background==="plum" && four.style.background==="plum") {
 winnerTxt.innerHTML="O Wins";}}
+
+one.addEventListener("click", sqaureOne);
+two.addEventListener("click", sqaureTwo);
+three.addEventListener("click", sqaureThree);
+four.addEventListener("click", sqaureFour);
+five.addEventListener("click", middle);
+six.addEventListener("click", sqaureSix);
+seven.addEventListener("click", sqaureSeven);
+eight.addEventListener("click", sqaureEight);
+nine.addEventListener("click", sqaureNine);
