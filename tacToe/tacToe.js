@@ -13,14 +13,14 @@ const nine=document.getElementById("nine");
 const winnerTxt=document.getElementById("win");
 
 function func(element) {
-if (text.innerHTML==="Player X") {
+if (text.innerHTML==="Player X" && element.innerHTML==="") {
 element.style.background="teal";
 counter.style.background="purple";
 text.innerHTML="Player O";
 element.innerHTML="X";
 btn.style.background="hotpink";
 btn.innerHTML="Turn Toggle";}
-else if (text.innerHTML==="Player O") {
+else if (text.innerHTML==="Player O" && element.innerHTML==="") {
 element.style.background="purple";
 counter.style.background="teal";
 text.innerHTML="Player X";
