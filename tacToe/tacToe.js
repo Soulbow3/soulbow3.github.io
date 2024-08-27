@@ -21,7 +21,7 @@ element.innerHTML="X";
 btn.style.background="hotpink";
 btn.innerHTML="Turn Toggle";}
 else if (text.innerHTML==="Player O") {
-element.style.background="purple";
+element.style.background="plum";
 counter.style.background="teal";
 text.innerHTML="Player X";
 element.innerHTML="O";
