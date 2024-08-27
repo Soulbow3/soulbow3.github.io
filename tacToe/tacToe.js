@@ -15,7 +15,7 @@ const winnerTxt=document.getElementById("win");
 function func(element) {
 if (text.innerHTML==="Player X") {
 element.style.background="teal";
-counter.style.background="purple";
+counter.style.background="plum";
 text.innerHTML="Player O";
 element.innerHTML="X";
 btn.style.background="hotpink";
