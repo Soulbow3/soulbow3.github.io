@@ -44,7 +44,7 @@ winnerTxt.innerHTML="O Wins";
 one.innerHTML="O";}
 else if (five.style.background==="plum" && nine.style.background==="plum") {
 winnerTxt.innerHTML="O Wins";
-one.innerHTML="O;}
+one.innerHTML="O";}
 else if (four.style.background==="plum" && seven.style.background==="plum") {
 winnerTxt.innerHTML="O Wins";
 one.innerHTML="O";}}
