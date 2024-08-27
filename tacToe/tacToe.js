@@ -10,7 +10,7 @@ const six=document.getElementById("six");
 const seven=document.getElementById("seven");
 const eight=document.getElementById("eight");
 const nine=document.getElementById("nine");
-const winnerText=document.getElementById("win");
+const winnerTxt=document.getElementById("win");
 
 function func(element) {
 if (text.innerHTML==="Player X") {
